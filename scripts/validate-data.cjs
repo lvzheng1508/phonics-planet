@@ -19,6 +19,22 @@ function validateWord(w) {
   if(w.enrichmentStatus==='verified') assert.ok(w.ipa && w.phonemes.length && w.segments.length && w.sourceIds.length && w.reviewer);
 }
 ws.forEach(validateWord);validateWord(read('examples/word-climb.json'));
+const samples = read('learning-samples.json'); unique(samples);
+for (const sample of samples) {
+  assert.ok(wids.has(sample.wordId) && ws.find(w => w.id === sample.wordId).word === sample.word);
+  assert.equal(sample.enrichmentStatus, 'pending');
+  assert.equal(sample.reviewer, null);
+  assert.ok(sample.ipa && sample.sourceIds.length && sample.alignmentSource);
+  sample.phonemes.forEach(id => assert.ok(pids.has(id)));
+  assert.equal(sample.segments.map(s => s.grapheme).join(''), sample.word);
+  assert.deepEqual(sample.segments.flatMap(s => s.phonemeIds), sample.phonemes);
+}
+for (const candidate of read('audio-candidates.json').candidates) {
+  assert.equal(candidate.downloadStatus, 'not-downloaded');
+  assert.equal(candidate.listeningReview, 'not-performed');
+  assert.ok(candidate.ipaSource.startsWith('https://'));
+  if (candidate.status === 'license-and-accent-evidence-confirmed') assert.ok(candidate.author && candidate.licenseUrl && candidate.sourcePage);
+}
 const registry=read('curriculum/index.json');assert.equal(new Set(registry).size,registry.length);
 for(const id of registry) {assert.match(id,/^[a-z0-9_]+$/);const c=read('curriculum/'+id+'.json');assert.equal(c.id,id);unique(c.units);for(const u of c.units) {assert.ok(u.name); for(const e of u.entries) assert.ok(wids.has(e.wordId) && e.meaning);}}
 const pep=read('curriculum/pep_2026_g6_s1.json');assert.equal(pep.units.length,6);assert.equal(pep.units.flatMap(u=>u.entries).length,146);assert.equal(new Set(pep.units.flatMap(u=>u.entries.map(e=>e.wordId))).size,145);

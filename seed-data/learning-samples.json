@@ -1,0 +1,244 @@
+[
+  {
+    "id": "sample_climb",
+    "wordId": "word_climb",
+    "word": "climb",
+    "accent": "en-GB",
+    "ipa": "klaɪm",
+    "phonemes": [
+      "ipa_k",
+      "ipa_l",
+      "ipa_ai",
+      "ipa_m"
+    ],
+    "segments": [
+      {
+        "grapheme": "c",
+        "phonemeIds": [
+          "ipa_k"
+        ]
+      },
+      {
+        "grapheme": "l",
+        "phonemeIds": [
+          "ipa_l"
+        ]
+      },
+      {
+        "grapheme": "i",
+        "phonemeIds": [
+          "ipa_ai"
+        ]
+      },
+      {
+        "grapheme": "mb",
+        "phonemeIds": [
+          "ipa_m"
+        ]
+      }
+    ],
+    "enrichmentStatus": "pending",
+    "reviewer": null,
+    "sourceIds": [
+      "https://dictionary.cambridge.org/dictionary/english/climb"
+    ],
+    "alignmentSource": "AI draft; not reviewed; excluded from runtime"
+  },
+  {
+    "id": "sample_clay",
+    "wordId": "word_clay",
+    "word": "clay",
+    "accent": "en-GB",
+    "ipa": "kleɪ",
+    "phonemes": [
+      "ipa_k",
+      "ipa_l",
+      "ipa_ei"
+    ],
+    "segments": [
+      {
+        "grapheme": "c",
+        "phonemeIds": [
+          "ipa_k"
+        ]
+      },
+      {
+        "grapheme": "l",
+        "phonemeIds": [
+          "ipa_l"
+        ]
+      },
+      {
+        "grapheme": "ay",
+        "phonemeIds": [
+          "ipa_ei"
+        ]
+      }
+    ],
+    "enrichmentStatus": "pending",
+    "reviewer": null,
+    "sourceIds": [
+      "https://dictionary.cambridge.org/dictionary/english/clay"
+    ],
+    "alignmentSource": "AI draft; not reviewed; excluded from runtime"
+  },
+  {
+    "id": "sample_moon",
+    "wordId": "word_moon",
+    "word": "moon",
+    "accent": "en-GB",
+    "ipa": "muːn",
+    "phonemes": [
+      "ipa_m",
+      "ipa_u_long",
+      "ipa_n"
+    ],
+    "segments": [
+      {
+        "grapheme": "m",
+        "phonemeIds": [
+          "ipa_m"
+        ]
+      },
+      {
+        "grapheme": "oo",
+        "phonemeIds": [
+          "ipa_u_long"
+        ]
+      },
+      {
+        "grapheme": "n",
+        "phonemeIds": [
+          "ipa_n"
+        ]
+      }
+    ],
+    "enrichmentStatus": "pending",
+    "reviewer": null,
+    "sourceIds": [
+      "https://dictionary.cambridge.org/pronunciation/english/moon"
+    ],
+    "alignmentSource": "AI draft; not reviewed; excluded from runtime"
+  },
+  {
+    "id": "sample_cloud",
+    "wordId": "word_cloud",
+    "word": "cloud",
+    "accent": "en-GB",
+    "ipa": "klaʊd",
+    "phonemes": [
+      "ipa_k",
+      "ipa_l",
+      "ipa_au",
+      "ipa_d"
+    ],
+    "segments": [
+      {
+        "grapheme": "c",
+        "phonemeIds": [
+          "ipa_k"
+        ]
+      },
+      {
+        "grapheme": "l",
+        "phonemeIds": [
+          "ipa_l"
+        ]
+      },
+      {
+        "grapheme": "ou",
+        "phonemeIds": [
+          "ipa_au"
+        ]
+      },
+      {
+        "grapheme": "d",
+        "phonemeIds": [
+          "ipa_d"
+        ]
+      }
+    ],
+    "enrichmentStatus": "pending",
+    "reviewer": null,
+    "sourceIds": [
+      "https://dictionary.cambridge.org/dictionary/english/cloud"
+    ],
+    "alignmentSource": "AI draft; not reviewed; excluded from runtime"
+  },
+  {
+    "id": "sample_sky",
+    "wordId": "word_sky",
+    "word": "sky",
+    "accent": "en-GB",
+    "ipa": "skaɪ",
+    "phonemes": [
+      "ipa_s",
+      "ipa_k",
+      "ipa_ai"
+    ],
+    "segments": [
+      {
+        "grapheme": "s",
+        "phonemeIds": [
+          "ipa_s"
+        ]
+      },
+      {
+        "grapheme": "k",
+        "phonemeIds": [
+          "ipa_k"
+        ]
+      },
+      {
+        "grapheme": "y",
+        "phonemeIds": [
+          "ipa_ai"
+        ]
+      }
+    ],
+    "enrichmentStatus": "pending",
+    "reviewer": null,
+    "sourceIds": [
+      "https://dictionary.cambridge.org/dictionary/english/sky"
+    ],
+    "alignmentSource": "AI draft; not reviewed; excluded from runtime"
+  },
+  {
+    "id": "sample_dry",
+    "wordId": "word_dry",
+    "word": "dry",
+    "accent": "en-GB",
+    "ipa": "draɪ",
+    "phonemes": [
+      "ipa_d",
+      "ipa_r",
+      "ipa_ai"
+    ],
+    "segments": [
+      {
+        "grapheme": "d",
+        "phonemeIds": [
+          "ipa_d"
+        ]
+      },
+      {
+        "grapheme": "r",
+        "phonemeIds": [
+          "ipa_r"
+        ]
+      },
+      {
+        "grapheme": "y",
+        "phonemeIds": [
+          "ipa_ai"
+        ]
+      }
+    ],
+    "enrichmentStatus": "pending",
+    "reviewer": null,
+    "sourceIds": [
+      "https://dictionary.cambridge.org/us/dictionary/english/dry"
+    ],
+    "alignmentSource": "AI draft; not reviewed; excluded from runtime"
+  }
+]

@@ -10,6 +10,12 @@
     "build:data": "node scripts/build-data.cjs",
     "validate:data": "node scripts/validate-data.cjs",
     "test": "node --test tests/*.test.cjs",
-    "check": "npm run validate:data && npm run build:data && npm test && node scripts/check-project.cjs"
+    "check:templates": "node scripts/check-templates.cjs",
+    "content:status": "node scripts/content-status.cjs",
+    "preview": "node scripts/preview.cjs",
+    "check": "npm run validate:data && npm run build:data && npm test && node scripts/check-project.cjs && npm run check:templates"
+  },
+  "devDependencies": {
+    "miniprogram-compiler": "0.2.3"
   }
 }

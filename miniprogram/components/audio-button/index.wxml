@@ -1,1 +1,1 @@
-<button bindtap="play">{{label}}</button>
+<view class="{{compact ? 'compact' : ''}}"><button class="{{active ? 'active' : ''}}" bindtap="play" disabled="{{!ready}}" loading="{{loading}}" aria-label="{{ready ? label : '发音正在准备中'}}">{{active ? '■ 停止' : ready ? '▶ ' + label : '发音准备中'}}</button><view wx:if="{{!ready && !compact}}" class="hint">录音准备好后，就可以听啦。</view></view>

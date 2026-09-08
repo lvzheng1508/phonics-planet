@@ -6,7 +6,11 @@
     "pages/curriculum/index",
     "pages/unit-detail/index",
     "pages/word-detail/index",
-    "pages/my-words/index"
+    "pages/my-words/index",
+    "pages/today/index",
+    "pages/review/index",
+    "pages/practice/index",
+    "pages/credits/index"
   ],
   "window": {
     "navigationBarTitleText": "拼读星球",

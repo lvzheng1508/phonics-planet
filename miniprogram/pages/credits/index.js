@@ -1,0 +1,2 @@
+const content=require('../../services/content-service');
+Page({data:{items:[]},onLoad(){this.setData({items:content.words().map(w=>({word:w.word,asset:content.audio(w.audioId)})).filter(x=>x.asset&&x.asset.src).map(x=>({id:x.asset.id,word:x.word,author:x.asset.author||x.asset.source,license:x.asset.license,source:x.asset.source}))});},copy(e){wx.setClipboardData({data:e.currentTarget.dataset.source});}});

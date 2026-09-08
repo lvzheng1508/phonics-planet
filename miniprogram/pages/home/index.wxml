@@ -1,1 +1,14 @@
-<view class="page"><view class="eyebrow">PHONICS PLANET</view><view class="title"><view>每个声音，</view><view>都是一颗新星球。</view></view><image class="hero" src="/assets/images/planet-hero.png" mode="widthFix"/><view class="subtitle">从熟悉的单词出发，探索英语的声音。</view><navigator url="/pages/phonetic-chart/index" class="card"><view class="tag">SOUND MAP</view><view class="card-title">探索声音地图 →</view><view class="muted">认识元音和辅音，发现拼读的线索</view></navigator><view class="grid"><navigator url="/pages/curriculum/index" class="card"><view class="card-title">跟课本学</view><view class="muted">从你的单元开始</view></navigator><navigator url="/pages/my-words/index" class="card"><view class="card-title">我的单词</view><view class="muted">收集想再读一遍的词</view></navigator></view></view>
+<view class="page home">
+  <view class="row brand"><view><view class="eyebrow">PHONICS PLANET</view><view class="brand-name">拼读星球</view></view><navigator class="circle-link" url="/pages/my-words/index" aria-label="我的单词">☆</navigator></view>
+  <view class="hero-panel"><image class="hero" src="/assets/images/planet-hero.png" mode="aspectFill"/><view class="hero-copy"><view class="hero-title">把声音，<view>连成你的世界。</view></view><view class="hero-note">每天一点，慢慢读懂英语。</view></view></view>
+  <view class="today-card"><view class="row"><view><view class="eyebrow">TODAY'S DISCOVERY</view><view class="section compact">今天，从一个词开始</view></view><view class="sun">✦</view></view>
+    <view class="stats"><view><text class="number">{{summary.visitedCount || 0}}</text><view>浏览单词</view></view><view><text class="number">{{summary.reviewedCount || 0}}</text><view>完成复习</view></view><view><text class="number">{{summary.dueCount || 0}}</text><view>待复习</view></view></view>
+    <navigator url="/pages/today/index" class="primary-link">开始今天的探索 <text>→</text></navigator>
+  </view>
+  <view class="section">选一条探索路线</view>
+  <navigator url="{{continueUrl}}" class="feature-card mint"><view class="feature-icon">Aa</view><view class="flex"><view class="card-title">跟课本学</view><view class="muted">{{summary.unit ? summary.unit.name : '从熟悉的课本单词开始'}}</view></view><text>→</text></navigator>
+  <navigator url="/pages/curriculum/index" class="footer-link">选择教材与单元 →</navigator>
+  <view class="grid"><navigator url="/pages/phonetic-chart/index" class="card lavender"><view class="feature-icon">/aɪ/</view><view class="card-title">声音地图</view><view class="muted">发现音素和拼写的关系</view></navigator><navigator url="/pages/practice/index" class="card cream"><view class="feature-icon">♫</view><view class="card-title">拼读练习</view><view class="muted">听一听，选一选</view></navigator></view>
+  <view wx:if="{{recent.length}}" class="section">上次的发现</view><navigator wx:for="{{recent}}" wx:key="id" url="{{item.url}}" class="word-row"><view><view class="word-name">{{item.word}}</view><view class="muted">{{item.meanings[0]}}</view></view><text>↗</text></navigator>
+  <navigator class="footer-link" url="/pages/credits/index">关于拼读星球 · 素材来源</navigator>
+</view>

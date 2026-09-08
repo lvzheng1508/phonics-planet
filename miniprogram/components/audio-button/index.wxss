@@ -1,1 +1,1 @@
-button{background:#16776F;color:white;border-radius:24rpx;font-size:32rpx;margin:20rpx 0;}button::after{border:0;}
+button{background:#16776f;color:#fff;border-radius:22rpx;font-size:30rpx;min-height:88rpx;margin:20rpx 0 8rpx}button::after{border:0}button[disabled]{background:#e7eae4;color:#62736b}.active{background:#193c3a}.hint{color:#64796f;font-size:25rpx;text-align:center;padding:8rpx}.compact button{font-size:26rpx;margin:12rpx 0 0;min-width:96rpx}.compact .hint{display:none}
