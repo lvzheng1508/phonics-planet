@@ -1,6 +1,29 @@
-<view class="page" wx:if="{{item}}"><view class="eyebrow">ONE WORD, MANY SOUNDS</view><view class="word-hero"><view class="title">{{item.word}}</view><view class="subtitle" wx:if="{{item.contextMeaning}}">{{item.contextMeaning}}</view><block wx:else><view class="subtitle" wx:for="{{item.meanings}}" wx:key="*this">{{item}}</view></block><view wx:if="{{item.pronunciationReady}}" class="ipa word-ipa">/{{item.ipa}}/</view><audio-button ids="{{audioIds}}" label="听整个单词"/><button class="secondary" bindtap="toggle">{{favorite ? '★ 已收藏 · 点击取消' : '☆ 收藏这个单词'}}</button></view>
-  <block wx:if="{{item.pronunciationReady}}"><view class="section">把声音连起来</view><view class="subtitle">点一个音听一听，再试着连起来读。</view><view class="sound-grid"><view wx:for="{{item.sounds}}" wx:key="key" class="sound-card {{activeIndex === index ? 'active' : ''}}"><navigator url="{{item.url}}" class="ipa">/{{item.symbol}}/</navigator><audio-button ids="{{item.audioIds}}" label="听音" compact="{{true}}"/></view></view><audio-button ids="{{sequence}}" label="依次听各个音" owner="word-sequence"/>
-  <view class="section">拼写里的线索</view><view class="card"><view class="segment" wx:for="{{item.segments}}" wx:key="key"><view class="segment-letters">{{item.grapheme}}</view><view class="flex"><view>{{item.symbols || '不单独发音'}}</view><view wx:if="{{item.note}}" class="muted">{{item.note}}</view></view></view></view></block>
-  <view wx:else class="card mint"><view class="card-title">先认识它，再听懂它</view><view class="muted">这个词的拼读讲解正在准备中。你可以先记住意思，收藏后用词卡复习。</view></view>
+<view class="page" wx:if="{{item}}">
+  <view class="eyebrow">LISTEN · READ · CONNECT</view>
+  <view class="word-hero">
+    <view class="accent-badge">英式发音 · BRITISH ENGLISH</view>
+    <view class="title">{{item.word}}</view>
+    <view wx:if="{{item.hasIpa}}" class="phonetic-line {{playing ? 'is-playing' : ''}}" aria-label="{{item.ipa}}">
+      <text class="ipa-slash">/</text><text wx:for="{{ipaTokens}}" wx:key="key" class="ipa-token" data-id="{{item.phonemeId}}" data-note="{{item.note}}" bindtap="phoneme"><text>{{item.text}}</text><text aria-hidden="true" class="ipa-ink" style="{{item.style}}">{{item.text}}</text></text><text class="ipa-slash">/</text>
+    </view>
+    <view wx:else class="muted">这个自定义词的音标还未加入。</view>
+    <view wx:if="{{selectedNote}}" class="card muted">{{selectedNote}}</view><view class="pronunciation-note" wx:if="{{item.hasIpa}}">点音标认识单音 · 听整词观察渐变</view>
+    <view class="subtitle" wx:if="{{item.contextMeaning}}">{{item.contextMeaning}}</view>
+    <block wx:else><view class="subtitle" wx:for="{{item.meanings}}" wx:key="*this">{{item}}</view></block>
+    <audio-button ids="{{audioIds}}" label="{{item.audioPreview ? '听英式试听音' : '听整个单词'}}" owner="word-whole"/>
+    <view wx:if="{{item.audioPreview}}" class="preview-label">系统合成试听 · 渐变表示整词播放进度</view>
+    <view wx:if="{{item.pronunciationPending}}" class="preview-label">开发版音标 · 待教学核对</view>
+    <view wx:for="{{item.pronunciationVariants}}" wx:key="id" class="preview-label">{{item.label}}：/{{item.ipa}}/</view>
+  </view>
+  <view wx:if="{{item.hasIpa}}" class="sound-section">
+    <view class="section">认识这个词里的声音</view>
+    <view class="subtitle">点声音卡，查看音素与常见拼写。</view>
+    <view class="sound-grid"><view wx:for="{{item.sounds}}" wx:key="key" class="sound-card {{activeIndex === index ? 'active' : ''}}"><navigator url="{{item.url}}" class="ipa">/{{item.symbol}}/</navigator><audio-button wx:if="{{item.playable}}" ids="{{item.audioIds}}" label="听音" compact="{{true}}"/></view></view>
+    <audio-button wx:if="{{item.sequenceReady}}" ids="{{sequence}}" label="依次听各个音" owner="word-sequence"/>
+    <view wx:else class="muted">单音示范录音待补齐；可以先查看音素和常见拼写。</view>
+  </view>
+  <block wx:if="{{item.segments.length}}"><view class="section">拼写里的线索</view><view class="card"><view class="segment" wx:for="{{item.segments}}" wx:key="key"><view class="segment-letters">{{item.grapheme}}</view><view class="flex"><view>{{item.symbols || '不单独发音'}}</view><view wx:if="{{item.note}}" class="muted">{{item.note}}</view></view></view></view></block>
+  <button class="secondary" bindtap="toggle">{{favorite ? '★ 已收藏 · 点击取消' : '☆ 收藏这个单词'}}</button>
   <navigator wx:if="{{favorite}}" url="/pages/review/index" class="primary-link">去复习我的单词 →</navigator>
-</view><view wx:else class="empty">没有找到这个单词<navigator url="/pages/curriculum/index" class="primary-link">去课本里找一找</navigator></view>
+</view>
+<view wx:else class="empty">没有找到这个单词<navigator url="/pages/curriculum/index" class="primary-link">去课本里找一找</navigator></view>

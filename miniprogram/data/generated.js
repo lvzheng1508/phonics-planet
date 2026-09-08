@@ -6500,5 +6500,8481 @@ module.exports = {
         }
       ]
     }
+  ],
+  "pronunciations": [
+    {
+      "wordId": "word_was",
+      "word": "was",
+      "accent": "en-GB",
+      "ipa": "wɒz",
+      "phonemes": [
+        "ipa_w",
+        "ipa_o_short",
+        "ipa_z"
+      ],
+      "displayTokens": [
+        {
+          "text": "w",
+          "phonemeId": "ipa_w",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɒ",
+          "phonemeId": "ipa_o_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "展示重读独立词形 /wɒz/；句中常弱读 /wəz/，不能据此推定音频弱读。"
+      ]
+    },
+    {
+      "wordId": "word_climb",
+      "word": "climb",
+      "accent": "en-GB",
+      "ipa": "klaɪm",
+      "phonemes": [
+        "ipa_k",
+        "ipa_l",
+        "ipa_ai",
+        "ipa_m"
+      ],
+      "displayTokens": [
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_kilometre",
+      "word": "kilometre",
+      "accent": "en-GB",
+      "ipa": "ˈkɪləˌmiːtə",
+      "phonemes": [
+        "ipa_k",
+        "ipa_i_short",
+        "ipa_l",
+        "ipa_schwa",
+        "ipa_m",
+        "ipa_i_long",
+        "ipa_t",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "iː",
+          "phonemeId": "ipa_i_long",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 7
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "存在 /ˈkɪləˌmiːtə/ 与 /kɪˈlɒmɪtə/ 等变体；当前首音节重读为 AI 候选，尚未核对教材录音。"
+      ]
+    },
+    {
+      "wordId": "word_gingerbread_house",
+      "word": "gingerbread house",
+      "accent": "en-GB",
+      "ipa": "ˈdʒɪndʒəbred ˌhaʊs",
+      "phonemes": [
+        "ipa_jh",
+        "ipa_i_short",
+        "ipa_n",
+        "ipa_jh",
+        "ipa_schwa",
+        "ipa_b",
+        "ipa_r",
+        "ipa_e",
+        "ipa_d",
+        "ipa_h",
+        "ipa_au",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "dʒ",
+          "phonemeId": "ipa_jh",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "dʒ",
+          "phonemeId": "ipa_jh",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "b",
+          "phonemeId": "ipa_b",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 7
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 8
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "h",
+          "phonemeId": "ipa_h",
+          "phonemeIndex": 9
+        },
+        {
+          "text": "aʊ",
+          "phonemeId": "ipa_au",
+          "phonemeIndex": 10
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 11
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/gingerbread-house?topic=sweets",
+          "scope": "UK IPA；去除词典音节分隔点，保留重音。",
+          "checked": true,
+          "checkedAt": "2026-09-08",
+          "method": "AI read of primary dictionary web search result; not human/audio review"
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_go",
+      "word": "go",
+      "accent": "en-GB",
+      "ipa": "ɡəʊ",
+      "phonemes": [
+        "ipa_g",
+        "ipa_ou"
+      ],
+      "displayTokens": [
+        {
+          "text": "ɡ",
+          "phonemeId": "ipa_g",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "əʊ",
+          "phonemeId": "ipa_ou",
+          "phonemeIndex": 1
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_send",
+      "word": "send",
+      "accent": "en-GB",
+      "ipa": "send",
+      "phonemes": [
+        "ipa_s",
+        "ipa_e",
+        "ipa_n",
+        "ipa_d"
+      ],
+      "displayTokens": [
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_thousand",
+      "word": "thousand",
+      "accent": "en-GB",
+      "ipa": "ˈθaʊzənd",
+      "phonemes": [
+        "ipa_th",
+        "ipa_au",
+        "ipa_z",
+        "ipa_schwa",
+        "ipa_n",
+        "ipa_d"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "θ",
+          "phonemeId": "ipa_th",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "aʊ",
+          "phonemeId": "ipa_au",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 5
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_clay",
+      "word": "clay",
+      "accent": "en-GB",
+      "ipa": "kleɪ",
+      "phonemes": [
+        "ipa_k",
+        "ipa_l",
+        "ipa_ei"
+      ],
+      "displayTokens": [
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_see",
+      "word": "see",
+      "accent": "en-GB",
+      "ipa": "siː",
+      "phonemes": [
+        "ipa_s",
+        "ipa_i_long"
+      ],
+      "displayTokens": [
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "iː",
+          "phonemeId": "ipa_i_long",
+          "phonemeIndex": 1
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_village",
+      "word": "village",
+      "accent": "en-GB",
+      "ipa": "ˈvɪlɪdʒ",
+      "phonemes": [
+        "ipa_v",
+        "ipa_i_short",
+        "ipa_l",
+        "ipa_i_short",
+        "ipa_jh"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "v",
+          "phonemeId": "ipa_v",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "dʒ",
+          "phonemeId": "ipa_jh",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_eat",
+      "word": "eat",
+      "accent": "en-GB",
+      "ipa": "iːt",
+      "phonemes": [
+        "ipa_i_long",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "iː",
+          "phonemeId": "ipa_i_long",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 1
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_dry",
+      "word": "dry",
+      "accent": "en-GB",
+      "ipa": "draɪ",
+      "phonemes": [
+        "ipa_d",
+        "ipa_r",
+        "ipa_ai"
+      ],
+      "displayTokens": [
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_take",
+      "word": "take",
+      "accent": "en-GB",
+      "ipa": "teɪk",
+      "phonemes": [
+        "ipa_t",
+        "ipa_ei",
+        "ipa_k"
+      ],
+      "displayTokens": [
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_view",
+      "word": "view",
+      "accent": "en-GB",
+      "ipa": "vjuː",
+      "phonemes": [
+        "ipa_v",
+        "ipa_y",
+        "ipa_u_long"
+      ],
+      "displayTokens": [
+        {
+          "text": "v",
+          "phonemeId": "ipa_v",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "j",
+          "phonemeId": "ipa_y",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_inspiring",
+      "word": "inspiring",
+      "accent": "en-GB",
+      "ipa": "ɪnˈspaɪərɪŋ",
+      "phonemes": [
+        "ipa_i_short",
+        "ipa_n",
+        "ipa_s",
+        "ipa_p",
+        "ipa_ai",
+        "ipa_schwa",
+        "ipa_r",
+        "ipa_i_short",
+        "ipa_ng"
+      ],
+      "displayTokens": [
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 7
+        },
+        {
+          "text": "ŋ",
+          "phonemeId": "ipa_ng",
+          "phonemeIndex": 8
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_bamboo",
+      "word": "bamboo",
+      "accent": "en-GB",
+      "ipa": "bæmˈbuː",
+      "phonemes": [
+        "ipa_b",
+        "ipa_ae",
+        "ipa_m",
+        "ipa_b",
+        "ipa_u_long"
+      ],
+      "displayTokens": [
+        {
+          "text": "b",
+          "phonemeId": "ipa_b",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "b",
+          "phonemeId": "ipa_b",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_pumpkin",
+      "word": "pumpkin",
+      "accent": "en-GB",
+      "ipa": "ˈpʌmpkɪn",
+      "phonemes": [
+        "ipa_p",
+        "ipa_uh",
+        "ipa_m",
+        "ipa_p",
+        "ipa_k",
+        "ipa_i_short",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_restaurant",
+      "word": "restaurant",
+      "accent": "en-GB",
+      "ipa": "ˈrestrɒnt",
+      "phonemes": [
+        "ipa_r",
+        "ipa_e",
+        "ipa_s",
+        "ipa_t",
+        "ipa_r",
+        "ipa_o_short",
+        "ipa_n",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ɒ",
+          "phonemeId": "ipa_o_short",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 7
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "选择两音节 UK 候选；另有三音节读法，需与后续录音一致。"
+      ]
+    },
+    {
+      "wordId": "word_airport",
+      "word": "airport",
+      "accent": "en-GB",
+      "ipa": "ˈeəpɔːt",
+      "phonemes": [
+        "ipa_ea",
+        "ipa_p",
+        "ipa_o_long",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "eə",
+          "phonemeId": "ipa_ea",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ɔː",
+          "phonemeId": "ipa_o_long",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_new_zealand",
+      "word": "New Zealand",
+      "accent": "en-GB",
+      "ipa": "ˌnjuː ˈziːlənd",
+      "phonemes": [
+        "ipa_n",
+        "ipa_y",
+        "ipa_u_long",
+        "ipa_z",
+        "ipa_i_long",
+        "ipa_l",
+        "ipa_schwa",
+        "ipa_n",
+        "ipa_d"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "j",
+          "phonemeId": "ipa_y",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 2
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "iː",
+          "phonemeId": "ipa_i_long",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 7
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 8
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "专名重音与英语教材口音需复核，当前为 AI 候选。"
+      ]
+    },
+    {
+      "wordId": "word_hong_kong_zhuhai_macao_bridge",
+      "word": "Hong Kong-Zhuhai-Macao Bridge",
+      "accent": "en-GB",
+      "ipa": "ˌhɒŋ ˈkɒŋ ˌdʒuːˈhaɪ məˈkaʊ brɪdʒ",
+      "phonemes": [
+        "ipa_h",
+        "ipa_o_short",
+        "ipa_ng",
+        "ipa_k",
+        "ipa_o_short",
+        "ipa_ng",
+        "ipa_jh",
+        "ipa_u_long",
+        "ipa_h",
+        "ipa_ai",
+        "ipa_m",
+        "ipa_schwa",
+        "ipa_k",
+        "ipa_au",
+        "ipa_b",
+        "ipa_r",
+        "ipa_i_short",
+        "ipa_jh"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "h",
+          "phonemeId": "ipa_h",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɒ",
+          "phonemeId": "ipa_o_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ŋ",
+          "phonemeId": "ipa_ng",
+          "phonemeIndex": 2
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ɒ",
+          "phonemeId": "ipa_o_short",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ŋ",
+          "phonemeId": "ipa_ng",
+          "phonemeIndex": 5
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "dʒ",
+          "phonemeId": "ipa_jh",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 7
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "h",
+          "phonemeId": "ipa_h",
+          "phonemeIndex": 8
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 9
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 10
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 11
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 12
+        },
+        {
+          "text": "aʊ",
+          "phonemeId": "ipa_au",
+          "phonemeIndex": 13
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "b",
+          "phonemeId": "ipa_b",
+          "phonemeIndex": 14
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 15
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 16
+        },
+        {
+          "text": "dʒ",
+          "phonemeId": "ipa_jh",
+          "phonemeIndex": 17
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "高风险候选：中文地名的英语化音译，尤其 Zhuhai，未找到教材或地名权威发音依据；不得视作标准汉语音标或发布用发音。"
+      ]
+    },
+    {
+      "wordId": "word_paris",
+      "word": "Paris",
+      "accent": "en-GB",
+      "ipa": "ˈpærɪs",
+      "phonemes": [
+        "ipa_p",
+        "ipa_ae",
+        "ipa_r",
+        "ipa_i_short",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_eiffel_tower",
+      "word": "Eiffel Tower",
+      "accent": "en-GB",
+      "ipa": "ˌaɪfəl ˈtaʊə",
+      "phonemes": [
+        "ipa_ai",
+        "ipa_f",
+        "ipa_schwa",
+        "ipa_l",
+        "ipa_t",
+        "ipa_au",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "f",
+          "phonemeId": "ipa_f",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 3
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "aʊ",
+          "phonemeId": "ipa_au",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://www.collinsdictionary.com/dictionary/english-spanish/eiffel-tower",
+          "scope": "British 栏；词尾 linking r 不在孤立读音中显示。",
+          "checked": true,
+          "checkedAt": "2026-09-08",
+          "method": "AI read of primary dictionary web search result; not human/audio review"
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_terracotta_warriors",
+      "word": "Terracotta Warriors",
+      "accent": "en-GB",
+      "ipa": "ˌterəˈkɒtə ˈwɒriəz",
+      "phonemes": [
+        "ipa_t",
+        "ipa_e",
+        "ipa_r",
+        "ipa_schwa",
+        "ipa_k",
+        "ipa_o_short",
+        "ipa_t",
+        "ipa_schwa",
+        "ipa_w",
+        "ipa_o_short",
+        "ipa_r",
+        "ipa_schwa",
+        "ipa_z"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ɒ",
+          "phonemeId": "ipa_o_short",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 7
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "w",
+          "phonemeId": "ipa_w",
+          "phonemeIndex": 8
+        },
+        {
+          "text": "ɒ",
+          "phonemeId": "ipa_o_short",
+          "phonemeIndex": 9
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 10
+        },
+        {
+          "text": "i",
+          "phonemeId": null,
+          "phonemeIndex": null,
+          "note": "弱元音，传统44表无独立条目"
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 11
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 12
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "复合专名整体重音与 warriors 弱元音需复核。",
+        "保留现代词典弱元音 /i/，不强制改为 /ɪ/ 或 /iː/；未映射部分不应假定可逐音播放。"
+      ]
+    },
+    {
+      "wordId": "word_jinggangshan_revolution_museum",
+      "word": "Jinggangshan Revolution Museum",
+      "accent": "en-GB",
+      "ipa": "ˌdʒɪŋɡæŋˈʃæn ˌrevəˈluːʃən mjuːˈziːəm",
+      "phonemes": [
+        "ipa_jh",
+        "ipa_i_short",
+        "ipa_ng",
+        "ipa_g",
+        "ipa_ae",
+        "ipa_ng",
+        "ipa_sh",
+        "ipa_ae",
+        "ipa_n",
+        "ipa_r",
+        "ipa_e",
+        "ipa_v",
+        "ipa_schwa",
+        "ipa_l",
+        "ipa_u_long",
+        "ipa_sh",
+        "ipa_schwa",
+        "ipa_n",
+        "ipa_m",
+        "ipa_y",
+        "ipa_u_long",
+        "ipa_z",
+        "ipa_i_long",
+        "ipa_schwa",
+        "ipa_m"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "dʒ",
+          "phonemeId": "ipa_jh",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ŋ",
+          "phonemeId": "ipa_ng",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɡ",
+          "phonemeId": "ipa_g",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ŋ",
+          "phonemeId": "ipa_ng",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ʃ",
+          "phonemeId": "ipa_sh",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 7
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 8
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 9
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 10
+        },
+        {
+          "text": "v",
+          "phonemeId": "ipa_v",
+          "phonemeIndex": 11
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 12
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 13
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 14
+        },
+        {
+          "text": "ʃ",
+          "phonemeId": "ipa_sh",
+          "phonemeIndex": 15
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 16
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 17
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 18
+        },
+        {
+          "text": "j",
+          "phonemeId": "ipa_y",
+          "phonemeIndex": 19
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 20
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 21
+        },
+        {
+          "text": "iː",
+          "phonemeId": "ipa_i_long",
+          "phonemeIndex": 22
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 23
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 24
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "高风险候选：Jinggangshan 的英语化近似音译缺少权威依据，重音与元音均待教材录音核验；不得当作标准汉语发音。"
+      ]
+    },
+    {
+      "wordId": "word_the_red_army",
+      "word": "the Red Army",
+      "accent": "en-GB",
+      "ipa": "ðə ˌred ˈɑːmi",
+      "phonemes": [
+        "ipa_dh",
+        "ipa_schwa",
+        "ipa_r",
+        "ipa_e",
+        "ipa_d",
+        "ipa_a_long",
+        "ipa_m"
+      ],
+      "displayTokens": [
+        {
+          "text": "ð",
+          "phonemeId": "ipa_dh",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 1
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 4
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ɑː",
+          "phonemeId": "ipa_a_long",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "i",
+          "phonemeId": null,
+          "phonemeIndex": null,
+          "note": "弱元音，传统44表无独立条目"
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。",
+        "保留现代词典弱元音 /i/，不强制改为 /ɪ/ 或 /iː/；未映射部分不应假定可逐音播放。"
+      ]
+    },
+    {
+      "wordId": "word_dress",
+      "word": "dress",
+      "accent": "en-GB",
+      "ipa": "dres",
+      "phonemes": [
+        "ipa_d",
+        "ipa_r",
+        "ipa_e",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_paste",
+      "word": "paste",
+      "accent": "en-GB",
+      "ipa": "peɪst",
+      "phonemes": [
+        "ipa_p",
+        "ipa_ei",
+        "ipa_s",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_gala",
+      "word": "gala",
+      "accent": "en-GB",
+      "ipa": "ˈɡɑːlə",
+      "phonemes": [
+        "ipa_g",
+        "ipa_a_long",
+        "ipa_l",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ɡ",
+          "phonemeId": "ipa_g",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɑː",
+          "phonemeId": "ipa_a_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/english/gala",
+          "scope": "UK ɑː，区别于部分美式 eɪ。",
+          "checked": true,
+          "checkedAt": "2026-09-08",
+          "method": "AI read of primary dictionary web search result; not human/audio review"
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_count_down",
+      "word": "count down",
+      "accent": "en-GB",
+      "ipa": "ˌkaʊnt ˈdaʊn",
+      "phonemes": [
+        "ipa_k",
+        "ipa_au",
+        "ipa_n",
+        "ipa_t",
+        "ipa_d",
+        "ipa_au",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "aʊ",
+          "phonemeId": "ipa_au",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 3
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "aʊ",
+          "phonemeId": "ipa_au",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_marathon",
+      "word": "marathon",
+      "accent": "en-GB",
+      "ipa": "ˈmærəθən",
+      "phonemes": [
+        "ipa_m",
+        "ipa_ae",
+        "ipa_r",
+        "ipa_schwa",
+        "ipa_th",
+        "ipa_schwa",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "θ",
+          "phonemeId": "ipa_th",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_as",
+      "word": "as",
+      "accent": "en-GB",
+      "ipa": "æz",
+      "phonemes": [
+        "ipa_ae",
+        "ipa_z"
+      ],
+      "displayTokens": [
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 1
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "展示独立词形 /æz/；句中可弱读 /əz/。"
+      ]
+    },
+    {
+      "wordId": "word_race",
+      "word": "race",
+      "accent": "en-GB",
+      "ipa": "reɪs",
+      "phonemes": [
+        "ipa_r",
+        "ipa_ei",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_run",
+      "word": "run",
+      "accent": "en-GB",
+      "ipa": "rʌn",
+      "phonemes": [
+        "ipa_r",
+        "ipa_uh",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_cheer",
+      "word": "cheer",
+      "accent": "en-GB",
+      "ipa": "tʃɪə",
+      "phonemes": [
+        "ipa_ch",
+        "ipa_ia"
+      ],
+      "displayTokens": [
+        {
+          "text": "tʃ",
+          "phonemeId": "ipa_ch",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪə",
+          "phonemeId": "ipa_ia",
+          "phonemeIndex": 1
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_book_fair",
+      "word": "book fair",
+      "accent": "en-GB",
+      "ipa": "ˈbʊk feə",
+      "phonemes": [
+        "ipa_b",
+        "ipa_u_short",
+        "ipa_k",
+        "ipa_f",
+        "ipa_ea"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "b",
+          "phonemeId": "ipa_b",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʊ",
+          "phonemeId": "ipa_u_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 2
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "f",
+          "phonemeId": "ipa_f",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "eə",
+          "phonemeId": "ipa_ea",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_read",
+      "word": "read",
+      "accent": "en-GB",
+      "ipa": "riːd",
+      "phonemes": [
+        "ipa_r",
+        "ipa_i_long",
+        "ipa_d"
+      ],
+      "displayTokens": [
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "iː",
+          "phonemeId": "ipa_i_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/read",
+          "scope": "原形 /riːd/ 与过去式 /red/ 均有直接来源；当前教材仅“阅读”，未标明时态。",
+          "checked": true,
+          "checkedAt": "2026-09-08",
+          "method": "AI read of primary dictionary web search result; not human/audio review"
+        }
+      ],
+      "verificationNotes": [
+        "不能由中文“阅读”推定时态；默认展示词典原形，保留过去式备选。Unit 2 的实际教材语境未核实。"
+      ],
+      "variants": [
+        {
+          "id": "read_base",
+          "label": "原形 / 现在时",
+          "ipa": "riːd",
+          "phonemes": [
+            "ipa_r",
+            "ipa_i_long",
+            "ipa_d"
+          ],
+          "displayTokens": [
+            {
+              "text": "r",
+              "phonemeId": "ipa_r",
+              "phonemeIndex": 0
+            },
+            {
+              "text": "iː",
+              "phonemeId": "ipa_i_long",
+              "phonemeIndex": 1
+            },
+            {
+              "text": "d",
+              "phonemeId": "ipa_d",
+              "phonemeIndex": 2
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "read_past",
+          "label": "过去式 / 过去分词",
+          "ipa": "red",
+          "phonemes": [
+            "ipa_r",
+            "ipa_e",
+            "ipa_d"
+          ],
+          "displayTokens": [
+            {
+              "text": "r",
+              "phonemeId": "ipa_r",
+              "phonemeIndex": 0
+            },
+            {
+              "text": "e",
+              "phonemeId": "ipa_e",
+              "phonemeIndex": 1
+            },
+            {
+              "text": "d",
+              "phonemeId": "ipa_d",
+              "phonemeIndex": 2
+            }
+          ],
+          "status": "pending"
+        }
+      ],
+      "contextStatus": "needs-textbook-context"
+    },
+    {
+      "wordId": "word_writer",
+      "word": "writer",
+      "accent": "en-GB",
+      "ipa": "ˈraɪtə",
+      "phonemes": [
+        "ipa_r",
+        "ipa_ai",
+        "ipa_t",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_make",
+      "word": "make",
+      "accent": "en-GB",
+      "ipa": "meɪk",
+      "phonemes": [
+        "ipa_m",
+        "ipa_ei",
+        "ipa_k"
+      ],
+      "displayTokens": [
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_sing",
+      "word": "sing",
+      "accent": "en-GB",
+      "ipa": "sɪŋ",
+      "phonemes": [
+        "ipa_s",
+        "ipa_i_short",
+        "ipa_ng"
+      ],
+      "displayTokens": [
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ŋ",
+          "phonemeId": "ipa_ng",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_wear",
+      "word": "wear",
+      "accent": "en-GB",
+      "ipa": "weə",
+      "phonemes": [
+        "ipa_w",
+        "ipa_ea"
+      ],
+      "displayTokens": [
+        {
+          "text": "w",
+          "phonemeId": "ipa_w",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eə",
+          "phonemeId": "ipa_ea",
+          "phonemeIndex": 1
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_yesterday",
+      "word": "yesterday",
+      "accent": "en-GB",
+      "ipa": "ˈjestədeɪ",
+      "phonemes": [
+        "ipa_y",
+        "ipa_e",
+        "ipa_s",
+        "ipa_t",
+        "ipa_schwa",
+        "ipa_d",
+        "ipa_ei"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "j",
+          "phonemeId": "ipa_y",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_notice",
+      "word": "notice",
+      "accent": "en-GB",
+      "ipa": "ˈnəʊtɪs",
+      "phonemes": [
+        "ipa_n",
+        "ipa_ou",
+        "ipa_t",
+        "ipa_i_short",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "əʊ",
+          "phonemeId": "ipa_ou",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_wake",
+      "word": "wake",
+      "accent": "en-GB",
+      "ipa": "weɪk",
+      "phonemes": [
+        "ipa_w",
+        "ipa_ei",
+        "ipa_k"
+      ],
+      "displayTokens": [
+        {
+          "text": "w",
+          "phonemeId": "ipa_w",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_later",
+      "word": "later",
+      "accent": "en-GB",
+      "ipa": "ˈleɪtə",
+      "phonemes": [
+        "ipa_l",
+        "ipa_ei",
+        "ipa_t",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_judge",
+      "word": "judge",
+      "accent": "en-GB",
+      "ipa": "dʒʌdʒ",
+      "phonemes": [
+        "ipa_jh",
+        "ipa_uh",
+        "ipa_jh"
+      ],
+      "displayTokens": [
+        {
+          "text": "dʒ",
+          "phonemeId": "ipa_jh",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "dʒ",
+          "phonemeId": "ipa_jh",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_win",
+      "word": "win",
+      "accent": "en-GB",
+      "ipa": "wɪn",
+      "phonemes": [
+        "ipa_w",
+        "ipa_i_short",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "w",
+          "phonemeId": "ipa_w",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_begin",
+      "word": "begin",
+      "accent": "en-GB",
+      "ipa": "bɪˈɡɪn",
+      "phonemes": [
+        "ipa_b",
+        "ipa_i_short",
+        "ipa_g",
+        "ipa_i_short",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "b",
+          "phonemeId": "ipa_b",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ɡ",
+          "phonemeId": "ipa_g",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_winner",
+      "word": "winner",
+      "accent": "en-GB",
+      "ipa": "ˈwɪnə",
+      "phonemes": [
+        "ipa_w",
+        "ipa_i_short",
+        "ipa_n",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "w",
+          "phonemeId": "ipa_w",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_ever",
+      "word": "ever",
+      "accent": "en-GB",
+      "ipa": "ˈevə",
+      "phonemes": [
+        "ipa_e",
+        "ipa_v",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "v",
+          "phonemeId": "ipa_v",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_exciting",
+      "word": "exciting",
+      "accent": "en-GB",
+      "ipa": "ɪkˈsaɪtɪŋ",
+      "phonemes": [
+        "ipa_i_short",
+        "ipa_k",
+        "ipa_s",
+        "ipa_ai",
+        "ipa_t",
+        "ipa_i_short",
+        "ipa_ng"
+      ],
+      "displayTokens": [
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "ŋ",
+          "phonemeId": "ipa_ng",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_cold",
+      "word": "cold",
+      "accent": "en-GB",
+      "ipa": "kəʊld",
+      "phonemes": [
+        "ipa_k",
+        "ipa_ou",
+        "ipa_l",
+        "ipa_d"
+      ],
+      "displayTokens": [
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "əʊ",
+          "phonemeId": "ipa_ou",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_ill",
+      "word": "ill",
+      "accent": "en-GB",
+      "ipa": "ɪl",
+      "phonemes": [
+        "ipa_i_short",
+        "ipa_l"
+      ],
+      "displayTokens": [
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 1
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_head",
+      "word": "head",
+      "accent": "en-GB",
+      "ipa": "hed",
+      "phonemes": [
+        "ipa_h",
+        "ipa_e",
+        "ipa_d"
+      ],
+      "displayTokens": [
+        {
+          "text": "h",
+          "phonemeId": "ipa_h",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_runny_nose",
+      "word": "runny nose",
+      "accent": "en-GB",
+      "ipa": "ˌrʌni ˈnəʊz",
+      "phonemes": [
+        "ipa_r",
+        "ipa_uh",
+        "ipa_n",
+        "ipa_n",
+        "ipa_ou",
+        "ipa_z"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "i",
+          "phonemeId": null,
+          "phonemeIndex": null,
+          "note": "弱元音，传统44表无独立条目"
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "əʊ",
+          "phonemeId": "ipa_ou",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 5
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。",
+        "保留现代词典弱元音 /i/，不强制改为 /ɪ/ 或 /iː/；未映射部分不应假定可逐音播放。"
+      ]
+    },
+    {
+      "wordId": "word_soon",
+      "word": "soon",
+      "accent": "en-GB",
+      "ipa": "suːn",
+      "phonemes": [
+        "ipa_s",
+        "ipa_u_long",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_fever",
+      "word": "fever",
+      "accent": "en-GB",
+      "ipa": "ˈfiːvə",
+      "phonemes": [
+        "ipa_f",
+        "ipa_i_long",
+        "ipa_v",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "f",
+          "phonemeId": "ipa_f",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "iː",
+          "phonemeId": "ipa_i_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "v",
+          "phonemeId": "ipa_v",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_cough",
+      "word": "cough",
+      "accent": "en-GB",
+      "ipa": "kɒf",
+      "phonemes": [
+        "ipa_k",
+        "ipa_o_short",
+        "ipa_f"
+      ],
+      "displayTokens": [
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɒ",
+          "phonemeId": "ipa_o_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "f",
+          "phonemeId": "ipa_f",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_discuss",
+      "word": "discuss",
+      "accent": "en-GB",
+      "ipa": "dɪˈskʌs",
+      "phonemes": [
+        "ipa_d",
+        "ipa_i_short",
+        "ipa_s",
+        "ipa_k",
+        "ipa_uh",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 5
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_diet",
+      "word": "diet",
+      "accent": "en-GB",
+      "ipa": "ˈdaɪət",
+      "phonemes": [
+        "ipa_d",
+        "ipa_ai",
+        "ipa_schwa",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_stay_up",
+      "word": "stay up",
+      "accent": "en-GB",
+      "ipa": "ˌsteɪ ˈʌp",
+      "phonemes": [
+        "ipa_s",
+        "ipa_t",
+        "ipa_ei",
+        "ipa_uh",
+        "ipa_p"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 2
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_cry",
+      "word": "cry",
+      "accent": "en-GB",
+      "ipa": "kraɪ",
+      "phonemes": [
+        "ipa_k",
+        "ipa_r",
+        "ipa_ai"
+      ],
+      "displayTokens": [
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_another",
+      "word": "another",
+      "accent": "en-GB",
+      "ipa": "əˈnʌðə",
+      "phonemes": [
+        "ipa_schwa",
+        "ipa_n",
+        "ipa_uh",
+        "ipa_dh",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ð",
+          "phonemeId": "ipa_dh",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_call",
+      "word": "call",
+      "accent": "en-GB",
+      "ipa": "kɔːl",
+      "phonemes": [
+        "ipa_k",
+        "ipa_o_long",
+        "ipa_l"
+      ],
+      "displayTokens": [
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɔː",
+          "phonemeId": "ipa_o_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_email",
+      "word": "email",
+      "accent": "en-GB",
+      "ipa": "ˈiːmeɪl",
+      "phonemes": [
+        "ipa_i_long",
+        "ipa_m",
+        "ipa_ei",
+        "ipa_l"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "iː",
+          "phonemeId": "ipa_i_long",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_unhappy",
+      "word": "unhappy",
+      "accent": "en-GB",
+      "ipa": "ʌnˈhæpi",
+      "phonemes": [
+        "ipa_uh",
+        "ipa_n",
+        "ipa_h",
+        "ipa_ae",
+        "ipa_p"
+      ],
+      "displayTokens": [
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "h",
+          "phonemeId": "ipa_h",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "i",
+          "phonemeId": null,
+          "phonemeIndex": null,
+          "note": "弱元音，传统44表无独立条目"
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。",
+        "保留现代词典弱元音 /i/，不强制改为 /ɪ/ 或 /iː/；未映射部分不应假定可逐音播放。"
+      ]
+    },
+    {
+      "wordId": "word_glass",
+      "word": "glass",
+      "accent": "en-GB",
+      "ipa": "ɡlɑːs",
+      "phonemes": [
+        "ipa_g",
+        "ipa_l",
+        "ipa_a_long",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "ɡ",
+          "phonemeId": "ipa_g",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ɑː",
+          "phonemeId": "ipa_a_long",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_may",
+      "word": "may",
+      "accent": "en-GB",
+      "ipa": "meɪ",
+      "phonemes": [
+        "ipa_m",
+        "ipa_ei"
+      ],
+      "displayTokens": [
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 1
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_add",
+      "word": "add",
+      "accent": "en-GB",
+      "ipa": "æd",
+      "phonemes": [
+        "ipa_ae",
+        "ipa_d"
+      ],
+      "displayTokens": [
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 1
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_video",
+      "word": "video",
+      "accent": "en-GB",
+      "ipa": "ˈvɪdiəʊ",
+      "phonemes": [
+        "ipa_v",
+        "ipa_i_short",
+        "ipa_d",
+        "ipa_ou"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "v",
+          "phonemeId": "ipa_v",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "i",
+          "phonemeId": null,
+          "phonemeIndex": null,
+          "note": "弱元音，传统44表无独立条目"
+        },
+        {
+          "text": "əʊ",
+          "phonemeId": "ipa_ou",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。",
+        "保留现代词典弱元音 /i/，不强制改为 /ɪ/ 或 /iː/；未映射部分不应假定可逐音播放。"
+      ]
+    },
+    {
+      "wordId": "word_better",
+      "word": "better",
+      "accent": "en-GB",
+      "ipa": "ˈbetə",
+      "phonemes": [
+        "ipa_b",
+        "ipa_e",
+        "ipa_t",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "b",
+          "phonemeId": "ipa_b",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_money",
+      "word": "money",
+      "accent": "en-GB",
+      "ipa": "ˈmʌni",
+      "phonemes": [
+        "ipa_m",
+        "ipa_uh",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "i",
+          "phonemeId": null,
+          "phonemeIndex": null,
+          "note": "弱元音，传统44表无独立条目"
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。",
+        "保留现代词典弱元音 /i/，不强制改为 /ɪ/ 或 /iː/；未映射部分不应假定可逐音播放。"
+      ]
+    },
+    {
+      "wordId": "word_pocket_money",
+      "word": "pocket money",
+      "accent": "en-GB",
+      "ipa": "ˈpɒkɪt ˌmʌni",
+      "phonemes": [
+        "ipa_p",
+        "ipa_o_short",
+        "ipa_k",
+        "ipa_i_short",
+        "ipa_t",
+        "ipa_m",
+        "ipa_uh",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɒ",
+          "phonemeId": "ipa_o_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 4
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 7
+        },
+        {
+          "text": "i",
+          "phonemeId": null,
+          "phonemeIndex": null,
+          "note": "弱元音，传统44表无独立条目"
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。",
+        "保留现代词典弱元音 /i/，不强制改为 /ɪ/ 或 /iː/；未映射部分不应假定可逐音播放。"
+      ]
+    },
+    {
+      "wordId": "word_schoolbag",
+      "word": "schoolbag",
+      "accent": "en-GB",
+      "ipa": "ˈskuːlbæɡ",
+      "phonemes": [
+        "ipa_s",
+        "ipa_k",
+        "ipa_u_long",
+        "ipa_l",
+        "ipa_b",
+        "ipa_ae",
+        "ipa_g"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "b",
+          "phonemeId": "ipa_b",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "ɡ",
+          "phonemeId": "ipa_g",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_goods",
+      "word": "goods",
+      "accent": "en-GB",
+      "ipa": "ɡʊdz",
+      "phonemes": [
+        "ipa_g",
+        "ipa_u_short",
+        "ipa_d",
+        "ipa_z"
+      ],
+      "displayTokens": [
+        {
+          "text": "ɡ",
+          "phonemeId": "ipa_g",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʊ",
+          "phonemeId": "ipa_u_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_drink",
+      "word": "drink",
+      "accent": "en-GB",
+      "ipa": "drɪŋk",
+      "phonemes": [
+        "ipa_d",
+        "ipa_r",
+        "ipa_i_short",
+        "ipa_ng",
+        "ipa_k"
+      ],
+      "displayTokens": [
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ŋ",
+          "phonemeId": "ipa_ng",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_service",
+      "word": "service",
+      "accent": "en-GB",
+      "ipa": "ˈsɜːvɪs",
+      "phonemes": [
+        "ipa_s",
+        "ipa_er_long",
+        "ipa_v",
+        "ipa_i_short",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɜː",
+          "phonemeId": "ipa_er_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "v",
+          "phonemeId": "ipa_v",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_haircut",
+      "word": "haircut",
+      "accent": "en-GB",
+      "ipa": "ˈheəkʌt",
+      "phonemes": [
+        "ipa_h",
+        "ipa_ea",
+        "ipa_k",
+        "ipa_uh",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "h",
+          "phonemeId": "ipa_h",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eə",
+          "phonemeId": "ipa_ea",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_microscope",
+      "word": "microscope",
+      "accent": "en-GB",
+      "ipa": "ˈmaɪkrəskəʊp",
+      "phonemes": [
+        "ipa_m",
+        "ipa_ai",
+        "ipa_k",
+        "ipa_r",
+        "ipa_schwa",
+        "ipa_s",
+        "ipa_k",
+        "ipa_ou",
+        "ipa_p"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "əʊ",
+          "phonemeId": "ipa_ou",
+          "phonemeIndex": 7
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 8
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_lucky",
+      "word": "lucky",
+      "accent": "en-GB",
+      "ipa": "ˈlʌki",
+      "phonemes": [
+        "ipa_l",
+        "ipa_uh",
+        "ipa_k"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "i",
+          "phonemeId": null,
+          "phonemeIndex": null,
+          "note": "弱元音，传统44表无独立条目"
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。",
+        "保留现代词典弱元音 /i/，不强制改为 /ɪ/ 或 /iː/；未映射部分不应假定可逐音播放。"
+      ]
+    },
+    {
+      "wordId": "word_save_up",
+      "word": "save up",
+      "accent": "en-GB",
+      "ipa": "ˌseɪv ˈʌp",
+      "phonemes": [
+        "ipa_s",
+        "ipa_ei",
+        "ipa_v",
+        "ipa_uh",
+        "ipa_p"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "v",
+          "phonemeId": "ipa_v",
+          "phonemeIndex": 2
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_sale",
+      "word": "sale",
+      "accent": "en-GB",
+      "ipa": "seɪl",
+      "phonemes": [
+        "ipa_s",
+        "ipa_ei",
+        "ipa_l"
+      ],
+      "displayTokens": [
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_ticket",
+      "word": "ticket",
+      "accent": "en-GB",
+      "ipa": "ˈtɪkɪt",
+      "phonemes": [
+        "ipa_t",
+        "ipa_i_short",
+        "ipa_k",
+        "ipa_i_short",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_manage",
+      "word": "manage",
+      "accent": "en-GB",
+      "ipa": "ˈmænɪdʒ",
+      "phonemes": [
+        "ipa_m",
+        "ipa_ae",
+        "ipa_n",
+        "ipa_i_short",
+        "ipa_jh"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "dʒ",
+          "phonemeId": "ipa_jh",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_difficult",
+      "word": "difficult",
+      "accent": "en-GB",
+      "ipa": "ˈdɪfɪkəlt",
+      "phonemes": [
+        "ipa_d",
+        "ipa_i_short",
+        "ipa_f",
+        "ipa_i_short",
+        "ipa_k",
+        "ipa_schwa",
+        "ipa_l",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "f",
+          "phonemeId": "ipa_f",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 7
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_sell",
+      "word": "sell",
+      "accent": "en-GB",
+      "ipa": "sel",
+      "phonemes": [
+        "ipa_s",
+        "ipa_e",
+        "ipa_l"
+      ],
+      "displayTokens": [
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_half",
+      "word": "half",
+      "accent": "en-GB",
+      "ipa": "hɑːf",
+      "phonemes": [
+        "ipa_h",
+        "ipa_a_long",
+        "ipa_f"
+      ],
+      "displayTokens": [
+        {
+          "text": "h",
+          "phonemeId": "ipa_h",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɑː",
+          "phonemeId": "ipa_a_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "f",
+          "phonemeId": "ipa_f",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_for_example",
+      "word": "for example",
+      "accent": "en-GB",
+      "ipa": "fər ɪɡˈzɑːmpəl",
+      "phonemes": [
+        "ipa_f",
+        "ipa_schwa",
+        "ipa_r",
+        "ipa_i_short",
+        "ipa_g",
+        "ipa_z",
+        "ipa_a_long",
+        "ipa_m",
+        "ipa_p",
+        "ipa_schwa",
+        "ipa_l"
+      ],
+      "displayTokens": [
+        {
+          "text": "f",
+          "phonemeId": "ipa_f",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 2
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ɡ",
+          "phonemeId": "ipa_g",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "ɑː",
+          "phonemeId": "ipa_a_long",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 7
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 8
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 9
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 10
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "短语采用 for 弱读并含 linking r；还须核对实际录音与短语重音。"
+      ]
+    },
+    {
+      "wordId": "word_planet",
+      "word": "planet",
+      "accent": "en-GB",
+      "ipa": "ˈplænɪt",
+      "phonemes": [
+        "ipa_p",
+        "ipa_l",
+        "ipa_ae",
+        "ipa_n",
+        "ipa_i_short",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 5
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_earth",
+      "word": "earth",
+      "accent": "en-GB",
+      "ipa": "ɜːθ",
+      "phonemes": [
+        "ipa_er_long",
+        "ipa_th"
+      ],
+      "displayTokens": [
+        {
+          "text": "ɜː",
+          "phonemeId": "ipa_er_long",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "θ",
+          "phonemeId": "ipa_th",
+          "phonemeIndex": 1
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_sky",
+      "word": "sky",
+      "accent": "en-GB",
+      "ipa": "skaɪ",
+      "phonemes": [
+        "ipa_s",
+        "ipa_k",
+        "ipa_ai"
+      ],
+      "displayTokens": [
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_daytime",
+      "word": "daytime",
+      "accent": "en-GB",
+      "ipa": "ˈdeɪtaɪm",
+      "phonemes": [
+        "ipa_d",
+        "ipa_ei",
+        "ipa_t",
+        "ipa_ai",
+        "ipa_m"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_cloud",
+      "word": "cloud",
+      "accent": "en-GB",
+      "ipa": "klaʊd",
+      "phonemes": [
+        "ipa_k",
+        "ipa_l",
+        "ipa_au",
+        "ipa_d"
+      ],
+      "displayTokens": [
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "aʊ",
+          "phonemeId": "ipa_au",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_moon",
+      "word": "moon",
+      "accent": "en-GB",
+      "ipa": "muːn",
+      "phonemes": [
+        "ipa_m",
+        "ipa_u_long",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_star",
+      "word": "star",
+      "accent": "en-GB",
+      "ipa": "stɑː",
+      "phonemes": [
+        "ipa_s",
+        "ipa_t",
+        "ipa_a_long"
+      ],
+      "displayTokens": [
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ɑː",
+          "phonemeId": "ipa_a_long",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_space",
+      "word": "space",
+      "accent": "en-GB",
+      "ipa": "speɪs",
+      "phonemes": [
+        "ipa_s",
+        "ipa_p",
+        "ipa_ei",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_outer_space",
+      "word": "outer space",
+      "accent": "en-GB",
+      "ipa": "ˌaʊtə ˈspeɪs",
+      "phonemes": [
+        "ipa_au",
+        "ipa_t",
+        "ipa_schwa",
+        "ipa_s",
+        "ipa_p",
+        "ipa_ei",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "aʊ",
+          "phonemeId": "ipa_au",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 2
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_space_station",
+      "word": "space station",
+      "accent": "en-GB",
+      "ipa": "ˈspeɪs ˌsteɪʃən",
+      "phonemes": [
+        "ipa_s",
+        "ipa_p",
+        "ipa_ei",
+        "ipa_s",
+        "ipa_s",
+        "ipa_t",
+        "ipa_ei",
+        "ipa_sh",
+        "ipa_schwa",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 3
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "ʃ",
+          "phonemeId": "ipa_sh",
+          "phonemeIndex": 7
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 8
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 9
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_ocean",
+      "word": "ocean",
+      "accent": "en-GB",
+      "ipa": "ˈəʊʃən",
+      "phonemes": [
+        "ipa_ou",
+        "ipa_sh",
+        "ipa_schwa",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "əʊ",
+          "phonemeId": "ipa_ou",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʃ",
+          "phonemeId": "ipa_sh",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_marble",
+      "word": "marble",
+      "accent": "en-GB",
+      "ipa": "ˈmɑːbəl",
+      "phonemes": [
+        "ipa_m",
+        "ipa_a_long",
+        "ipa_b",
+        "ipa_schwa",
+        "ipa_l"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɑː",
+          "phonemeId": "ipa_a_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "b",
+          "phonemeId": "ipa_b",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_satellite",
+      "word": "satellite",
+      "accent": "en-GB",
+      "ipa": "ˈsætəlaɪt",
+      "phonemes": [
+        "ipa_s",
+        "ipa_ae",
+        "ipa_t",
+        "ipa_schwa",
+        "ipa_l",
+        "ipa_ai",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_soil",
+      "word": "soil",
+      "accent": "en-GB",
+      "ipa": "sɔɪl",
+      "phonemes": [
+        "ipa_s",
+        "ipa_oi",
+        "ipa_l"
+      ],
+      "displayTokens": [
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɔɪ",
+          "phonemeId": "ipa_oi",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_alien",
+      "word": "alien",
+      "accent": "en-GB",
+      "ipa": "ˈeɪliən",
+      "phonemes": [
+        "ipa_ei",
+        "ipa_l",
+        "ipa_schwa",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "i",
+          "phonemeId": null,
+          "phonemeIndex": null,
+          "note": "弱元音，传统44表无独立条目"
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。",
+        "保留现代词典弱元音 /i/，不强制改为 /ɪ/ 或 /iː/；未映射部分不应假定可逐音播放。"
+      ]
+    },
+    {
+      "wordId": "word_sunrise",
+      "word": "sunrise",
+      "accent": "en-GB",
+      "ipa": "ˈsʌnraɪz",
+      "phonemes": [
+        "ipa_s",
+        "ipa_uh",
+        "ipa_n",
+        "ipa_r",
+        "ipa_ai",
+        "ipa_z"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 5
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_rover",
+      "word": "rover",
+      "accent": "en-GB",
+      "ipa": "ˈrəʊvə",
+      "phonemes": [
+        "ipa_r",
+        "ipa_ou",
+        "ipa_v",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "əʊ",
+          "phonemeId": "ipa_ou",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "v",
+          "phonemeId": "ipa_v",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_into",
+      "word": "into",
+      "accent": "en-GB",
+      "ipa": "ˈɪntuː",
+      "phonemes": [
+        "ipa_i_short",
+        "ipa_n",
+        "ipa_t",
+        "ipa_u_long"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "展示强读 /ˈɪntuː/；句中弱读可能为 /ˈɪntə/。"
+      ]
+    },
+    {
+      "wordId": "word_telescope",
+      "word": "telescope",
+      "accent": "en-GB",
+      "ipa": "ˈtelɪskəʊp",
+      "phonemes": [
+        "ipa_t",
+        "ipa_e",
+        "ipa_l",
+        "ipa_i_short",
+        "ipa_s",
+        "ipa_k",
+        "ipa_ou",
+        "ipa_p"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "əʊ",
+          "phonemeId": "ipa_ou",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 7
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_astronaut",
+      "word": "astronaut",
+      "accent": "en-GB",
+      "ipa": "ˈæstrənɔːt",
+      "phonemes": [
+        "ipa_ae",
+        "ipa_s",
+        "ipa_t",
+        "ipa_r",
+        "ipa_schwa",
+        "ipa_n",
+        "ipa_o_long",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "æ",
+          "phonemeId": "ipa_ae",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "ɔː",
+          "phonemeId": "ipa_o_long",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 7
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_month",
+      "word": "month",
+      "accent": "en-GB",
+      "ipa": "mʌnθ",
+      "phonemes": [
+        "ipa_m",
+        "ipa_uh",
+        "ipa_n",
+        "ipa_th"
+      ],
+      "displayTokens": [
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "θ",
+          "phonemeId": "ipa_th",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_spaceship",
+      "word": "spaceship",
+      "accent": "en-GB",
+      "ipa": "ˈspeɪsʃɪp",
+      "phonemes": [
+        "ipa_s",
+        "ipa_p",
+        "ipa_ei",
+        "ipa_s",
+        "ipa_sh",
+        "ipa_i_short",
+        "ipa_p"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ʃ",
+          "phonemeId": "ipa_sh",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_cloth",
+      "word": "cloth",
+      "accent": "en-GB",
+      "ipa": "klɒθ",
+      "phonemes": [
+        "ipa_k",
+        "ipa_l",
+        "ipa_o_short",
+        "ipa_th"
+      ],
+      "displayTokens": [
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ɒ",
+          "phonemeId": "ipa_o_short",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "θ",
+          "phonemeId": "ipa_th",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_toothpaste",
+      "word": "toothpaste",
+      "accent": "en-GB",
+      "ipa": "ˈtuːθpeɪst",
+      "phonemes": [
+        "ipa_t",
+        "ipa_u_long",
+        "ipa_th",
+        "ipa_p",
+        "ipa_ei",
+        "ipa_s",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "θ",
+          "phonemeId": "ipa_th",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_taikonaut",
+      "word": "taikonaut",
+      "accent": "en-GB",
+      "ipa": "ˈtaɪkəʊˌnɔːt",
+      "phonemes": [
+        "ipa_t",
+        "ipa_ai",
+        "ipa_k",
+        "ipa_ou",
+        "ipa_n",
+        "ipa_o_long",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "əʊ",
+          "phonemeId": "ipa_ou",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ɔː",
+          "phonemeId": "ipa_o_long",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://www.collinsdictionary.com/dictionary/english/taikonaut",
+          "scope": "Collins British English；保留第二音节 əʊ。",
+          "checked": true,
+          "checkedAt": "2026-09-08",
+          "method": "AI read of primary dictionary web search result; not human/audio review"
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_question",
+      "word": "question",
+      "accent": "en-GB",
+      "ipa": "ˈkwestʃən",
+      "phonemes": [
+        "ipa_k",
+        "ipa_w",
+        "ipa_e",
+        "ipa_s",
+        "ipa_ch",
+        "ipa_schwa",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "w",
+          "phonemeId": "ipa_w",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "tʃ",
+          "phonemeId": "ipa_ch",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 6
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_time",
+      "word": "time",
+      "accent": "en-GB",
+      "ipa": "taɪm",
+      "phonemes": [
+        "ipa_t",
+        "ipa_ai",
+        "ipa_m"
+      ],
+      "displayTokens": [
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_sunset",
+      "word": "sunset",
+      "accent": "en-GB",
+      "ipa": "ˈsʌnset",
+      "phonemes": [
+        "ipa_s",
+        "ipa_uh",
+        "ipa_n",
+        "ipa_s",
+        "ipa_e",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 5
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_mars",
+      "word": "Mars",
+      "accent": "en-GB",
+      "ipa": "mɑːz",
+      "phonemes": [
+        "ipa_m",
+        "ipa_a_long",
+        "ipa_z"
+      ],
+      "displayTokens": [
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɑː",
+          "phonemeId": "ipa_a_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_power",
+      "word": "power",
+      "accent": "en-GB",
+      "ipa": "ˈpaʊə",
+      "phonemes": [
+        "ipa_p",
+        "ipa_au",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "aʊ",
+          "phonemeId": "ipa_au",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_electricity",
+      "word": "electricity",
+      "accent": "en-GB",
+      "ipa": "ɪˌlekˈtrɪsəti",
+      "phonemes": [
+        "ipa_i_short",
+        "ipa_l",
+        "ipa_e",
+        "ipa_k",
+        "ipa_t",
+        "ipa_r",
+        "ipa_i_short",
+        "ipa_s",
+        "ipa_schwa",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 7
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 8
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 9
+        },
+        {
+          "text": "i",
+          "phonemeId": null,
+          "phonemeIndex": null,
+          "note": "弱元音，传统44表无独立条目"
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。",
+        "保留现代词典弱元音 /i/，不强制改为 /ɪ/ 或 /iː/；未映射部分不应假定可逐音播放。"
+      ]
+    },
+    {
+      "wordId": "word_solar",
+      "word": "solar",
+      "accent": "en-GB",
+      "ipa": "ˈsəʊlə",
+      "phonemes": [
+        "ipa_s",
+        "ipa_ou",
+        "ipa_l",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "əʊ",
+          "phonemeId": "ipa_ou",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_type",
+      "word": "type",
+      "accent": "en-GB",
+      "ipa": "taɪp",
+      "phonemes": [
+        "ipa_t",
+        "ipa_ai",
+        "ipa_p"
+      ],
+      "displayTokens": [
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_energy",
+      "word": "energy",
+      "accent": "en-GB",
+      "ipa": "ˈenədʒi",
+      "phonemes": [
+        "ipa_e",
+        "ipa_n",
+        "ipa_schwa",
+        "ipa_jh"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "e",
+          "phonemeId": "ipa_e",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "dʒ",
+          "phonemeId": "ipa_jh",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "i",
+          "phonemeId": null,
+          "phonemeIndex": null,
+          "note": "弱元音，传统44表无独立条目"
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。",
+        "保留现代词典弱元音 /i/，不强制改为 /ɪ/ 或 /iː/；未映射部分不应假定可逐音播放。"
+      ]
+    },
+    {
+      "wordId": "word_light",
+      "word": "light",
+      "accent": "en-GB",
+      "ipa": "laɪt",
+      "phonemes": [
+        "ipa_l",
+        "ipa_ai",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_source",
+      "word": "source",
+      "accent": "en-GB",
+      "ipa": "sɔːs",
+      "phonemes": [
+        "ipa_s",
+        "ipa_o_long",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɔː",
+          "phonemeId": "ipa_o_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_heat",
+      "word": "heat",
+      "accent": "en-GB",
+      "ipa": "hiːt",
+      "phonemes": [
+        "ipa_h",
+        "ipa_i_long",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "h",
+          "phonemeId": "ipa_h",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "iː",
+          "phonemeId": "ipa_i_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_cool",
+      "word": "cool",
+      "accent": "en-GB",
+      "ipa": "kuːl",
+      "phonemes": [
+        "ipa_k",
+        "ipa_u_long",
+        "ipa_l"
+      ],
+      "displayTokens": [
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_resource",
+      "word": "resource",
+      "accent": "en-GB",
+      "ipa": "rɪˈzɔːs",
+      "phonemes": [
+        "ipa_r",
+        "ipa_i_short",
+        "ipa_z",
+        "ipa_o_long",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɔː",
+          "phonemeId": "ipa_o_long",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/us/pronunciation/english/resource",
+          "scope": "UK 第一候选 rɪˈzɔːs；另有 ˈriːsɔːs，选用第一候选。",
+          "checked": true,
+          "checkedAt": "2026-09-08",
+          "method": "AI read of primary dictionary web search result; not human/audio review"
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_run_out",
+      "word": "run out",
+      "accent": "en-GB",
+      "ipa": "ˌrʌn ˈaʊt",
+      "phonemes": [
+        "ipa_r",
+        "ipa_uh",
+        "ipa_n",
+        "ipa_au",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "aʊ",
+          "phonemeId": "ipa_au",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_few",
+      "word": "few",
+      "accent": "en-GB",
+      "ipa": "fjuː",
+      "phonemes": [
+        "ipa_f",
+        "ipa_y",
+        "ipa_u_long"
+      ],
+      "displayTokens": [
+        {
+          "text": "f",
+          "phonemeId": "ipa_f",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "j",
+          "phonemeId": "ipa_y",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_change",
+      "word": "change",
+      "accent": "en-GB",
+      "ipa": "tʃeɪndʒ",
+      "phonemes": [
+        "ipa_ch",
+        "ipa_ei",
+        "ipa_n",
+        "ipa_jh"
+      ],
+      "displayTokens": [
+        {
+          "text": "tʃ",
+          "phonemeId": "ipa_ch",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "eɪ",
+          "phonemeId": "ipa_ei",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "dʒ",
+          "phonemeId": "ipa_jh",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_quick",
+      "word": "quick",
+      "accent": "en-GB",
+      "ipa": "kwɪk",
+      "phonemes": [
+        "ipa_k",
+        "ipa_w",
+        "ipa_i_short",
+        "ipa_k"
+      ],
+      "displayTokens": [
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "w",
+          "phonemeId": "ipa_w",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_shower",
+      "word": "shower",
+      "accent": "en-GB",
+      "ipa": "ˈʃaʊə",
+      "phonemes": [
+        "ipa_sh",
+        "ipa_au",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "ʃ",
+          "phonemeId": "ipa_sh",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "aʊ",
+          "phonemeId": "ipa_au",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_unplug",
+      "word": "unplug",
+      "accent": "en-GB",
+      "ipa": "ʌnˈplʌɡ",
+      "phonemes": [
+        "ipa_uh",
+        "ipa_n",
+        "ipa_p",
+        "ipa_l",
+        "ipa_uh",
+        "ipa_g"
+      ],
+      "displayTokens": [
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ʌ",
+          "phonemeId": "ipa_uh",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ɡ",
+          "phonemeId": "ipa_g",
+          "phonemeIndex": 5
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_difference",
+      "word": "difference",
+      "accent": "en-GB",
+      "ipa": "ˈdɪfərəns",
+      "phonemes": [
+        "ipa_d",
+        "ipa_i_short",
+        "ipa_f",
+        "ipa_schwa",
+        "ipa_r",
+        "ipa_schwa",
+        "ipa_n",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "f",
+          "phonemeId": "ipa_f",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 7
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_reduce",
+      "word": "reduce",
+      "accent": "en-GB",
+      "ipa": "rɪˈdjuːs",
+      "phonemes": [
+        "ipa_r",
+        "ipa_i_short",
+        "ipa_d",
+        "ipa_y",
+        "ipa_u_long",
+        "ipa_s"
+      ],
+      "displayTokens": [
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "j",
+          "phonemeId": "ipa_y",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 5
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_air_conditioner",
+      "word": "air conditioner",
+      "accent": "en-GB",
+      "ipa": "ˈeə kənˌdɪʃənə",
+      "phonemes": [
+        "ipa_ea",
+        "ipa_k",
+        "ipa_schwa",
+        "ipa_n",
+        "ipa_d",
+        "ipa_i_short",
+        "ipa_sh",
+        "ipa_schwa",
+        "ipa_n",
+        "ipa_schwa"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "eə",
+          "phonemeId": "ipa_ea",
+          "phonemeIndex": 0
+        },
+        {
+          "text": " ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 5
+        },
+        {
+          "text": "ʃ",
+          "phonemeId": "ipa_sh",
+          "phonemeIndex": 6
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 7
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 8
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 9
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_drive",
+      "word": "drive",
+      "accent": "en-GB",
+      "ipa": "draɪv",
+      "phonemes": [
+        "ipa_d",
+        "ipa_r",
+        "ipa_ai",
+        "ipa_v"
+      ],
+      "displayTokens": [
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "v",
+          "phonemeId": "ipa_v",
+          "phonemeIndex": 3
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_reuse",
+      "word": "reuse",
+      "accent": "en-GB",
+      "ipa": "ˌriːˈjuːz",
+      "phonemes": [
+        "ipa_r",
+        "ipa_i_long",
+        "ipa_y",
+        "ipa_u_long",
+        "ipa_z"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˌ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "r",
+          "phonemeId": "ipa_r",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "iː",
+          "phonemeId": "ipa_i_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "j",
+          "phonemeId": "ipa_y",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "z",
+          "phonemeId": "ipa_z",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "按教材“重复使用”的动词选择末尾 /z/，区别于部分名词形式的 /s/。"
+      ]
+    },
+    {
+      "wordId": "word_own",
+      "word": "own",
+      "accent": "en-GB",
+      "ipa": "əʊn",
+      "phonemes": [
+        "ipa_ou",
+        "ipa_n"
+      ],
+      "displayTokens": [
+        {
+          "text": "əʊ",
+          "phonemeId": "ipa_ou",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "n",
+          "phonemeId": "ipa_n",
+          "phonemeIndex": 1
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_market",
+      "word": "market",
+      "accent": "en-GB",
+      "ipa": "ˈmɑːkɪt",
+      "phonemes": [
+        "ipa_m",
+        "ipa_a_long",
+        "ipa_k",
+        "ipa_i_short",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "m",
+          "phonemeId": "ipa_m",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɑː",
+          "phonemeId": "ipa_a_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "k",
+          "phonemeId": "ipa_k",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ɪ",
+          "phonemeId": "ipa_i_short",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_top",
+      "word": "top",
+      "accent": "en-GB",
+      "ipa": "tɒp",
+      "phonemes": [
+        "ipa_t",
+        "ipa_o_short",
+        "ipa_p"
+      ],
+      "displayTokens": [
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɒ",
+          "phonemeId": "ipa_o_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "p",
+          "phonemeId": "ipa_p",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_bottle",
+      "word": "bottle",
+      "accent": "en-GB",
+      "ipa": "ˈbɒtəl",
+      "phonemes": [
+        "ipa_b",
+        "ipa_o_short",
+        "ipa_t",
+        "ipa_schwa",
+        "ipa_l"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "b",
+          "phonemeId": "ipa_b",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɒ",
+          "phonemeId": "ipa_o_short",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 4
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_dirty",
+      "word": "dirty",
+      "accent": "en-GB",
+      "ipa": "ˈdɜːti",
+      "phonemes": [
+        "ipa_d",
+        "ipa_er_long",
+        "ipa_t"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "ɜː",
+          "phonemeId": "ipa_er_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "t",
+          "phonemeId": "ipa_t",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "i",
+          "phonemeId": null,
+          "phonemeIndex": null,
+          "note": "弱元音，传统44表无独立条目"
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。",
+        "保留现代词典弱元音 /i/，不强制改为 /ɪ/ 或 /iː/；未映射部分不应假定可逐音播放。"
+      ]
+    },
+    {
+      "wordId": "word_side",
+      "word": "side",
+      "accent": "en-GB",
+      "ipa": "saɪd",
+      "phonemes": [
+        "ipa_s",
+        "ipa_ai",
+        "ipa_d"
+      ],
+      "displayTokens": [
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "aɪ",
+          "phonemeId": "ipa_ai",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "d",
+          "phonemeId": "ipa_d",
+          "phonemeIndex": 2
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    },
+    {
+      "wordId": "word_useful",
+      "word": "useful",
+      "accent": "en-GB",
+      "ipa": "ˈjuːsfəl",
+      "phonemes": [
+        "ipa_y",
+        "ipa_u_long",
+        "ipa_s",
+        "ipa_f",
+        "ipa_schwa",
+        "ipa_l"
+      ],
+      "displayTokens": [
+        {
+          "text": "ˈ",
+          "phonemeId": null,
+          "phonemeIndex": null
+        },
+        {
+          "text": "j",
+          "phonemeId": "ipa_y",
+          "phonemeIndex": 0
+        },
+        {
+          "text": "uː",
+          "phonemeId": "ipa_u_long",
+          "phonemeIndex": 1
+        },
+        {
+          "text": "s",
+          "phonemeId": "ipa_s",
+          "phonemeIndex": 2
+        },
+        {
+          "text": "f",
+          "phonemeId": "ipa_f",
+          "phonemeIndex": 3
+        },
+        {
+          "text": "ə",
+          "phonemeId": "ipa_schwa",
+          "phonemeIndex": 4
+        },
+        {
+          "text": "l",
+          "phonemeId": "ipa_l",
+          "phonemeIndex": 5
+        }
+      ],
+      "status": "pending",
+      "reviewer": null,
+      "origin": "AI-authored UK broad-transcription proposal",
+      "sourceReferences": [
+        {
+          "url": "https://dictionary.cambridge.org/pronunciation/",
+          "scope": "后续人工核验入口；该链接不证明本条转写已逐词核实。",
+          "checked": false
+        }
+      ],
+      "verificationNotes": [
+        "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    }
   ]
 };

@@ -25,4 +25,8 @@ id、name、type、wordIds[]、schemaVersion。收藏使用 phonics-planet:colle
 id、kind、accent、src（null 或路径/HTTPS URL）、status=missing/pending/verified、source、license、reviewer。仅 verified 且元数据齐全可播放。音频审核与语言 enrichment 审核独立。
 
 ## 审核
-pending 表示待核对，verified 需要来源及审核记录。页面只显示 verified enrichment 的 IPA/拆分；不能因为数据结构校验通过就改成已审核。词表与 44 音素可作为开发内容浏览，发布前仍需审核。
+pending 表示待核对，verified 需要来源及审核记录。不能因为结构校验通过就改成已审核。开发版由 config.showDraftPronunciations 控制显示 word-pronunciations.json 的待核对 IPA，并在详情/复习中标注；正式发布需关闭该开关且完成审核。音标显示、拼读对齐、录音审核分别管理，不能因缺录音隐藏已有音标。
+
+word-pronunciations.json 保存145条候选，wordId关联Word，displayTokens完整还原IPA。现代弱元音 /i/ 不属于传统44独立条目，其token保留原符号，phonemeId为空，不强行映射到 /ɪ/ 或 /iː/。read保留多读法候选，教材语境仍待核实。
+
+播放状态新增 currentTime/duration/progress，来自真实媒体时钟。现阶段渐变仅表示整词播放进度；精确音素同步必须使用单独审核的时间边界。系统试听资产只在浏览器预览内存中注入，status=preview、license=local-preview-only，正式数据与小程序禁止播放该状态。

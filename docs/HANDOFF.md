@@ -1,5 +1,13 @@
 # 开发交接 · 2026-09-08
 
+## 最新纠偏：音标必须成为词卡核心
+
+用户指出仅有单词释义卡偏离音标学习目标，现已补入145条待核对IPA并在详情/列表/复习显示。不要再因为整词录音缺失而把音标全部隐藏。详情提供可点击的音素入口；6条IPA有直接词典证据，其余139条AI草稿，全部pending，详见IPA-SOURCES.md。
+
+用户授权本地系统英式整词试听。浏览器服务以macOS Daniel按需生成WAV，音频不入Git，只在内存注入preview资产。正式配置allowPreviewAudio=false。AudioService新增真实currentTime/duration/progress，详情和复习渐变随整词时钟变化；未实现精确音素时间对齐，不能声称已经完成。
+
+当前32项测试及11页模板编译通过。浏览器实测gingerbread house显示 /ˈdʒɪndʒəbred ˌhaʊs/，系统文件时长1.410884秒，播放过程中音标着色宽度变化，结束归零。原生真机仍待验。以下第一轮记录是此前基线。
+
 ## 当前状态
 
 第一轮本地学习流程已实现，分支 `feat/learning-loop`。原仓库位于 `/Users/lvzheng/cursor/phonics-planet`，本轮未推送远程。实现过程使用独立工作树，最终提交后快进同步回原仓库。

@@ -25,7 +25,12 @@
     showToast({ title }) { toast(title); }, setNavigationBarTitle() {},
     setClipboardData({ data }) { navigator.clipboard.writeText(data).then(() => toast('来源链接已复制')); },
     createInnerAudioContext() {
-      const audio = new Audio(); return { set src(value) { audio.src = value; }, play() { audio.play().catch(() => audio.dispatchEvent(new Event('error'))); }, stop() { audio.pause(); }, destroy() { audio.pause(); audio.removeAttribute('src'); }, onEnded(fn) { audio.addEventListener('ended', fn); }, onError(fn) { audio.addEventListener('error', fn); }, onPlay(fn) { audio.addEventListener('playing', fn); } };
+      const audio = new Audio(); let timer;
+      return { set src(value) { audio.src = value; }, get currentTime() { return audio.currentTime; }, get duration() { return audio.duration; },
+        play() { audio.play().catch(() => audio.dispatchEvent(new Event('error'))); },
+        stop() { clearInterval(timer); audio.pause(); }, destroy() { clearInterval(timer); audio.pause(); audio.removeAttribute('src'); },
+        onTimeUpdate(fn) { audio.addEventListener('timeupdate', fn); audio.addEventListener('playing', () => { clearInterval(timer); timer = setInterval(fn, 60); }); },
+        onEnded(fn) { audio.addEventListener('ended', fn); }, onError(fn) { audio.addEventListener('error', fn); }, onPlay(fn) { audio.addEventListener('playing', fn); } };
     }
   };
   requireModule('components/audio-button/index.js');
@@ -59,6 +64,8 @@
     const dataset = {};
     for (const [k, v] of Object.entries(attr)) {
       if (k === 'class') element.className = v || '';
+      else if (k === 'style') element.style.cssText = v || '';
+      else if (k === 'aria-hidden' || k === 'ariaHidden') element.setAttribute('aria-hidden', v);
       else if (k === 'src') element.src = v;
       else if (k === 'url') element.href = '#' + v;
       else if (k === 'value') element.value = v || '';

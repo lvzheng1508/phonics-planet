@@ -10,7 +10,7 @@ Component({
   detached(){if(this.off)this.off();audio.stop(this.audioOwner);}
  },
  methods:{
-  check(){this.setData({ready:this.data.ids.length>0&&this.data.ids.every(id=>content.audioReady(id))});},
+  check(){this.setData({ready:this.data.ids.length>0&&this.data.ids.every(id=>content.audioPlayable(id))});},
   async play(){if(!this.data.ready)return;if(this.data.active){audio.stop(this.audioOwner);return;}try{const completed=await audio.play(this.data.ids,{owner:this.audioOwner});if(completed)this.triggerEvent('completed');}catch(error){wx.showToast({title:error.message,icon:'none'});}}
  }
 });

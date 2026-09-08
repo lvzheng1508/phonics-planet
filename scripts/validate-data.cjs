@@ -20,6 +20,14 @@ function validateWord(w) {
 }
 ws.forEach(validateWord);validateWord(read('examples/word-climb.json'));
 const samples = read('learning-samples.json'); unique(samples);
+const pronunciations = read('word-pronunciations.json');
+assert.equal(new Set(pronunciations.map(p => p.wordId)).size, ws.length);
+for (const p of pronunciations) {
+  assert.ok(wids.has(p.wordId)); assert.equal(p.status, 'pending'); assert.equal(p.reviewer, null);
+  assert.equal(p.displayTokens.map(t => t.text).join(''), p.ipa);
+  assert.deepEqual(p.displayTokens.filter(t => t.phonemeId).map(t => t.phonemeId), p.phonemes);
+  p.phonemes.forEach(id => assert.ok(pids.has(id))); assert.ok(p.sourceReferences.length);
+}
 for (const sample of samples) {
   assert.ok(wids.has(sample.wordId) && ws.find(w => w.id === sample.wordId).word === sample.word);
   assert.equal(sample.enrichmentStatus, 'pending');

@@ -3,6 +3,7 @@ const content = require('../miniprogram/services/content-service').createContent
 const words = data.words;
 const ready = words.filter(w => w.enrichmentStatus === 'verified');
 const report = { words: words.length, reviewedPronunciations: ready.length,
+  draftTranscriptions: (data.pronunciations || []).filter(p => p.status === 'pending').length,
   playableWords: words.filter(w => content.audioReady(w.audioId)).length,
   playablePhonemes: data.phonemes.filter(p => content.audioReady(p.audioId)).length,
   completeLearningWords: ready.filter(w => content.audioReady(w.audioId) && w.phonemes.every(id => content.audioReady(content.phoneme(id).audioId))).length,
