@@ -1,0 +1,19 @@
+[
+  {
+    "id": "planet-hero",
+    "path": "miniprogram/assets/images/planet-hero.png",
+    "source": "OpenAI image_gen; generated for this project 2026-09-08",
+    "type": "AI-generated original illustration",
+    "status": "design-ready",
+    "license": "Generated asset; review applicable service terms before public distribution",
+    "prompt": "Original mint-teal planet and abstract sound explorer, warm ivory background; no text or third-party characters."
+  },
+  {
+    "id": "icons",
+    "path": "assets/icons/",
+    "source": "Original SVG geometry authored for this project",
+    "type": "editable vector sources",
+    "status": "design-ready",
+    "license": "Project-authored; repository licensing not yet selected"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "认识这个声音",
+  "usingComponents": {
+    "audio-button": "/components/audio-button/index"
+  }
+}

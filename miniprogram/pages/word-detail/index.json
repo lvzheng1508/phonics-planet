@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "认识单词",
+  "usingComponents": {
+    "audio-button": "/components/audio-button/index"
+  }
+}

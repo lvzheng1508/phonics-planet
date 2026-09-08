@@ -1,0 +1,1 @@
+<view class="page" wx:if="{{unit}}"><view class="eyebrow">WORD EXPLORER</view><view class="title">{{unit.name}}</view><navigator class="card" wx:for="{{entries}}" wx:key="wordId" url="/pages/word-detail/index?id={{item.wordId}}"><view class="card-title">{{item.word}}</view><view class="muted">{{item.meaning}}</view></navigator></view><view wx:else class="empty">没有找到这个单元</view>

@@ -1,0 +1,12 @@
+{
+  "description": "拼读星球原生微信小程序骨架",
+  "miniprogramRoot": "miniprogram/",
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "projectname": "phonics-planet",
+  "setting": {
+    "es6": true,
+    "minified": true,
+    "urlCheck": true
+  }
+}

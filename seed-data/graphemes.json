@@ -1,0 +1,547 @@
+[
+  {
+    "id": "grapheme_i_short",
+    "spellings": [
+      "i",
+      "y"
+    ],
+    "phonemeIds": [
+      "ipa_i_short"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_e",
+    "spellings": [
+      "e",
+      "ea"
+    ],
+    "phonemeIds": [
+      "ipa_e"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_ae",
+    "spellings": [
+      "a"
+    ],
+    "phonemeIds": [
+      "ipa_ae"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_u_short",
+    "spellings": [
+      "oo",
+      "u",
+      "ou"
+    ],
+    "phonemeIds": [
+      "ipa_u_short"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_uh",
+    "spellings": [
+      "u",
+      "o",
+      "ou"
+    ],
+    "phonemeIds": [
+      "ipa_uh"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_o_short",
+    "spellings": [
+      "o",
+      "a"
+    ],
+    "phonemeIds": [
+      "ipa_o_short"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_schwa",
+    "spellings": [
+      "a",
+      "e",
+      "o"
+    ],
+    "phonemeIds": [
+      "ipa_schwa"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_i_long",
+    "spellings": [
+      "ee",
+      "ea",
+      "e"
+    ],
+    "phonemeIds": [
+      "ipa_i_long"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_a_long",
+    "spellings": [
+      "ar",
+      "a"
+    ],
+    "phonemeIds": [
+      "ipa_a_long"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_o_long",
+    "spellings": [
+      "or",
+      "aw",
+      "au"
+    ],
+    "phonemeIds": [
+      "ipa_o_long"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_u_long",
+    "spellings": [
+      "oo",
+      "ue",
+      "u_e"
+    ],
+    "phonemeIds": [
+      "ipa_u_long"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_er_long",
+    "spellings": [
+      "ir",
+      "ur",
+      "er"
+    ],
+    "phonemeIds": [
+      "ipa_er_long"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_ei",
+    "spellings": [
+      "ay",
+      "ai",
+      "a_e"
+    ],
+    "phonemeIds": [
+      "ipa_ei"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_ai",
+    "spellings": [
+      "i_e",
+      "igh",
+      "y",
+      "i"
+    ],
+    "phonemeIds": [
+      "ipa_ai"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_oi",
+    "spellings": [
+      "oi",
+      "oy"
+    ],
+    "phonemeIds": [
+      "ipa_oi"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_au",
+    "spellings": [
+      "ow",
+      "ou"
+    ],
+    "phonemeIds": [
+      "ipa_au"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_ou",
+    "spellings": [
+      "oa",
+      "ow",
+      "o_e"
+    ],
+    "phonemeIds": [
+      "ipa_ou"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_ia",
+    "spellings": [
+      "ear",
+      "eer"
+    ],
+    "phonemeIds": [
+      "ipa_ia"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_ea",
+    "spellings": [
+      "air",
+      "are",
+      "ear"
+    ],
+    "phonemeIds": [
+      "ipa_ea"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_ua",
+    "spellings": [
+      "our",
+      "ure"
+    ],
+    "phonemeIds": [
+      "ipa_ua"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_p",
+    "spellings": [
+      "p",
+      "pp"
+    ],
+    "phonemeIds": [
+      "ipa_p"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_b",
+    "spellings": [
+      "b",
+      "bb"
+    ],
+    "phonemeIds": [
+      "ipa_b"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_t",
+    "spellings": [
+      "t",
+      "tt"
+    ],
+    "phonemeIds": [
+      "ipa_t"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_d",
+    "spellings": [
+      "d",
+      "dd"
+    ],
+    "phonemeIds": [
+      "ipa_d"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_k",
+    "spellings": [
+      "c",
+      "k",
+      "ck"
+    ],
+    "phonemeIds": [
+      "ipa_k"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_g",
+    "spellings": [
+      "g",
+      "gg"
+    ],
+    "phonemeIds": [
+      "ipa_g"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_f",
+    "spellings": [
+      "f",
+      "ff",
+      "ph"
+    ],
+    "phonemeIds": [
+      "ipa_f"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_v",
+    "spellings": [
+      "v",
+      "ve"
+    ],
+    "phonemeIds": [
+      "ipa_v"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_th",
+    "spellings": [
+      "th"
+    ],
+    "phonemeIds": [
+      "ipa_th"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_dh",
+    "spellings": [
+      "th"
+    ],
+    "phonemeIds": [
+      "ipa_dh"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_s",
+    "spellings": [
+      "s",
+      "ss",
+      "c"
+    ],
+    "phonemeIds": [
+      "ipa_s"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_z",
+    "spellings": [
+      "z",
+      "zz",
+      "s"
+    ],
+    "phonemeIds": [
+      "ipa_z"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_sh",
+    "spellings": [
+      "sh",
+      "ti",
+      "ci"
+    ],
+    "phonemeIds": [
+      "ipa_sh"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_zh",
+    "spellings": [
+      "s",
+      "si"
+    ],
+    "phonemeIds": [
+      "ipa_zh"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_h",
+    "spellings": [
+      "h"
+    ],
+    "phonemeIds": [
+      "ipa_h"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_ch",
+    "spellings": [
+      "ch",
+      "tch"
+    ],
+    "phonemeIds": [
+      "ipa_ch"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_jh",
+    "spellings": [
+      "j",
+      "g",
+      "dge"
+    ],
+    "phonemeIds": [
+      "ipa_jh"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_m",
+    "spellings": [
+      "m",
+      "mm",
+      "mb"
+    ],
+    "phonemeIds": [
+      "ipa_m"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_n",
+    "spellings": [
+      "n",
+      "nn",
+      "kn"
+    ],
+    "phonemeIds": [
+      "ipa_n"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_ng",
+    "spellings": [
+      "ng",
+      "n"
+    ],
+    "phonemeIds": [
+      "ipa_ng"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_l",
+    "spellings": [
+      "l",
+      "ll"
+    ],
+    "phonemeIds": [
+      "ipa_l"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_r",
+    "spellings": [
+      "r",
+      "rr",
+      "wr"
+    ],
+    "phonemeIds": [
+      "ipa_r"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_w",
+    "spellings": [
+      "w",
+      "wh"
+    ],
+    "phonemeIds": [
+      "ipa_w"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  },
+  {
+    "id": "grapheme_y",
+    "spellings": [
+      "y",
+      "u"
+    ],
+    "phonemeIds": [
+      "ipa_y"
+    ],
+    "reviewStatus": "pending",
+    "note": "多对多候选关系，不是确定性字母转音标规则。"
+  }
+]

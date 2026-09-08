@@ -1,0 +1,49 @@
+{
+  "id": "word_climb",
+  "word": "climb",
+  "meanings": [
+    "爬"
+  ],
+  "accent": "en-GB",
+  "ipa": "klaɪm",
+  "syllables": [
+    "climb"
+  ],
+  "phonemes": [
+    "ipa_k",
+    "ipa_l",
+    "ipa_ai",
+    "ipa_m"
+  ],
+  "segments": [
+    {
+      "grapheme": "c",
+      "phonemeIds": [
+        "ipa_k"
+      ]
+    },
+    {
+      "grapheme": "l",
+      "phonemeIds": [
+        "ipa_l"
+      ]
+    },
+    {
+      "grapheme": "i",
+      "phonemeIds": [
+        "ipa_ai"
+      ]
+    },
+    {
+      "grapheme": "mb",
+      "phonemeIds": [
+        "ipa_m"
+      ],
+      "note": "b 不单独发音"
+    }
+  ],
+  "audioId": "word_climb",
+  "reviewStatus": "pending",
+  "enrichmentStatus": "pending",
+  "note": "仅供结构测试，未进入运行时词库的已审核发音字段。"
+}

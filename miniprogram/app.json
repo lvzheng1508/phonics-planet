@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/phonetic-chart/index",
+    "pages/phoneme-detail/index",
+    "pages/curriculum/index",
+    "pages/unit-detail/index",
+    "pages/word-detail/index",
+    "pages/my-words/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "拼读星球",
+    "navigationBarBackgroundColor": "#F7F6EF",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#F7F6EF"
+  },
+  "sitemapLocation": "sitemap.json"
+}

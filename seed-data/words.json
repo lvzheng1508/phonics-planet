@@ -1,0 +1,2613 @@
+[
+  {
+    "id": "word_was",
+    "word": "was",
+    "meanings": [
+      "是（am/is 的过去式）"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_was",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_climb",
+    "word": "climb",
+    "meanings": [
+      "爬"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_climb",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_kilometre",
+    "word": "kilometre",
+    "meanings": [
+      "公里"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_kilometre",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_gingerbread_house",
+    "word": "gingerbread house",
+    "meanings": [
+      "姜饼屋"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_gingerbread_house",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_go",
+    "word": "go",
+    "meanings": [
+      "去"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_go",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_send",
+    "word": "send",
+    "meanings": [
+      "寄送"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_send",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_thousand",
+    "word": "thousand",
+    "meanings": [
+      "一千"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_thousand",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_clay",
+    "word": "clay",
+    "meanings": [
+      "黏土"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_clay",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_see",
+    "word": "see",
+    "meanings": [
+      "看见"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_see",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_village",
+    "word": "village",
+    "meanings": [
+      "村庄"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_village",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_eat",
+    "word": "eat",
+    "meanings": [
+      "吃"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_eat",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_dry",
+    "word": "dry",
+    "meanings": [
+      "干燥的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_dry",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_take",
+    "word": "take",
+    "meanings": [
+      "做某个动作"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_take",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_view",
+    "word": "view",
+    "meanings": [
+      "风景"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_view",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_inspiring",
+    "word": "inspiring",
+    "meanings": [
+      "鼓舞人心的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_inspiring",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_bamboo",
+    "word": "bamboo",
+    "meanings": [
+      "竹子"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_bamboo",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_pumpkin",
+    "word": "pumpkin",
+    "meanings": [
+      "南瓜"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_pumpkin",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_restaurant",
+    "word": "restaurant",
+    "meanings": [
+      "餐厅"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_restaurant",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_airport",
+    "word": "airport",
+    "meanings": [
+      "机场"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_airport",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_new_zealand",
+    "word": "New Zealand",
+    "meanings": [
+      "新西兰"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_new_zealand",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_hong_kong_zhuhai_macao_bridge",
+    "word": "Hong Kong-Zhuhai-Macao Bridge",
+    "meanings": [
+      "港珠澳大桥"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_hong_kong_zhuhai_macao_bridge",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_paris",
+    "word": "Paris",
+    "meanings": [
+      "巴黎"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_paris",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_eiffel_tower",
+    "word": "Eiffel Tower",
+    "meanings": [
+      "埃菲尔铁塔"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_eiffel_tower",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_terracotta_warriors",
+    "word": "Terracotta Warriors",
+    "meanings": [
+      "兵马俑"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_terracotta_warriors",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_jinggangshan_revolution_museum",
+    "word": "Jinggangshan Revolution Museum",
+    "meanings": [
+      "井冈山革命博物馆"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_jinggangshan_revolution_museum",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_the_red_army",
+    "word": "the Red Army",
+    "meanings": [
+      "红军"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_the_red_army",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_dress",
+    "word": "dress",
+    "meanings": [
+      "穿衣"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_dress",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_paste",
+    "word": "paste",
+    "meanings": [
+      "粘贴"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_paste",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_gala",
+    "word": "gala",
+    "meanings": [
+      "庆典"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_gala",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_count_down",
+    "word": "count down",
+    "meanings": [
+      "倒计时"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_count_down",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_marathon",
+    "word": "marathon",
+    "meanings": [
+      "马拉松"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_marathon",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_as",
+    "word": "as",
+    "meanings": [
+      "作为"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_as",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_race",
+    "word": "race",
+    "meanings": [
+      "赛跑"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_race",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_run",
+    "word": "run",
+    "meanings": [
+      "跑步",
+      "使运行"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_run",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_cheer",
+    "word": "cheer",
+    "meanings": [
+      "欢呼"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_cheer",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_book_fair",
+    "word": "book fair",
+    "meanings": [
+      "书展"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_book_fair",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_read",
+    "word": "read",
+    "meanings": [
+      "阅读"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_read",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_writer",
+    "word": "writer",
+    "meanings": [
+      "作家"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_writer",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_make",
+    "word": "make",
+    "meanings": [
+      "制作"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_make",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_sing",
+    "word": "sing",
+    "meanings": [
+      "唱歌"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_sing",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_wear",
+    "word": "wear",
+    "meanings": [
+      "穿戴"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_wear",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_yesterday",
+    "word": "yesterday",
+    "meanings": [
+      "昨天"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_yesterday",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_notice",
+    "word": "notice",
+    "meanings": [
+      "通知"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_notice",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_wake",
+    "word": "wake",
+    "meanings": [
+      "醒来"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_wake",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_later",
+    "word": "later",
+    "meanings": [
+      "随后"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_later",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_judge",
+    "word": "judge",
+    "meanings": [
+      "裁判"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_judge",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_win",
+    "word": "win",
+    "meanings": [
+      "获胜"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_win",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_begin",
+    "word": "begin",
+    "meanings": [
+      "开始"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_begin",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_winner",
+    "word": "winner",
+    "meanings": [
+      "获胜者"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_winner",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_ever",
+    "word": "ever",
+    "meanings": [
+      "以往任何时候"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_ever",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_exciting",
+    "word": "exciting",
+    "meanings": [
+      "令人兴奋的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_exciting",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_cold",
+    "word": "cold",
+    "meanings": [
+      "感冒"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_cold",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_ill",
+    "word": "ill",
+    "meanings": [
+      "生病的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_ill",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_head",
+    "word": "head",
+    "meanings": [
+      "头"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_head",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_runny_nose",
+    "word": "runny nose",
+    "meanings": [
+      "流鼻涕"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_runny_nose",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_soon",
+    "word": "soon",
+    "meanings": [
+      "不久"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_soon",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_fever",
+    "word": "fever",
+    "meanings": [
+      "发烧"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_fever",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_cough",
+    "word": "cough",
+    "meanings": [
+      "咳嗽"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_cough",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_discuss",
+    "word": "discuss",
+    "meanings": [
+      "讨论"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_discuss",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_diet",
+    "word": "diet",
+    "meanings": [
+      "饮食"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_diet",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_stay_up",
+    "word": "stay up",
+    "meanings": [
+      "熬夜"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_stay_up",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_cry",
+    "word": "cry",
+    "meanings": [
+      "哭"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_cry",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_another",
+    "word": "another",
+    "meanings": [
+      "另一个"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_another",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_call",
+    "word": "call",
+    "meanings": [
+      "打电话"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_call",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_email",
+    "word": "email",
+    "meanings": [
+      "电子邮件"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_email",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_unhappy",
+    "word": "unhappy",
+    "meanings": [
+      "不开心的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_unhappy",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_glass",
+    "word": "glass",
+    "meanings": [
+      "一杯的量"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_glass",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_may",
+    "word": "may",
+    "meanings": [
+      "可能"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_may",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_add",
+    "word": "add",
+    "meanings": [
+      "添加"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_add",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_video",
+    "word": "video",
+    "meanings": [
+      "视频"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_video",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_better",
+    "word": "better",
+    "meanings": [
+      "好转的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_better",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_money",
+    "word": "money",
+    "meanings": [
+      "钱"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_money",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_pocket_money",
+    "word": "pocket money",
+    "meanings": [
+      "零花钱"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_pocket_money",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_schoolbag",
+    "word": "schoolbag",
+    "meanings": [
+      "书包"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_schoolbag",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_goods",
+    "word": "goods",
+    "meanings": [
+      "商品"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_goods",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_drink",
+    "word": "drink",
+    "meanings": [
+      "饮料"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_drink",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_service",
+    "word": "service",
+    "meanings": [
+      "服务"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_service",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_haircut",
+    "word": "haircut",
+    "meanings": [
+      "理发"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_haircut",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_microscope",
+    "word": "microscope",
+    "meanings": [
+      "显微镜"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_microscope",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_lucky",
+    "word": "lucky",
+    "meanings": [
+      "幸运的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_lucky",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_save_up",
+    "word": "save up",
+    "meanings": [
+      "攒钱"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_save_up",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_sale",
+    "word": "sale",
+    "meanings": [
+      "出售"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_sale",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_ticket",
+    "word": "ticket",
+    "meanings": [
+      "票"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_ticket",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_manage",
+    "word": "manage",
+    "meanings": [
+      "管理"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_manage",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_difficult",
+    "word": "difficult",
+    "meanings": [
+      "困难的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_difficult",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_sell",
+    "word": "sell",
+    "meanings": [
+      "售卖"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_sell",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_half",
+    "word": "half",
+    "meanings": [
+      "一半"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_half",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_for_example",
+    "word": "for example",
+    "meanings": [
+      "例如"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_for_example",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_planet",
+    "word": "planet",
+    "meanings": [
+      "行星"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_planet",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_earth",
+    "word": "earth",
+    "meanings": [
+      "地球"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_earth",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_sky",
+    "word": "sky",
+    "meanings": [
+      "天空"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_sky",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_daytime",
+    "word": "daytime",
+    "meanings": [
+      "白天"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_daytime",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_cloud",
+    "word": "cloud",
+    "meanings": [
+      "云"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_cloud",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_moon",
+    "word": "moon",
+    "meanings": [
+      "月球"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_moon",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_star",
+    "word": "star",
+    "meanings": [
+      "恒星"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_star",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_space",
+    "word": "space",
+    "meanings": [
+      "太空"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_space",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_outer_space",
+    "word": "outer space",
+    "meanings": [
+      "外太空"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_outer_space",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_space_station",
+    "word": "space station",
+    "meanings": [
+      "空间站"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_space_station",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_ocean",
+    "word": "ocean",
+    "meanings": [
+      "海洋"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_ocean",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_marble",
+    "word": "marble",
+    "meanings": [
+      "玻璃弹珠"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_marble",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_satellite",
+    "word": "satellite",
+    "meanings": [
+      "卫星"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_satellite",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_soil",
+    "word": "soil",
+    "meanings": [
+      "土壤"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_soil",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_alien",
+    "word": "alien",
+    "meanings": [
+      "外星生物"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_alien",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_sunrise",
+    "word": "sunrise",
+    "meanings": [
+      "日出"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_sunrise",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_rover",
+    "word": "rover",
+    "meanings": [
+      "探测车"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_rover",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_into",
+    "word": "into",
+    "meanings": [
+      "进入"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_into",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_telescope",
+    "word": "telescope",
+    "meanings": [
+      "望远镜"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_telescope",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_astronaut",
+    "word": "astronaut",
+    "meanings": [
+      "宇航员"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_astronaut",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_month",
+    "word": "month",
+    "meanings": [
+      "月份"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_month",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_spaceship",
+    "word": "spaceship",
+    "meanings": [
+      "宇宙飞船"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_spaceship",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_cloth",
+    "word": "cloth",
+    "meanings": [
+      "布"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_cloth",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_toothpaste",
+    "word": "toothpaste",
+    "meanings": [
+      "牙膏"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_toothpaste",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_taikonaut",
+    "word": "taikonaut",
+    "meanings": [
+      "中国航天员"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_taikonaut",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_question",
+    "word": "question",
+    "meanings": [
+      "问题"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_question",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_time",
+    "word": "time",
+    "meanings": [
+      "次数"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_time",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_sunset",
+    "word": "sunset",
+    "meanings": [
+      "日落"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_sunset",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_mars",
+    "word": "Mars",
+    "meanings": [
+      "火星"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_mars",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_power",
+    "word": "power",
+    "meanings": [
+      "能量"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_power",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_electricity",
+    "word": "electricity",
+    "meanings": [
+      "电"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_electricity",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_solar",
+    "word": "solar",
+    "meanings": [
+      "太阳的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_solar",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_type",
+    "word": "type",
+    "meanings": [
+      "类型"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_type",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_energy",
+    "word": "energy",
+    "meanings": [
+      "能源"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_energy",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_light",
+    "word": "light",
+    "meanings": [
+      "照亮"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_light",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_source",
+    "word": "source",
+    "meanings": [
+      "来源"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_source",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_heat",
+    "word": "heat",
+    "meanings": [
+      "加热"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_heat",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_cool",
+    "word": "cool",
+    "meanings": [
+      "冷却"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_cool",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_resource",
+    "word": "resource",
+    "meanings": [
+      "资源"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_resource",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_run_out",
+    "word": "run out",
+    "meanings": [
+      "用尽"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_run_out",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_few",
+    "word": "few",
+    "meanings": [
+      "很少"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_few",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_change",
+    "word": "change",
+    "meanings": [
+      "改变"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_change",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_quick",
+    "word": "quick",
+    "meanings": [
+      "快的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_quick",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_shower",
+    "word": "shower",
+    "meanings": [
+      "淋浴"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_shower",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_unplug",
+    "word": "unplug",
+    "meanings": [
+      "拔掉电源插头"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_unplug",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_difference",
+    "word": "difference",
+    "meanings": [
+      "差异"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_difference",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_reduce",
+    "word": "reduce",
+    "meanings": [
+      "减少"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_reduce",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_air_conditioner",
+    "word": "air conditioner",
+    "meanings": [
+      "空调"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_air_conditioner",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_drive",
+    "word": "drive",
+    "meanings": [
+      "驾驶"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_drive",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_reuse",
+    "word": "reuse",
+    "meanings": [
+      "重复使用"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_reuse",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_own",
+    "word": "own",
+    "meanings": [
+      "自己的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_own",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_market",
+    "word": "market",
+    "meanings": [
+      "市场"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_market",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_top",
+    "word": "top",
+    "meanings": [
+      "最高的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_top",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_bottle",
+    "word": "bottle",
+    "meanings": [
+      "瓶子"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_bottle",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_dirty",
+    "word": "dirty",
+    "meanings": [
+      "脏的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_dirty",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_side",
+    "word": "side",
+    "meanings": [
+      "一面"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_side",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  },
+  {
+    "id": "word_useful",
+    "word": "useful",
+    "meanings": [
+      "有用的"
+    ],
+    "accent": "en-GB",
+    "ipa": null,
+    "syllables": [],
+    "phonemes": [],
+    "segments": [],
+    "audioId": "word_useful",
+    "reviewStatus": "pending",
+    "enrichmentStatus": "pending",
+    "sourceIds": [
+      "pep-vocabulary-public"
+    ]
+  }
+]

@@ -1,0 +1,811 @@
+[
+  {
+    "id": "ipa_i_short",
+    "symbol": "ɪ",
+    "category": "vowel",
+    "subCategory": "short",
+    "accent": "en-GB",
+    "exampleWord": "ship",
+    "commonSpellings": [
+      "i",
+      "y"
+    ],
+    "contrast": [
+      "ipa_i_long"
+    ],
+    "audioId": "phoneme_i_short",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_e",
+    "symbol": "e",
+    "category": "vowel",
+    "subCategory": "short",
+    "accent": "en-GB",
+    "exampleWord": "bed",
+    "commonSpellings": [
+      "e",
+      "ea"
+    ],
+    "contrast": [
+      "ipa_ae"
+    ],
+    "audioId": "phoneme_e",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_ae",
+    "symbol": "æ",
+    "category": "vowel",
+    "subCategory": "short",
+    "accent": "en-GB",
+    "exampleWord": "cat",
+    "commonSpellings": [
+      "a"
+    ],
+    "contrast": [
+      "ipa_e"
+    ],
+    "audioId": "phoneme_ae",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_u_short",
+    "symbol": "ʊ",
+    "category": "vowel",
+    "subCategory": "short",
+    "accent": "en-GB",
+    "exampleWord": "book",
+    "commonSpellings": [
+      "oo",
+      "u",
+      "ou"
+    ],
+    "contrast": [
+      "ipa_u_long"
+    ],
+    "audioId": "phoneme_u_short",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_uh",
+    "symbol": "ʌ",
+    "category": "vowel",
+    "subCategory": "short",
+    "accent": "en-GB",
+    "exampleWord": "cup",
+    "commonSpellings": [
+      "u",
+      "o",
+      "ou"
+    ],
+    "contrast": [
+      "ipa_a_long"
+    ],
+    "audioId": "phoneme_uh",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_o_short",
+    "symbol": "ɒ",
+    "category": "vowel",
+    "subCategory": "short",
+    "accent": "en-GB",
+    "exampleWord": "dog",
+    "commonSpellings": [
+      "o",
+      "a"
+    ],
+    "contrast": [
+      "ipa_o_long"
+    ],
+    "audioId": "phoneme_o_short",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_schwa",
+    "symbol": "ə",
+    "category": "vowel",
+    "subCategory": "short",
+    "accent": "en-GB",
+    "exampleWord": "about",
+    "commonSpellings": [
+      "a",
+      "e",
+      "o"
+    ],
+    "contrast": [
+      "ipa_er_long"
+    ],
+    "audioId": "phoneme_schwa",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_i_long",
+    "symbol": "iː",
+    "category": "vowel",
+    "subCategory": "long",
+    "accent": "en-GB",
+    "exampleWord": "sheep",
+    "commonSpellings": [
+      "ee",
+      "ea",
+      "e"
+    ],
+    "contrast": [
+      "ipa_i_short"
+    ],
+    "audioId": "phoneme_i_long",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_a_long",
+    "symbol": "ɑː",
+    "category": "vowel",
+    "subCategory": "long",
+    "accent": "en-GB",
+    "exampleWord": "car",
+    "commonSpellings": [
+      "ar",
+      "a"
+    ],
+    "contrast": [
+      "ipa_uh"
+    ],
+    "audioId": "phoneme_a_long",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_o_long",
+    "symbol": "ɔː",
+    "category": "vowel",
+    "subCategory": "long",
+    "accent": "en-GB",
+    "exampleWord": "fork",
+    "commonSpellings": [
+      "or",
+      "aw",
+      "au"
+    ],
+    "contrast": [
+      "ipa_o_short"
+    ],
+    "audioId": "phoneme_o_long",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_u_long",
+    "symbol": "uː",
+    "category": "vowel",
+    "subCategory": "long",
+    "accent": "en-GB",
+    "exampleWord": "moon",
+    "commonSpellings": [
+      "oo",
+      "ue",
+      "u_e"
+    ],
+    "contrast": [
+      "ipa_u_short"
+    ],
+    "audioId": "phoneme_u_long",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_er_long",
+    "symbol": "ɜː",
+    "category": "vowel",
+    "subCategory": "long",
+    "accent": "en-GB",
+    "exampleWord": "bird",
+    "commonSpellings": [
+      "ir",
+      "ur",
+      "er"
+    ],
+    "contrast": [
+      "ipa_schwa"
+    ],
+    "audioId": "phoneme_er_long",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_ei",
+    "symbol": "eɪ",
+    "category": "vowel",
+    "subCategory": "diphthong",
+    "accent": "en-GB",
+    "exampleWord": "day",
+    "commonSpellings": [
+      "ay",
+      "ai",
+      "a_e"
+    ],
+    "contrast": [
+      "ipa_ai"
+    ],
+    "audioId": "phoneme_ei",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_ai",
+    "symbol": "aɪ",
+    "category": "vowel",
+    "subCategory": "diphthong",
+    "accent": "en-GB",
+    "exampleWord": "bike",
+    "commonSpellings": [
+      "i_e",
+      "igh",
+      "y",
+      "i"
+    ],
+    "contrast": [
+      "ipa_ei"
+    ],
+    "audioId": "phoneme_ai",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_oi",
+    "symbol": "ɔɪ",
+    "category": "vowel",
+    "subCategory": "diphthong",
+    "accent": "en-GB",
+    "exampleWord": "coin",
+    "commonSpellings": [
+      "oi",
+      "oy"
+    ],
+    "contrast": [
+      "ipa_ai"
+    ],
+    "audioId": "phoneme_oi",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_au",
+    "symbol": "aʊ",
+    "category": "vowel",
+    "subCategory": "diphthong",
+    "accent": "en-GB",
+    "exampleWord": "cow",
+    "commonSpellings": [
+      "ow",
+      "ou"
+    ],
+    "contrast": [
+      "ipa_ou"
+    ],
+    "audioId": "phoneme_au",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_ou",
+    "symbol": "əʊ",
+    "category": "vowel",
+    "subCategory": "diphthong",
+    "accent": "en-GB",
+    "exampleWord": "boat",
+    "commonSpellings": [
+      "oa",
+      "ow",
+      "o_e"
+    ],
+    "contrast": [
+      "ipa_au"
+    ],
+    "audioId": "phoneme_ou",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_ia",
+    "symbol": "ɪə",
+    "category": "vowel",
+    "subCategory": "diphthong",
+    "accent": "en-GB",
+    "exampleWord": "ear",
+    "commonSpellings": [
+      "ear",
+      "eer"
+    ],
+    "contrast": [
+      "ipa_ea"
+    ],
+    "audioId": "phoneme_ia",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_ea",
+    "symbol": "eə",
+    "category": "vowel",
+    "subCategory": "diphthong",
+    "accent": "en-GB",
+    "exampleWord": "chair",
+    "commonSpellings": [
+      "air",
+      "are",
+      "ear"
+    ],
+    "contrast": [
+      "ipa_ia"
+    ],
+    "audioId": "phoneme_ea",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_ua",
+    "symbol": "ʊə",
+    "category": "vowel",
+    "subCategory": "diphthong",
+    "accent": "en-GB",
+    "exampleWord": "tour",
+    "commonSpellings": [
+      "our",
+      "ure"
+    ],
+    "contrast": [
+      "ipa_o_long"
+    ],
+    "audioId": "phoneme_ua",
+    "reviewStatus": "pending",
+    "note": "传统 /ʊə/；现代英式中部分词可合并至 /ɔː/，需按词典口音核对。"
+  },
+  {
+    "id": "ipa_p",
+    "symbol": "p",
+    "category": "consonant",
+    "subCategory": "plosive",
+    "accent": "en-GB",
+    "exampleWord": "pen",
+    "commonSpellings": [
+      "p",
+      "pp"
+    ],
+    "contrast": [
+      "ipa_b"
+    ],
+    "audioId": "phoneme_p",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_b",
+    "symbol": "b",
+    "category": "consonant",
+    "subCategory": "plosive",
+    "accent": "en-GB",
+    "exampleWord": "bag",
+    "commonSpellings": [
+      "b",
+      "bb"
+    ],
+    "contrast": [
+      "ipa_p"
+    ],
+    "audioId": "phoneme_b",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_t",
+    "symbol": "t",
+    "category": "consonant",
+    "subCategory": "plosive",
+    "accent": "en-GB",
+    "exampleWord": "top",
+    "commonSpellings": [
+      "t",
+      "tt"
+    ],
+    "contrast": [
+      "ipa_d"
+    ],
+    "audioId": "phoneme_t",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_d",
+    "symbol": "d",
+    "category": "consonant",
+    "subCategory": "plosive",
+    "accent": "en-GB",
+    "exampleWord": "dog",
+    "commonSpellings": [
+      "d",
+      "dd"
+    ],
+    "contrast": [
+      "ipa_t"
+    ],
+    "audioId": "phoneme_d",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_k",
+    "symbol": "k",
+    "category": "consonant",
+    "subCategory": "plosive",
+    "accent": "en-GB",
+    "exampleWord": "cat",
+    "commonSpellings": [
+      "c",
+      "k",
+      "ck"
+    ],
+    "contrast": [
+      "ipa_g"
+    ],
+    "audioId": "phoneme_k",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_g",
+    "symbol": "ɡ",
+    "category": "consonant",
+    "subCategory": "plosive",
+    "accent": "en-GB",
+    "exampleWord": "go",
+    "commonSpellings": [
+      "g",
+      "gg"
+    ],
+    "contrast": [
+      "ipa_k"
+    ],
+    "audioId": "phoneme_g",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_f",
+    "symbol": "f",
+    "category": "consonant",
+    "subCategory": "fricative",
+    "accent": "en-GB",
+    "exampleWord": "fish",
+    "commonSpellings": [
+      "f",
+      "ff",
+      "ph"
+    ],
+    "contrast": [
+      "ipa_v"
+    ],
+    "audioId": "phoneme_f",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_v",
+    "symbol": "v",
+    "category": "consonant",
+    "subCategory": "fricative",
+    "accent": "en-GB",
+    "exampleWord": "van",
+    "commonSpellings": [
+      "v",
+      "ve"
+    ],
+    "contrast": [
+      "ipa_f"
+    ],
+    "audioId": "phoneme_v",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_th",
+    "symbol": "θ",
+    "category": "consonant",
+    "subCategory": "fricative",
+    "accent": "en-GB",
+    "exampleWord": "thin",
+    "commonSpellings": [
+      "th"
+    ],
+    "contrast": [
+      "ipa_dh"
+    ],
+    "audioId": "phoneme_th",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_dh",
+    "symbol": "ð",
+    "category": "consonant",
+    "subCategory": "fricative",
+    "accent": "en-GB",
+    "exampleWord": "this",
+    "commonSpellings": [
+      "th"
+    ],
+    "contrast": [
+      "ipa_th"
+    ],
+    "audioId": "phoneme_dh",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_s",
+    "symbol": "s",
+    "category": "consonant",
+    "subCategory": "fricative",
+    "accent": "en-GB",
+    "exampleWord": "sun",
+    "commonSpellings": [
+      "s",
+      "ss",
+      "c"
+    ],
+    "contrast": [
+      "ipa_z"
+    ],
+    "audioId": "phoneme_s",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_z",
+    "symbol": "z",
+    "category": "consonant",
+    "subCategory": "fricative",
+    "accent": "en-GB",
+    "exampleWord": "zoo",
+    "commonSpellings": [
+      "z",
+      "zz",
+      "s"
+    ],
+    "contrast": [
+      "ipa_s"
+    ],
+    "audioId": "phoneme_z",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_sh",
+    "symbol": "ʃ",
+    "category": "consonant",
+    "subCategory": "fricative",
+    "accent": "en-GB",
+    "exampleWord": "ship",
+    "commonSpellings": [
+      "sh",
+      "ti",
+      "ci"
+    ],
+    "contrast": [
+      "ipa_zh"
+    ],
+    "audioId": "phoneme_sh",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_zh",
+    "symbol": "ʒ",
+    "category": "consonant",
+    "subCategory": "fricative",
+    "accent": "en-GB",
+    "exampleWord": "vision",
+    "commonSpellings": [
+      "s",
+      "si"
+    ],
+    "contrast": [
+      "ipa_sh"
+    ],
+    "audioId": "phoneme_zh",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_h",
+    "symbol": "h",
+    "category": "consonant",
+    "subCategory": "fricative",
+    "accent": "en-GB",
+    "exampleWord": "hat",
+    "commonSpellings": [
+      "h"
+    ],
+    "contrast": [
+      "ipa_f"
+    ],
+    "audioId": "phoneme_h",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_ch",
+    "symbol": "tʃ",
+    "category": "consonant",
+    "subCategory": "affricate",
+    "accent": "en-GB",
+    "exampleWord": "cheese",
+    "commonSpellings": [
+      "ch",
+      "tch"
+    ],
+    "contrast": [
+      "ipa_jh"
+    ],
+    "audioId": "phoneme_ch",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_jh",
+    "symbol": "dʒ",
+    "category": "consonant",
+    "subCategory": "affricate",
+    "accent": "en-GB",
+    "exampleWord": "jam",
+    "commonSpellings": [
+      "j",
+      "g",
+      "dge"
+    ],
+    "contrast": [
+      "ipa_ch"
+    ],
+    "audioId": "phoneme_jh",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_m",
+    "symbol": "m",
+    "category": "consonant",
+    "subCategory": "nasal",
+    "accent": "en-GB",
+    "exampleWord": "moon",
+    "commonSpellings": [
+      "m",
+      "mm",
+      "mb"
+    ],
+    "contrast": [
+      "ipa_n"
+    ],
+    "audioId": "phoneme_m",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_n",
+    "symbol": "n",
+    "category": "consonant",
+    "subCategory": "nasal",
+    "accent": "en-GB",
+    "exampleWord": "net",
+    "commonSpellings": [
+      "n",
+      "nn",
+      "kn"
+    ],
+    "contrast": [
+      "ipa_ng"
+    ],
+    "audioId": "phoneme_n",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_ng",
+    "symbol": "ŋ",
+    "category": "consonant",
+    "subCategory": "nasal",
+    "accent": "en-GB",
+    "exampleWord": "sing",
+    "commonSpellings": [
+      "ng",
+      "n"
+    ],
+    "contrast": [
+      "ipa_n"
+    ],
+    "audioId": "phoneme_ng",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_l",
+    "symbol": "l",
+    "category": "consonant",
+    "subCategory": "approximant",
+    "accent": "en-GB",
+    "exampleWord": "leg",
+    "commonSpellings": [
+      "l",
+      "ll"
+    ],
+    "contrast": [
+      "ipa_r"
+    ],
+    "audioId": "phoneme_l",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_r",
+    "symbol": "r",
+    "category": "consonant",
+    "subCategory": "approximant",
+    "accent": "en-GB",
+    "exampleWord": "red",
+    "commonSpellings": [
+      "r",
+      "rr",
+      "wr"
+    ],
+    "contrast": [
+      "ipa_l"
+    ],
+    "audioId": "phoneme_r",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_w",
+    "symbol": "w",
+    "category": "consonant",
+    "subCategory": "approximant",
+    "accent": "en-GB",
+    "exampleWord": "wet",
+    "commonSpellings": [
+      "w",
+      "wh"
+    ],
+    "contrast": [
+      "ipa_v"
+    ],
+    "audioId": "phoneme_w",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  },
+  {
+    "id": "ipa_y",
+    "symbol": "j",
+    "category": "consonant",
+    "subCategory": "approximant",
+    "accent": "en-GB",
+    "exampleWord": "yes",
+    "commonSpellings": [
+      "y",
+      "u"
+    ],
+    "contrast": [
+      "ipa_jh"
+    ],
+    "audioId": "phoneme_y",
+    "reviewStatus": "pending",
+    "note": "传统英式教学音素；具体口音有变体。"
+  }
+]
