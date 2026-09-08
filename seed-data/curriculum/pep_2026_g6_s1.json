@@ -1,0 +1,636 @@
+{
+  "id": "pep_2026_g6_s1",
+  "name": "人教 PEP 六年级上册 · 2026",
+  "publisher": "人民教育出版社",
+  "edition": "2026",
+  "grade": 6,
+  "semester": 1,
+  "accent": "en-GB",
+  "reviewStatus": "pending",
+  "sourceIds": [
+    "pep-official",
+    "pep-vocabulary-public"
+  ],
+  "units": [
+    {
+      "id": "unit_1",
+      "name": "Amazing places",
+      "entries": [
+        {
+          "wordId": "word_was",
+          "meaning": "是（am/is 的过去式）"
+        },
+        {
+          "wordId": "word_climb",
+          "meaning": "爬"
+        },
+        {
+          "wordId": "word_kilometre",
+          "meaning": "公里"
+        },
+        {
+          "wordId": "word_gingerbread_house",
+          "meaning": "姜饼屋"
+        },
+        {
+          "wordId": "word_go",
+          "meaning": "去"
+        },
+        {
+          "wordId": "word_send",
+          "meaning": "寄送"
+        },
+        {
+          "wordId": "word_thousand",
+          "meaning": "一千"
+        },
+        {
+          "wordId": "word_clay",
+          "meaning": "黏土"
+        },
+        {
+          "wordId": "word_see",
+          "meaning": "看见"
+        },
+        {
+          "wordId": "word_village",
+          "meaning": "村庄"
+        },
+        {
+          "wordId": "word_eat",
+          "meaning": "吃"
+        },
+        {
+          "wordId": "word_dry",
+          "meaning": "干燥的"
+        },
+        {
+          "wordId": "word_take",
+          "meaning": "做某个动作"
+        },
+        {
+          "wordId": "word_view",
+          "meaning": "风景"
+        },
+        {
+          "wordId": "word_inspiring",
+          "meaning": "鼓舞人心的"
+        },
+        {
+          "wordId": "word_bamboo",
+          "meaning": "竹子"
+        },
+        {
+          "wordId": "word_pumpkin",
+          "meaning": "南瓜"
+        },
+        {
+          "wordId": "word_restaurant",
+          "meaning": "餐厅"
+        },
+        {
+          "wordId": "word_airport",
+          "meaning": "机场"
+        },
+        {
+          "wordId": "word_new_zealand",
+          "meaning": "新西兰"
+        },
+        {
+          "wordId": "word_hong_kong_zhuhai_macao_bridge",
+          "meaning": "港珠澳大桥"
+        },
+        {
+          "wordId": "word_paris",
+          "meaning": "巴黎"
+        },
+        {
+          "wordId": "word_eiffel_tower",
+          "meaning": "埃菲尔铁塔"
+        },
+        {
+          "wordId": "word_terracotta_warriors",
+          "meaning": "兵马俑"
+        },
+        {
+          "wordId": "word_jinggangshan_revolution_museum",
+          "meaning": "井冈山革命博物馆"
+        },
+        {
+          "wordId": "word_the_red_army",
+          "meaning": "红军"
+        }
+      ]
+    },
+    {
+      "id": "unit_2",
+      "name": "Getting together",
+      "entries": [
+        {
+          "wordId": "word_dress",
+          "meaning": "穿衣"
+        },
+        {
+          "wordId": "word_paste",
+          "meaning": "粘贴"
+        },
+        {
+          "wordId": "word_gala",
+          "meaning": "庆典"
+        },
+        {
+          "wordId": "word_count_down",
+          "meaning": "倒计时"
+        },
+        {
+          "wordId": "word_marathon",
+          "meaning": "马拉松"
+        },
+        {
+          "wordId": "word_as",
+          "meaning": "作为"
+        },
+        {
+          "wordId": "word_race",
+          "meaning": "赛跑"
+        },
+        {
+          "wordId": "word_run",
+          "meaning": "跑步"
+        },
+        {
+          "wordId": "word_cheer",
+          "meaning": "欢呼"
+        },
+        {
+          "wordId": "word_book_fair",
+          "meaning": "书展"
+        },
+        {
+          "wordId": "word_read",
+          "meaning": "阅读"
+        },
+        {
+          "wordId": "word_writer",
+          "meaning": "作家"
+        },
+        {
+          "wordId": "word_make",
+          "meaning": "制作"
+        },
+        {
+          "wordId": "word_sing",
+          "meaning": "唱歌"
+        },
+        {
+          "wordId": "word_wear",
+          "meaning": "穿戴"
+        },
+        {
+          "wordId": "word_yesterday",
+          "meaning": "昨天"
+        },
+        {
+          "wordId": "word_notice",
+          "meaning": "通知"
+        },
+        {
+          "wordId": "word_wake",
+          "meaning": "醒来"
+        },
+        {
+          "wordId": "word_later",
+          "meaning": "随后"
+        },
+        {
+          "wordId": "word_judge",
+          "meaning": "裁判"
+        },
+        {
+          "wordId": "word_win",
+          "meaning": "获胜"
+        },
+        {
+          "wordId": "word_begin",
+          "meaning": "开始"
+        },
+        {
+          "wordId": "word_winner",
+          "meaning": "获胜者"
+        },
+        {
+          "wordId": "word_ever",
+          "meaning": "以往任何时候"
+        },
+        {
+          "wordId": "word_exciting",
+          "meaning": "令人兴奋的"
+        }
+      ]
+    },
+    {
+      "id": "unit_3",
+      "name": "Healthy life",
+      "entries": [
+        {
+          "wordId": "word_cold",
+          "meaning": "感冒"
+        },
+        {
+          "wordId": "word_ill",
+          "meaning": "生病的"
+        },
+        {
+          "wordId": "word_head",
+          "meaning": "头"
+        },
+        {
+          "wordId": "word_runny_nose",
+          "meaning": "流鼻涕"
+        },
+        {
+          "wordId": "word_soon",
+          "meaning": "不久"
+        },
+        {
+          "wordId": "word_fever",
+          "meaning": "发烧"
+        },
+        {
+          "wordId": "word_cough",
+          "meaning": "咳嗽"
+        },
+        {
+          "wordId": "word_discuss",
+          "meaning": "讨论"
+        },
+        {
+          "wordId": "word_diet",
+          "meaning": "饮食"
+        },
+        {
+          "wordId": "word_stay_up",
+          "meaning": "熬夜"
+        },
+        {
+          "wordId": "word_cry",
+          "meaning": "哭"
+        },
+        {
+          "wordId": "word_another",
+          "meaning": "另一个"
+        },
+        {
+          "wordId": "word_call",
+          "meaning": "打电话"
+        },
+        {
+          "wordId": "word_email",
+          "meaning": "电子邮件"
+        },
+        {
+          "wordId": "word_unhappy",
+          "meaning": "不开心的"
+        },
+        {
+          "wordId": "word_glass",
+          "meaning": "一杯的量"
+        },
+        {
+          "wordId": "word_may",
+          "meaning": "可能"
+        },
+        {
+          "wordId": "word_add",
+          "meaning": "添加"
+        },
+        {
+          "wordId": "word_video",
+          "meaning": "视频"
+        },
+        {
+          "wordId": "word_better",
+          "meaning": "好转的"
+        }
+      ]
+    },
+    {
+      "id": "unit_4",
+      "name": "Managing money well",
+      "entries": [
+        {
+          "wordId": "word_money",
+          "meaning": "钱"
+        },
+        {
+          "wordId": "word_pocket_money",
+          "meaning": "零花钱"
+        },
+        {
+          "wordId": "word_schoolbag",
+          "meaning": "书包"
+        },
+        {
+          "wordId": "word_goods",
+          "meaning": "商品"
+        },
+        {
+          "wordId": "word_drink",
+          "meaning": "饮料"
+        },
+        {
+          "wordId": "word_service",
+          "meaning": "服务"
+        },
+        {
+          "wordId": "word_haircut",
+          "meaning": "理发"
+        },
+        {
+          "wordId": "word_microscope",
+          "meaning": "显微镜"
+        },
+        {
+          "wordId": "word_lucky",
+          "meaning": "幸运的"
+        },
+        {
+          "wordId": "word_save_up",
+          "meaning": "攒钱"
+        },
+        {
+          "wordId": "word_sale",
+          "meaning": "出售"
+        },
+        {
+          "wordId": "word_ticket",
+          "meaning": "票"
+        },
+        {
+          "wordId": "word_manage",
+          "meaning": "管理"
+        },
+        {
+          "wordId": "word_difficult",
+          "meaning": "困难的"
+        },
+        {
+          "wordId": "word_sell",
+          "meaning": "售卖"
+        },
+        {
+          "wordId": "word_half",
+          "meaning": "一半"
+        },
+        {
+          "wordId": "word_for_example",
+          "meaning": "例如"
+        }
+      ]
+    },
+    {
+      "id": "unit_5",
+      "name": "Exploring space",
+      "entries": [
+        {
+          "wordId": "word_planet",
+          "meaning": "行星"
+        },
+        {
+          "wordId": "word_earth",
+          "meaning": "地球"
+        },
+        {
+          "wordId": "word_sky",
+          "meaning": "天空"
+        },
+        {
+          "wordId": "word_daytime",
+          "meaning": "白天"
+        },
+        {
+          "wordId": "word_cloud",
+          "meaning": "云"
+        },
+        {
+          "wordId": "word_moon",
+          "meaning": "月球"
+        },
+        {
+          "wordId": "word_star",
+          "meaning": "恒星"
+        },
+        {
+          "wordId": "word_space",
+          "meaning": "太空"
+        },
+        {
+          "wordId": "word_outer_space",
+          "meaning": "外太空"
+        },
+        {
+          "wordId": "word_space_station",
+          "meaning": "空间站"
+        },
+        {
+          "wordId": "word_ocean",
+          "meaning": "海洋"
+        },
+        {
+          "wordId": "word_marble",
+          "meaning": "玻璃弹珠"
+        },
+        {
+          "wordId": "word_satellite",
+          "meaning": "卫星"
+        },
+        {
+          "wordId": "word_soil",
+          "meaning": "土壤"
+        },
+        {
+          "wordId": "word_alien",
+          "meaning": "外星生物"
+        },
+        {
+          "wordId": "word_sunrise",
+          "meaning": "日出"
+        },
+        {
+          "wordId": "word_rover",
+          "meaning": "探测车"
+        },
+        {
+          "wordId": "word_into",
+          "meaning": "进入"
+        },
+        {
+          "wordId": "word_telescope",
+          "meaning": "望远镜"
+        },
+        {
+          "wordId": "word_astronaut",
+          "meaning": "宇航员"
+        },
+        {
+          "wordId": "word_month",
+          "meaning": "月份"
+        },
+        {
+          "wordId": "word_spaceship",
+          "meaning": "宇宙飞船"
+        },
+        {
+          "wordId": "word_cloth",
+          "meaning": "布"
+        },
+        {
+          "wordId": "word_toothpaste",
+          "meaning": "牙膏"
+        },
+        {
+          "wordId": "word_taikonaut",
+          "meaning": "中国航天员"
+        },
+        {
+          "wordId": "word_question",
+          "meaning": "问题"
+        },
+        {
+          "wordId": "word_time",
+          "meaning": "次数"
+        },
+        {
+          "wordId": "word_sunset",
+          "meaning": "日落"
+        },
+        {
+          "wordId": "word_mars",
+          "meaning": "火星"
+        }
+      ]
+    },
+    {
+      "id": "unit_6",
+      "name": "Energy, nature and us",
+      "entries": [
+        {
+          "wordId": "word_power",
+          "meaning": "能量"
+        },
+        {
+          "wordId": "word_electricity",
+          "meaning": "电"
+        },
+        {
+          "wordId": "word_solar",
+          "meaning": "太阳的"
+        },
+        {
+          "wordId": "word_type",
+          "meaning": "类型"
+        },
+        {
+          "wordId": "word_energy",
+          "meaning": "能源"
+        },
+        {
+          "wordId": "word_light",
+          "meaning": "照亮"
+        },
+        {
+          "wordId": "word_source",
+          "meaning": "来源"
+        },
+        {
+          "wordId": "word_heat",
+          "meaning": "加热"
+        },
+        {
+          "wordId": "word_cool",
+          "meaning": "冷却"
+        },
+        {
+          "wordId": "word_run",
+          "meaning": "使运行"
+        },
+        {
+          "wordId": "word_resource",
+          "meaning": "资源"
+        },
+        {
+          "wordId": "word_run_out",
+          "meaning": "用尽"
+        },
+        {
+          "wordId": "word_few",
+          "meaning": "很少"
+        },
+        {
+          "wordId": "word_change",
+          "meaning": "改变"
+        },
+        {
+          "wordId": "word_quick",
+          "meaning": "快的"
+        },
+        {
+          "wordId": "word_shower",
+          "meaning": "淋浴"
+        },
+        {
+          "wordId": "word_unplug",
+          "meaning": "拔掉电源插头"
+        },
+        {
+          "wordId": "word_difference",
+          "meaning": "差异"
+        },
+        {
+          "wordId": "word_reduce",
+          "meaning": "减少"
+        },
+        {
+          "wordId": "word_air_conditioner",
+          "meaning": "空调"
+        },
+        {
+          "wordId": "word_drive",
+          "meaning": "驾驶"
+        },
+        {
+          "wordId": "word_reuse",
+          "meaning": "重复使用"
+        },
+        {
+          "wordId": "word_own",
+          "meaning": "自己的"
+        },
+        {
+          "wordId": "word_market",
+          "meaning": "市场"
+        },
+        {
+          "wordId": "word_top",
+          "meaning": "最高的"
+        },
+        {
+          "wordId": "word_bottle",
+          "meaning": "瓶子"
+        },
+        {
+          "wordId": "word_dirty",
+          "meaning": "脏的"
+        },
+        {
+          "wordId": "word_side",
+          "meaning": "一面"
+        },
+        {
+          "wordId": "word_useful",
+          "meaning": "有用的"
+        }
+      ]
+    }
+  ]
+}
