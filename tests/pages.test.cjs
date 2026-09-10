@@ -1,6 +1,7 @@
 const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const path=require('node:path');
+const fs=require('node:fs');
 function harness(){
   const db={}; const navigations=[]; const toasts=[];
   global.wx={getStorageSync:k=>db[k],setStorageSync:(k,v)=>{db[k]=structuredClone(v);},navigateTo:({url})=>navigations.push(url),showToast:x=>toasts.push(x.title),setNavigationBarTitle(){}};
@@ -41,6 +42,14 @@ test('review requires reveal and guards double submission before next card',()=>
 test('practice with no eligible source data shows empty state instead of fabricated question',()=>{
   const h=harness();const p=h.load('practice',{type:'listen-word'});
   assert.equal(p.data.current,null);assert.equal(p.data.empty,true);
+});
+
+test('audio button component uses WeChat-compatible class selectors',()=>{
+  const wxml=fs.readFileSync(path.resolve(__dirname,'../miniprogram/components/audio-button/index.wxml'),'utf8');
+  const wxss=fs.readFileSync(path.resolve(__dirname,'../miniprogram/components/audio-button/index.wxss'),'utf8');
+  assert.match(wxml,/class="audio-button__control/);
+  assert.doesNotMatch(wxss,/(^|[},])\s*button(?=[\[:{])/);
+  assert.doesNotMatch(wxss,/\[[^\]]+\]/);
 });
 test('storage save failure leaves review card unanswered and retryable',()=>{
   const h=harness();const w=h.load('word-detail',{id:'word_moon'});w.toggle();const p=h.load('review');p.reveal();
