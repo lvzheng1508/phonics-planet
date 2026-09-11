@@ -58,7 +58,7 @@ http.createServer((req, res) => {
   if (pathname.startsWith('/assets/')) {
     const target = path.resolve(root, '.' + decodeURIComponent(pathname));
     if (!target.startsWith(root + path.sep) || !fs.existsSync(target) || !fs.statSync(target).isFile()) { res.statusCode = 404; res.end(); return; }
-    res.setHeader('Content-Type', target.endsWith('.png') ? 'image/png' : target.endsWith('.mp3') ? 'audio/mpeg' : 'application/octet-stream'); fs.createReadStream(target).pipe(res); return;
+    res.setHeader('Content-Type', target.endsWith('.jpg') ? 'image/jpeg' : target.endsWith('.png') ? 'image/png' : target.endsWith('.mp3') ? 'audio/mpeg' : 'application/octet-stream'); fs.createReadStream(target).pipe(res); return;
   }
   res.statusCode = 404; res.end('Not found');
 }).listen(4173, '127.0.0.1', () => console.log('Local preview: http://127.0.0.1:4173 (not a WeChat runtime)'));

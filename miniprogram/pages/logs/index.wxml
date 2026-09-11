@@ -1,0 +1,10 @@
+<view class="page">
+  <view class="title">诊断日志</view>
+  <view class="muted">仅保存在本机，保留最近 100 条。异常后点击复制，将日志发给开发者。地址查询参数和常见凭据字段会隐藏，不记录学习内容。</view>
+  <view wx:if="{{!persisted}}" class="notice">本地写入失败，当前日志仅在本次运行中可用，请及时复制。</view>
+  <button class="primary" bindtap="copy">复制全部日志</button>
+  <button class="secondary" bindtap="refresh">刷新</button>
+  <button class="secondary" bindtap="clear">清除日志</button>
+  <view wx:if="{{!entries.length}}" class="card">暂无日志，请返回复现问题后再查看。</view>
+  <view wx:for="{{entries}}" wx:key="index" class="card log-entry"><view>{{item.time}}</view><view class="event">{{item.event}}</view><text selectable="true">{{item.detail}}</text></view>
+</view>

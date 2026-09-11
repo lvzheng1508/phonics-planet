@@ -1,0 +1,34 @@
+[
+  {
+    "id": "probe_i_mp3",
+    "label": "[i] 真人参考录音 · MP3",
+    "symbol": "[i]",
+    "src": "resource://audio/phonemes/reference/i.v1.mp3",
+    "sha1": "33564b061037423e8423c5e068b85e6a27479e63",
+    "bytes": 8195,
+    "extension": "mp3",
+    "status": "technical-sample",
+    "source": "https://commons.wikimedia.org/wiki/File:Close_front_unrounded_vowel.ogg",
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "OGG converted to mono MP3, 44.1 kHz, 96 kbps. No trimming or pitch changes.",
+    "review": "Original bytes matched Commons SHA-1. British teaching suitability and listening review pending."
+  },
+  {
+    "id": "probe_i_wav",
+    "label": "[i] 同一录音 · WAV",
+    "symbol": "[i]",
+    "src": "resource://audio/phonemes/reference/i.v1.wav",
+    "sha1": "916eef94fe0e683a3bd218b60d5af146fc7d7e9b",
+    "bytes": 26602,
+    "extension": "wav",
+    "status": "technical-sample",
+    "source": "https://commons.wikimedia.org/wiki/File:Close_front_unrounded_vowel.ogg",
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "OGG converted to mono PCM WAV, 22.05 kHz, 16 bit. No trimming or pitch changes.",
+    "review": "Original bytes matched Commons SHA-1. British teaching suitability and listening review pending."
+  }
+]

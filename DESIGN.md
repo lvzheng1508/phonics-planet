@@ -10,7 +10,7 @@
 系统无衬线；IPA 使用带 IPA 覆盖的系统字体回退。必须在 iOS、Android 真机确认 ɪ/iː、ʊ/uː、θ/ð、æ、ŋ、ʒ、ɜː。未打包第三方字体。
 
 ## 素材
-首页实际使用 miniprogram/assets/images/planet-hero.png；源记录在 assets/manifest.json。assets/icons 是原创线性 SVG 源文件，可供后续导出小程序 PNG；不依赖 SVG 在所有小程序渲染器中可用。
+首页实际使用 miniprogram/assets/images/planet-hero.jpg（900×600，约 72 KiB）；原始 PNG 留在 assets/source-images/，不打入小程序包。源记录在 assets/manifest.json。assets/icons 是原创线性 SVG 源文件，可供后续导出小程序 PNG；不依赖 SVG 在所有小程序渲染器中可用。
 示意布局见 docs/wireframes.html，属于静态设计参考。
 
 ## 交互

@@ -46,5 +46,32 @@ for (const candidate of read('audio-candidates.json').candidates) {
 const registry=read('curriculum/index.json');assert.equal(new Set(registry).size,registry.length);
 for(const id of registry) {assert.match(id,/^[a-z0-9_]+$/);const c=read('curriculum/'+id+'.json');assert.equal(c.id,id);unique(c.units);for(const u of c.units) {assert.ok(u.name); for(const e of u.entries) assert.ok(wids.has(e.wordId) && e.meaning);}}
 const pep=read('curriculum/pep_2026_g6_s1.json');assert.equal(pep.units.length,6);assert.equal(pep.units.flatMap(u=>u.entries).length,146);assert.equal(new Set(pep.units.flatMap(u=>u.entries.map(e=>e.wordId))).size,145);
-for(const a of audio) { assert.ok(['missing','pending','verified'].includes(a.status));if(a.status==='verified') {assert.ok(a.src && a.source && a.license && a.reviewer); if(!a.src.startsWith('https://')) {assert.ok(a.src.startsWith('/assets/audio/') && !a.src.includes('..')); assert.ok(fs.existsSync(path.join(root,'miniprogram',a.src)));} } }
+const { isResourceDescriptor, createUrlProvider } = require('../miniprogram/services/resource-service');
+const validateResource = asset => {
+  assert.ok(isResourceDescriptor(asset), 'Resource requires sha1, bytes and extension: ' + asset.id);
+  createUrlProvider('https://validation.invalid')(asset);
+};
+for(const a of audio) {
+  assert.ok(['missing','pending','verified','synthetic-preview'].includes(a.status));
+  if(a.status==='synthetic-preview') {
+    assert.equal(a.kind,'word'); assert.equal(a.reviewStatus,'pending'); assert.equal(a.reviewer,null);
+    assert.ok(a.source && a.license && a.licenseUrl && a.generator && a.generator.modelSha256 && a.text);
+    validateResource(a);
+  }
+  if(a.status==='verified') {
+    assert.ok(a.src && a.source && a.license && a.reviewer);
+    if(a.src.startsWith('resource://')) validateResource(a);
+    else if(!a.src.startsWith('https://')) {
+      assert.ok(a.src.startsWith('/assets/audio/') && !a.src.includes('..'));
+      assert.ok(fs.existsSync(path.join(root,'miniprogram',a.src)));
+    }
+  }
+}
+const resourceSamples = read('resource-samples.json');
+unique(resourceSamples);
+for (const sample of resourceSamples) {
+  validateResource(sample);
+  assert.ok(sample.status === 'technical-sample' && sample.author && sample.source && sample.license && sample.licenseUrl && sample.review);
+  assert.ok(!aids.has(sample.id), 'Technical samples must not enter teaching audio manifest');
+}
 console.log('Data OK: 44 phonemes, 6 PEP units, 146 entries, 145 unique PEP words.');

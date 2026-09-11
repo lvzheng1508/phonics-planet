@@ -1,7 +1,9 @@
 [
   {
     "id": "planet-hero",
-    "path": "miniprogram/assets/images/planet-hero.png",
+    "path": "miniprogram/assets/images/planet-hero.jpg",
+    "originalPath": "assets/source-images/planet-hero.png",
+    "conversion": "sips JPEG quality 78, maximum dimension 900px; 73188 bytes",
     "source": "OpenAI image_gen; generated for this project 2026-09-08",
     "type": "AI-generated original illustration",
     "status": "design-ready",

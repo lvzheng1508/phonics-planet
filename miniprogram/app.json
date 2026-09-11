@@ -10,7 +10,9 @@
     "pages/today/index",
     "pages/review/index",
     "pages/practice/index",
-    "pages/credits/index"
+    "pages/credits/index",
+    "pages/resource-test/index",
+    "pages/logs/index"
   ],
   "window": {
     "navigationBarTitleText": "拼读星球",
@@ -18,5 +20,6 @@
     "navigationBarTextStyle": "black",
     "backgroundColor": "#F7F6EF"
   },
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
 }

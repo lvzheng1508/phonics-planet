@@ -1,2 +1,2 @@
 // Development content is labelled pending in UI and rejected by release checks.
-module.exports = { showDraftPronunciations: true, allowPreviewAudio: false };
+module.exports = { showDraftPronunciations: true, allowPreviewAudio: false, allowSyntheticWordAudio: true };

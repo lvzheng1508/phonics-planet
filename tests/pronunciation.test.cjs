@@ -23,7 +23,7 @@ test('preview audio policy cannot make synthetic or pending phoneme recordings p
 });
 test('every curriculum word displays labelled IPA independently of missing recordings',()=>{
  const data=require('../miniprogram/data/generated');
- const content=require('../miniprogram/services/content-service').createContentService(data);
+ const content=require('../miniprogram/services/content-service').createContentService({...data,audio:data.audio.map(a=>({...a,src:null,status:'missing'}))});
  for(const word of data.words){
    const detail=content.detail(word.id);
    assert.ok(detail.hasIpa,word.word);assert.ok(detail.pronunciationPending);

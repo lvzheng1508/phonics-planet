@@ -22,7 +22,7 @@ function createContentService(source, user) {
     },
     audio: id => find(source.audio, id),
     audioReady(id) { const a = api.audio(id); return !!(a && a.status === 'verified' && a.src && a.source && a.license && a.reviewer); },
-    audioPlayable(id) { return isPlayableAsset(api.audio(id), config.allowPreviewAudio); },
+    audioPlayable(id) { return isPlayableAsset(api.audio(id), config.allowPreviewAudio, config.allowSyntheticWordAudio); },
     transcription(id) { return find(source.pronunciations || [], id) || (source.pronunciations || []).find(x => x.wordId === id); },
     detail(id, context = {}) {
       const word = api.word(id); if (!word) return null;
@@ -42,6 +42,7 @@ function createContentService(source, user) {
         pronunciationVariants: draft && draft.variants || [],
         phonemes, segments, syllables: ready ? pronunciation.syllables : [], audioId,
         audioPreview: !!(api.audio(audioId) && api.audio(audioId).status === 'preview'),
+        audioSynthetic: !!(api.audio(audioId) && api.audio(audioId).status === 'synthetic-preview'),
         audioPlayable: api.audioPlayable(audioId),
         audioReady: api.audioReady(audioId), sequenceReady: ready && phonemes.length > 0 && phonemes.every(p => api.audioReady(p.audioId)),
         sequence: phonemes.map(p => p.audioId), sounds: phonemes.map((p, i) => ({ ...p, key: String(i), index: i, audioIds: [p.audioId], playable: api.audioReady(p.audioId) })) };

@@ -1,0 +1,25 @@
+<view class="page">
+  <view class="title">音频来源与调试</view>
+  <navigator url="/pages/logs/index" class="primary-link">查看诊断日志 / 复制异常 →</navigator>
+  <view class="card muted">在这里查看来源、单独下载和试听。真人参考录音与 AI 合成音均保留各自许可；技术试听不代表已完成教学审核。</view>
+  <view class="card">
+    <view>缓存 {{stats.count || 0}} / {{stats.maxFiles || 100}} 个 · {{stats.bytes || 0}} 字节</view>
+    <view>本次运行：下载 {{stats.downloads || 0}} 次 · 命中 {{stats.hits || 0}} 次</view>
+    <view class="muted">FIFO · 容量上限 8 MiB · 重启后保留文件</view>
+    <view>播放状态：{{state}} · {{progress}}%</view>
+    <view class="message">{{message}}</view>
+  </view>
+  <view class="card" wx:for="{{items}}" wx:key="id">
+    <view wx:if="{{item.selected}}" class="message">本次失败音频 · 已定位</view>
+    <view class="card-title">{{item.label}}</view>
+    <view class="muted">{{item.bytes}} 字节 · {{item.author}} · {{item.license}}</view>
+    <view class="muted">{{item.note}}</view>
+    <button class="secondary" disabled="{{busy}}" data-id="{{item.id}}" bindtap="download">下载 / 检查缓存</button>
+    <button class="primary" data-id="{{item.id}}" bindtap="play">技术试听</button>
+    <button class="secondary" data-source="{{item.source}}" bindtap="copySource">复制录音来源</button>
+    <button class="secondary" data-source="{{item.licenseUrl}}" bindtap="copySource">复制许可链接</button>
+  </view>
+  <button class="secondary" bindtap="stop">停止播放</button>
+  <button class="secondary" disabled="{{busy}}" bindtap="clear">清除音频缓存</button>
+  <view class="footnote">先联网下载，再重复试听、重新打开小程序或断网试听，观察是否继续命中缓存。真机测试需在后台配置 downloadFile 合法域名；关闭域名校验的结果不代表正式环境可用。</view>
+</view>

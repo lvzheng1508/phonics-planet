@@ -5,6 +5,7 @@ const ready = words.filter(w => w.enrichmentStatus === 'verified');
 const report = { words: words.length, reviewedPronunciations: ready.length,
   draftTranscriptions: (data.pronunciations || []).filter(p => p.status === 'pending').length,
   playableWords: words.filter(w => content.audioReady(w.audioId)).length,
+  syntheticWordPreviews: words.filter(w => content.audio(w.audioId)?.status === 'synthetic-preview').length,
   playablePhonemes: data.phonemes.filter(p => content.audioReady(p.audioId)).length,
   completeLearningWords: ready.filter(w => content.audioReady(w.audioId) && w.phonemes.every(id => content.audioReady(content.phoneme(id).audioId))).length,
   curriculumStatus: data.curriculums.map(c => ({ id: c.id, status: c.reviewStatus })) };
