@@ -8,10 +8,12 @@ function createWxResourceAdapter(api, namespace) {
   try { fs.accessSync(root); } catch (_) { fs.mkdirSync(root, true); }
   const call = (method, args) => new Promise((resolve, reject) => fs[method]({ ...args, success: resolve, fail: e => { log.record('file.' + method + '.error', {args,error:e}); reject(Error(e.errMsg || '本地文件操作失败')); } }));
   async function describeHtml(filePath, contentType) {
+    const summary = {responseSummary:null,summaryTruncated:false,summaryReadError:null,actualBytes:null};
     try {
       const info = await call('getFileInfo', {filePath});
+      summary.actualBytes = info.size;
       const length = Math.min(info.size, 4096);
-      if (!Number.isFinite(length) || length <= 0) return;
+      if (!Number.isFinite(length) || length <= 0) { summary.summaryReadError = 'Empty or unavailable response body'; return summary; }
       const result = await call('readFile', {filePath,encoding:'utf8',position:0,length});
       if (result.data === '') {
         // Some native responses return an empty decoded string despite a nonempty file.
@@ -32,6 +34,8 @@ function createWxResourceAdapter(api, namespace) {
       }
       const visible = String(result.data).replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1\s*>/gi,' ')
         .replace(/<!--[\s\S]*?-->/g,' ').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim();
+      summary.responseSummary = visible.slice(0,400);
+      summary.summaryTruncated = info.size>length || visible.length>400;
       log.record('download.html', {contentType,decodedAs:'utf8',text:visible.slice(0,800),truncated:info.size>length || visible.length>800});
       if (!visible) {
         // Inspect script-only error pages as inert text; never evaluate or render their HTML.
@@ -39,9 +43,13 @@ function createWxResourceAdapter(api, namespace) {
           .replace(/<input\b[^>]*>/gi,'[input omitted]')
           .replace(/(token|cookie|authorization|password|secret)\s*[:=]\s*["']?[^\s"'<>;]+/gi,'$1=[redacted]')
           .replace(/\s+/g,' ').slice(0,800);
+        summary.responseSummary = source.slice(0,400) || null;
+        summary.summaryTruncated = info.size>length || String(result.data).length>400;
+        if (!source) summary.summaryReadError = 'Response body could not be decoded';
         log.record('download.html.source', {source,decodedAs:'utf8',truncated:info.size>length || String(result.data).length>800});
       }
-    } catch (error) { log.record('download.html.readError', {filePath,error}); }
+    } catch (error) { summary.summaryReadError = String(error.message || error).slice(0,250); log.record('download.html.readError', {filePath,error}); }
+    return summary;
   }
   return {
     readIndex() { try { const entries = JSON.parse(fs.readFileSync(root + '/index.json', 'utf8')); return Array.isArray(entries) ? entries.filter(e => e && isOwned(e.path) && e.path === root + '/' + e.key) : []; } catch (_) { return []; } },
@@ -67,21 +75,37 @@ function createWxResourceAdapter(api, namespace) {
         throw error;
       } finally { temporaryFiles.delete(filePath); }
     },
-    download: url => new Promise((resolve, reject) => {
+    download: (url, diagnostic = {}) => new Promise((resolve, reject) => {
       log.record('download.start', {url});
       api.downloadFile({ url, timeout: 15000, success: async result => {
         const headers = result.header || {};
         const header = name => headers[Object.keys(headers).find(key => key.toLowerCase() === name)];
+        const field = name => header(name) == null ? null : String(header(name)).slice(0,800);
+        Object.assign(diagnostic, {statusCode:result.statusCode,contentType:field('content-type'),contentLength:field('content-length'),location:field('location')});
         log.record('download.response', {url,statusCode:result.statusCode,tempFilePath:result.tempFilePath,contentType:header('content-type'),contentLength:header('content-length'),location:header('location')});
-        if (result.tempFilePath && (/text\/html|application\/xhtml/i.test(String(header('content-type') || '')) || /\.html?$/i.test(result.tempFilePath))) {
-          await describeHtml(result.tempFilePath, header('content-type'));
+        const isHtml = /text\/html|application\/xhtml/i.test(String(header('content-type') || ''));
+        if (result.tempFilePath && (isHtml || /\.html?$/i.test(result.tempFilePath))) {
+          Object.assign(diagnostic, await describeHtml(result.tempFilePath, header('content-type')));
+        }
+        if (isHtml) {
+          if (result.tempFilePath) { try { fs.unlink({filePath:result.tempFilePath,fail() {}}); } catch (_) {} }
+          const error = Error('资源服务返回了网页而非音频，请检查公开下载地址');
+          error.code = 'RESOURCE_HTML_RESPONSE';
+          log.record('download.invalidContent', {url,contentType:header('content-type'),error});
+          reject(error); return;
         }
         if (result.statusCode === 200 && result.tempFilePath) { temporaryFiles.add(result.tempFilePath); resolve(result.tempFilePath); }
         else {
           if (result.tempFilePath) fs.unlink({ filePath: result.tempFilePath, fail() {} });
           reject(Error('资源下载失败（HTTP ' + result.statusCode + '）'));
         }
-      }, fail: error => { log.record('download.error', {url,error}); reject(Error(error.errMsg || '资源下载失败，请检查网络和下载域名配置')); } });
+      }, fail: error => {
+        diagnostic.nativeErrorCode = error.errno == null ? (error.errCode == null ? null : error.errCode) : error.errno;
+        log.record('download.error', {url,error});
+        const failure = Error(error.errMsg || '资源下载失败，请检查网络和下载域名配置');
+        if (/url not in domain list/i.test(failure.message)) failure.code = 'RESOURCE_DOMAIN_BLOCKED';
+        reject(failure);
+      } });
     })
   };
 }

@@ -6,5 +6,5 @@
   <button class="secondary" bindtap="refresh">刷新</button>
   <button class="secondary" bindtap="clear">清除日志</button>
   <view wx:if="{{!entries.length}}" class="card">暂无日志，请返回复现问题后再查看。</view>
-  <view wx:for="{{entries}}" wx:key="index" class="card log-entry"><view>{{item.time}}</view><view class="event">{{item.event}}</view><text selectable="true">{{item.detail}}</text></view>
+  <view wx:for="{{entries}}" wx:key="index" class="card log-entry"><view>{{item.time}}</view><view class="event">{{item.event}}</view><text selectable="true">{{item.detail}}</text><button wx:if="{{item.event === 'resource.error'}}" class="secondary" data-index="{{index}}" bindtap="copyEntry">复制这条失败日志</button></view>
 </view>

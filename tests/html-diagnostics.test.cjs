@@ -26,7 +26,9 @@ test('HTML download logs bounded visible text, never reads normal audio, and tol
       }),
       downloadFile(a){a.success({statusCode:200,tempFilePath:'wxfile://tmp.'+(mode==='audio'?'mp3':'html'),header:{'Content-Type':[mode==='audio'?'audio/mpeg':'text/html; charset=gbk']}});}
     };
-    await createWxResourceAdapter(api,'test').download('https://example.test/sample.mp3');
+    const download = createWxResourceAdapter(api,'test').download('https://example.test/sample.mp3');
+    if (mode==='audio') await download;
+    else await assert.rejects(download, e=>e.code==='RESOURCE_HTML_RESPONSE');
     const entries=log.list();
     if(mode==='html') {
       const detail=JSON.parse(entries.find(e=>e.event==='download.html').detail);
@@ -46,4 +48,16 @@ test('HTML download logs bounded visible text, never reads normal audio, and tol
     } else if(mode==='denied') assert.match(log.export(),/readFile:fail permission denied/);
     else assert.ok(!entries.some(e=>e.event.startsWith('download.html')));
   }
+});
+
+test('HTTP 200 HTML is a resource-host error, not a successful audio download', async () => {
+  const removed=[];
+  const api={env:{USER_DATA_PATH:'wxfile://usr'},getFileSystemManager:()=>({
+    accessSync(){},getFileInfo(a){a.success({size:34});},readFile(a){a.success({data:'<html><title>Sign in</title></html>'});},
+    unlink(a){removed.push(a.filePath);a.success?.();}
+  }),downloadFile(a){a.success({statusCode:200,tempFilePath:'wxfile://login.html',header:{'Content-Type':'text/html; charset=utf-8'}});}};
+  await assert.rejects(createWxResourceAdapter(api,'test').download('https://example.test/word.mp3'), error=>{
+    assert.equal(error.code,'RESOURCE_HTML_RESPONSE');assert.match(error.message,/网页/);return true;
+  });
+  assert.deepEqual(removed,['wxfile://login.html']);
 });

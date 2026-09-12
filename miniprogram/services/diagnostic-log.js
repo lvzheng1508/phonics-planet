@@ -1,4 +1,6 @@
 const KEY = 'phonics-diagnostics-v1';
+// Keep aggregated request/response diagnostics intact within a bounded history.
+const DETAIL_LIMIT = 8192;
 function createLogger(storage) {
   let entries = [], loaded = false, persisted = true;
   function clean(value) {
@@ -11,11 +13,23 @@ function createLogger(storage) {
       if (v && typeof v === 'object') { if (seen.has(v)) return '[circular]'; seen.add(v); }
       return v;
     }); } catch (_) { text = '[unserializable]'; }
-    return String(text || '').slice(0, 1600);
+    return String(text || '').slice(0, DETAIL_LIMIT);
+  }
+  function restoreDetail(detail) {
+    // Older versions stringified the saved JSON again on every launch.
+    let value = detail;
+    for (let i = 0; i < 16 && typeof value === 'string'; i++) {
+      try { value = JSON.parse(value); } catch (_) { break; }
+    }
+    if (typeof value === 'string') {
+      // Keep already-redacted/truncated text stable across subsequent restarts.
+      return value.replace(/https?:\/\/[^\s"'<>]+/g, url => url.split(/[?#]/)[0].replace(/^(https?:\/\/)[^/@]*@/, '$1[redacted]@')).slice(0,DETAIL_LIMIT);
+    }
+    return clean(value);
   }
   function init() {
     if (loaded) return; loaded = true;
-    try { const saved = storage.get(); if (Array.isArray(saved)) entries = saved.slice(-100).filter(e => e && typeof e.time === 'string' && typeof e.event === 'string' && typeof e.detail === 'string').map(e => ({time:e.time.slice(0,30),event:e.event.slice(0,80),detail:clean(e.detail)})); } catch (_) {}
+    try { const saved = storage.get(); if (Array.isArray(saved)) entries = saved.slice(-100).filter(e => e && typeof e.time === 'string' && typeof e.event === 'string' && typeof e.detail === 'string').map(e => ({time:e.time.slice(0,30),event:e.event.slice(0,80),detail:restoreDetail(e.detail)})); } catch (_) {}
   }
   function save() { try { storage.set(entries); persisted = true; } catch (_) { persisted = false; } }
   return {

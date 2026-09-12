@@ -24,3 +24,11 @@ test('missing recordings never download, and late downloads cannot update a deta
  definition.lifetimes.detached.call(instance);resolve({release:()=>released++});await new Promise(setImmediate);
  assert.equal(released,1);assert.equal(instance.data.ready,false);
 });
+test('download errors share a friendly retry message and clear on success',async()=>{
+ for(const code of ['RESOURCE_HTML_RESPONSE','RESOURCE_DOMAIN_BLOCKED',undefined]){
+  let fail=true;
+  const mounted=mount(async()=>{if(fail)throw Object.assign(Error('detail'),{code});return{release(){}};});
+  await new Promise(setImmediate);assert.equal(mounted.instance.data.errorMessage,'音频暂时无法加载，请稍后再试');
+  fail=false;await mounted.instance.check();assert.equal(mounted.instance.data.errorMessage,'');
+ }
+});

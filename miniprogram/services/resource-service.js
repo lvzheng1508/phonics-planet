@@ -15,7 +15,7 @@ function isResourceDescriptor(a) {
 }
 function createResourceCache(adapter, provider, { maxFiles = 100, maxBytes = 8 * 1024 * 1024 } = {}) {
   let entries = [], initialized = false, tail = Promise.resolve();
-  let downloads = 0, hits = 0;
+  let downloads = 0, hits = 0, requestCounter = 0;
   const pins = new Map();
   const persist = () => adapter.writeIndex(entries);
   const keyOf = a => a.sha1 + '.' + a.extension;
@@ -56,30 +56,47 @@ function createResourceCache(adapter, provider, { maxFiles = 100, maxBytes = 8 *
       entries = entries.filter(e => e !== existing); persist();
     }
     let temporary, saved;
+    // This object belongs to one request; the adapter enriches it even when
+    // download succeeds but validation or saving subsequently fails.
+    const diagnostic = {
+      requestId: 'resource-' + Date.now() + '-' + (++requestCounter),
+      id: asset.id, word: asset.text || null, key, requestUrl: null, stage: 'prepare',
+      statusCode: null, contentType: null, contentLength: null, location: null,
+      responseSummary: null, summaryTruncated: false, summaryReadError: null,
+      expectedBytes: asset.bytes, actualBytes: null, expectedSha1: asset.sha1,
+      actualSha1: null, nativeErrorCode: null
+    };
     try {
       downloads++;
-      temporary = await adapter.download(provider(asset));
+      diagnostic.requestUrl = provider(asset);
+      diagnostic.stage = 'download';
+      temporary = await adapter.download(diagnostic.requestUrl, diagnostic);
+      diagnostic.stage = 'validate';
       const info = await adapter.info(temporary);
+      diagnostic.actualBytes = info.size; diagnostic.actualSha1 = info.digest;
       log.record('resource.validation', {id:asset.id,key,expectedBytes:asset.bytes,actualBytes:info.size,expectedSha1:asset.sha1,actualSha1:info.digest});
       if (info.size !== asset.bytes || info.digest !== asset.sha1) throw Error('资源校验失败，请检查下载链接');
+      diagnostic.stage = 'cache-evict';
       while (entries.length >= maxFiles || bytes() + asset.bytes > maxBytes) {
         const oldest = entries.find(e => !pins.has(e.key));
         if (!oldest) throw Error('缓存资源使用中，请稍后重试');
         await adapter.remove(oldest.path);
         entries = entries.filter(e => e !== oldest); persist();
       }
+      diagnostic.stage = 'cache-save';
       saved = await adapter.save(temporary, key);
       log.record('cache.saved', {id:asset.id,key,path:saved});
       // wx.saveFile consumes the temporary download path. It must not be unlinked again.
       temporary = undefined;
       const entry = { key, sha1: asset.sha1, extension: asset.extension, bytes: asset.bytes, path: saved };
       entries.push(entry);
+      diagnostic.stage = 'cache-index';
       try { persist(); } catch (error) {
         entries = entries.filter(e => e !== entry); await adapter.remove(saved); throw error;
       }
       return lease(entry, false);
     } catch (error) {
-      log.record('resource.error', {id:asset.id,key,error});
+      log.record('resource.error', { ...diagnostic, error: {code:error.code || null,message:String(error.message || error).slice(0,500)} });
       throw error;
     } finally {
       if (temporary && temporary !== saved) {

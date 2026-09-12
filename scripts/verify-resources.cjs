@@ -18,6 +18,8 @@ if (localIndex >= 0 && !directory) throw Error('--local needs a resource reposit
       if (directory) bytes = fs.readFileSync(path.join(directory, sample.src.slice('resource://'.length)));
       else {
         const response = await fetch(url, { signal: AbortSignal.timeout(20000), redirect: 'follow' });
+        const type = response.headers.get('content-type') || '';
+        if (/text\/html|application\/xhtml/i.test(type)) throw Error('Expected resource, received HTML from ' + response.url.split(/[?#]/)[0] + ' (HTTP ' + response.status + ')');
         if (!response.ok) throw Error('HTTP ' + response.status);
         bytes = Buffer.from(await response.arrayBuffer());
       }

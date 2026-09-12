@@ -4,7 +4,7 @@ const resources=require('../../services/resource-service');
 let counter=0;
 Component({
  properties:{ids:{type:Array,value:[]},label:{type:String,value:'听发音'},owner:{type:String,value:''},compact:{type:Boolean,value:false}},
- data:{ready:false,active:false,loading:false,preparing:false,downloadError:false},
+ data:{ready:false,active:false,loading:false,preparing:false,downloadError:false,errorMessage:''},
  observers:{ids(){this.check();}},
  lifetimes:{
   attached(){this.alive=true;this.audioOwner=this.data.owner||'audio-button-'+(++counter);this.check();this.off=audio.subscribe(s=>{const active=s.owner===this.audioOwner&&(s.status==='loading'||s.status==='playing');this.setData({active,loading:active&&s.status==='loading'});});},
@@ -19,7 +19,7 @@ Component({
     audio.stop(this.audioOwner);
     const ids=this.data.ids.slice();
     const available=ids.length>0&&ids.every(id=>content.audioPlayable(id));
-    this.setData({ready:false,preparing:false,downloadError:false});
+    this.setData({ready:false,preparing:false,downloadError:false,errorMessage:''});
     if(!available)return;
     const remote=ids.map(id=>content.audio(id)).filter(a=>a&&String(a.src).startsWith('resource://'));
     if(!remote.length){this.setData({ready:true});return;}
@@ -31,7 +31,7 @@ Component({
         const lease=await resources.acquire(asset);lease.release();
       }
       if(this.alive&&!this.hidden&&this.generation===generation)this.setData({ready:true,preparing:false});
-    }catch(error){if(this.alive&&!this.hidden&&this.generation===generation)this.setData({preparing:false,downloadError:true});}
+    }catch(error){if(this.alive&&!this.hidden&&this.generation===generation)this.setData({preparing:false,downloadError:true,errorMessage:'音频暂时无法加载，请稍后再试'});}
   },
   debug(){const id=this.failedId||this.data.ids[0];if(id)wx.navigateTo({url:'/pages/resource-test/index?id='+encodeURIComponent(id)});},
   async play(){if(this.data.downloadError){this.check();return;}if(!this.data.ready)return;if(this.data.active){audio.stop(this.audioOwner);return;}try{const completed=await audio.play(this.data.ids,{owner:this.audioOwner});if(completed)this.triggerEvent('completed');}catch(error){wx.showToast({title:error.message,icon:'none'});}}
