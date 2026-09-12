@@ -31,9 +31,9 @@ Component({
         const lease=await resources.acquire(asset);lease.release();
       }
       if(this.alive&&!this.hidden&&this.generation===generation)this.setData({ready:true,preparing:false});
-    }catch(error){if(this.alive&&!this.hidden&&this.generation===generation)this.setData({preparing:false,downloadError:true,errorMessage:'音频暂时无法加载，请稍后再试'});}
+    }catch(error){if(this.alive&&!this.hidden&&this.generation===generation)this.setData({preparing:false,downloadError:true,errorMessage:'尚未下载音频'});}
   },
   debug(){const id=this.failedId||this.data.ids[0];if(id)wx.navigateTo({url:'/pages/resource-test/index?id='+encodeURIComponent(id)});},
-  async play(){if(this.data.downloadError){this.check();return;}if(!this.data.ready)return;if(this.data.active){audio.stop(this.audioOwner);return;}try{const completed=await audio.play(this.data.ids,{owner:this.audioOwner});if(completed)this.triggerEvent('completed');}catch(error){wx.showToast({title:error.message,icon:'none'});}}
+  async play(){if(this.data.downloadError){wx.navigateTo({url:'/pages/audio-download/index'});return;}if(!this.data.ready)return;if(this.data.active){audio.stop(this.audioOwner);return;}try{const completed=await audio.play(this.data.ids,{owner:this.audioOwner});if(completed)this.triggerEvent('completed');}catch(error){if(error.code==='AUDIO_NOT_INSTALLED')this.check();else wx.showToast({title:error.message,icon:'none'});}}
  }
 });

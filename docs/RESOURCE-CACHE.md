@@ -1,5 +1,34 @@
 # 资源托管与缓存验证
 
+## 当前方案：完整音频包安装（2026-09-12）
+
+本节替代下文的逐词远程下载和单元预加载方案。当前清单中的 145 条 Emma MP3 打包为 `bundles/audio/words-8622c24fb2d33504.zip`（2,265,358 字节），解压后的媒体共 2,356,317 字节。ZIP 内保留 `SOURCES.json`，不打包旧音色、历史版本或技术样本。审核仍为 synthetic-preview / pending。
+
+- 下载入口：单词/复习卡缺本地文件时显示“尚未下载音频”，点击进入 `pages/audio-download/index`；单元页和关于页也有入口。源音频尚未制作的音素显示“音频待补充”，不诱导重复下载。
+- 下载页独占网络下载；显示下载、校验、安装和完成状态，支持取消、失败重试和单条失败日志。离开下载页取消未完成安装；安装后返回词卡自动重新检查。
+- ResourceService 优先读取完整安装中的文件，其次复用旧版缓存。没有本地文件时返回 AUDIO_NOT_INSTALLED，不发起单文件下载；单元页不再自动预加载。
+- ZIP 先校验整包大小和 SHA-1，再解压至 `USER_DATA_PATH/audio-bundles-v1/install-<sha1>-<generation>`；逐个校验媒体大小和摘要，全部通过后原子替换 active.json。安装失败不覆盖原来的安装。
+- 安装文件以内容 SHA-1 + 扩展名命名，AudioService 沿用 `{path, release}` 租约。播放中的文件受保护；旧版本及未完成目录在后续安装时清理。整包不参与 FIFO 淘汰，不受旧版 100 文件限制。
+- 本地数据清除、换设备或文件损坏后需要重新下载。新的资源包随应用清单更新；页面会根据当前音频哈希检查是否完整。不会在启动时自动联网更新。
+- Gitee 仍可能重定向到登录页；整包只能减少请求并提供安装后的离线使用，不保证首次匿名下载必定成功。失败日志记录 ZIP 请求地址、返回信息和安装阶段。
+
+构建与发布：
+
+```sh
+npm run resources:bundle -- --resource /path/to/resource
+npm run check
+npm run resources:verify -- --bundle --local /path/to/resource
+# 先提交推送 resource 的新 ZIP 和来源说明，再验证远端：
+npm run resources:verify -- --bundle
+# 最后提交推送应用（包含 seed-data/audio-bundle.json 和构建数据）。
+```
+
+构建需要系统 zip 工具。固定文件顺序、时间戳和 ZIP 元数据；当前音频清单内容不变时输出一致。清单绑定包含来源和许可，变更音频清单后必须重新打包。ZIP 不进入小程序代码包。
+
+本轮验证：resource 的 ZIP 与说明已推送至 `7fd3cd5`，本地 ZIP 摘要和 145 份解压媒体均通过校验。微信开发者工具已验证下载页、点击下载和失败提示；真实请求仍报 `url not in domain list`，桌面匿名请求返回 Gitee 登录 HTML。尝试通过工具传入本地 ZIP 验证原生安装时，遇到请求大小限制和包内文件访问限制，未完成微信原生成功安装/离线播放验收。临时测试 ZIP 已从应用目录移除，downloadFile mock 已恢复。安装成功、离线重启、失败保留旧版本、取消和缓存兼容由自动化测试覆盖，不能替代真机验收。
+
+下文是历史阶段记录，涉及逐词网络请求、自动预加载或 100 文件容量的描述仅适用于旧版缓存。
+
 ## 当前方案：Emma 整词远程资源（2026-09-12）
 
 用户选定 Kokoro A · Emma，bf_emma / speed 0.8。统一使用资源仓库 → `resource://` → ResourceService 下载缓存 → AudioService；批量生成和本地资源写入状态见 `VOICE-STANDARD.md`。新音频路径为 `audio/words/en-GB/kokoro-emma/v1/`，本地仓库根为 `/Users/lvzheng/Cursor/resource`。各单元通过教材注册表获取资源，同词共享文件。

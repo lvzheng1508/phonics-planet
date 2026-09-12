@@ -1,6 +1,5 @@
 <view class="audio-button {{compact ? 'compact' : ''}} {{downloadError ? 'has-error' : ''}}">
   <view wx:if="{{downloadError && !compact}}" class="audio-button__notice">{{errorMessage}}</view>
-  <button class="audio-button__control {{active ? 'active' : ''}} {{preparing ? 'downloading' : ''}} {{downloadError ? 'retry' : ''}} {{!ready && !downloadError ? 'disabled' : ''}}" bindtap="play" disabled="{{!ready && !downloadError}}" loading="{{loading || preparing}}" aria-label="{{preparing ? '正在准备音频' : downloadError ? '重新加载音频' : active ? '停止播放' : ready ? label : '录音未就绪'}}">{{preparing ? '正在准备音频…' : downloadError ? '↻ 重新加载' : active ? '■ 停止' : ready ? '▶ ' + label : '录音未就绪'}}</button>
-  <button wx:if="{{downloadError}}" class="audio-button__diagnostic" bindtap="debug">查看问题详情 ›</button>
-  <view wx:elif="{{!compact && !ready}}" class="hint">{{preparing ? '正在检查缓存或下载，完成后即可点击播放。' : '这个声音的录音还未准备好。'}}</view>
+  <button class="audio-button__control {{active ? 'active' : ''}} {{preparing ? 'downloading' : ''}} {{downloadError ? 'retry' : ''}} {{!ready && !downloadError ? 'disabled' : ''}}" bindtap="play" disabled="{{!ready && !downloadError}}" loading="{{loading || preparing}}" aria-label="{{preparing ? '正在检查本地音频' : downloadError ? '尚未下载音频，去下载' : active ? '停止播放' : ready ? label : '音频待补充'}}">{{preparing ? '正在检查本地音频…' : downloadError ? '↓ 下载全部音频' : active ? '■ 停止' : ready ? '▶ ' + label : '音频待补充'}}</button>
+  <view wx:if="{{!compact && !ready}}" class="hint">{{preparing ? '正在检查本地文件。' : downloadError ? '下载一次，即可离线听全部已提供的单词。' : '这个声音的录音还未准备好。'}}</view>
 </view>

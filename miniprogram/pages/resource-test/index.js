@@ -37,7 +37,7 @@ Page({
     this.setData({ busy: true, message: '正在取得资源…' });
     try {
       const lease = await resources.acquire(asset);
-      const message = asset.bundled ? '使用随小程序打包的音频，无需下载' : lease.cached ? '命中本地缓存，没有网络下载' : '下载完成，大小及 SHA-1 校验通过，已保存本地';
+      const message = asset.bundled ? '使用随小程序打包的音频，无需下载' : '本地音频校验通过，没有网络下载';
       lease.release();
       if (!this.hidden) this.setData({ message });
     } catch (error) { if (!this.hidden) this.setData({ message: error.message }); }

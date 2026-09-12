@@ -1,9 +1,2 @@
 <view wx:if="{{unit}}" class="page"><view class="eyebrow">WORD EXPLORER · {{count}} WORDS</view><view class="title">{{unit.name}}</view><input class="search" placeholder="搜索英文或中文释义" value="{{query}}" bindinput="search" maxlength="80"/><navigator wx:for="{{entries}}" wx:key="id" url="{{item.url}}" class="word-row"><view><view class="word-name">{{item.word}}</view><view wx:if="{{item.displayIpa}}" class="list-ipa">/{{item.displayIpa}}/</view><view class="muted">{{item.contextMeaning}}</view></view><text>↗</text></navigator><view wx:if="{{!entries.length}}" class="empty">没有找到这个词，换个关键词试试。</view></view><view wx:else class="empty">没有找到这个单元<navigator url="/pages/curriculum/index" class="primary-link">返回教材选择</navigator></view>
-<view wx:if="{{unit && audioCache}}" class="page">
-  <view class="card">
-    <view>单元音频：可用 {{audioCache.available}} / {{audioCache.total}} 条</view>
-    <view class="muted">本次预加载已就绪 {{audioCache.ready}} 条 · 未启用 {{audioCache.missing}} 条</view>
-    <view wx:if="{{audioCache.failed}}" class="muted">下载失败 {{audioCache.failed}} 条，可点开单词重试。</view>
-    <view wx:if="{{audioCache.status === 'paused'}}" class="muted">连续下载失败，已暂停自动加载。</view>
-  </view>
-</view>
+<view wx:if="{{unit}}" class="page"><navigator class="primary-link" url="/pages/audio-download/index">下载全部音频 · 离线听单词 →</navigator></view>

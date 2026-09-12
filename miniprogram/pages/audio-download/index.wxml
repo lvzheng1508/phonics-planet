@@ -1,0 +1,21 @@
+<view class="page">
+  <view class="eyebrow">LISTEN ANYWHERE</view>
+  <view class="title">把声音带在身边</view>
+  <view class="subtitle">下载一次，之后无需联网，也能听单词发音。</view>
+  <view class="card download-card">
+    <view class="audio-symbol">{{ready ? '✓' : '↓'}}</view>
+    <view class="card-title">{{heading}}</view>
+    <view class="bundle-size">{{total}} 个单词 · 音频包 {{size}} MB</view>
+    <view wx:if="{{busy}}" class="progress-wrap">
+      <progress percent="{{progress}}" stroke-width="6" activeColor="#16776F" backgroundColor="#DDF0E9" border-radius="6" />
+      <view class="hint">{{status === 'downloading' ? progress + '% · 请保持页面打开' : '下载完成，正在整理声音，请稍候…'}}</view>
+    </view>
+    <view wx:if="{{error}}" class="download-error">{{error}}</view>
+    <button wx:if="{{ready && !busy && !error}}" class="primary" bindtap="done">完成，开始听单词</button>
+    <button wx:elif="{{!busy}}" class="primary" bindtap="download" disabled="{{checking}}" loading="{{checking}}">{{checking ? '正在检查本地音频' : status === 'error' ? '重新下载' : '下载全部音频'}}</button>
+    <button wx:if="{{busy}}" class="text-action" bindtap="cancel">取消</button>
+    <button wx:if="{{error}}" class="text-action" bindtap="logs">查看问题详情 ›</button>
+  </view>
+  <view class="card muted">音频保存在当前设备。清除小程序数据或更换设备后，需要重新下载。音频更新时，可在这里下载新版本。</view>
+  <view class="footnote">AI 合成试听 · 待发音核对<view>本音频包包含已提供的整词发音，音素录音仍待补充。</view></view>
+</view>

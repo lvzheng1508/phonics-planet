@@ -2,6 +2,8 @@
 
 ## 当前音频交付（2026-09-12）
 
+新增完整 Emma 下载包：145 条当前整词、ZIP 2,265,358 字节，资源路径 `bundles/audio/words-8622c24fb2d33504.zip`。下载页安装后本地播放，缺失音素不包含在包内，全部审核状态保持不变。
+
 已按用户选定的 A · Emma（Kokoro bf_emma、speed 0.8）生成 145 份 WAV 与 MP3，MP3 共 2,356,317 字节。MP3 已实际写入 resource 的 `audio/words/en-GB/kokoro-emma/`（136 条使用 v1，9 条使用 v2-aligned），资源仓库与应用种子清单均已更新。六单元覆盖为 26/26、25/25、20/20、17/17、29/29、29/29，run 跨单元共享。
 
 145 份整词音频均为 synthetic-preview / pending，44 个音素仍 missing。`npm run check` 通过 62 项测试及 13 页编译；147 项本地资源（145 整词 + 2 技术样本）校验通过。资源已推送到 `669f159`，当前清单全部 147 项匿名 HTTPS 已通过，包含 9 词修正版。微信真机验收仍待完成。标准与命令见 `VOICE-STANDARD.md`。

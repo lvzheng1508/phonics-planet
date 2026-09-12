@@ -12,7 +12,8 @@
     "pages/practice/index",
     "pages/credits/index",
     "pages/resource-test/index",
-    "pages/logs/index"
+    "pages/logs/index",
+    "pages/audio-download/index"
   ],
   "window": {
     "navigationBarTitleText": "拼读星球",

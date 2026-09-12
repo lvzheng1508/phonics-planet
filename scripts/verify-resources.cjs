@@ -4,7 +4,8 @@ const path = require('node:path');
 const crypto = require('node:crypto');
 const { createUrlProvider, isResourceDescriptor } = require('../miniprogram/services/resource-service');
 const settings = require('../miniprogram/resource-config');
-const samples = require('../seed-data/resource-samples.json').concat(require('../seed-data/audio-manifest.json').filter(a => a.src && a.src.startsWith('resource://')));
+const bundleOnly = process.argv.includes('--bundle');
+const samples = bundleOnly ? [{id:'audio-bundle',...require('../seed-data/audio-bundle.json')}] : require('../seed-data/resource-samples.json').concat(require('../seed-data/audio-manifest.json').filter(a => a.src && a.src.startsWith('resource://')));
 const provider = createUrlProvider(settings.baseUrl);
 const localIndex = process.argv.indexOf('--local');
 const directory = localIndex < 0 ? null : process.argv[localIndex + 1];
@@ -12,7 +13,7 @@ if (localIndex >= 0 && !directory) throw Error('--local needs a resource reposit
 (async () => {
   for (const sample of samples) {
     try {
-      if (!isResourceDescriptor(sample)) throw Error('Invalid descriptor');
+      if (!bundleOnly && !isResourceDescriptor(sample)) throw Error('Invalid descriptor');
       const url = provider(sample);
       let bytes;
       if (directory) bytes = fs.readFileSync(path.join(directory, sample.src.slice('resource://'.length)));

@@ -39,7 +39,7 @@ function createResourceCache(adapter, provider, { maxFiles = 100, maxBytes = 8 *
       if (count) pins.set(entry.key, count); else pins.delete(entry.key);
     } };
   }
-  async function acquireOne(asset) {
+  async function acquireOne(asset, options = {}) {
     if (!asset || !String(asset.src).startsWith('resource://')) return { path: asset && asset.src, cached: false, release() {} };
     if (!valid(asset)) throw Error('资源缺少版本校验信息');
     if (asset.bytes > maxBytes || maxFiles < 1) throw Error('资源超过缓存容量');
@@ -55,6 +55,7 @@ function createResourceCache(adapter, provider, { maxFiles = 100, maxBytes = 8 *
       await adapter.remove(existing.path);
       entries = entries.filter(e => e !== existing); persist();
     }
+    if (options.download === false) throw Object.assign(Error('尚未下载音频，请先下载音频包'), {code:'AUDIO_NOT_INSTALLED'});
     let temporary, saved;
     // This object belongs to one request; the adapter enriches it even when
     // download succeeds but validation or saving subsequently fails.
@@ -113,7 +114,7 @@ function createResourceCache(adapter, provider, { maxFiles = 100, maxBytes = 8 *
     return job;
   }
   return {
-    acquire: asset => enqueue(() => acquireOne(asset)),
+    acquire: (asset, options) => enqueue(() => acquireOne(asset, options)),
     stats: () => ({ count: entries.length, bytes: bytes(), downloads, hits, maxFiles, maxBytes, entries: entries.map(e => ({ ...e })) }),
     inspect: () => enqueue(async () => { await init(); return { count: entries.length, bytes: bytes(), downloads, hits, maxFiles, maxBytes }; }),
     clear: () => enqueue(async () => {
@@ -133,4 +134,12 @@ function shared() {
   }
   return singleton;
 }
-module.exports = { createResourceCache, createUrlProvider, isResourceDescriptor, acquire: a => String(a.src).startsWith('resource://') ? shared().acquire(a) : Promise.resolve({ path: a.src, release() {} }), inspect: () => shared().inspect(), clear: () => shared().clear() };
+module.exports = { createResourceCache, createUrlProvider, isResourceDescriptor,
+  async acquire(a) {
+    if (!String(a.src).startsWith('resource://')) return {path:a.src,release(){}};
+    const installed = await require('./audio-bundle-service').acquire(a);
+    return installed || shared().acquire(a, {download:false});
+  },
+  inspect: () => shared().inspect(),
+  async clear() { await require('./audio-bundle-service').clear(); await shared().clear(); }
+};

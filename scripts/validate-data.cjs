@@ -110,3 +110,12 @@ for (const o of read('pronunciation-overrides.json')) {
   assert.ok(a.src.startsWith('resource://' + o.resourceDirectory + '/'));
 }
 console.log('Audio timing references: ' + timings.length + ' hash/IPA bindings checked.');
+const bundle = read('audio-bundle.json');
+const bundledAssets = audio.filter(a=>a.src&&a.src.startsWith('resource://')).sort((a,b)=>a.id.localeCompare(b.id,'en'));
+const bundledFiles = [...new Map(bundledAssets.map(a=>[a.sha1+'.'+a.extension,a])).values()];
+assert.match(bundle.sha1,/^[a-f0-9]{40}$/);
+assert.ok(Number.isSafeInteger(bundle.bytes)&&bundle.bytes>0);
+createUrlProvider('https://validation.invalid')(bundle);
+assert.equal(bundle.fileCount,bundledFiles.length);
+assert.equal(bundle.unpackedBytes,bundledFiles.reduce((s,a)=>s+a.bytes,0));
+assert.equal(bundle.assetsSha256,require('node:crypto').createHash('sha256').update(JSON.stringify(bundledAssets)).digest('hex'),'Audio manifest changed: rebuild the audio bundle');

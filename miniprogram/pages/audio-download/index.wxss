@@ -1,0 +1,9 @@
+.download-card{text-align:center;margin-top:40rpx;padding:48rpx 32rpx;}
+.download-card .card-title{text-align:center;}
+.audio-symbol{width:112rpx;height:112rpx;line-height:112rpx;border-radius:56rpx;background:#DDF0E9;color:#16776F;font-size:64rpx;margin:0 auto 32rpx;}
+.bundle-size{color:#637B76;margin:20rpx 0 36rpx;}
+.progress-wrap{margin:32rpx 0;}
+.progress-wrap .hint{margin-top:20rpx;}
+.download-error{background:#FAF2E8;color:#875735;border-radius:20rpx;padding:24rpx;margin-bottom:24rpx;}
+.text-action{background:transparent;color:#527770;margin-top:24rpx;font-size:28rpx;}
+.text-action::after{border:0;}

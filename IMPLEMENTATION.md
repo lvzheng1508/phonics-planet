@@ -3,6 +3,7 @@
 原生微信小程序（JS/WXML/WXSS），本地 JSON → 构建模块，无运行时 npm 依赖。miniprogramRoot 指向 miniprogram/。最低基础库兼容性由后续开发者工具验证，不在此捏造版本兼容结论。
 
 ## 模块
+- AudioBundleService：完整音频包下载、校验、解压与持久安装；失败保留原安装，已安装文件不参与 FIFO。ResourceService 只读取本地安装和旧缓存，学习页面不再触发单词下载。
 - ContentService：读取生成数据、教材列表、单元/词/音素检索。页面只通过服务读取内容。
 - StorageService：带版本命名空间的收藏存取，去重和损坏数据回退；存储写入失败交给页面提示。
 - AudioService：唯一 InnerAudioContext 所有者；顺序播放、快速切换取消、结束/错误/超时清理；隐藏和卸载停止。只播放审核完成的资源，不将拆音串播放描述为自然连读。

@@ -13,6 +13,7 @@
     "check:templates": "node scripts/check-templates.cjs",
     "content:status": "node scripts/content-status.cjs",
     "resources:verify": "node scripts/verify-resources.cjs",
+    "resources:bundle": "node scripts/build-audio-bundle.cjs",
     "preview": "node scripts/preview.cjs",
     "check": "npm run validate:data && npm run build:data && npm test && node scripts/check-project.cjs && npm run check:templates"
   },

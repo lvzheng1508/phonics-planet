@@ -7,4 +7,6 @@ test('copying a failure copies that complete record without unrelated history',(
  page.copyEntry({currentTarget:{dataset:{index:1}}});
  assert.match(clipboard,/word_was/);assert.match(clipboard,/https:\/\/example.test\/was.mp3/);assert.match(clipboard,/Sign in/);assert.doesNotMatch(clipboard,/omit/);
  const previous=clipboard;page.copyEntry({currentTarget:{dataset:{index:999}}});assert.equal(clipboard,previous);
+ entry.event='bundle.error';entry.detail=JSON.stringify({requestUrl:'https://example.test/audio.zip',stage:'extract',error:{message:'disk full'}});
+ page.copyEntry({currentTarget:{dataset:{index:1}}});assert.match(clipboard,/audio.zip/);assert.match(clipboard,/disk full/);
 });

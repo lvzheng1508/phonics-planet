@@ -75,9 +75,9 @@ function createWxResourceAdapter(api, namespace) {
         throw error;
       } finally { temporaryFiles.delete(filePath); }
     },
-    download: (url, diagnostic = {}) => new Promise((resolve, reject) => {
+    download: (url, diagnostic = {}, options = {}) => new Promise((resolve, reject) => {
       log.record('download.start', {url});
-      api.downloadFile({ url, timeout: 15000, success: async result => {
+      const task = api.downloadFile({ url, timeout: options.timeout || 15000, success: async result => {
         const headers = result.header || {};
         const header = name => headers[Object.keys(headers).find(key => key.toLowerCase() === name)];
         const field = name => header(name) == null ? null : String(header(name)).slice(0,800);
@@ -106,6 +106,8 @@ function createWxResourceAdapter(api, namespace) {
         if (/url not in domain list/i.test(failure.message)) failure.code = 'RESOURCE_DOMAIN_BLOCKED';
         reject(failure);
       } });
+      if (options.onTask) options.onTask(task);
+      if (options.onProgress && task && task.onProgressUpdate) task.onProgressUpdate(options.onProgress);
     })
   };
 }

@@ -26322,5 +26322,14 @@ module.exports = {
       "changes": "OGG converted to mono PCM WAV, 22.05 kHz, 16 bit. No trimming or pitch changes.",
       "review": "Original bytes matched Commons SHA-1. British teaching suitability and listening review pending."
     }
-  ]
+  ],
+  "audioBundle": {
+    "version": "8622c24fb2d33504f5ddc4a4feb1704ba10a3609",
+    "src": "resource://bundles/audio/words-8622c24fb2d33504.zip",
+    "sha1": "8622c24fb2d33504f5ddc4a4feb1704ba10a3609",
+    "bytes": 2265358,
+    "fileCount": 145,
+    "unpackedBytes": 2356317,
+    "assetsSha256": "46331d90eae3ea1194252f96691b80de6f771751e0636c2e9022f9440bed968c"
+  }
 };
