@@ -1,0 +1,8083 @@
+[
+  {
+    "wordId": "word_was",
+    "text": "was",
+    "audioSha1": "f0d8fb8b5a7d4dd2a329d4ab2b878cf335498f03",
+    "sourceWavSha256": "03a121d74cab65b457245fe4c56f681b9b73228469d8b70aaaaa94d3f56b8a3b",
+    "sourceDuration": 1.0026666666666666,
+    "replayDuration": 1.0026666666666666,
+    "waveformCorrelation": 0.9959364428128854,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "w",
+        "start": 0.229333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ɒ",
+        "start": 0.379333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "z",
+        "start": 0.554333,
+        "end": 0.829333
+      },
+      {
+        "symbol": ".",
+        "start": 0.829333,
+        "end": 0.954333
+      }
+    ]
+  },
+  {
+    "wordId": "word_climb",
+    "text": "climb",
+    "audioSha1": "6bf81a47a774cb4c0989856bc2c013a4cc587bd6",
+    "sourceWavSha256": "adaa4472507a75510853b6744261c5e72ba94c6d42b816a3dd3673561e37e7cf",
+    "sourceDuration": 1.1353333333333333,
+    "replayDuration": 1.1353333333333333,
+    "waveformCorrelation": 0.9946805965479383,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "l",
+        "start": 0.283,
+        "end": 0.358
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.358,
+        "end": 0.483
+      },
+      {
+        "symbol": "a",
+        "start": 0.483,
+        "end": 0.583
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.583,
+        "end": 0.683
+      },
+      {
+        "symbol": "m",
+        "start": 0.683,
+        "end": 1.045333
+      },
+      {
+        "symbol": ".",
+        "start": 1.045333,
+        "end": 1.045333
+      }
+    ]
+  },
+  {
+    "wordId": "word_kilometre",
+    "text": "kilometre",
+    "audioSha1": "997e853d78653a29734013be292e7de3e7c679fc",
+    "sourceWavSha256": "8f60f26728cd53207a30f9657ff786a8b7ee6ff5356c417300d70c8d9d709716",
+    "sourceDuration": 1.4766666666666666,
+    "replayDuration": 1.4766666666666666,
+    "waveformCorrelation": 0.9959819134656587,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.186667,
+        "end": 0.261667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.261667,
+        "end": 0.311667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.311667,
+        "end": 0.386667
+      },
+      {
+        "symbol": "l",
+        "start": 0.386667,
+        "end": 0.461667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.461667,
+        "end": 0.536667
+      },
+      {
+        "symbol": "m",
+        "start": 0.536667,
+        "end": 0.611667
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.611667,
+        "end": 0.661667
+      },
+      {
+        "symbol": "i",
+        "start": 0.661667,
+        "end": 0.711667
+      },
+      {
+        "symbol": "ː",
+        "start": 0.711667,
+        "end": 0.786667
+      },
+      {
+        "symbol": "t",
+        "start": 0.786667,
+        "end": 0.936667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.936667,
+        "end": 1.386667
+      },
+      {
+        "symbol": ".",
+        "start": 1.386667,
+        "end": 1.386667
+      }
+    ]
+  },
+  {
+    "wordId": "word_gingerbread_house",
+    "text": "gingerbread house",
+    "audioSha1": "66fa205cb6f42c16cc7841aa7f1e51c7cf2812f4",
+    "sourceWavSha256": "443dd998d2f2dc50ea74ef88cec2c34bd4f1f19370169886fd41e92287815f38",
+    "sourceDuration": 1.9533333333333334,
+    "replayDuration": 1.9533333333333334,
+    "waveformCorrelation": 0.9956783241808043,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.165333,
+        "end": 0.240333
+      },
+      {
+        "symbol": "ʒ",
+        "start": 0.240333,
+        "end": 0.290333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.290333,
+        "end": 0.340333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.340333,
+        "end": 0.390333
+      },
+      {
+        "symbol": "n",
+        "start": 0.390333,
+        "end": 0.465333
+      },
+      {
+        "symbol": "d",
+        "start": 0.465333,
+        "end": 0.540333
+      },
+      {
+        "symbol": "ʒ",
+        "start": 0.540333,
+        "end": 0.615333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.615333,
+        "end": 0.690333
+      },
+      {
+        "symbol": "b",
+        "start": 0.690333,
+        "end": 0.765333
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.765333,
+        "end": 0.815333
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.815333,
+        "end": 0.890333
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.890333,
+        "end": 0.965333
+      },
+      {
+        "symbol": "d",
+        "start": 0.965333,
+        "end": 1.015333
+      },
+      {
+        "symbol": " ",
+        "start": 1.015333,
+        "end": 1.090333
+      },
+      {
+        "symbol": "h",
+        "start": 1.090333,
+        "end": 1.140333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 1.140333,
+        "end": 1.240333
+      },
+      {
+        "symbol": "a",
+        "start": 1.240333,
+        "end": 1.340333
+      },
+      {
+        "symbol": "ʊ",
+        "start": 1.340333,
+        "end": 1.440333
+      },
+      {
+        "symbol": "s",
+        "start": 1.440333,
+        "end": 1.813333
+      },
+      {
+        "symbol": ".",
+        "start": 1.813333,
+        "end": 1.813333
+      }
+    ]
+  },
+  {
+    "wordId": "word_go",
+    "text": "go",
+    "audioSha1": "c5bc436352a0ac4ad8ecffb1d6c7a0c2dab096e8",
+    "sourceWavSha256": "d62cd5e2ed12de0d4033fb40650cd73ea35a715077c1b5d16853bc8557aa8779",
+    "sourceDuration": 0.96,
+    "replayDuration": 0.96,
+    "waveformCorrelation": 0.9946382463010445,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɡ",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.454333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.579333,
+        "end": 0.804333
+      },
+      {
+        "symbol": ".",
+        "start": 0.804333,
+        "end": 0.929333
+      }
+    ]
+  },
+  {
+    "wordId": "word_send",
+    "text": "send",
+    "audioSha1": "1b0ca14a1397e268741feb896174735247ae99bf",
+    "sourceWavSha256": "4eccf68b1ab4c963267eceb5afde2d84fecbcddee9bc1ca53b7b7c78685fed1e",
+    "sourceDuration": 1.088,
+    "replayDuration": 1.088,
+    "waveformCorrelation": 0.9953313655945886,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "n",
+        "start": 0.529333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "d",
+        "start": 0.629333,
+        "end": 0.904333
+      },
+      {
+        "symbol": ".",
+        "start": 0.904333,
+        "end": 1.054333
+      }
+    ]
+  },
+  {
+    "wordId": "word_thousand",
+    "text": "thousand",
+    "audioSha1": "275f660aff7b398b8fa74a185b4796b6c4d96347",
+    "sourceWavSha256": "d95a7b32d8847fb80e7476f06893890fb77144f20ede43561fd4e6bd23ff505f",
+    "sourceDuration": 1.37,
+    "replayDuration": 1.37,
+    "waveformCorrelation": 0.9938402014487813,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "θ",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.283,
+        "end": 0.383
+      },
+      {
+        "symbol": "a",
+        "start": 0.383,
+        "end": 0.483
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.483,
+        "end": 0.583
+      },
+      {
+        "symbol": "z",
+        "start": 0.583,
+        "end": 0.683
+      },
+      {
+        "symbol": "ə",
+        "start": 0.683,
+        "end": 0.783
+      },
+      {
+        "symbol": "n",
+        "start": 0.783,
+        "end": 0.883
+      },
+      {
+        "symbol": "d",
+        "start": 0.883,
+        "end": 1.28
+      },
+      {
+        "symbol": ".",
+        "start": 1.28,
+        "end": 1.28
+      }
+    ]
+  },
+  {
+    "wordId": "word_clay",
+    "text": "clay",
+    "audioSha1": "25a93549aee99edf1119b17d624d2ebbfd22046c",
+    "sourceWavSha256": "e6f23756a6687fa58982fba94fb031ed09e4627aebc50e6b963fab460da9ab1e",
+    "sourceDuration": 1.1733333333333333,
+    "replayDuration": 1.1733333333333333,
+    "waveformCorrelation": 0.9946388270124552,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "l",
+        "start": 0.304333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.379333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "e",
+        "start": 0.479333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.579333,
+        "end": 0.954333
+      },
+      {
+        "symbol": ".",
+        "start": 0.954333,
+        "end": 1.129333
+      }
+    ]
+  },
+  {
+    "wordId": "word_see",
+    "text": "see",
+    "audioSha1": "260afff7a4f6920f3a29ad6a2d947913b61a6ae1",
+    "sourceWavSha256": "260a2f78fccf3410ba32cb8487fe1b8f01d2ce1878e401fe5a03b92fddc2a5a4",
+    "sourceDuration": 0.862,
+    "replayDuration": 0.862,
+    "waveformCorrelation": 0.993263253136989,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.254333,
+        "end": 0.354333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.354333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "i",
+        "start": 0.454333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.554333,
+        "end": 0.704333
+      },
+      {
+        "symbol": ".",
+        "start": 0.704333,
+        "end": 0.804333
+      }
+    ]
+  },
+  {
+    "wordId": "word_village",
+    "text": "village",
+    "audioSha1": "4e424aa1701d088ddf401e0c71330ddf768d3139",
+    "sourceWavSha256": "8b5c9c22a966f906efd8e0b32a302cf18782d36e078bfef3024bfd655edf429c",
+    "sourceDuration": 1.1946666666666668,
+    "replayDuration": 1.1946666666666668,
+    "waveformCorrelation": 0.9970764778009287,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "v",
+        "start": 0.229333,
+        "end": 0.279333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.279333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.329333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "l",
+        "start": 0.404333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.529333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "d",
+        "start": 0.629333,
+        "end": 0.704333
+      },
+      {
+        "symbol": "ʒ",
+        "start": 0.704333,
+        "end": 1.004333
+      },
+      {
+        "symbol": ".",
+        "start": 1.004333,
+        "end": 1.154333
+      }
+    ]
+  },
+  {
+    "wordId": "word_eat",
+    "text": "eat",
+    "audioSha1": "831b399a7ed01a3ab8ece94630bde78b1b9fc871",
+    "sourceWavSha256": "178adad924e7495c4e641a5efe536717686a3ad06d3fd1b01010d678f4e8faf5",
+    "sourceDuration": 0.9173333333333333,
+    "replayDuration": 0.9173333333333333,
+    "waveformCorrelation": 0.9974209997605578,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.229333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "i",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "t",
+        "start": 0.529333,
+        "end": 0.754333
+      },
+      {
+        "symbol": ".",
+        "start": 0.754333,
+        "end": 0.879333
+      }
+    ]
+  },
+  {
+    "wordId": "word_dry",
+    "text": "dry",
+    "audioSha1": "ea2019c2f115e548706183610a370c64786caeae",
+    "sourceWavSha256": "f973444ba8371dadfd393ef7730a80915a1d51ad709dc11e1d7fd2827f8f5779",
+    "sourceDuration": 1.0686666666666667,
+    "replayDuration": 1.0686666666666667,
+    "waveformCorrelation": 0.9950711146272715,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.283,
+        "end": 0.358
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.358,
+        "end": 0.533
+      },
+      {
+        "symbol": "a",
+        "start": 0.533,
+        "end": 0.658
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.658,
+        "end": 0.938667
+      },
+      {
+        "symbol": ".",
+        "start": 0.938667,
+        "end": 0.938667
+      }
+    ]
+  },
+  {
+    "wordId": "word_take",
+    "text": "take",
+    "audioSha1": "c3c6ba1928e17366f54c7b76047fb23b5dfaee65",
+    "sourceWavSha256": "dd917e69239c9d40c7514d008ff0f4644c7b6a38d7a96c2db0f2221067fffab9",
+    "sourceDuration": 1.024,
+    "replayDuration": 1.024,
+    "waveformCorrelation": 0.9967571299236623,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "t",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "e",
+        "start": 0.379333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.479333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "k",
+        "start": 0.579333,
+        "end": 0.829333
+      },
+      {
+        "symbol": ".",
+        "start": 0.829333,
+        "end": 0.979333
+      }
+    ]
+  },
+  {
+    "wordId": "word_view",
+    "text": "view",
+    "audioSha1": "f902bf3237c564e0a49f67303408e77e30327eaf",
+    "sourceWavSha256": "4065ef4ba0537afaf679484e796be9ac9caad003d5076d015f59a4797c4cca66",
+    "sourceDuration": 1.0106666666666666,
+    "replayDuration": 0.860625,
+    "waveformCorrelation": 0.994850784594985,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 0.9999999971612026,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "v",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "j",
+        "start": 0.304333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.379333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "u",
+        "start": 0.454333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.529333,
+        "end": 0.679333
+      },
+      {
+        "symbol": ".",
+        "start": 0.679333,
+        "end": 0.779333
+      }
+    ]
+  },
+  {
+    "wordId": "word_inspiring",
+    "text": "inspiring",
+    "audioSha1": "ab3155d6941a2b63fa3f5735248960cd0bf57006",
+    "sourceWavSha256": "205b2f43b9ba1f6999b69dcb709341c771759e1ed3de65912bc4e5e95466ebd4",
+    "sourceDuration": 1.6032916666666666,
+    "replayDuration": 1.6133333333333333,
+    "waveformCorrelation": 0.9939524332964939,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 0.9999999403953552,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɪ",
+        "start": 0.211667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "n",
+        "start": 0.286667,
+        "end": 0.386667
+      },
+      {
+        "symbol": "s",
+        "start": 0.386667,
+        "end": 0.486667
+      },
+      {
+        "symbol": "p",
+        "start": 0.486667,
+        "end": 0.561667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.561667,
+        "end": 0.661667
+      },
+      {
+        "symbol": "a",
+        "start": 0.661667,
+        "end": 0.736667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.736667,
+        "end": 0.811667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.811667,
+        "end": 0.886667
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.886667,
+        "end": 0.986667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.986667,
+        "end": 1.061667
+      },
+      {
+        "symbol": "ŋ",
+        "start": 1.061667,
+        "end": 1.493333
+      },
+      {
+        "symbol": ".",
+        "start": 1.493333,
+        "end": 1.493333
+      }
+    ]
+  },
+  {
+    "wordId": "word_bamboo",
+    "text": "bamboo",
+    "audioSha1": "2c90034186cfc7e5a8491f052da68b2b9b9659cd",
+    "sourceWavSha256": "cb6ab8a9406287a37db7809d4aebc9b1e1e6bde23f30801e45e09e5ab0e40ec7",
+    "sourceDuration": 1.3653333333333333,
+    "replayDuration": 1.3653333333333333,
+    "waveformCorrelation": 0.9952961447661385,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "b",
+        "start": 0.208,
+        "end": 0.308
+      },
+      {
+        "symbol": "a",
+        "start": 0.308,
+        "end": 0.408
+      },
+      {
+        "symbol": "m",
+        "start": 0.408,
+        "end": 0.508
+      },
+      {
+        "symbol": "b",
+        "start": 0.508,
+        "end": 0.583
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.583,
+        "end": 0.708
+      },
+      {
+        "symbol": "u",
+        "start": 0.708,
+        "end": 0.808
+      },
+      {
+        "symbol": "ː",
+        "start": 0.808,
+        "end": 1.133
+      },
+      {
+        "symbol": ".",
+        "start": 1.133,
+        "end": 1.333
+      }
+    ]
+  },
+  {
+    "wordId": "word_pumpkin",
+    "text": "pumpkin",
+    "audioSha1": "4991950fcab264c326506e0c949886dc8d2bad5f",
+    "sourceWavSha256": "90ab2877e5cdc9cfab866fedd630cf19481e9a52feeb4fcf4b95ddb979309296",
+    "sourceDuration": 1.2206666666666666,
+    "replayDuration": 1.2206666666666666,
+    "waveformCorrelation": 0.9964117057052146,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "p",
+        "start": 0.183,
+        "end": 0.258
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.258,
+        "end": 0.308
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.308,
+        "end": 0.358
+      },
+      {
+        "symbol": "m",
+        "start": 0.358,
+        "end": 0.433
+      },
+      {
+        "symbol": "p",
+        "start": 0.433,
+        "end": 0.533
+      },
+      {
+        "symbol": "k",
+        "start": 0.533,
+        "end": 0.633
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.633,
+        "end": 0.733
+      },
+      {
+        "symbol": "n",
+        "start": 0.733,
+        "end": 1.130667
+      },
+      {
+        "symbol": ".",
+        "start": 1.130667,
+        "end": 1.130667
+      }
+    ]
+  },
+  {
+    "wordId": "word_restaurant",
+    "text": "restaurant",
+    "audioSha1": "7f7e18d07514bbbd32bc87f3eb0928568b3344cd",
+    "sourceWavSha256": "6af0e00a539143583bbbae96691e2749f901d8df33582447c27ba4d248a2aafd",
+    "sourceDuration": 1.3812916666666666,
+    "replayDuration": 1.3812916666666666,
+    "waveformCorrelation": 0.9960398904164129,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɹ",
+        "start": 0.211667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.286667,
+        "end": 0.361667
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.361667,
+        "end": 0.436667
+      },
+      {
+        "symbol": "s",
+        "start": 0.436667,
+        "end": 0.536667
+      },
+      {
+        "symbol": "t",
+        "start": 0.536667,
+        "end": 0.611667
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.611667,
+        "end": 0.711667
+      },
+      {
+        "symbol": "ɒ",
+        "start": 0.711667,
+        "end": 0.811667
+      },
+      {
+        "symbol": "n",
+        "start": 0.811667,
+        "end": 0.936667
+      },
+      {
+        "symbol": "t",
+        "start": 0.936667,
+        "end": 1.301333
+      },
+      {
+        "symbol": ".",
+        "start": 1.301333,
+        "end": 1.301333
+      }
+    ]
+  },
+  {
+    "wordId": "word_airport",
+    "text": "airport",
+    "audioSha1": "727e5da575f1c9594c98d7a3f307ab394511cd05",
+    "sourceWavSha256": "5abb37549628ca112448a36a8678d05257650606620d58beb887dadee438285c",
+    "sourceDuration": 1.154,
+    "replayDuration": 1.154,
+    "waveformCorrelation": 0.9955191975390977,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "e",
+        "start": 0.304333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.379333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "p",
+        "start": 0.479333,
+        "end": 0.604333
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.604333,
+        "end": 0.729333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.729333,
+        "end": 0.829333
+      },
+      {
+        "symbol": "t",
+        "start": 0.829333,
+        "end": 1.024
+      },
+      {
+        "symbol": ".",
+        "start": 1.024,
+        "end": 1.024
+      }
+    ]
+  },
+  {
+    "wordId": "word_new_zealand",
+    "text": "New Zealand",
+    "audioSha1": "42e0c6e82ad5b3f6e202683df837fd9b69902a87",
+    "sourceWavSha256": "a4a515215ff2075a31c3a319bbfa29c98e27c342e7e442423e124cc1635698d0",
+    "sourceDuration": 1.572,
+    "replayDuration": 1.572,
+    "waveformCorrelation": 0.9960361803264128,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "n",
+        "start": 0.211667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "j",
+        "start": 0.286667,
+        "end": 0.336667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.336667,
+        "end": 0.386667
+      },
+      {
+        "symbol": "u",
+        "start": 0.386667,
+        "end": 0.411667
+      },
+      {
+        "symbol": "ː",
+        "start": 0.411667,
+        "end": 0.461667
+      },
+      {
+        "symbol": " ",
+        "start": 0.461667,
+        "end": 0.536667
+      },
+      {
+        "symbol": "z",
+        "start": 0.536667,
+        "end": 0.586667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.586667,
+        "end": 0.661667
+      },
+      {
+        "symbol": "i",
+        "start": 0.661667,
+        "end": 0.711667
+      },
+      {
+        "symbol": "ː",
+        "start": 0.711667,
+        "end": 0.786667
+      },
+      {
+        "symbol": "l",
+        "start": 0.786667,
+        "end": 0.861667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.861667,
+        "end": 0.936667
+      },
+      {
+        "symbol": "n",
+        "start": 0.936667,
+        "end": 1.036667
+      },
+      {
+        "symbol": "d",
+        "start": 1.036667,
+        "end": 1.472
+      },
+      {
+        "symbol": ".",
+        "start": 1.472,
+        "end": 1.472
+      }
+    ]
+  },
+  {
+    "wordId": "word_hong_kong_zhuhai_macao_bridge",
+    "audioSha1": "16e585f8f3cfe684573823a2ad2bf797659510cd",
+    "sourceWavSha256": "097b63c439d546d31ed53eed89e82a07ef1ee32604c941c69dddb347c9bfd4e2",
+    "timings": [
+      {
+        "symbol": "h",
+        "start": 0.165333,
+        "end": 0.215333
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.215333,
+        "end": 0.265333
+      },
+      {
+        "symbol": "ɒ",
+        "start": 0.265333,
+        "end": 0.340333
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.340333,
+        "end": 0.415333
+      },
+      {
+        "symbol": " ",
+        "start": 0.415333,
+        "end": 0.490333
+      },
+      {
+        "symbol": "k",
+        "start": 0.490333,
+        "end": 0.540333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.540333,
+        "end": 0.615333
+      },
+      {
+        "symbol": "ɒ",
+        "start": 0.615333,
+        "end": 0.715333
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.715333,
+        "end": 0.790333
+      },
+      {
+        "symbol": " ",
+        "start": 0.790333,
+        "end": 0.865333
+      },
+      {
+        "symbol": "d",
+        "start": 0.865333,
+        "end": 0.915333
+      },
+      {
+        "symbol": "ʒ",
+        "start": 0.915333,
+        "end": 0.940333
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.940333,
+        "end": 0.965333
+      },
+      {
+        "symbol": "u",
+        "start": 0.965333,
+        "end": 0.990333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.990333,
+        "end": 1.040333
+      },
+      {
+        "symbol": "h",
+        "start": 1.040333,
+        "end": 1.090333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 1.090333,
+        "end": 1.165333
+      },
+      {
+        "symbol": "a",
+        "start": 1.165333,
+        "end": 1.240333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 1.240333,
+        "end": 1.290333
+      },
+      {
+        "symbol": " ",
+        "start": 1.290333,
+        "end": 1.340333
+      },
+      {
+        "symbol": "m",
+        "start": 1.340333,
+        "end": 1.390333
+      },
+      {
+        "symbol": "ə",
+        "start": 1.390333,
+        "end": 1.490333
+      },
+      {
+        "symbol": "k",
+        "start": 1.490333,
+        "end": 1.565333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 1.565333,
+        "end": 1.665333
+      },
+      {
+        "symbol": "a",
+        "start": 1.665333,
+        "end": 1.740333
+      },
+      {
+        "symbol": "ʊ",
+        "start": 1.740333,
+        "end": 1.790333
+      },
+      {
+        "symbol": " ",
+        "start": 1.790333,
+        "end": 1.840333
+      },
+      {
+        "symbol": "b",
+        "start": 1.840333,
+        "end": 1.890333
+      },
+      {
+        "symbol": "ɹ",
+        "start": 1.890333,
+        "end": 1.965333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 1.965333,
+        "end": 2.065333
+      },
+      {
+        "symbol": "d",
+        "start": 2.065333,
+        "end": 2.165333
+      },
+      {
+        "symbol": "ʒ",
+        "start": 2.165333,
+        "end": 2.474667
+      },
+      {
+        "symbol": ".",
+        "start": 2.474667,
+        "end": 2.474667
+      }
+    ],
+    "text": "Hong Kong-Zhuhai-Macao Bridge",
+    "sourceDuration": 2.6346666666666665,
+    "replayMatched": true,
+    "timingSource": "direct-synthesis",
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_paris",
+    "text": "Paris",
+    "audioSha1": "1e455b67cedfb4f68722a1afed0ac969216178fa",
+    "sourceWavSha256": "79c40fd579e484ede4122764aef811fb02a72140dbb178a980338b35fe8a1810",
+    "sourceDuration": 1.4786666666666666,
+    "replayDuration": 1.4786666666666666,
+    "waveformCorrelation": 0.9966659790769388,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "p",
+        "start": 0.204333,
+        "end": 0.279333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.279333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "a",
+        "start": 0.379333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.454333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.554333,
+        "end": 0.679333
+      },
+      {
+        "symbol": "s",
+        "start": 0.679333,
+        "end": 1.054333
+      },
+      {
+        "symbol": ".",
+        "start": 1.054333,
+        "end": 1.229333
+      }
+    ]
+  },
+  {
+    "wordId": "word_eiffel_tower",
+    "text": "Eiffel Tower",
+    "audioSha1": "b02eb6e3c9b7d6b2adb30fccff23912b8e6b61a1",
+    "sourceWavSha256": "13bb577f021679cdef14fade68c07bc2350e086a976ed1639286828da2403630",
+    "sourceDuration": 1.7513333333333334,
+    "replayDuration": 1.7513333333333334,
+    "waveformCorrelation": 0.9939215117962954,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.211667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "a",
+        "start": 0.286667,
+        "end": 0.361667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.361667,
+        "end": 0.461667
+      },
+      {
+        "symbol": "f",
+        "start": 0.461667,
+        "end": 0.536667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.536667,
+        "end": 0.611667
+      },
+      {
+        "symbol": "l",
+        "start": 0.611667,
+        "end": 0.686667
+      },
+      {
+        "symbol": " ",
+        "start": 0.686667,
+        "end": 0.761667
+      },
+      {
+        "symbol": "t",
+        "start": 0.761667,
+        "end": 0.836667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.836667,
+        "end": 0.961667
+      },
+      {
+        "symbol": "a",
+        "start": 0.961667,
+        "end": 1.061667
+      },
+      {
+        "symbol": "ʊ",
+        "start": 1.061667,
+        "end": 1.186667
+      },
+      {
+        "symbol": "ə",
+        "start": 1.186667,
+        "end": 1.621333
+      },
+      {
+        "symbol": ".",
+        "start": 1.621333,
+        "end": 1.621333
+      }
+    ]
+  },
+  {
+    "wordId": "word_terracotta_warriors",
+    "text": "Terracotta Warriors",
+    "audioSha1": "cbf9deb214ef2a66711fa87b5c4bb5dacde0a8d8",
+    "sourceWavSha256": "d4df33831c27d0c82fc87696e41bb40a5638de16a15ce07bcadca80153dd5a91",
+    "sourceDuration": 2.082666666666667,
+    "replayDuration": 2.082666666666667,
+    "waveformCorrelation": 0.9957626908154557,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "t",
+        "start": 0.186667,
+        "end": 0.261667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.261667,
+        "end": 0.336667
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.336667,
+        "end": 0.411667
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.411667,
+        "end": 0.486667
+      },
+      {
+        "symbol": "ɐ",
+        "start": 0.486667,
+        "end": 0.586667
+      },
+      {
+        "symbol": "k",
+        "start": 0.586667,
+        "end": 0.661667
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.661667,
+        "end": 0.711667
+      },
+      {
+        "symbol": "ɒ",
+        "start": 0.711667,
+        "end": 0.786667
+      },
+      {
+        "symbol": "t",
+        "start": 0.786667,
+        "end": 0.861667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.861667,
+        "end": 0.936667
+      },
+      {
+        "symbol": " ",
+        "start": 0.936667,
+        "end": 1.011667
+      },
+      {
+        "symbol": "w",
+        "start": 1.011667,
+        "end": 1.061667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 1.061667,
+        "end": 1.161667
+      },
+      {
+        "symbol": "ɒ",
+        "start": 1.161667,
+        "end": 1.236667
+      },
+      {
+        "symbol": "ɹ",
+        "start": 1.236667,
+        "end": 1.336667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 1.336667,
+        "end": 1.436667
+      },
+      {
+        "symbol": "ə",
+        "start": 1.436667,
+        "end": 1.586667
+      },
+      {
+        "symbol": "z",
+        "start": 1.586667,
+        "end": 1.962667
+      },
+      {
+        "symbol": ".",
+        "start": 1.962667,
+        "end": 1.962667
+      }
+    ]
+  },
+  {
+    "wordId": "word_jinggangshan_revolution_museum",
+    "audioSha1": "a1d4aa1907a11e571ef1cc3cd4bf693dd933c4ab",
+    "sourceWavSha256": "8ed5cbe2e1b8f5e4198515fea7dc4984a584e8f7a978f8f7216a5e438cf63c52",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.144,
+        "end": 0.194
+      },
+      {
+        "symbol": "ʒ",
+        "start": 0.194,
+        "end": 0.244
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.244,
+        "end": 0.294
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.294,
+        "end": 0.344
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.344,
+        "end": 0.419
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.419,
+        "end": 0.519
+      },
+      {
+        "symbol": "æ",
+        "start": 0.519,
+        "end": 0.594
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.594,
+        "end": 0.719
+      },
+      {
+        "symbol": "ʃ",
+        "start": 0.719,
+        "end": 0.794
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.794,
+        "end": 0.894
+      },
+      {
+        "symbol": "æ",
+        "start": 0.894,
+        "end": 0.969
+      },
+      {
+        "symbol": "n",
+        "start": 0.969,
+        "end": 1.044
+      },
+      {
+        "symbol": " ",
+        "start": 1.044,
+        "end": 1.119
+      },
+      {
+        "symbol": "ɹ",
+        "start": 1.119,
+        "end": 1.169
+      },
+      {
+        "symbol": "ˌ",
+        "start": 1.169,
+        "end": 1.219
+      },
+      {
+        "symbol": "ɛ",
+        "start": 1.219,
+        "end": 1.269
+      },
+      {
+        "symbol": "v",
+        "start": 1.269,
+        "end": 1.344
+      },
+      {
+        "symbol": "ə",
+        "start": 1.344,
+        "end": 1.419
+      },
+      {
+        "symbol": "l",
+        "start": 1.419,
+        "end": 1.469
+      },
+      {
+        "symbol": "ˈ",
+        "start": 1.469,
+        "end": 1.519
+      },
+      {
+        "symbol": "u",
+        "start": 1.519,
+        "end": 1.544
+      },
+      {
+        "symbol": "ː",
+        "start": 1.544,
+        "end": 1.644
+      },
+      {
+        "symbol": "ʃ",
+        "start": 1.644,
+        "end": 1.719
+      },
+      {
+        "symbol": "ə",
+        "start": 1.719,
+        "end": 1.794
+      },
+      {
+        "symbol": "n",
+        "start": 1.794,
+        "end": 1.844
+      },
+      {
+        "symbol": " ",
+        "start": 1.844,
+        "end": 1.894
+      },
+      {
+        "symbol": "m",
+        "start": 1.894,
+        "end": 1.944
+      },
+      {
+        "symbol": "j",
+        "start": 1.944,
+        "end": 1.969
+      },
+      {
+        "symbol": "u",
+        "start": 1.969,
+        "end": 1.994
+      },
+      {
+        "symbol": "ː",
+        "start": 1.994,
+        "end": 2.069
+      },
+      {
+        "symbol": "z",
+        "start": 2.069,
+        "end": 2.144
+      },
+      {
+        "symbol": "ˈ",
+        "start": 2.144,
+        "end": 2.219
+      },
+      {
+        "symbol": "i",
+        "start": 2.219,
+        "end": 2.269
+      },
+      {
+        "symbol": "ː",
+        "start": 2.269,
+        "end": 2.344
+      },
+      {
+        "symbol": "ə",
+        "start": 2.344,
+        "end": 2.444
+      },
+      {
+        "symbol": "m",
+        "start": 2.444,
+        "end": 2.645333
+      },
+      {
+        "symbol": ".",
+        "start": 2.645333,
+        "end": 2.645333
+      }
+    ],
+    "text": "Jinggangshan Revolution Museum",
+    "sourceDuration": 2.7853333333333334,
+    "replayMatched": true,
+    "timingSource": "direct-synthesis",
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_the_red_army",
+    "text": "the Red Army",
+    "audioSha1": "b71b5f532a3fe7c9ed8febdf822df5f15efe60f1",
+    "sourceWavSha256": "aa16da1196ff7a7789e4e70a8adc0c93961e7a2598579fb690ac2614884bf67d",
+    "sourceDuration": 1.6346666666666667,
+    "replayDuration": 1.6346666666666667,
+    "waveformCorrelation": 0.9957265810679182,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ð",
+        "start": 0.186667,
+        "end": 0.236667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.236667,
+        "end": 0.286667
+      },
+      {
+        "symbol": " ",
+        "start": 0.286667,
+        "end": 0.361667
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.361667,
+        "end": 0.411667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.411667,
+        "end": 0.486667
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.486667,
+        "end": 0.561667
+      },
+      {
+        "symbol": "d",
+        "start": 0.561667,
+        "end": 0.611667
+      },
+      {
+        "symbol": " ",
+        "start": 0.611667,
+        "end": 0.686667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.686667,
+        "end": 0.786667
+      },
+      {
+        "symbol": "ɑ",
+        "start": 0.786667,
+        "end": 0.861667
+      },
+      {
+        "symbol": "ː",
+        "start": 0.861667,
+        "end": 0.936667
+      },
+      {
+        "symbol": "m",
+        "start": 0.936667,
+        "end": 1.061667
+      },
+      {
+        "symbol": "i",
+        "start": 1.061667,
+        "end": 1.514667
+      },
+      {
+        "symbol": ".",
+        "start": 1.514667,
+        "end": 1.514667
+      }
+    ]
+  },
+  {
+    "wordId": "word_dress",
+    "text": "dress",
+    "audioSha1": "2f0d9f7f26aa312f1902b28f2c8e9e7dae52b4dc",
+    "sourceWavSha256": "1041cada894aaf66bdfeabef1185b0cbce346f4fa620d8b36b2f9f500d29ebda",
+    "sourceDuration": 1.216,
+    "replayDuration": 1.216,
+    "waveformCorrelation": 0.9967137724470536,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.304333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.379333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.504333,
+        "end": 0.604333
+      },
+      {
+        "symbol": "s",
+        "start": 0.604333,
+        "end": 0.979333
+      },
+      {
+        "symbol": ".",
+        "start": 0.979333,
+        "end": 1.179333
+      }
+    ]
+  },
+  {
+    "wordId": "word_paste",
+    "text": "paste",
+    "audioSha1": "0a5cb9607c58fbf6a5309e3da346ded121584828",
+    "sourceWavSha256": "e5012f68878daf27f4cf210aaf860c45acdd71ecf62ff69c6c211e72778deae7",
+    "sourceDuration": 1.1946666666666668,
+    "replayDuration": 1.1946666666666668,
+    "waveformCorrelation": 0.9923471444897614,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "p",
+        "start": 0.204333,
+        "end": 0.279333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.279333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "e",
+        "start": 0.379333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.479333,
+        "end": 0.604333
+      },
+      {
+        "symbol": "s",
+        "start": 0.604333,
+        "end": 0.704333
+      },
+      {
+        "symbol": "t",
+        "start": 0.704333,
+        "end": 0.979333
+      },
+      {
+        "symbol": ".",
+        "start": 0.979333,
+        "end": 1.154333
+      }
+    ]
+  },
+  {
+    "wordId": "word_gala",
+    "text": "gala",
+    "audioSha1": "52512a960bb14eedcecfa0653b21488cd1fbd201",
+    "sourceWavSha256": "fada24c4b2cd4a62774a1b59dbd16d7dc1f4f7c1c9b3a15abc1792009f79ba21",
+    "sourceDuration": 1.216,
+    "replayDuration": 1.216,
+    "waveformCorrelation": 0.9969015423147474,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɡ",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ɑ",
+        "start": 0.429333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.504333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "l",
+        "start": 0.579333,
+        "end": 0.679333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.679333,
+        "end": 1.004333
+      },
+      {
+        "symbol": ".",
+        "start": 1.004333,
+        "end": 1.179333
+      }
+    ]
+  },
+  {
+    "wordId": "word_count_down",
+    "text": "count down",
+    "audioSha1": "19f47cddc3494edebcdeea427f966e4488505b9d",
+    "sourceWavSha256": "8c263ea08a2e090903e549a3493b906da8de5461654f65db8efe96961fdfeeeb",
+    "sourceDuration": 1.5506666666666666,
+    "replayDuration": 1.5506666666666666,
+    "waveformCorrelation": 0.993874854623032,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.186667,
+        "end": 0.261667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.261667,
+        "end": 0.336667
+      },
+      {
+        "symbol": "a",
+        "start": 0.336667,
+        "end": 0.386667
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.386667,
+        "end": 0.436667
+      },
+      {
+        "symbol": "n",
+        "start": 0.436667,
+        "end": 0.486667
+      },
+      {
+        "symbol": "t",
+        "start": 0.486667,
+        "end": 0.536667
+      },
+      {
+        "symbol": " ",
+        "start": 0.536667,
+        "end": 0.611667
+      },
+      {
+        "symbol": "d",
+        "start": 0.611667,
+        "end": 0.686667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.686667,
+        "end": 0.811667
+      },
+      {
+        "symbol": "a",
+        "start": 0.811667,
+        "end": 0.911667
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.911667,
+        "end": 1.011667
+      },
+      {
+        "symbol": "n",
+        "start": 1.011667,
+        "end": 1.450667
+      },
+      {
+        "symbol": ".",
+        "start": 1.450667,
+        "end": 1.450667
+      }
+    ]
+  },
+  {
+    "wordId": "word_marathon",
+    "text": "marathon",
+    "audioSha1": "f349433415b58386c00a597cd16b54b900127fe7",
+    "sourceWavSha256": "7fa1fd4490fdebbca76b4d77964ac0fec6c9b6b3d0a5f4a312d3ecd5f7c4ad77",
+    "sourceDuration": 1.6,
+    "replayDuration": 1.6,
+    "waveformCorrelation": 0.9947670453082493,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "m",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.383
+      },
+      {
+        "symbol": "a",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.458,
+        "end": 0.533
+      },
+      {
+        "symbol": "ə",
+        "start": 0.533,
+        "end": 0.633
+      },
+      {
+        "symbol": "θ",
+        "start": 0.633,
+        "end": 0.758
+      },
+      {
+        "symbol": "ə",
+        "start": 0.758,
+        "end": 0.858
+      },
+      {
+        "symbol": "n",
+        "start": 0.858,
+        "end": 1.358
+      },
+      {
+        "symbol": ".",
+        "start": 1.358,
+        "end": 1.558
+      }
+    ]
+  },
+  {
+    "wordId": "word_as",
+    "text": "as",
+    "audioSha1": "82152f828dd9abd075a294aec5afea0cf2a86bb4",
+    "sourceWavSha256": "153dd1551fd79202a901c4d845867e5e5ecb5b1d0602efb9d0276f0c4d559468",
+    "sourceDuration": 0.9253333333333333,
+    "replayDuration": 0.9253333333333333,
+    "waveformCorrelation": 0.996659359886703,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "a",
+        "start": 0.254333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "z",
+        "start": 0.404333,
+        "end": 0.579333
+      },
+      {
+        "symbol": ".",
+        "start": 0.579333,
+        "end": 0.679333
+      }
+    ]
+  },
+  {
+    "wordId": "word_race",
+    "text": "race",
+    "audioSha1": "dd65f4e13e1ce37f6d6d470b1fccd36827d1d892",
+    "sourceWavSha256": "bea346a2487b3e70cb35986c154ad840950f2cd875f0c636c91a13052957284e",
+    "sourceDuration": 1.554,
+    "replayDuration": 1.554,
+    "waveformCorrelation": 0.9956223854397489,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɹ",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.408
+      },
+      {
+        "symbol": "e",
+        "start": 0.408,
+        "end": 0.508
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.508,
+        "end": 0.633
+      },
+      {
+        "symbol": "s",
+        "start": 0.633,
+        "end": 1.108
+      },
+      {
+        "symbol": ".",
+        "start": 1.108,
+        "end": 1.308
+      }
+    ]
+  },
+  {
+    "wordId": "word_run",
+    "text": "run",
+    "audioSha1": "ad84ac883a3ded89b4c591e2433469fc19ec815a",
+    "sourceWavSha256": "b7901478bfe1b9e384ceb84d648bd7435cab22411c7085e579f14b570e5d381d",
+    "sourceDuration": 1.1733333333333333,
+    "replayDuration": 1.1733333333333333,
+    "waveformCorrelation": 0.9968199069481942,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɹ",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.454333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "n",
+        "start": 0.554333,
+        "end": 0.954333
+      },
+      {
+        "symbol": ".",
+        "start": 0.954333,
+        "end": 1.129333
+      }
+    ]
+  },
+  {
+    "wordId": "word_cheer",
+    "text": "cheer",
+    "audioSha1": "bf9a1134eb9e2a4bc19654f0d6489d651c0626cd",
+    "sourceWavSha256": "4661e8c2bca53e25c763efb556afecd034647576b4a2302f42daff109796184a",
+    "sourceDuration": 0.984625,
+    "replayDuration": 0.984625,
+    "waveformCorrelation": 0.9968149632078905,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "t",
+        "start": 0.229333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ʃ",
+        "start": 0.329333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.379333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "i",
+        "start": 0.479333,
+        "end": 0.604333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.604333,
+        "end": 0.874667
+      },
+      {
+        "symbol": ".",
+        "start": 0.874667,
+        "end": 0.874667
+      }
+    ]
+  },
+  {
+    "wordId": "word_book_fair",
+    "text": "book fair",
+    "audioSha1": "a44f21319ed514246b83996fc4a1a02977bb0951",
+    "sourceWavSha256": "5aa1b4c928281c13b93be2f55a03300eb0b698b7914234c54aa1d982df57912c",
+    "sourceDuration": 1.2093333333333334,
+    "replayDuration": 1.2093333333333334,
+    "waveformCorrelation": 0.9962659707703375,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "b",
+        "start": 0.183,
+        "end": 0.233
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.233,
+        "end": 0.283
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.283,
+        "end": 0.358
+      },
+      {
+        "symbol": "k",
+        "start": 0.358,
+        "end": 0.433
+      },
+      {
+        "symbol": " ",
+        "start": 0.433,
+        "end": 0.508
+      },
+      {
+        "symbol": "f",
+        "start": 0.508,
+        "end": 0.583
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.583,
+        "end": 0.708
+      },
+      {
+        "symbol": "e",
+        "start": 0.708,
+        "end": 0.833
+      },
+      {
+        "symbol": "ə",
+        "start": 0.833,
+        "end": 1.109333
+      },
+      {
+        "symbol": ".",
+        "start": 1.109333,
+        "end": 1.109333
+      }
+    ]
+  },
+  {
+    "wordId": "word_read",
+    "text": "read",
+    "audioSha1": "7129013c0e69f68c033d462003152789f356980a",
+    "sourceWavSha256": "3656b33077e36acd11eee7e24ce160844b935b711ec02d09c5a08622e0dfe31a",
+    "sourceDuration": 1.4473333333333334,
+    "replayDuration": 1.4473333333333334,
+    "waveformCorrelation": 0.993012423628148,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɹ",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "i",
+        "start": 0.479333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.579333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "d",
+        "start": 0.654333,
+        "end": 1.029333
+      },
+      {
+        "symbol": ".",
+        "start": 1.029333,
+        "end": 1.204333
+      }
+    ]
+  },
+  {
+    "wordId": "word_writer",
+    "text": "writer",
+    "audioSha1": "5f830c9aeb5585be6f8822ec5ca05d529deaaa48",
+    "sourceWavSha256": "63d73eddb6b13bfa6f169e828c4e76ea10eb8e66f17ca4aafa1d669a354f1936",
+    "sourceDuration": 1.112625,
+    "replayDuration": 1.112625,
+    "waveformCorrelation": 0.9963390018922046,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɹ",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.383
+      },
+      {
+        "symbol": "a",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.458,
+        "end": 0.583
+      },
+      {
+        "symbol": "t",
+        "start": 0.583,
+        "end": 0.733
+      },
+      {
+        "symbol": "ə",
+        "start": 0.733,
+        "end": 1.002667
+      },
+      {
+        "symbol": ".",
+        "start": 1.002667,
+        "end": 1.002667
+      }
+    ]
+  },
+  {
+    "wordId": "word_make",
+    "text": "make",
+    "audioSha1": "e1a8eb299f9e8b0e3864e2855a52715d64b5efbd",
+    "sourceWavSha256": "85cb25f2a4b2bad98f8246d9b7bd5874baa3cc5ac7e15606f11e86dcb5f98aaf",
+    "sourceDuration": 1.1733333333333333,
+    "replayDuration": 1.1733333333333333,
+    "waveformCorrelation": 0.9937755230989381,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "m",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "e",
+        "start": 0.404333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.504333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "k",
+        "start": 0.629333,
+        "end": 0.929333
+      },
+      {
+        "symbol": ".",
+        "start": 0.929333,
+        "end": 1.129333
+      }
+    ]
+  },
+  {
+    "wordId": "word_sing",
+    "text": "sing",
+    "audioSha1": "9f62c80051fb1eff6da3cfddd4a10a2c12ee646f",
+    "sourceWavSha256": "89e7c9e045f514ab09e6b964ce6ea1a6cb47f4e58ba8725b5db3ba7ca9a83e9f",
+    "sourceDuration": 0.9093333333333333,
+    "replayDuration": 0.9093333333333333,
+    "waveformCorrelation": 0.9965250920676996,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.529333,
+        "end": 0.789333
+      },
+      {
+        "symbol": ".",
+        "start": 0.789333,
+        "end": 0.789333
+      }
+    ]
+  },
+  {
+    "wordId": "word_wear",
+    "text": "wear",
+    "audioSha1": "5c8faee62f9268138df4fe7292c1cd8fefa59cce",
+    "sourceWavSha256": "9698b690f9c0ecbe221d7368a64267b5a78c3e2850a1c0c82ac9e638cebdae57",
+    "sourceDuration": 1.152,
+    "replayDuration": 1.152,
+    "waveformCorrelation": 0.9963424610536846,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "w",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "e",
+        "start": 0.454333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.579333,
+        "end": 0.929333
+      },
+      {
+        "symbol": ".",
+        "start": 0.929333,
+        "end": 1.104333
+      }
+    ]
+  },
+  {
+    "wordId": "word_yesterday",
+    "text": "yesterday",
+    "audioSha1": "7c96fe0eba1a85ec4c5f138776914017ec7120fa",
+    "sourceWavSha256": "475532eee10de463434ca17949e45091713e550da2f1ac8f23301dbcbb99026a",
+    "sourceDuration": 1.414,
+    "replayDuration": 1.414,
+    "waveformCorrelation": 0.9959452376402296,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "j",
+        "start": 0.211667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.286667,
+        "end": 0.361667
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.361667,
+        "end": 0.436667
+      },
+      {
+        "symbol": "s",
+        "start": 0.436667,
+        "end": 0.536667
+      },
+      {
+        "symbol": "t",
+        "start": 0.536667,
+        "end": 0.611667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.611667,
+        "end": 0.686667
+      },
+      {
+        "symbol": "d",
+        "start": 0.686667,
+        "end": 0.761667
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.761667,
+        "end": 0.836667
+      },
+      {
+        "symbol": "e",
+        "start": 0.836667,
+        "end": 0.936667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.936667,
+        "end": 1.344
+      },
+      {
+        "symbol": ".",
+        "start": 1.344,
+        "end": 1.344
+      }
+    ]
+  },
+  {
+    "wordId": "word_notice",
+    "text": "notice",
+    "audioSha1": "399cefe0cf0c4c19fe666a72ea7b28231e409d0b",
+    "sourceWavSha256": "4ef56af9521e3dcede86ee25b2692430877203d88846e5e3a27c7eff5d37a7f1",
+    "sourceDuration": 1.5786666666666667,
+    "replayDuration": 1.5786666666666667,
+    "waveformCorrelation": 0.9937351210095331,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "n",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.383
+      },
+      {
+        "symbol": "ə",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.458,
+        "end": 0.558
+      },
+      {
+        "symbol": "t",
+        "start": 0.558,
+        "end": 0.708
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.708,
+        "end": 0.833
+      },
+      {
+        "symbol": "s",
+        "start": 0.833,
+        "end": 1.333
+      },
+      {
+        "symbol": ".",
+        "start": 1.333,
+        "end": 1.533
+      }
+    ]
+  },
+  {
+    "wordId": "word_wake",
+    "text": "wake",
+    "audioSha1": "823bb2df97ecf150213e8ac81e6a6091373c1d8a",
+    "sourceWavSha256": "4559dbfcb904d01d285c774ec6f48248e31262d049d3986deaeef3e04d533b77",
+    "sourceDuration": 0.96,
+    "replayDuration": 0.96,
+    "waveformCorrelation": 0.995203312289061,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "w",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "e",
+        "start": 0.379333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.479333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "k",
+        "start": 0.579333,
+        "end": 0.804333
+      },
+      {
+        "symbol": ".",
+        "start": 0.804333,
+        "end": 0.929333
+      }
+    ]
+  },
+  {
+    "wordId": "word_later",
+    "text": "later",
+    "audioSha1": "5fc626307be95231581db38ef66288064985bfd2",
+    "sourceWavSha256": "3e94f02a2a8bb65d03bf541ff3e9f1204fd38a93a5958a1fadc11d843b49955d",
+    "sourceDuration": 1.154,
+    "replayDuration": 1.144,
+    "waveformCorrelation": 0.9961497678504542,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 0.9999999686522639,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "l",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "e",
+        "start": 0.404333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.479333,
+        "end": 0.604333
+      },
+      {
+        "symbol": "t",
+        "start": 0.604333,
+        "end": 0.754333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.754333,
+        "end": 1.024
+      },
+      {
+        "symbol": ".",
+        "start": 1.024,
+        "end": 1.024
+      }
+    ]
+  },
+  {
+    "wordId": "word_judge",
+    "text": "judge",
+    "audioSha1": "145c2685a02fdcef40453f91ee8140cdfad037bb",
+    "sourceWavSha256": "7c9c68c35cc2aff02ddb736456cae253d44fe642918a46d3bfa38af12dc56342",
+    "sourceDuration": 1.1733333333333333,
+    "replayDuration": 1.1733333333333333,
+    "waveformCorrelation": 0.9958093976591781,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ʒ",
+        "start": 0.304333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.379333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.504333,
+        "end": 0.604333
+      },
+      {
+        "symbol": "d",
+        "start": 0.604333,
+        "end": 0.704333
+      },
+      {
+        "symbol": "ʒ",
+        "start": 0.704333,
+        "end": 0.979333
+      },
+      {
+        "symbol": ".",
+        "start": 0.979333,
+        "end": 1.129333
+      }
+    ]
+  },
+  {
+    "wordId": "word_win",
+    "text": "win",
+    "audioSha1": "1272bbf016b5a6170dda6136ab80149efe1097bd",
+    "sourceWavSha256": "8b7106aba9e9267dc7699761dd9e4b81e66f547cb8d28291a96ae44ce8b4a11d",
+    "sourceDuration": 1.0453333333333332,
+    "replayDuration": 1.0453333333333332,
+    "waveformCorrelation": 0.9962660056415362,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "w",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.404333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "n",
+        "start": 0.504333,
+        "end": 0.829333
+      },
+      {
+        "symbol": ".",
+        "start": 0.829333,
+        "end": 1.004333
+      }
+    ]
+  },
+  {
+    "wordId": "word_begin",
+    "text": "begin",
+    "audioSha1": "fd7ca87da71b9a443cac54239f32b17ccd3641ee",
+    "sourceWavSha256": "ee664c277f77374fe1f3f297d178accb957d7bb78dd14949b0b4589066fc5e5a",
+    "sourceDuration": 1.3013333333333332,
+    "replayDuration": 1.3013333333333332,
+    "waveformCorrelation": 0.9975048476147783,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "b",
+        "start": 0.204333,
+        "end": 0.279333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.279333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.379333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.454333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.554333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "n",
+        "start": 0.654333,
+        "end": 1.054333
+      },
+      {
+        "symbol": ".",
+        "start": 1.054333,
+        "end": 1.254333
+      }
+    ]
+  },
+  {
+    "wordId": "word_winner",
+    "text": "winner",
+    "audioSha1": "9ea4d49805d4f9bb05d2bab7da3224c647e35656",
+    "sourceWavSha256": "0b1c70cf69529582688589ffd44b778cca90022ed4ffb465fa43967a48731467",
+    "sourceDuration": 1.088,
+    "replayDuration": 1.088,
+    "waveformCorrelation": 0.9954207418450443,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "w",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.354333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.354333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "n",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.529333,
+        "end": 0.879333
+      },
+      {
+        "symbol": ".",
+        "start": 0.879333,
+        "end": 1.054333
+      }
+    ]
+  },
+  {
+    "wordId": "word_ever",
+    "text": "ever",
+    "audioSha1": "78ee3843265cbd64b62cce36881b9da91ff0d512",
+    "sourceWavSha256": "d1054a9b3ae79f3b1f763c931c94aea3e49c2eb2c4ca54201fdb936fca5b8906",
+    "sourceDuration": 0.9813333333333333,
+    "replayDuration": 0.9813333333333333,
+    "waveformCorrelation": 0.9930541375713837,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.250667,
+        "end": 0.350667
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.350667,
+        "end": 0.425667
+      },
+      {
+        "symbol": "v",
+        "start": 0.425667,
+        "end": 0.525667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.525667,
+        "end": 0.800667
+      },
+      {
+        "symbol": ".",
+        "start": 0.800667,
+        "end": 0.950667
+      }
+    ]
+  },
+  {
+    "wordId": "word_exciting",
+    "audioSha1": "668b9e061876ed7e53007ba1c3fe209a5a4981ba",
+    "sourceWavSha256": "0e78a888e42cbd865ae7f55615a1e2bcef03c45254ccba845fc8b4ec83c22ea7",
+    "timings": [
+      {
+        "symbol": "ɪ",
+        "start": 0.186667,
+        "end": 0.261667
+      },
+      {
+        "symbol": "k",
+        "start": 0.261667,
+        "end": 0.361667
+      },
+      {
+        "symbol": "s",
+        "start": 0.361667,
+        "end": 0.461667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.461667,
+        "end": 0.536667
+      },
+      {
+        "symbol": "a",
+        "start": 0.536667,
+        "end": 0.611667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.611667,
+        "end": 0.711667
+      },
+      {
+        "symbol": "t",
+        "start": 0.711667,
+        "end": 0.861667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.861667,
+        "end": 0.961667
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.961667,
+        "end": 1.365333
+      },
+      {
+        "symbol": ".",
+        "start": 1.365333,
+        "end": 1.365333
+      }
+    ],
+    "text": "exciting",
+    "sourceDuration": 1.4553333333333334,
+    "replayMatched": true,
+    "timingSource": "direct-synthesis",
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_cold",
+    "text": "cold",
+    "audioSha1": "abad4019840072a6a02cb42e16c7bfe4d0fc6bfc",
+    "sourceWavSha256": "213b31b65036417592214fda867dd777eb73b29c1ef143522545b0cc93838050",
+    "sourceDuration": 1.2586666666666666,
+    "replayDuration": 1.2586666666666666,
+    "waveformCorrelation": 0.9927119490272598,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.404333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.504333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "l",
+        "start": 0.654333,
+        "end": 0.754333
+      },
+      {
+        "symbol": "d",
+        "start": 0.754333,
+        "end": 1.079333
+      },
+      {
+        "symbol": ".",
+        "start": 1.079333,
+        "end": 1.229333
+      }
+    ]
+  },
+  {
+    "wordId": "word_ill",
+    "text": "ill",
+    "audioSha1": "b539bde57f5c752acbb2fd320f86a6ef41124790",
+    "sourceWavSha256": "850c9147d18b66be19cc6471ec0bdbca66d2d10fb47567da3dc3fae318c530ba",
+    "sourceDuration": 0.8746666666666667,
+    "replayDuration": 0.8746666666666667,
+    "waveformCorrelation": 0.9953487427109008,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.229333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.329333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "l",
+        "start": 0.454333,
+        "end": 0.704333
+      },
+      {
+        "symbol": ".",
+        "start": 0.704333,
+        "end": 0.829333
+      }
+    ]
+  },
+  {
+    "wordId": "word_head",
+    "text": "head",
+    "audioSha1": "3b69b70b20298b80405fbe8abade235ea454dd64",
+    "sourceWavSha256": "9608a086952621f6356c7c3e5b5ea4bc7fe9f4c8b06cdf5b4b9cb14b9a149222",
+    "sourceDuration": 0.9386666666666666,
+    "replayDuration": 0.9386666666666666,
+    "waveformCorrelation": 0.9971625963086121,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "h",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "d",
+        "start": 0.529333,
+        "end": 0.779333
+      },
+      {
+        "symbol": ".",
+        "start": 0.779333,
+        "end": 0.904333
+      }
+    ]
+  },
+  {
+    "wordId": "word_runny_nose",
+    "text": "runny nose",
+    "audioSha1": "80ff02d72848dceef4405d226c9c302375b24a5a",
+    "sourceWavSha256": "07eda03f178e168d3599351689b7bc0fcae910409eff260882aae3bad8cc0e29",
+    "sourceDuration": 1.6133333333333333,
+    "replayDuration": 1.6133333333333333,
+    "waveformCorrelation": 0.9964413634217153,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɹ",
+        "start": 0.211667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.286667,
+        "end": 0.361667
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.361667,
+        "end": 0.411667
+      },
+      {
+        "symbol": "n",
+        "start": 0.411667,
+        "end": 0.511667
+      },
+      {
+        "symbol": "i",
+        "start": 0.511667,
+        "end": 0.586667
+      },
+      {
+        "symbol": " ",
+        "start": 0.586667,
+        "end": 0.661667
+      },
+      {
+        "symbol": "n",
+        "start": 0.661667,
+        "end": 0.736667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.736667,
+        "end": 0.836667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.836667,
+        "end": 0.961667
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.961667,
+        "end": 1.086667
+      },
+      {
+        "symbol": "z",
+        "start": 1.086667,
+        "end": 1.493333
+      },
+      {
+        "symbol": ".",
+        "start": 1.493333,
+        "end": 1.493333
+      }
+    ]
+  },
+  {
+    "wordId": "word_soon",
+    "text": "soon",
+    "audioSha1": "665ba57101eadc62caec8deb544c9c7ab913794f",
+    "sourceWavSha256": "84e5c261e2a23ab56c48cf6b90b00b4c1485da4f7bfbc6e6d71048d3a2bc3e31",
+    "sourceDuration": 0.9833333333333333,
+    "replayDuration": 0.9833333333333333,
+    "waveformCorrelation": 0.9944049145828223,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "u",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.529333,
+        "end": 0.604333
+      },
+      {
+        "symbol": "n",
+        "start": 0.604333,
+        "end": 0.853333
+      },
+      {
+        "symbol": ".",
+        "start": 0.853333,
+        "end": 0.853333
+      }
+    ]
+  },
+  {
+    "wordId": "word_fever",
+    "text": "fever",
+    "audioSha1": "105c711c200c7e89f48e71ab10273217550345ce",
+    "sourceWavSha256": "f01473630df77e46ce6a445c4088a32fc4676bbaf9a3652ce6e0ef208e1e01d9",
+    "sourceDuration": 1.0272916666666667,
+    "replayDuration": 1.0272916666666667,
+    "waveformCorrelation": 0.996798083084898,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "f",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "i",
+        "start": 0.429333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.479333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "v",
+        "start": 0.554333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.654333,
+        "end": 0.917333
+      },
+      {
+        "symbol": ".",
+        "start": 0.917333,
+        "end": 0.917333
+      }
+    ]
+  },
+  {
+    "wordId": "word_cough",
+    "text": "cough",
+    "audioSha1": "2d0a98d4d68f9ee6d1d33f30b23d137f86857b07",
+    "sourceWavSha256": "3e51165566de6c16183a23a6f372b035884fe84cf31cc4ff376d193d71d20bd3",
+    "sourceDuration": 0.96,
+    "replayDuration": 0.96,
+    "waveformCorrelation": 0.992957605605572,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.250667,
+        "end": 0.325667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.325667,
+        "end": 0.450667
+      },
+      {
+        "symbol": "ɒ",
+        "start": 0.450667,
+        "end": 0.575667
+      },
+      {
+        "symbol": "f",
+        "start": 0.575667,
+        "end": 0.800667
+      },
+      {
+        "symbol": ".",
+        "start": 0.800667,
+        "end": 0.925667
+      }
+    ]
+  },
+  {
+    "wordId": "word_discuss",
+    "text": "discuss",
+    "audioSha1": "bf661f3646d01acc0183e94a29a897be6210ca95",
+    "sourceWavSha256": "fb6be6a9bc3d50aaa73bb6716869a7f819658010ba16d0320f151303153be743",
+    "sourceDuration": 1.3866666666666667,
+    "replayDuration": 1.3866666666666667,
+    "waveformCorrelation": 0.9944520270768551,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.283,
+        "end": 0.383
+      },
+      {
+        "symbol": "s",
+        "start": 0.383,
+        "end": 0.483
+      },
+      {
+        "symbol": "k",
+        "start": 0.483,
+        "end": 0.558
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.558,
+        "end": 0.683
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.683,
+        "end": 0.808
+      },
+      {
+        "symbol": "s",
+        "start": 0.808,
+        "end": 1.183
+      },
+      {
+        "symbol": ".",
+        "start": 1.183,
+        "end": 1.358
+      }
+    ]
+  },
+  {
+    "wordId": "word_diet",
+    "text": "diet",
+    "audioSha1": "b550adf8df471ac8da1d62aecea0a9f39e4dcd43",
+    "sourceWavSha256": "6fd2f3e440a6a9f0e76dc162208ad867ddecec2cb2bc6a2a15df95d195a66e5a",
+    "sourceDuration": 1.3013333333333332,
+    "replayDuration": 1.3013333333333332,
+    "waveformCorrelation": 0.9957235517355645,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.283,
+        "end": 0.408
+      },
+      {
+        "symbol": "a",
+        "start": 0.408,
+        "end": 0.483
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.483,
+        "end": 0.608
+      },
+      {
+        "symbol": "ə",
+        "start": 0.608,
+        "end": 0.733
+      },
+      {
+        "symbol": "t",
+        "start": 0.733,
+        "end": 1.058
+      },
+      {
+        "symbol": ".",
+        "start": 1.058,
+        "end": 1.258
+      }
+    ]
+  },
+  {
+    "wordId": "word_stay_up",
+    "text": "stay up",
+    "audioSha1": "ed9c8f9a20614741a2283f6a5c6e0e4062b1600f",
+    "sourceWavSha256": "94a9399b01b63921d18cf46b7063b1e11028c54120056c580998625f6ea2a6b0",
+    "sourceDuration": 1.1753333333333333,
+    "replayDuration": 1.1753333333333333,
+    "waveformCorrelation": 0.99523466710963,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "t",
+        "start": 0.329333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.379333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "e",
+        "start": 0.454333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.529333,
+        "end": 0.579333
+      },
+      {
+        "symbol": " ",
+        "start": 0.579333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.629333,
+        "end": 0.729333
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.729333,
+        "end": 0.829333
+      },
+      {
+        "symbol": "p",
+        "start": 0.829333,
+        "end": 1.045333
+      },
+      {
+        "symbol": ".",
+        "start": 1.045333,
+        "end": 1.045333
+      }
+    ]
+  },
+  {
+    "wordId": "word_cry",
+    "text": "cry",
+    "audioSha1": "18bbfb15c6d3ed2d928d868667f4dd46d4ded95c",
+    "sourceWavSha256": "7072d9be466cfa3da162db0bfa96a939438a8f182073e92c9a099c41f737802c",
+    "sourceDuration": 1.0686666666666667,
+    "replayDuration": 1.0686666666666667,
+    "waveformCorrelation": 0.9961624642922831,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.304333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.379333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "a",
+        "start": 0.529333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.629333,
+        "end": 0.938667
+      },
+      {
+        "symbol": ".",
+        "start": 0.938667,
+        "end": 0.938667
+      }
+    ]
+  },
+  {
+    "wordId": "word_another",
+    "text": "another",
+    "audioSha1": "6a95c2cd2d95a7abfab7b69eac693be19fe54fdf",
+    "sourceWavSha256": "f4bc11e0bbac82a1ca0cf54a1b3de0756b4680d859599419384be580f8956d76",
+    "sourceDuration": 1.2586666666666666,
+    "replayDuration": 1.2586666666666666,
+    "waveformCorrelation": 0.9947551554619507,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɐ",
+        "start": 0.229333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "n",
+        "start": 0.329333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.404333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.479333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "ð",
+        "start": 0.554333,
+        "end": 0.679333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.679333,
+        "end": 1.054333
+      },
+      {
+        "symbol": ".",
+        "start": 1.054333,
+        "end": 1.229333
+      }
+    ]
+  },
+  {
+    "wordId": "word_call",
+    "text": "call",
+    "audioSha1": "935bc66ee9154a6f9863a086c63f9cf1aee10391",
+    "sourceWavSha256": "bf85d0601dc8f2e6f776278ad3885a792f5c0330f86c3434634974aafe017830",
+    "sourceDuration": 0.982,
+    "replayDuration": 0.982,
+    "waveformCorrelation": 0.9949187619554343,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.529333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "l",
+        "start": 0.629333,
+        "end": 0.832
+      },
+      {
+        "symbol": ".",
+        "start": 0.832,
+        "end": 0.832
+      }
+    ]
+  },
+  {
+    "wordId": "word_email",
+    "text": "email",
+    "audioSha1": "67a2f271b805302cd7d66c4c193adfe29220c7e2",
+    "sourceWavSha256": "5adcf2b66b22aee0acbe75e51340fe26fccd35c6dc85578cfc735fdb73428863",
+    "sourceDuration": 1.28,
+    "replayDuration": 1.28,
+    "waveformCorrelation": 0.9963972868446049,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "i",
+        "start": 0.308,
+        "end": 0.358
+      },
+      {
+        "symbol": "ː",
+        "start": 0.358,
+        "end": 0.433
+      },
+      {
+        "symbol": "m",
+        "start": 0.433,
+        "end": 0.533
+      },
+      {
+        "symbol": "e",
+        "start": 0.533,
+        "end": 0.658
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.658,
+        "end": 0.758
+      },
+      {
+        "symbol": "l",
+        "start": 0.758,
+        "end": 1.158
+      },
+      {
+        "symbol": ".",
+        "start": 1.158,
+        "end": 1.28
+      }
+    ]
+  },
+  {
+    "wordId": "word_unhappy",
+    "text": "unhappy",
+    "audioSha1": "f7edec3b9d7077a0b4b9f8b61eb9f5c861d842d4",
+    "sourceWavSha256": "61cacd5b30ae5bbe7a8cf3f64854c975950673f3ca671a7856a0251d0a62cb92",
+    "sourceDuration": 1.472,
+    "replayDuration": 1.472,
+    "waveformCorrelation": 0.9942680749401934,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ʌ",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "n",
+        "start": 0.308,
+        "end": 0.408
+      },
+      {
+        "symbol": "h",
+        "start": 0.408,
+        "end": 0.483
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.483,
+        "end": 0.558
+      },
+      {
+        "symbol": "a",
+        "start": 0.558,
+        "end": 0.658
+      },
+      {
+        "symbol": "p",
+        "start": 0.658,
+        "end": 0.808
+      },
+      {
+        "symbol": "i",
+        "start": 0.808,
+        "end": 1.258
+      },
+      {
+        "symbol": ".",
+        "start": 1.258,
+        "end": 1.433
+      }
+    ]
+  },
+  {
+    "wordId": "word_glass",
+    "audioSha1": "2c2bb8beef15ff6641c41d8f6e640312ecbc5d54",
+    "sourceWavSha256": "0f1a91dfa329f6ab6d2aaac929e1bdf0f54d0bb813992e58dddfc283754c39a8",
+    "timings": [
+      {
+        "symbol": "ɡ",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "l",
+        "start": 0.304333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ɑ",
+        "start": 0.429333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.579333,
+        "end": 0.679333
+      },
+      {
+        "symbol": "s",
+        "start": 0.679333,
+        "end": 0.853333
+      },
+      {
+        "symbol": ".",
+        "start": 0.853333,
+        "end": 0.853333
+      }
+    ],
+    "text": "glass",
+    "sourceDuration": 1.0133333333333334,
+    "replayMatched": true,
+    "timingSource": "direct-synthesis",
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_may",
+    "text": "may",
+    "audioSha1": "557c05841cd56aa8075eb627e80b5a62e4a0a1a1",
+    "sourceWavSha256": "6b1ac89c54822bff8be30fb05d685215bf114178c92ad62dcc76b54cfa15d495",
+    "sourceDuration": 1.1093333333333333,
+    "replayDuration": 1.1306666666666667,
+    "waveformCorrelation": 0.9938416166493483,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "m",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "e",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.529333,
+        "end": 0.904333
+      },
+      {
+        "symbol": ".",
+        "start": 0.904333,
+        "end": 1.079333
+      }
+    ]
+  },
+  {
+    "wordId": "word_add",
+    "text": "add",
+    "audioSha1": "3f2a743613efbe30427d6083645605dc3f27391b",
+    "sourceWavSha256": "c63023b63984fbef65729aebf897f25c7a606d93d5b945170e2eee41065046cf",
+    "sourceDuration": 0.908,
+    "replayDuration": 0.908,
+    "waveformCorrelation": 0.9957692129399702,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.254333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "a",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "d",
+        "start": 0.529333,
+        "end": 0.768
+      },
+      {
+        "symbol": ".",
+        "start": 0.768,
+        "end": 0.768
+      }
+    ]
+  },
+  {
+    "wordId": "word_video",
+    "text": "video",
+    "audioSha1": "49b0e5e41c4a992259772e3b3f55fc5c30bf1543",
+    "sourceWavSha256": "c0e58c882b5bf19219f98c35dd9dec48e6ad3cd4f04501f86a6373dfc09cf806",
+    "sourceDuration": 1.216,
+    "replayDuration": 1.1946666666666668,
+    "waveformCorrelation": 0.9972616732815528,
+    "replayMatched": true,
+    "alignmentOffset": 0.021333333333333333,
+    "matchedEnergyFraction": 0.9999999698719356,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "v",
+        "start": 0.229333,
+        "end": 0.279333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.279333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.329333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "d",
+        "start": 0.404333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.504333,
+        "end": 0.604333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.604333,
+        "end": 0.704333
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.704333,
+        "end": 1.029333
+      },
+      {
+        "symbol": ".",
+        "start": 1.029333,
+        "end": 1.179333
+      }
+    ]
+  },
+  {
+    "wordId": "word_better",
+    "text": "better",
+    "audioSha1": "01de41f8461706bd5a4139a9c339dba067fa915a",
+    "sourceWavSha256": "2f6103fb061bcb38d936ad618164c4a8ed7a12f0b3f0d0ea798bfd4d6605313d",
+    "sourceDuration": 1.1306666666666667,
+    "replayDuration": 1.1306666666666667,
+    "waveformCorrelation": 0.9965519393004679,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "b",
+        "start": 0.204333,
+        "end": 0.279333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.279333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.379333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "t",
+        "start": 0.479333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.629333,
+        "end": 0.954333
+      },
+      {
+        "symbol": ".",
+        "start": 0.954333,
+        "end": 1.104333
+      }
+    ]
+  },
+  {
+    "wordId": "word_money",
+    "text": "money",
+    "audioSha1": "bdf09c6c812e975ca0bb80b3def5ff0388919480",
+    "sourceWavSha256": "8c0bb4d128d7aa705ca3bcb19a78c50c257d3b1e066400cf656011dc7c5df28e",
+    "sourceDuration": 1.426,
+    "replayDuration": 1.426,
+    "waveformCorrelation": 0.9948391808980348,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "m",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.404333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "n",
+        "start": 0.479333,
+        "end": 0.604333
+      },
+      {
+        "symbol": "i",
+        "start": 0.604333,
+        "end": 1.004333
+      },
+      {
+        "symbol": ".",
+        "start": 1.004333,
+        "end": 1.179333
+      }
+    ]
+  },
+  {
+    "wordId": "word_pocket_money",
+    "text": "pocket money",
+    "audioSha1": "9cac089e351c096156da6c476454bae642791d64",
+    "sourceWavSha256": "e3a07560de722efc7d557ca3742df4fd14be8865c29da70bf2d1b99e29930e28",
+    "sourceDuration": 1.592,
+    "replayDuration": 1.592,
+    "waveformCorrelation": 0.9968502294717521,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "p",
+        "start": 0.161667,
+        "end": 0.236667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.236667,
+        "end": 0.311667
+      },
+      {
+        "symbol": "ɒ",
+        "start": 0.311667,
+        "end": 0.386667
+      },
+      {
+        "symbol": "k",
+        "start": 0.386667,
+        "end": 0.486667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.486667,
+        "end": 0.561667
+      },
+      {
+        "symbol": "t",
+        "start": 0.561667,
+        "end": 0.611667
+      },
+      {
+        "symbol": " ",
+        "start": 0.611667,
+        "end": 0.661667
+      },
+      {
+        "symbol": "m",
+        "start": 0.661667,
+        "end": 0.711667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.711667,
+        "end": 0.786667
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.786667,
+        "end": 0.861667
+      },
+      {
+        "symbol": "n",
+        "start": 0.861667,
+        "end": 0.986667
+      },
+      {
+        "symbol": "i",
+        "start": 0.986667,
+        "end": 1.472
+      },
+      {
+        "symbol": ".",
+        "start": 1.472,
+        "end": 1.472
+      }
+    ]
+  },
+  {
+    "wordId": "word_schoolbag",
+    "text": "schoolbag",
+    "audioSha1": "71063c916f5eb40d34a775afa4d6e91815fbdded",
+    "sourceWavSha256": "2051072ef9c4bff611bfc4c26abb43f64f34a4c3f1ee11eda99214e47ca6a23c",
+    "sourceDuration": 1.236625,
+    "replayDuration": 1.236625,
+    "waveformCorrelation": 0.9959926303713137,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.208,
+        "end": 0.308
+      },
+      {
+        "symbol": "k",
+        "start": 0.308,
+        "end": 0.358
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.358,
+        "end": 0.408
+      },
+      {
+        "symbol": "u",
+        "start": 0.408,
+        "end": 0.458
+      },
+      {
+        "symbol": "ː",
+        "start": 0.458,
+        "end": 0.533
+      },
+      {
+        "symbol": "l",
+        "start": 0.533,
+        "end": 0.633
+      },
+      {
+        "symbol": "b",
+        "start": 0.633,
+        "end": 0.783
+      },
+      {
+        "symbol": "a",
+        "start": 0.783,
+        "end": 0.908
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.908,
+        "end": 1.066667
+      },
+      {
+        "symbol": ".",
+        "start": 1.066667,
+        "end": 1.066667
+      }
+    ]
+  },
+  {
+    "wordId": "word_goods",
+    "text": "goods",
+    "audioSha1": "736acad7fe58884b743e96174924fc9e37bd79bb",
+    "sourceWavSha256": "bf29fea92412fbdf5c9e1862ae1eef2f8c4c742319f307505692ef9956704ffe",
+    "sourceDuration": 1.216,
+    "replayDuration": 1.216,
+    "waveformCorrelation": 0.9967309601884079,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɡ",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.429333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "d",
+        "start": 0.554333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "z",
+        "start": 0.654333,
+        "end": 1.029333
+      },
+      {
+        "symbol": ".",
+        "start": 1.029333,
+        "end": 1.179333
+      }
+    ]
+  },
+  {
+    "wordId": "word_drink",
+    "text": "drink",
+    "audioSha1": "68bedc5454aee26283a53d8afad78bc1017a8a1e",
+    "sourceWavSha256": "1991a282cae3d08ee735534a229562fa034700218c2641633ebbbfd0e1807315",
+    "sourceDuration": 1.3013333333333332,
+    "replayDuration": 1.3013333333333332,
+    "waveformCorrelation": 0.992280782453764,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.283,
+        "end": 0.358
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.358,
+        "end": 0.433
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.433,
+        "end": 0.508
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.508,
+        "end": 0.633
+      },
+      {
+        "symbol": "k",
+        "start": 0.633,
+        "end": 1.033
+      },
+      {
+        "symbol": ".",
+        "start": 1.033,
+        "end": 1.258
+      }
+    ]
+  },
+  {
+    "wordId": "word_service",
+    "text": "service",
+    "audioSha1": "5234fc76dba92e8beed2bef4773003d1de60326e",
+    "sourceWavSha256": "288710388f1110c73e5c91aed775cf9d361e1afe91dd4de80b663d1de5eb92ef",
+    "sourceDuration": 1.4506666666666668,
+    "replayDuration": 1.4506666666666668,
+    "waveformCorrelation": 0.9952239020722534,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.279333,
+        "end": 0.354333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.354333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ɜ",
+        "start": 0.429333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.504333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "v",
+        "start": 0.579333,
+        "end": 0.679333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.679333,
+        "end": 0.804333
+      },
+      {
+        "symbol": "s",
+        "start": 0.804333,
+        "end": 1.229333
+      },
+      {
+        "symbol": ".",
+        "start": 1.229333,
+        "end": 1.404333
+      }
+    ]
+  },
+  {
+    "wordId": "word_haircut",
+    "text": "haircut",
+    "audioSha1": "c527cf8252017f96d37fb257b7016e49ace2bebc",
+    "sourceWavSha256": "1313f2806ba8e6a3f550a612835a8cba5fa1dc70677fcf9a26684404b7566649",
+    "sourceDuration": 1.1313333333333333,
+    "replayDuration": 1.1313333333333333,
+    "waveformCorrelation": 0.9945657548442047,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "h",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.283,
+        "end": 0.358
+      },
+      {
+        "symbol": "e",
+        "start": 0.358,
+        "end": 0.433
+      },
+      {
+        "symbol": "ə",
+        "start": 0.433,
+        "end": 0.533
+      },
+      {
+        "symbol": "k",
+        "start": 0.533,
+        "end": 0.683
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.683,
+        "end": 0.808
+      },
+      {
+        "symbol": "t",
+        "start": 0.808,
+        "end": 0.981333
+      },
+      {
+        "symbol": ".",
+        "start": 0.981333,
+        "end": 0.981333
+      }
+    ]
+  },
+  {
+    "wordId": "word_microscope",
+    "text": "microscope",
+    "audioSha1": "db78fb7a18e62c22ef13febd8c51d3b03724936b",
+    "sourceWavSha256": "31c867a8917c06b0a3457030c0b9681c662124bb2335b685778f433b5b587839",
+    "sourceDuration": 1.5392916666666667,
+    "replayDuration": 1.5392916666666667,
+    "waveformCorrelation": 0.994510245428781,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "m",
+        "start": 0.211667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.286667,
+        "end": 0.361667
+      },
+      {
+        "symbol": "a",
+        "start": 0.361667,
+        "end": 0.411667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.411667,
+        "end": 0.486667
+      },
+      {
+        "symbol": "k",
+        "start": 0.486667,
+        "end": 0.561667
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.561667,
+        "end": 0.611667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.611667,
+        "end": 0.686667
+      },
+      {
+        "symbol": "s",
+        "start": 0.686667,
+        "end": 0.786667
+      },
+      {
+        "symbol": "k",
+        "start": 0.786667,
+        "end": 0.861667
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.861667,
+        "end": 0.936667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.936667,
+        "end": 1.011667
+      },
+      {
+        "symbol": "ʊ",
+        "start": 1.011667,
+        "end": 1.111667
+      },
+      {
+        "symbol": "p",
+        "start": 1.111667,
+        "end": 1.429333
+      },
+      {
+        "symbol": ".",
+        "start": 1.429333,
+        "end": 1.429333
+      }
+    ]
+  },
+  {
+    "wordId": "word_lucky",
+    "text": "lucky",
+    "audioSha1": "2aef636ce3aa4db09415a5d988f3d3422fdb3a87",
+    "sourceWavSha256": "620aaafa635ddfd9484db06cc8e869f38dc42619949181ab9d37d709ad4f7b54",
+    "sourceDuration": 1.216,
+    "replayDuration": 1.216,
+    "waveformCorrelation": 0.9968756563799306,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "l",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.404333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "k",
+        "start": 0.504333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "i",
+        "start": 0.654333,
+        "end": 1.029333
+      },
+      {
+        "symbol": ".",
+        "start": 1.029333,
+        "end": 1.179333
+      }
+    ]
+  },
+  {
+    "wordId": "word_save_up",
+    "text": "save up",
+    "audioSha1": "25cb18d9ec1ca6a20d92f556eee8f9c0adb61fc4",
+    "sourceWavSha256": "93b1d7580459b959d54af6448c929a2e636316f718ed21e0efdf360cf6c2d2fe",
+    "sourceDuration": 1.2192916666666667,
+    "replayDuration": 1.2192916666666667,
+    "waveformCorrelation": 0.9947097054661741,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.383
+      },
+      {
+        "symbol": "e",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.458,
+        "end": 0.533
+      },
+      {
+        "symbol": "v",
+        "start": 0.533,
+        "end": 0.583
+      },
+      {
+        "symbol": " ",
+        "start": 0.583,
+        "end": 0.633
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.633,
+        "end": 0.733
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.733,
+        "end": 0.833
+      },
+      {
+        "symbol": "p",
+        "start": 0.833,
+        "end": 1.109333
+      },
+      {
+        "symbol": ".",
+        "start": 1.109333,
+        "end": 1.109333
+      }
+    ]
+  },
+  {
+    "wordId": "word_sale",
+    "text": "sale",
+    "audioSha1": "da7e6c613ddd29d97e95c2cb8baf113c14f65291",
+    "sourceWavSha256": "8e7b5341f29f8466bfaf09f004fe9882e8ef223b5113a1fce4344065d7235fb7",
+    "sourceDuration": 1.0046666666666666,
+    "replayDuration": 1.0046666666666666,
+    "waveformCorrelation": 0.9970186719840883,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "e",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.529333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "l",
+        "start": 0.654333,
+        "end": 0.874667
+      },
+      {
+        "symbol": ".",
+        "start": 0.874667,
+        "end": 0.874667
+      }
+    ]
+  },
+  {
+    "wordId": "word_ticket",
+    "text": "ticket",
+    "audioSha1": "8e052071d3c669b0c4b6b9a16476a8134849b231",
+    "sourceWavSha256": "c69e3879ceb22919516959390298a31a125567130a1dd2154f2caaf890bd273e",
+    "sourceDuration": 1.0813333333333333,
+    "replayDuration": 1.0813333333333333,
+    "waveformCorrelation": 0.9964136636552801,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "t",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.354333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.354333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "k",
+        "start": 0.454333,
+        "end": 0.604333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.604333,
+        "end": 0.729333
+      },
+      {
+        "symbol": "t",
+        "start": 0.729333,
+        "end": 0.981333
+      },
+      {
+        "symbol": ".",
+        "start": 0.981333,
+        "end": 0.981333
+      }
+    ]
+  },
+  {
+    "wordId": "word_manage",
+    "text": "manage",
+    "audioSha1": "33c99e293466a28a19d7ff52dc7baac07687613b",
+    "sourceWavSha256": "6fd9ab23a4f6df2a9dadb44e0f64c406bf0cd8406c991b32d937c828076d1a78",
+    "sourceDuration": 1.344,
+    "replayDuration": 1.344,
+    "waveformCorrelation": 0.9939544623806504,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "m",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "a",
+        "start": 0.429333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "n",
+        "start": 0.504333,
+        "end": 0.604333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.604333,
+        "end": 0.704333
+      },
+      {
+        "symbol": "d",
+        "start": 0.704333,
+        "end": 0.779333
+      },
+      {
+        "symbol": "ʒ",
+        "start": 0.779333,
+        "end": 1.129333
+      },
+      {
+        "symbol": ".",
+        "start": 1.129333,
+        "end": 1.304333
+      }
+    ]
+  },
+  {
+    "wordId": "word_difficult",
+    "text": "difficult",
+    "audioSha1": "e224af6e7635fdfc64a05acb794298921fa3495d",
+    "sourceWavSha256": "ed3c65f3fb14435faec8147ce040d3fc151b1a42b57f43844cd9d8ee879bc7f7",
+    "sourceDuration": 1.316,
+    "replayDuration": 1.316,
+    "waveformCorrelation": 0.9897059456686647,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.208,
+        "end": 0.258
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.258,
+        "end": 0.308
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.308,
+        "end": 0.383
+      },
+      {
+        "symbol": "f",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.458,
+        "end": 0.558
+      },
+      {
+        "symbol": "k",
+        "start": 0.558,
+        "end": 0.658
+      },
+      {
+        "symbol": "ə",
+        "start": 0.658,
+        "end": 0.783
+      },
+      {
+        "symbol": "l",
+        "start": 0.783,
+        "end": 0.908
+      },
+      {
+        "symbol": "t",
+        "start": 0.908,
+        "end": 1.216
+      },
+      {
+        "symbol": ".",
+        "start": 1.216,
+        "end": 1.216
+      }
+    ]
+  },
+  {
+    "wordId": "word_sell",
+    "text": "sell",
+    "audioSha1": "46c5250fc2b6225e807ade320ddef9375bc759af",
+    "sourceWavSha256": "2aca3f112b2041f0a2f3325e785485bce7344a0b88e57637d3c95e81a22a2962",
+    "sourceDuration": 0.8866666666666667,
+    "replayDuration": 0.8866666666666667,
+    "waveformCorrelation": 0.9958615175695494,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.454333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "l",
+        "start": 0.554333,
+        "end": 0.729333
+      },
+      {
+        "symbol": ".",
+        "start": 0.729333,
+        "end": 0.746667
+      }
+    ]
+  },
+  {
+    "wordId": "word_half",
+    "text": "half",
+    "audioSha1": "192e3ef4435d8ac4321cbd08ea19434694a536fb",
+    "sourceWavSha256": "d09be2dc7cb66c4f3aefd29226da00a0647dededbcc535c5ac76eea41ef3ebcf",
+    "sourceDuration": 1.2453333333333334,
+    "replayDuration": 1.2453333333333334,
+    "waveformCorrelation": 0.997207647476253,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "h",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "ɑ",
+        "start": 0.454333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.554333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "f",
+        "start": 0.654333,
+        "end": 0.879333
+      },
+      {
+        "symbol": ".",
+        "start": 0.879333,
+        "end": 1.004333
+      }
+    ]
+  },
+  {
+    "wordId": "word_for_example",
+    "audioSha1": "a11e3b10a57aef05d6a56aac7a717d71368efe54",
+    "sourceWavSha256": "1286a9915d0c06b85d92a3d5dea9c2c3850f624c8619e97b33a2b474dbc25c09",
+    "timings": [
+      {
+        "symbol": "f",
+        "start": 0.186667,
+        "end": 0.236667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.236667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.286667,
+        "end": 0.336667
+      },
+      {
+        "symbol": " ",
+        "start": 0.336667,
+        "end": 0.386667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.386667,
+        "end": 0.461667
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.461667,
+        "end": 0.536667
+      },
+      {
+        "symbol": "z",
+        "start": 0.536667,
+        "end": 0.611667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.611667,
+        "end": 0.686667
+      },
+      {
+        "symbol": "ɑ",
+        "start": 0.686667,
+        "end": 0.736667
+      },
+      {
+        "symbol": "ː",
+        "start": 0.736667,
+        "end": 0.786667
+      },
+      {
+        "symbol": "m",
+        "start": 0.786667,
+        "end": 0.886667
+      },
+      {
+        "symbol": "p",
+        "start": 0.886667,
+        "end": 0.961667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.961667,
+        "end": 1.061667
+      },
+      {
+        "symbol": "l",
+        "start": 1.061667,
+        "end": 1.493333
+      },
+      {
+        "symbol": ".",
+        "start": 1.493333,
+        "end": 1.493333
+      }
+    ],
+    "text": "for example",
+    "sourceDuration": 1.6032916666666666,
+    "replayMatched": true,
+    "timingSource": "direct-synthesis",
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_planet",
+    "text": "planet",
+    "audioSha1": "bc9c8e2c0f88ae99bb867d07902b761986996c20",
+    "sourceWavSha256": "03ab12f8ac3295c6f9cd156e4495f053a9b1040afd90ec81751db31de21f1202",
+    "sourceDuration": 1.344,
+    "replayDuration": 1.344,
+    "waveformCorrelation": 0.9901480661772544,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "p",
+        "start": 0.204333,
+        "end": 0.279333
+      },
+      {
+        "symbol": "l",
+        "start": 0.279333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "a",
+        "start": 0.429333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "n",
+        "start": 0.504333,
+        "end": 0.604333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.604333,
+        "end": 0.729333
+      },
+      {
+        "symbol": "t",
+        "start": 0.729333,
+        "end": 1.104333
+      },
+      {
+        "symbol": ".",
+        "start": 1.104333,
+        "end": 1.304333
+      }
+    ]
+  },
+  {
+    "wordId": "word_earth",
+    "text": "earth",
+    "audioSha1": "58f0d88617de9281d63ba8d56cbc4f0279679f57",
+    "sourceWavSha256": "60fcdac6733dc1c08267e58c56c63fae4ab8ef02b6b16ffe6b81f95b7a0d0502",
+    "sourceDuration": 0.96,
+    "replayDuration": 0.96,
+    "waveformCorrelation": 0.9946625687489867,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.254333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ɜ",
+        "start": 0.379333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.479333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "θ",
+        "start": 0.579333,
+        "end": 0.779333
+      },
+      {
+        "symbol": ".",
+        "start": 0.779333,
+        "end": 0.929333
+      }
+    ]
+  },
+  {
+    "wordId": "word_sky",
+    "text": "sky",
+    "audioSha1": "21f06eada8e8a96bd2f7baa66520bcb7f4d120ed",
+    "sourceWavSha256": "f71b1cdd6baff197b8380876eb64bed90355c81f8e057af9f846c54d51d9c96c",
+    "sourceDuration": 0.9933333333333333,
+    "replayDuration": 0.9933333333333333,
+    "waveformCorrelation": 0.9963851942443545,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.229333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "k",
+        "start": 0.329333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.404333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "a",
+        "start": 0.554333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.654333,
+        "end": 0.853333
+      },
+      {
+        "symbol": ".",
+        "start": 0.853333,
+        "end": 0.853333
+      }
+    ]
+  },
+  {
+    "wordId": "word_daytime",
+    "text": "daytime",
+    "audioSha1": "4d9b477b0688811eb3c93a1c2b9a4c463330e978",
+    "sourceWavSha256": "625d1cfae8473c6da4075b5b12ebe340ba07b85b5114d0db36cd17389a6a4023",
+    "sourceDuration": 1.38,
+    "replayDuration": 1.38,
+    "waveformCorrelation": 0.9948024594678626,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.186667,
+        "end": 0.236667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.236667,
+        "end": 0.311667
+      },
+      {
+        "symbol": "e",
+        "start": 0.311667,
+        "end": 0.386667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.386667,
+        "end": 0.486667
+      },
+      {
+        "symbol": "t",
+        "start": 0.486667,
+        "end": 0.636667
+      },
+      {
+        "symbol": "a",
+        "start": 0.636667,
+        "end": 0.761667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.761667,
+        "end": 0.861667
+      },
+      {
+        "symbol": "m",
+        "start": 0.861667,
+        "end": 1.28
+      },
+      {
+        "symbol": ".",
+        "start": 1.28,
+        "end": 1.28
+      }
+    ]
+  },
+  {
+    "wordId": "word_cloud",
+    "text": "cloud",
+    "audioSha1": "8d92c6f337cec98b98eaa5f2fe4cf1b0616b4771",
+    "sourceWavSha256": "75920a14ee70fb751bf13fde6b825718e038e0d30367b322741e41b8c2bb0670",
+    "sourceDuration": 1.1453333333333333,
+    "replayDuration": 1.1453333333333333,
+    "waveformCorrelation": 0.9932482939373278,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "l",
+        "start": 0.304333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.379333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "a",
+        "start": 0.529333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.654333,
+        "end": 0.754333
+      },
+      {
+        "symbol": "d",
+        "start": 0.754333,
+        "end": 1.045333
+      },
+      {
+        "symbol": ".",
+        "start": 1.045333,
+        "end": 1.045333
+      }
+    ]
+  },
+  {
+    "wordId": "word_moon",
+    "text": "moon",
+    "audioSha1": "b8f9361ae201bc2681ba5054a8686bef58c01e34",
+    "sourceWavSha256": "fd9ecb7db7e8405fa9c9b8e37b26793d4f7b82fb34680c5a5b448d38ee104cdf",
+    "sourceDuration": 1.5226666666666666,
+    "replayDuration": 1.3013333333333332,
+    "waveformCorrelation": 0.9953829410488989,
+    "replayMatched": true,
+    "alignmentOffset": 0.021333333333333333,
+    "matchedEnergyFraction": 0.9999999934799603,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "m",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "u",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.529333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "n",
+        "start": 0.629333,
+        "end": 1.079333
+      },
+      {
+        "symbol": ".",
+        "start": 1.079333,
+        "end": 1.279333
+      }
+    ]
+  },
+  {
+    "wordId": "word_star",
+    "text": "star",
+    "audioSha1": "ab82c6bf82371fb664004a01c38fac62f6e02cb1",
+    "sourceWavSha256": "c26ba3497762f7acc5ba3a6ecd4728dd35b041c79b676c1562cbd624e01b2f79",
+    "sourceDuration": 0.9053333333333333,
+    "replayDuration": 0.9053333333333333,
+    "waveformCorrelation": 0.9963996609290658,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "t",
+        "start": 0.304333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.379333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ɑ",
+        "start": 0.529333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.629333,
+        "end": 0.725333
+      },
+      {
+        "symbol": ".",
+        "start": 0.725333,
+        "end": 0.725333
+      }
+    ]
+  },
+  {
+    "wordId": "word_space",
+    "text": "space",
+    "audioSha1": "053dfce1124592bc43bd5de565caf6e215683ad5",
+    "sourceWavSha256": "444fbcbf8bc9796b3a34088544202eaf5a5853d062915408e45bb1f3b62494b4",
+    "sourceDuration": 1.1013333333333333,
+    "replayDuration": 1.1013333333333333,
+    "waveformCorrelation": 0.9953044193886671,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.254333,
+        "end": 0.354333
+      },
+      {
+        "symbol": "p",
+        "start": 0.354333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "e",
+        "start": 0.529333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.629333,
+        "end": 0.729333
+      },
+      {
+        "symbol": "s",
+        "start": 0.729333,
+        "end": 0.981333
+      },
+      {
+        "symbol": ".",
+        "start": 0.981333,
+        "end": 0.981333
+      }
+    ]
+  },
+  {
+    "wordId": "word_outer_space",
+    "text": "outer space",
+    "audioSha1": "fb2ed95fa7398bc5049e762d2830f45a1c9a03f9",
+    "sourceWavSha256": "611937643378a11f363273875e0dcea341f488b67beca2a92be8d1e0b6190263",
+    "sourceDuration": 1.7626666666666666,
+    "replayDuration": 1.7626666666666666,
+    "waveformCorrelation": 0.9942874668587384,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.211667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "a",
+        "start": 0.286667,
+        "end": 0.361667
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.361667,
+        "end": 0.461667
+      },
+      {
+        "symbol": "t",
+        "start": 0.461667,
+        "end": 0.561667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.561667,
+        "end": 0.636667
+      },
+      {
+        "symbol": " ",
+        "start": 0.636667,
+        "end": 0.711667
+      },
+      {
+        "symbol": "s",
+        "start": 0.711667,
+        "end": 0.786667
+      },
+      {
+        "symbol": "p",
+        "start": 0.786667,
+        "end": 0.861667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.861667,
+        "end": 0.961667
+      },
+      {
+        "symbol": "e",
+        "start": 0.961667,
+        "end": 1.061667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 1.061667,
+        "end": 1.186667
+      },
+      {
+        "symbol": "s",
+        "start": 1.186667,
+        "end": 1.642667
+      },
+      {
+        "symbol": ".",
+        "start": 1.642667,
+        "end": 1.642667
+      }
+    ]
+  },
+  {
+    "wordId": "word_space_station",
+    "text": "space station",
+    "audioSha1": "cd2439d1c961d231daf4d2a0544841b16cc24234",
+    "sourceWavSha256": "4282b9b906e49186f331be1c22d8b44eacb04ef314238315e5a054a4aea1592a",
+    "sourceDuration": 1.8053333333333332,
+    "replayDuration": 1.8053333333333332,
+    "waveformCorrelation": 0.9962843332932407,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.211667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "p",
+        "start": 0.286667,
+        "end": 0.336667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.336667,
+        "end": 0.411667
+      },
+      {
+        "symbol": "e",
+        "start": 0.411667,
+        "end": 0.486667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.486667,
+        "end": 0.561667
+      },
+      {
+        "symbol": "s",
+        "start": 0.561667,
+        "end": 0.611667
+      },
+      {
+        "symbol": " ",
+        "start": 0.611667,
+        "end": 0.661667
+      },
+      {
+        "symbol": "s",
+        "start": 0.661667,
+        "end": 0.736667
+      },
+      {
+        "symbol": "t",
+        "start": 0.736667,
+        "end": 0.811667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.811667,
+        "end": 0.886667
+      },
+      {
+        "symbol": "e",
+        "start": 0.886667,
+        "end": 0.961667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.961667,
+        "end": 1.086667
+      },
+      {
+        "symbol": "ʃ",
+        "start": 1.086667,
+        "end": 1.186667
+      },
+      {
+        "symbol": "ə",
+        "start": 1.186667,
+        "end": 1.286667
+      },
+      {
+        "symbol": "n",
+        "start": 1.286667,
+        "end": 1.685333
+      },
+      {
+        "symbol": ".",
+        "start": 1.685333,
+        "end": 1.685333
+      }
+    ]
+  },
+  {
+    "wordId": "word_ocean",
+    "text": "ocean",
+    "audioSha1": "8bebdfb7a12cfa69c79596a6d901ac08492a26e4",
+    "sourceWavSha256": "e8177b95ed1fc852c6a73d716a8af399d1ab2b03d3d5307edaf949cdaf2066e3",
+    "sourceDuration": 1.1353333333333333,
+    "replayDuration": 1.1353333333333333,
+    "waveformCorrelation": 0.9932266456112049,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ə",
+        "start": 0.283,
+        "end": 0.358
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.358,
+        "end": 0.483
+      },
+      {
+        "symbol": "ʃ",
+        "start": 0.483,
+        "end": 0.608
+      },
+      {
+        "symbol": "ə",
+        "start": 0.608,
+        "end": 0.708
+      },
+      {
+        "symbol": "n",
+        "start": 0.708,
+        "end": 1.045333
+      },
+      {
+        "symbol": ".",
+        "start": 1.045333,
+        "end": 1.045333
+      }
+    ]
+  },
+  {
+    "wordId": "word_marble",
+    "text": "marble",
+    "audioSha1": "0da98c6b7b3f3577bb5c95ecdb4c22d9205d0844",
+    "sourceWavSha256": "43d9203e7dc1826e0fd322b8a80d345d0832c3f36256fc7e5bfd09847910e8c1",
+    "sourceDuration": 1.3013333333333332,
+    "replayDuration": 1.3013333333333332,
+    "waveformCorrelation": 0.9971338915272935,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "m",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ɑ",
+        "start": 0.429333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.504333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "b",
+        "start": 0.579333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.654333,
+        "end": 0.754333
+      },
+      {
+        "symbol": "l",
+        "start": 0.754333,
+        "end": 1.104333
+      },
+      {
+        "symbol": ".",
+        "start": 1.104333,
+        "end": 1.254333
+      }
+    ]
+  },
+  {
+    "wordId": "word_satellite",
+    "text": "satellite",
+    "audioSha1": "df2d9031c47bc7dec5d95167a0dc76803af17d49",
+    "sourceWavSha256": "5e05ee9823f91a101fc811c0cf75ad8883113f0f21d7ce01c159ec2415bc973e",
+    "sourceDuration": 1.414,
+    "replayDuration": 1.414,
+    "waveformCorrelation": 0.9952304466086143,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.383
+      },
+      {
+        "symbol": "a",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "t",
+        "start": 0.458,
+        "end": 0.533
+      },
+      {
+        "symbol": "ə",
+        "start": 0.533,
+        "end": 0.608
+      },
+      {
+        "symbol": "l",
+        "start": 0.608,
+        "end": 0.683
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.683,
+        "end": 0.758
+      },
+      {
+        "symbol": "a",
+        "start": 0.758,
+        "end": 0.833
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.833,
+        "end": 0.933
+      },
+      {
+        "symbol": "t",
+        "start": 0.933,
+        "end": 1.344
+      },
+      {
+        "symbol": ".",
+        "start": 1.344,
+        "end": 1.344
+      }
+    ]
+  },
+  {
+    "wordId": "word_soil",
+    "text": "soil",
+    "audioSha1": "e68538cd76c4adcf53a084348e74a7d03412c24e",
+    "sourceWavSha256": "28f6003ad2cd6c48612b45f70c2ebca37a75a04700f559ad4a318be734b88396",
+    "sourceDuration": 1.0033333333333334,
+    "replayDuration": 1.0033333333333334,
+    "waveformCorrelation": 0.9975931317735546,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.454333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.554333,
+        "end": 0.679333
+      },
+      {
+        "symbol": "l",
+        "start": 0.679333,
+        "end": 0.853333
+      },
+      {
+        "symbol": ".",
+        "start": 0.853333,
+        "end": 0.853333
+      }
+    ]
+  },
+  {
+    "wordId": "word_alien",
+    "text": "alien",
+    "audioSha1": "3d6415d4f27d7b76fd7a1afb9f0bdae5bd3782d7",
+    "sourceWavSha256": "239f96fe37906881974e7c82a81833d52dc15f4b9a706026921bfda10fd36199",
+    "sourceDuration": 1.536,
+    "replayDuration": 1.536,
+    "waveformCorrelation": 0.9946842859604029,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "e",
+        "start": 0.283,
+        "end": 0.358
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.358,
+        "end": 0.433
+      },
+      {
+        "symbol": "l",
+        "start": 0.433,
+        "end": 0.533
+      },
+      {
+        "symbol": "i",
+        "start": 0.533,
+        "end": 0.633
+      },
+      {
+        "symbol": "ə",
+        "start": 0.633,
+        "end": 0.733
+      },
+      {
+        "symbol": "n",
+        "start": 0.733,
+        "end": 1.283
+      },
+      {
+        "symbol": ".",
+        "start": 1.283,
+        "end": 1.508
+      }
+    ]
+  },
+  {
+    "wordId": "word_sunrise",
+    "text": "sunrise",
+    "audioSha1": "f08781adbd52b53145c5f8794325256d334204f6",
+    "sourceWavSha256": "abf7a410992beab133c4f6c30da8c0f810a8147d608f55f3afb5f98d8b14b181",
+    "sourceDuration": 1.38,
+    "replayDuration": 1.38,
+    "waveformCorrelation": 0.9948554792366678,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.211667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.286667,
+        "end": 0.361667
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.361667,
+        "end": 0.436667
+      },
+      {
+        "symbol": "n",
+        "start": 0.436667,
+        "end": 0.536667
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.536667,
+        "end": 0.686667
+      },
+      {
+        "symbol": "a",
+        "start": 0.686667,
+        "end": 0.836667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.836667,
+        "end": 0.961667
+      },
+      {
+        "symbol": "z",
+        "start": 0.961667,
+        "end": 1.28
+      },
+      {
+        "symbol": ".",
+        "start": 1.28,
+        "end": 1.28
+      }
+    ]
+  },
+  {
+    "wordId": "word_rover",
+    "text": "rover",
+    "audioSha1": "d1ab57a39a74c8f44af868a904a15221b97ee04d",
+    "sourceWavSha256": "39057168509a06aa6c5ef420630026fa8e1c2bca41957c468db44e15d2acb250",
+    "sourceDuration": 1.09,
+    "replayDuration": 1.09,
+    "waveformCorrelation": 0.995123142819283,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɹ",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.408
+      },
+      {
+        "symbol": "ə",
+        "start": 0.408,
+        "end": 0.508
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.508,
+        "end": 0.608
+      },
+      {
+        "symbol": "v",
+        "start": 0.608,
+        "end": 0.733
+      },
+      {
+        "symbol": "ə",
+        "start": 0.733,
+        "end": 0.96
+      },
+      {
+        "symbol": ".",
+        "start": 0.96,
+        "end": 0.96
+      }
+    ]
+  },
+  {
+    "wordId": "word_into",
+    "audioSha1": "cdebaef9735dd647cb60c33158850870268b25af",
+    "sourceWavSha256": "52f9fe300127103e97297a4340e902318e2d02c5a96c3f62476833da0fc97236",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.304333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "n",
+        "start": 0.379333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "t",
+        "start": 0.504333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "u",
+        "start": 0.629333,
+        "end": 0.754333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.754333,
+        "end": 0.917333
+      },
+      {
+        "symbol": ".",
+        "start": 0.917333,
+        "end": 0.917333
+      }
+    ],
+    "text": "into",
+    "sourceDuration": 1.0573333333333332,
+    "replayMatched": true,
+    "timingSource": "direct-synthesis",
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_telescope",
+    "text": "telescope",
+    "audioSha1": "eedb84773b78a5799f5594ab7dbc3f466f56daac",
+    "sourceWavSha256": "3de97bb99602e7794215659f5e7347d9ab628a7520d5ae1a953232054cb53118",
+    "sourceDuration": 1.3713333333333333,
+    "replayDuration": 1.37,
+    "waveformCorrelation": 0.996056965047337,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 0.9999999980834999,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "t",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.283,
+        "end": 0.358
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.358,
+        "end": 0.433
+      },
+      {
+        "symbol": "l",
+        "start": 0.433,
+        "end": 0.508
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.508,
+        "end": 0.608
+      },
+      {
+        "symbol": "s",
+        "start": 0.608,
+        "end": 0.708
+      },
+      {
+        "symbol": "k",
+        "start": 0.708,
+        "end": 0.783
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.783,
+        "end": 0.858
+      },
+      {
+        "symbol": "ə",
+        "start": 0.858,
+        "end": 0.933
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.933,
+        "end": 1.033
+      },
+      {
+        "symbol": "p",
+        "start": 1.033,
+        "end": 1.28
+      },
+      {
+        "symbol": ".",
+        "start": 1.28,
+        "end": 1.28
+      }
+    ]
+  },
+  {
+    "wordId": "word_astronaut",
+    "text": "astronaut",
+    "audioSha1": "4ad110fc1ab271f4be4b516a65e71a75dabc48bb",
+    "sourceWavSha256": "e82ccdcfddf4a014fff860174d226fcead412186d123ef360132c1985cc1e2d3",
+    "sourceDuration": 1.4452916666666666,
+    "replayDuration": 1.4452916666666666,
+    "waveformCorrelation": 0.9951718645633185,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.208,
+        "end": 0.308
+      },
+      {
+        "symbol": "a",
+        "start": 0.308,
+        "end": 0.383
+      },
+      {
+        "symbol": "s",
+        "start": 0.383,
+        "end": 0.483
+      },
+      {
+        "symbol": "t",
+        "start": 0.483,
+        "end": 0.558
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.558,
+        "end": 0.608
+      },
+      {
+        "symbol": "ə",
+        "start": 0.608,
+        "end": 0.683
+      },
+      {
+        "symbol": "n",
+        "start": 0.683,
+        "end": 0.758
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.758,
+        "end": 0.858
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.858,
+        "end": 0.958
+      },
+      {
+        "symbol": "ː",
+        "start": 0.958,
+        "end": 1.058
+      },
+      {
+        "symbol": "t",
+        "start": 1.058,
+        "end": 1.365333
+      },
+      {
+        "symbol": ".",
+        "start": 1.365333,
+        "end": 1.365333
+      }
+    ]
+  },
+  {
+    "wordId": "word_month",
+    "text": "month",
+    "audioSha1": "903ccd121c182fc3a3f8e060010141afc80bf220",
+    "sourceWavSha256": "1d3271567faaff38bacfcfb8c728252672104c3a6c06eeaade6781b6243860cb",
+    "sourceDuration": 1.342,
+    "replayDuration": 1.342,
+    "waveformCorrelation": 0.9957764337596343,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "m",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.429333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "n",
+        "start": 0.504333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "θ",
+        "start": 0.629333,
+        "end": 0.879333
+      },
+      {
+        "symbol": ".",
+        "start": 0.879333,
+        "end": 1.104333
+      }
+    ]
+  },
+  {
+    "wordId": "word_spaceship",
+    "text": "spaceship",
+    "audioSha1": "9f8da511bdc6a7e66c15e11aa1ad35c11ad368ee",
+    "sourceWavSha256": "0a3aaa28b367e1e9de3cae831ee2a28a1e8c4b3f2d9bed7516537946ab6815ae",
+    "sourceDuration": 1.2579583333333333,
+    "replayDuration": 1.2579583333333333,
+    "waveformCorrelation": 0.996492417733502,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "p",
+        "start": 0.283,
+        "end": 0.333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.333,
+        "end": 0.408
+      },
+      {
+        "symbol": "e",
+        "start": 0.408,
+        "end": 0.483
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.483,
+        "end": 0.558
+      },
+      {
+        "symbol": "s",
+        "start": 0.558,
+        "end": 0.683
+      },
+      {
+        "symbol": "ʃ",
+        "start": 0.683,
+        "end": 0.833
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.833,
+        "end": 0.958
+      },
+      {
+        "symbol": "p",
+        "start": 0.958,
+        "end": 1.088
+      },
+      {
+        "symbol": ".",
+        "start": 1.088,
+        "end": 1.088
+      }
+    ]
+  },
+  {
+    "wordId": "word_cloth",
+    "text": "cloth",
+    "audioSha1": "23a871248e8c1ab1c1f3b502931446c71c4335a9",
+    "sourceWavSha256": "5ca9507d769dad28a9e14647a2bde3688cc69fbe6955e315265c3abd21b6dd0a",
+    "sourceDuration": 1.152,
+    "replayDuration": 1.152,
+    "waveformCorrelation": 0.9962828603018983,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "l",
+        "start": 0.304333,
+        "end": 0.379333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.379333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "ɒ",
+        "start": 0.504333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "θ",
+        "start": 0.629333,
+        "end": 0.904333
+      },
+      {
+        "symbol": ".",
+        "start": 0.904333,
+        "end": 1.104333
+      }
+    ]
+  },
+  {
+    "wordId": "word_toothpaste",
+    "text": "toothpaste",
+    "audioSha1": "430644fbd66cc89c1f7dfe77573a5affac35d5f4",
+    "sourceWavSha256": "a62b789e3d34a1b6aebe3d10bfb4e0ecfa1df9be59a156a720e60540b08fbc6a",
+    "sourceDuration": 1.3586666666666667,
+    "replayDuration": 1.3586666666666667,
+    "waveformCorrelation": 0.9962731161833109,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "t",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.283,
+        "end": 0.333
+      },
+      {
+        "symbol": "u",
+        "start": 0.333,
+        "end": 0.383
+      },
+      {
+        "symbol": "ː",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "θ",
+        "start": 0.458,
+        "end": 0.558
+      },
+      {
+        "symbol": "p",
+        "start": 0.558,
+        "end": 0.658
+      },
+      {
+        "symbol": "e",
+        "start": 0.658,
+        "end": 0.783
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.783,
+        "end": 0.908
+      },
+      {
+        "symbol": "s",
+        "start": 0.908,
+        "end": 1.008
+      },
+      {
+        "symbol": "t",
+        "start": 1.008,
+        "end": 1.258667
+      },
+      {
+        "symbol": ".",
+        "start": 1.258667,
+        "end": 1.258667
+      }
+    ]
+  },
+  {
+    "wordId": "word_taikonaut",
+    "audioSha1": "0aa87edb62b9826e70c1309c9c86a97adcb4a29f",
+    "sourceWavSha256": "d1d83253523270feb6486a8d2add7c99e6c6afe947a0050a45411f24cdacc9dc",
+    "timings": [
+      {
+        "symbol": "t",
+        "start": 0.186667,
+        "end": 0.261667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.261667,
+        "end": 0.336667
+      },
+      {
+        "symbol": "a",
+        "start": 0.336667,
+        "end": 0.411667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.411667,
+        "end": 0.511667
+      },
+      {
+        "symbol": "k",
+        "start": 0.511667,
+        "end": 0.586667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.586667,
+        "end": 0.661667
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.661667,
+        "end": 0.736667
+      },
+      {
+        "symbol": "n",
+        "start": 0.736667,
+        "end": 0.811667
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.811667,
+        "end": 0.911667
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.911667,
+        "end": 1.011667
+      },
+      {
+        "symbol": "ː",
+        "start": 1.011667,
+        "end": 1.111667
+      },
+      {
+        "symbol": "t",
+        "start": 1.111667,
+        "end": 1.472
+      },
+      {
+        "symbol": ".",
+        "start": 1.472,
+        "end": 1.472
+      }
+    ],
+    "text": "taikonaut",
+    "sourceDuration": 1.562,
+    "replayMatched": true,
+    "timingSource": "direct-synthesis",
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_question",
+    "text": "question",
+    "audioSha1": "b154c2c1ea83b25222ff85f5ede8656751ff149f",
+    "sourceWavSha256": "0f9059a165471bfd5cf7b9c1adc62e7ac13770b72a9ceaa4ea26f50dc5453576",
+    "sourceDuration": 1.5786666666666667,
+    "replayDuration": 1.5786666666666667,
+    "waveformCorrelation": 0.9951436105951686,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.183,
+        "end": 0.258
+      },
+      {
+        "symbol": "w",
+        "start": 0.258,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.383
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "s",
+        "start": 0.458,
+        "end": 0.533
+      },
+      {
+        "symbol": "t",
+        "start": 0.533,
+        "end": 0.608
+      },
+      {
+        "symbol": "ʃ",
+        "start": 0.608,
+        "end": 0.708
+      },
+      {
+        "symbol": "ə",
+        "start": 0.708,
+        "end": 0.808
+      },
+      {
+        "symbol": "n",
+        "start": 0.808,
+        "end": 1.333
+      },
+      {
+        "symbol": ".",
+        "start": 1.333,
+        "end": 1.533
+      }
+    ]
+  },
+  {
+    "wordId": "word_time",
+    "text": "time",
+    "audioSha1": "054bb961c7ae99308d0bff4dfa57a70b88502f3e",
+    "sourceWavSha256": "70583e5649cc3b55697561ed2b7bc4a505b15dc7721c3e1d4b14cfe3ac01e7b4",
+    "sourceDuration": 1.1946666666666668,
+    "replayDuration": 1.1946666666666668,
+    "waveformCorrelation": 0.9958805719892391,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "t",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.283,
+        "end": 0.433
+      },
+      {
+        "symbol": "a",
+        "start": 0.433,
+        "end": 0.533
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.533,
+        "end": 0.633
+      },
+      {
+        "symbol": "m",
+        "start": 0.633,
+        "end": 0.983
+      },
+      {
+        "symbol": ".",
+        "start": 0.983,
+        "end": 1.158
+      }
+    ]
+  },
+  {
+    "wordId": "word_sunset",
+    "text": "sunset",
+    "audioSha1": "1c8f8cc637c92aca264da83d89dccb7bdb3d7dee",
+    "sourceWavSha256": "ad4129831c4435666905a776551896c033277c1f262bd18f249030af88d30423",
+    "sourceDuration": 1.1966666666666668,
+    "replayDuration": 1.1966666666666668,
+    "waveformCorrelation": 0.9950433233265147,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.383
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "n",
+        "start": 0.458,
+        "end": 0.583
+      },
+      {
+        "symbol": "s",
+        "start": 0.583,
+        "end": 0.733
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.733,
+        "end": 0.858
+      },
+      {
+        "symbol": "t",
+        "start": 0.858,
+        "end": 1.066667
+      },
+      {
+        "symbol": ".",
+        "start": 1.066667,
+        "end": 1.066667
+      }
+    ]
+  },
+  {
+    "wordId": "word_mars",
+    "text": "Mars",
+    "audioSha1": "bdb51435a196e0a8ca09bb13e0cbdffb19701238",
+    "sourceWavSha256": "bab6827bd66f90468a65264b796c71e3ac101658b66fd1f586bb1d2257f9c2d0",
+    "sourceDuration": 1.2373333333333334,
+    "replayDuration": 1.2373333333333334,
+    "waveformCorrelation": 0.9954097710833196,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "m",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.458
+      },
+      {
+        "symbol": "ɑ",
+        "start": 0.458,
+        "end": 0.583
+      },
+      {
+        "symbol": "ː",
+        "start": 0.583,
+        "end": 0.683
+      },
+      {
+        "symbol": "z",
+        "start": 0.683,
+        "end": 1.033
+      },
+      {
+        "symbol": ".",
+        "start": 1.033,
+        "end": 1.208
+      }
+    ]
+  },
+  {
+    "wordId": "word_power",
+    "text": "power",
+    "audioSha1": "7e410b82954e4d9910fcdb725bf22f2438ba379e",
+    "sourceWavSha256": "c86717e664f8ee4a9d70065165cee25072ff4eaf53c15777cf738c3782426413",
+    "sourceDuration": 1.026,
+    "replayDuration": 1.026,
+    "waveformCorrelation": 0.9972400645303234,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "p",
+        "start": 0.204333,
+        "end": 0.279333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.279333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "a",
+        "start": 0.404333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.504333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.629333,
+        "end": 0.896
+      },
+      {
+        "symbol": ".",
+        "start": 0.896,
+        "end": 0.896
+      }
+    ]
+  },
+  {
+    "wordId": "word_electricity",
+    "audioSha1": "051a5d235b12c60934dc7afb10ffa4e857a8574f",
+    "sourceWavSha256": "12e7821135ba03efdaab62c9504cbb5468f3e6a371152dc206c8b5a23e416a55",
+    "timings": [
+      {
+        "symbol": "ɪ",
+        "start": 0.211667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "l",
+        "start": 0.286667,
+        "end": 0.361667
+      },
+      {
+        "symbol": "ˌ",
+        "start": 0.361667,
+        "end": 0.411667
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.411667,
+        "end": 0.486667
+      },
+      {
+        "symbol": "k",
+        "start": 0.486667,
+        "end": 0.561667
+      },
+      {
+        "symbol": "t",
+        "start": 0.561667,
+        "end": 0.636667
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.636667,
+        "end": 0.661667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.661667,
+        "end": 0.711667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.711667,
+        "end": 0.786667
+      },
+      {
+        "symbol": "s",
+        "start": 0.786667,
+        "end": 0.886667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.886667,
+        "end": 0.986667
+      },
+      {
+        "symbol": "t",
+        "start": 0.986667,
+        "end": 1.136667
+      },
+      {
+        "symbol": "i",
+        "start": 1.136667,
+        "end": 1.536
+      },
+      {
+        "symbol": ".",
+        "start": 1.536,
+        "end": 1.536
+      }
+    ],
+    "text": "electricity",
+    "sourceDuration": 1.6459583333333334,
+    "replayMatched": true,
+    "timingSource": "direct-synthesis",
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_solar",
+    "text": "solar",
+    "audioSha1": "20c5bb1b4b5aa73ea453750712d8d4ae32ea2392",
+    "sourceWavSha256": "edd6198f04d51668c9af2ff76bcdbd0d69bd2402f9be29dc13f61a1e1000d372",
+    "sourceDuration": 1.0573333333333332,
+    "replayDuration": 1.0573333333333332,
+    "waveformCorrelation": 0.9964818189781919,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.383
+      },
+      {
+        "symbol": "ə",
+        "start": 0.383,
+        "end": 0.483
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.483,
+        "end": 0.583
+      },
+      {
+        "symbol": "l",
+        "start": 0.583,
+        "end": 0.683
+      },
+      {
+        "symbol": "ə",
+        "start": 0.683,
+        "end": 0.917333
+      },
+      {
+        "symbol": ".",
+        "start": 0.917333,
+        "end": 0.917333
+      }
+    ]
+  },
+  {
+    "wordId": "word_type",
+    "text": "type",
+    "audioSha1": "4cc37bd404590f25191f05cc7a7f7151f75cb9e1",
+    "sourceWavSha256": "3e6881b2574d1ef0a117c3e6dcbfb346c5fa40058fd694811120f41734c8ae37",
+    "sourceDuration": 0.96,
+    "replayDuration": 0.96,
+    "waveformCorrelation": 0.9939024694307539,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "t",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "a",
+        "start": 0.404333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.479333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "p",
+        "start": 0.579333,
+        "end": 0.779333
+      },
+      {
+        "symbol": ".",
+        "start": 0.779333,
+        "end": 0.929333
+      }
+    ]
+  },
+  {
+    "wordId": "word_energy",
+    "text": "energy",
+    "audioSha1": "16f823fb21fcca44e2e0e8af8c00d1039c3a08bd",
+    "sourceWavSha256": "af38805e8cf89bc2b1c595d88961845854cef0c232e013496d7c847274c3f016",
+    "sourceDuration": 1.3013333333333332,
+    "replayDuration": 1.3013333333333332,
+    "waveformCorrelation": 0.9947881561691816,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.304333,
+        "end": 0.354333
+      },
+      {
+        "symbol": "n",
+        "start": 0.354333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.429333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "d",
+        "start": 0.504333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "ʒ",
+        "start": 0.579333,
+        "end": 0.704333
+      },
+      {
+        "symbol": "i",
+        "start": 0.704333,
+        "end": 1.079333
+      },
+      {
+        "symbol": ".",
+        "start": 1.079333,
+        "end": 1.254333
+      }
+    ]
+  },
+  {
+    "wordId": "word_light",
+    "text": "light",
+    "audioSha1": "348de84e9dffbe4298d24f9d33f77000a8c2b3b5",
+    "sourceWavSha256": "48d53fbf8b88948cf42082557b98edf89ae8f10b4579c2d8d5caf73cb769de9b",
+    "sourceDuration": 1.0272916666666667,
+    "replayDuration": 1.0272916666666667,
+    "waveformCorrelation": 0.9948701440071537,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "l",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "a",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.529333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "t",
+        "start": 0.654333,
+        "end": 0.917333
+      },
+      {
+        "symbol": ".",
+        "start": 0.917333,
+        "end": 0.917333
+      }
+    ]
+  },
+  {
+    "wordId": "word_source",
+    "text": "source",
+    "audioSha1": "f496975234f082789f724122df77c1b93a41c788",
+    "sourceWavSha256": "f28fafede42d6f04f577c1752b52ea46e1b891988381200cb4783d6d42df243f",
+    "sourceDuration": 1.0346666666666666,
+    "replayDuration": 1.0246666666666666,
+    "waveformCorrelation": 0.9959350206771831,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 0.9999999658977636,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.279333,
+        "end": 0.354333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.354333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.479333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.579333,
+        "end": 0.679333
+      },
+      {
+        "symbol": "s",
+        "start": 0.679333,
+        "end": 0.874667
+      },
+      {
+        "symbol": ".",
+        "start": 0.874667,
+        "end": 0.874667
+      }
+    ]
+  },
+  {
+    "wordId": "word_heat",
+    "text": "heat",
+    "audioSha1": "a17cd221aee94cea73389b210d0b3b823f36e95c",
+    "sourceWavSha256": "c2a00b6ceabaab88eefc9b2c75c9154d1911be4d4d099efb13c7f330ea54a99a",
+    "sourceDuration": 0.9386666666666666,
+    "replayDuration": 0.9386666666666666,
+    "waveformCorrelation": 0.9965858258053384,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "h",
+        "start": 0.229333,
+        "end": 0.279333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.279333,
+        "end": 0.354333
+      },
+      {
+        "symbol": "i",
+        "start": 0.354333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.454333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "t",
+        "start": 0.554333,
+        "end": 0.779333
+      },
+      {
+        "symbol": ".",
+        "start": 0.779333,
+        "end": 0.904333
+      }
+    ]
+  },
+  {
+    "wordId": "word_cool",
+    "text": "cool",
+    "audioSha1": "a0eb439a8850eb94f34f28be083caf09131210a5",
+    "sourceWavSha256": "568ed38283f302598057a4133c9d623772362bea0e51aa5d2261c14288fce2da",
+    "sourceDuration": 1.342,
+    "replayDuration": 1.342,
+    "waveformCorrelation": 0.9975173203849118,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "u",
+        "start": 0.404333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.504333,
+        "end": 0.629333
+      },
+      {
+        "symbol": "l",
+        "start": 0.629333,
+        "end": 0.954333
+      },
+      {
+        "symbol": ".",
+        "start": 0.954333,
+        "end": 1.104333
+      }
+    ]
+  },
+  {
+    "wordId": "word_resource",
+    "text": "resource",
+    "audioSha1": "dafb8654de012691d5ba92a43a6cb3310d73209f",
+    "sourceWavSha256": "7a69730862442da97f474269a2fd0426777392c88d4ee51ecadad8511394403b",
+    "sourceDuration": 1.472,
+    "replayDuration": 1.472,
+    "waveformCorrelation": 0.992814133872828,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɹ",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.283,
+        "end": 0.383
+      },
+      {
+        "symbol": "z",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.458,
+        "end": 0.608
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.608,
+        "end": 0.708
+      },
+      {
+        "symbol": "ː",
+        "start": 0.708,
+        "end": 0.808
+      },
+      {
+        "symbol": "s",
+        "start": 0.808,
+        "end": 1.233
+      },
+      {
+        "symbol": ".",
+        "start": 1.233,
+        "end": 1.433
+      }
+    ]
+  },
+  {
+    "wordId": "word_run_out",
+    "text": "run out",
+    "audioSha1": "e3de74ec31f4648405dccab104d3b5f9aa03dbb3",
+    "sourceWavSha256": "ac40c7826a6fd48f4171925959de9a8e83e84b8d6a3554151beccf4f3ebc0fcf",
+    "sourceDuration": 1.274625,
+    "replayDuration": 1.274625,
+    "waveformCorrelation": 0.9943608702122855,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɹ",
+        "start": 0.211667,
+        "end": 0.286667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.286667,
+        "end": 0.361667
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.361667,
+        "end": 0.436667
+      },
+      {
+        "symbol": "n",
+        "start": 0.436667,
+        "end": 0.486667
+      },
+      {
+        "symbol": " ",
+        "start": 0.486667,
+        "end": 0.536667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.536667,
+        "end": 0.636667
+      },
+      {
+        "symbol": "a",
+        "start": 0.636667,
+        "end": 0.736667
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.736667,
+        "end": 0.836667
+      },
+      {
+        "symbol": "t",
+        "start": 0.836667,
+        "end": 1.194667
+      },
+      {
+        "symbol": ".",
+        "start": 1.194667,
+        "end": 1.194667
+      }
+    ]
+  },
+  {
+    "wordId": "word_few",
+    "text": "few",
+    "audioSha1": "4522e33939b9fb9b800c32f512858c6b510ca850",
+    "sourceWavSha256": "873aebe2479e67098abd10aa11cad75d53fecc144c74a310cc59cd0dda7929fa",
+    "sourceDuration": 0.9046666666666666,
+    "replayDuration": 0.9046666666666666,
+    "waveformCorrelation": 0.9932887394727579,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "f",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "j",
+        "start": 0.329333,
+        "end": 0.404333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.404333,
+        "end": 0.504333
+      },
+      {
+        "symbol": "u",
+        "start": 0.504333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "ː",
+        "start": 0.579333,
+        "end": 0.729333
+      },
+      {
+        "symbol": ".",
+        "start": 0.729333,
+        "end": 0.829333
+      }
+    ]
+  },
+  {
+    "wordId": "word_change",
+    "text": "change",
+    "audioSha1": "d13e5381521418a441b5af0a35733096e931fea4",
+    "sourceWavSha256": "7939aabab85bf964f848e70bc78af0b93c79d6ba7feb6e92ea2bd076b2b5364f",
+    "sourceDuration": 1.154,
+    "replayDuration": 1.154,
+    "waveformCorrelation": 0.9964147414906264,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "t",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ʃ",
+        "start": 0.283,
+        "end": 0.333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.333,
+        "end": 0.433
+      },
+      {
+        "symbol": "e",
+        "start": 0.433,
+        "end": 0.533
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.533,
+        "end": 0.633
+      },
+      {
+        "symbol": "n",
+        "start": 0.633,
+        "end": 0.708
+      },
+      {
+        "symbol": "d",
+        "start": 0.708,
+        "end": 0.783
+      },
+      {
+        "symbol": "ʒ",
+        "start": 0.783,
+        "end": 1.024
+      },
+      {
+        "symbol": ".",
+        "start": 1.024,
+        "end": 1.024
+      }
+    ]
+  },
+  {
+    "wordId": "word_quick",
+    "text": "quick",
+    "audioSha1": "220e23124cd49d96a4a62d2705c3957c96762972",
+    "sourceWavSha256": "f2204e5527102372609c641d285b9ae37e75219b67fe8493e682e5aebb22c445",
+    "sourceDuration": 0.896,
+    "replayDuration": 0.896,
+    "waveformCorrelation": 0.9920939509429861,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "k",
+        "start": 0.204333,
+        "end": 0.279333
+      },
+      {
+        "symbol": "w",
+        "start": 0.279333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "k",
+        "start": 0.529333,
+        "end": 0.729333
+      },
+      {
+        "symbol": ".",
+        "start": 0.729333,
+        "end": 0.854333
+      }
+    ]
+  },
+  {
+    "wordId": "word_shower",
+    "text": "shower",
+    "audioSha1": "0ed5549068294d02754dedf1a7f85158181031f5",
+    "sourceWavSha256": "84464e4cf11972cac167aa0613428614794b3bb6975536df8b1a38226bf5d2b9",
+    "sourceDuration": 1.0146666666666666,
+    "replayDuration": 1.0146666666666666,
+    "waveformCorrelation": 0.9962114997329012,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ʃ",
+        "start": 0.279333,
+        "end": 0.354333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.354333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "a",
+        "start": 0.479333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.579333,
+        "end": 0.679333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.679333,
+        "end": 0.874667
+      },
+      {
+        "symbol": ".",
+        "start": 0.874667,
+        "end": 0.874667
+      }
+    ]
+  },
+  {
+    "wordId": "word_unplug",
+    "text": "unplug",
+    "audioSha1": "29c1fdf70beb28b907ae4d79b76386f4d1714f05",
+    "sourceWavSha256": "09bff5e66c6a3002962ad5d1f14ceda96cfa8d40cb35edf25863d54885775186",
+    "sourceDuration": 1.3599583333333334,
+    "replayDuration": 1.3599583333333334,
+    "waveformCorrelation": 0.9960265037953394,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ʌ",
+        "start": 0.233,
+        "end": 0.333
+      },
+      {
+        "symbol": "n",
+        "start": 0.333,
+        "end": 0.433
+      },
+      {
+        "symbol": "p",
+        "start": 0.433,
+        "end": 0.508
+      },
+      {
+        "symbol": "l",
+        "start": 0.508,
+        "end": 0.583
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.583,
+        "end": 0.733
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.733,
+        "end": 0.833
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.833,
+        "end": 1.28
+      },
+      {
+        "symbol": ".",
+        "start": 1.28,
+        "end": 1.28
+      }
+    ]
+  },
+  {
+    "wordId": "word_difference",
+    "audioSha1": "a51c54f54eac0adea16c14e7561f79e6cdfd6acd",
+    "sourceWavSha256": "3a42740f4776fede4ab53c832ce421de918ac83dbf27f26b794c5b53eb8f6e59",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.208,
+        "end": 0.258
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.258,
+        "end": 0.308
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.308,
+        "end": 0.383
+      },
+      {
+        "symbol": "f",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "ə",
+        "start": 0.458,
+        "end": 0.508
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.508,
+        "end": 0.583
+      },
+      {
+        "symbol": "ə",
+        "start": 0.583,
+        "end": 0.658
+      },
+      {
+        "symbol": "n",
+        "start": 0.658,
+        "end": 0.783
+      },
+      {
+        "symbol": "s",
+        "start": 0.783,
+        "end": 1.233
+      },
+      {
+        "symbol": ".",
+        "start": 1.233,
+        "end": 1.433
+      }
+    ],
+    "text": "difference",
+    "sourceDuration": 1.472,
+    "replayMatched": true,
+    "timingSource": "direct-synthesis",
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_reduce",
+    "text": "reduce",
+    "audioSha1": "896c7c349cb963e7b5b3ef16ae02ab83110cd01a",
+    "sourceWavSha256": "82489109f426913ad00bc5013c5617d01753d106c95733da3fd34db4f0ae2042",
+    "sourceDuration": 1.306,
+    "replayDuration": 1.306,
+    "waveformCorrelation": 0.9959736410785045,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɹ",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.283,
+        "end": 0.383
+      },
+      {
+        "symbol": "d",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "j",
+        "start": 0.458,
+        "end": 0.533
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.533,
+        "end": 0.608
+      },
+      {
+        "symbol": "u",
+        "start": 0.608,
+        "end": 0.683
+      },
+      {
+        "symbol": "ː",
+        "start": 0.683,
+        "end": 0.783
+      },
+      {
+        "symbol": "s",
+        "start": 0.783,
+        "end": 1.216
+      },
+      {
+        "symbol": ".",
+        "start": 1.216,
+        "end": 1.216
+      }
+    ]
+  },
+  {
+    "wordId": "word_air_conditioner",
+    "text": "air conditioner",
+    "audioSha1": "f65676e2e73ff3f07b719e7a9b58ed34e0306bf9",
+    "sourceWavSha256": "12cb4ee0535f0949a40e01bac0f4d58f247d3dbee1e56fa63eef0638c0ccc3d5",
+    "sourceDuration": 1.8366666666666667,
+    "replayDuration": 1.8366666666666667,
+    "waveformCorrelation": 0.9951552068761144,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.211667,
+        "end": 0.311667
+      },
+      {
+        "symbol": "e",
+        "start": 0.311667,
+        "end": 0.436667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.436667,
+        "end": 0.511667
+      },
+      {
+        "symbol": " ",
+        "start": 0.511667,
+        "end": 0.586667
+      },
+      {
+        "symbol": "k",
+        "start": 0.586667,
+        "end": 0.661667
+      },
+      {
+        "symbol": "ə",
+        "start": 0.661667,
+        "end": 0.736667
+      },
+      {
+        "symbol": "n",
+        "start": 0.736667,
+        "end": 0.811667
+      },
+      {
+        "symbol": "d",
+        "start": 0.811667,
+        "end": 0.861667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.861667,
+        "end": 0.911667
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.911667,
+        "end": 1.011667
+      },
+      {
+        "symbol": "ʃ",
+        "start": 1.011667,
+        "end": 1.111667
+      },
+      {
+        "symbol": "ə",
+        "start": 1.111667,
+        "end": 1.186667
+      },
+      {
+        "symbol": "n",
+        "start": 1.186667,
+        "end": 1.286667
+      },
+      {
+        "symbol": "ə",
+        "start": 1.286667,
+        "end": 1.706667
+      },
+      {
+        "symbol": ".",
+        "start": 1.706667,
+        "end": 1.706667
+      }
+    ]
+  },
+  {
+    "wordId": "word_drive",
+    "text": "drive",
+    "audioSha1": "f8a41b11c9df8f00fbf8230bd9f26c846ef78ffb",
+    "sourceWavSha256": "ba947664df857537c869487c37d9a8e909906580d76badb2b83b0de8d523aa42",
+    "sourceDuration": 1.0973333333333333,
+    "replayDuration": 1.0973333333333333,
+    "waveformCorrelation": 0.996675556326184,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.283,
+        "end": 0.358
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.358,
+        "end": 0.508
+      },
+      {
+        "symbol": "a",
+        "start": 0.508,
+        "end": 0.633
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.633,
+        "end": 0.758
+      },
+      {
+        "symbol": "v",
+        "start": 0.758,
+        "end": 0.917333
+      },
+      {
+        "symbol": ".",
+        "start": 0.917333,
+        "end": 0.917333
+      }
+    ]
+  },
+  {
+    "wordId": "word_reuse",
+    "text": "reuse",
+    "audioSha1": "89f4054c174728e11c0ee30e9e3c2be2da3fcc4a",
+    "sourceWavSha256": "a3d12bd0d061badda160b97cdbb607bee1bd416b83bea608801bd1a220272a8b",
+    "sourceDuration": 1.8853333333333333,
+    "replayDuration": 1.8853333333333333,
+    "waveformCorrelation": 0.9964957414920064,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ɹ",
+        "start": 0.211667,
+        "end": 0.311667
+      },
+      {
+        "symbol": "i",
+        "start": 0.311667,
+        "end": 0.411667
+      },
+      {
+        "symbol": "ː",
+        "start": 0.411667,
+        "end": 0.486667
+      },
+      {
+        "symbol": "j",
+        "start": 0.486667,
+        "end": 0.561667
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.561667,
+        "end": 0.661667
+      },
+      {
+        "symbol": "u",
+        "start": 0.661667,
+        "end": 0.761667
+      },
+      {
+        "symbol": "ː",
+        "start": 0.761667,
+        "end": 0.861667
+      },
+      {
+        "symbol": "z",
+        "start": 0.861667,
+        "end": 1.411667
+      },
+      {
+        "symbol": ".",
+        "start": 1.411667,
+        "end": 1.636667
+      }
+    ]
+  },
+  {
+    "wordId": "word_own",
+    "text": "own",
+    "audioSha1": "00636d4648307047e22b330bca4aa1a3e68c92c1",
+    "sourceWavSha256": "2ada7a6aa5567159bf35b34f43d31bcc98b85640e9f7fe8428143615628538e9",
+    "sourceDuration": 0.9933333333333333,
+    "replayDuration": 0.9933333333333333,
+    "waveformCorrelation": 0.9946386351744679,
+    "replayMatched": true,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "ˈ",
+        "start": 0.254333,
+        "end": 0.354333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.354333,
+        "end": 0.454333
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.454333,
+        "end": 0.554333
+      },
+      {
+        "symbol": "n",
+        "start": 0.554333,
+        "end": 0.853333
+      },
+      {
+        "symbol": ".",
+        "start": 0.853333,
+        "end": 0.853333
+      }
+    ]
+  },
+  {
+    "wordId": "word_market",
+    "text": "market",
+    "audioSha1": "dd2f6a95462b3bdab0e1f3f21ca0476333cc7489",
+    "sourceWavSha256": "fd1853e28944782c3a15cfd1eacba1ad0ada0638505f908bdcbe1711a85e8726",
+    "sourceDuration": 1.164,
+    "replayDuration": 1.164,
+    "waveformCorrelation": 0.996063803873709,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "m",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.408
+      },
+      {
+        "symbol": "ɑ",
+        "start": 0.408,
+        "end": 0.458
+      },
+      {
+        "symbol": "ː",
+        "start": 0.458,
+        "end": 0.558
+      },
+      {
+        "symbol": "k",
+        "start": 0.558,
+        "end": 0.708
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.708,
+        "end": 0.833
+      },
+      {
+        "symbol": "t",
+        "start": 0.833,
+        "end": 1.024
+      },
+      {
+        "symbol": ".",
+        "start": 1.024,
+        "end": 1.024
+      }
+    ]
+  },
+  {
+    "wordId": "word_top",
+    "text": "top",
+    "audioSha1": "cf033fa3ee43bec1a23504c350e0334cd393f9ee",
+    "sourceWavSha256": "863f6f0d12fa3254ff74def179a8c397f145511020a929d97ad77b13a21ee25b",
+    "sourceDuration": 1.096,
+    "replayDuration": 1.096,
+    "waveformCorrelation": 0.9945302964690005,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "t",
+        "start": 0.229333,
+        "end": 0.304333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.304333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "ɒ",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "p",
+        "start": 0.529333,
+        "end": 0.729333
+      },
+      {
+        "symbol": ".",
+        "start": 0.729333,
+        "end": 0.854333
+      }
+    ]
+  },
+  {
+    "wordId": "word_bottle",
+    "text": "bottle",
+    "audioSha1": "f5859088c6f62ebe5172bc401fc61e05f8575f4d",
+    "sourceWavSha256": "5efb62f23e94d518b791858a960dc4078bb225a1b48e6da055f604bf15a48afc",
+    "sourceDuration": 1.1946666666666668,
+    "replayDuration": 1.1946666666666668,
+    "waveformCorrelation": 0.9953893799002291,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "b",
+        "start": 0.204333,
+        "end": 0.254333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ɒ",
+        "start": 0.329333,
+        "end": 0.429333
+      },
+      {
+        "symbol": "t",
+        "start": 0.429333,
+        "end": 0.529333
+      },
+      {
+        "symbol": "ə",
+        "start": 0.529333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "l",
+        "start": 0.654333,
+        "end": 1.004333
+      },
+      {
+        "symbol": ".",
+        "start": 1.004333,
+        "end": 1.154333
+      }
+    ]
+  },
+  {
+    "wordId": "word_dirty",
+    "text": "dirty",
+    "audioSha1": "e50ac2be4e7fb8c00fbd3dc861e38c4f49809abc",
+    "sourceWavSha256": "f2c6b4f7e235762e313652d5eb576f2c23cdfacb83be56795c4eedffc8ffa094",
+    "sourceDuration": 1.3226666666666667,
+    "replayDuration": 1.3226666666666667,
+    "waveformCorrelation": 0.9967852255088842,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "d",
+        "start": 0.208,
+        "end": 0.283
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.283,
+        "end": 0.383
+      },
+      {
+        "symbol": "ɜ",
+        "start": 0.383,
+        "end": 0.458
+      },
+      {
+        "symbol": "ː",
+        "start": 0.458,
+        "end": 0.558
+      },
+      {
+        "symbol": "t",
+        "start": 0.558,
+        "end": 0.708
+      },
+      {
+        "symbol": "i",
+        "start": 0.708,
+        "end": 1.108
+      },
+      {
+        "symbol": ".",
+        "start": 1.108,
+        "end": 1.283
+      }
+    ]
+  },
+  {
+    "wordId": "word_side",
+    "text": "side",
+    "audioSha1": "cd0d60a8260340c543e1f1bc70ed2ae6df18aad7",
+    "sourceWavSha256": "d2c402a803961317a881d80d39ada149e3dc3c503598b2b21d3d59133128a098",
+    "sourceDuration": 1.1093333333333333,
+    "replayDuration": 1.1093333333333333,
+    "waveformCorrelation": 0.9956814005673426,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "s",
+        "start": 0.254333,
+        "end": 0.329333
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.329333,
+        "end": 0.479333
+      },
+      {
+        "symbol": "a",
+        "start": 0.479333,
+        "end": 0.579333
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.579333,
+        "end": 0.654333
+      },
+      {
+        "symbol": "d",
+        "start": 0.654333,
+        "end": 0.929333
+      },
+      {
+        "symbol": ".",
+        "start": 0.929333,
+        "end": 1.079333
+      }
+    ]
+  },
+  {
+    "wordId": "word_useful",
+    "text": "useful",
+    "audioSha1": "d228f93be1f7b5213299aeff9039cf91c9f9e93b",
+    "sourceWavSha256": "e5651e5b87444fb0f22229a50c70ed1bedf38b21d11cda1eeaf6da3de107cefc",
+    "sourceDuration": 1.154,
+    "replayDuration": 1.154,
+    "waveformCorrelation": 0.9957325100108873,
+    "replayMatched": true,
+    "alignmentOffset": 0.0,
+    "matchedEnergyFraction": 1.0,
+    "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "reviewStatus": "pending",
+    "timings": [
+      {
+        "symbol": "j",
+        "start": 0.233,
+        "end": 0.308
+      },
+      {
+        "symbol": "ˈ",
+        "start": 0.308,
+        "end": 0.358
+      },
+      {
+        "symbol": "u",
+        "start": 0.358,
+        "end": 0.408
+      },
+      {
+        "symbol": "ː",
+        "start": 0.408,
+        "end": 0.483
+      },
+      {
+        "symbol": "s",
+        "start": 0.483,
+        "end": 0.583
+      },
+      {
+        "symbol": "f",
+        "start": 0.583,
+        "end": 0.658
+      },
+      {
+        "symbol": "ə",
+        "start": 0.658,
+        "end": 0.758
+      },
+      {
+        "symbol": "l",
+        "start": 0.758,
+        "end": 1.024
+      },
+      {
+        "symbol": ".",
+        "start": 1.024,
+        "end": 1.024
+      }
+    ]
+  }
+]

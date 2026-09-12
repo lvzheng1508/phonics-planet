@@ -5,3 +5,7 @@ project.private.config.json
 .env.*
 !.env.example
 coverage/
+assets/local-audio/
+assets/generated-audio/
+artifacts/voice-audition-2026-09-12/*.wav
+artifacts/voice-audition-2026-09-12/*.mp3

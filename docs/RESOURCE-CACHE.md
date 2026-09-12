@@ -1,5 +1,31 @@
 # 资源托管与缓存验证
 
+## 当前方案：Emma 整词远程资源（2026-09-12）
+
+用户选定 Kokoro A · Emma，bf_emma / speed 0.8。统一使用资源仓库 → `resource://` → ResourceService 下载缓存 → AudioService；批量生成和本地资源写入状态见 `VOICE-STANDARD.md`。新音频路径为 `audio/words/en-GB/kokoro-emma/v1/`，本地仓库根为 `/Users/lvzheng/Cursor/resource`。各单元通过教材注册表获取资源，同词共享文件。
+
+更新音频必须同步资源仓库 manifest 与应用 seed-data 的版本路径、SHA-1、字节数，再构建数据。推送前用 `npm run resources:verify -- --local /Users/lvzheng/Cursor/resource` 检查；推送后用 `npm run resources:verify` 实取匿名 HTTPS。未发布的新路径不能视为已可下载，Gitee 间歇性 HTML 响应问题也不能以本地通过宣称修复。
+
+浏览器默认读取同一清单的远端 URL；显式设置 `RESOURCE_PREVIEW_ROOT` 时才从本地资源仓库读取并核对摘要。两种方式都不注入 Flo，但浏览器不模拟原生微信文件缓存。真实缓存策略仍为 100 文件 / 8 MiB，不保证全部 145 个词同时留在缓存。
+
+## 以下为此前操作记录
+
+下文随包 Piper 和本地 Flo 是历史操作，不是当前标准；以本节及 `VOICE-STANDARD.md` 为准。
+
+## 当前修复（2026-09-12）
+
+后续试听反馈：26 条整词已改为保留音高的 0.75 倍慢速版（`v2-slow`），原版归档于包外的 `assets/source-audio`；下文 254 KiB 是首次打包原版的记录，当前体积以素材清单为准。浏览器其余系统试听从 135 调至 100 词/分钟，并更换临时缓存版本。播放进度在播放期间每 50ms 读取真实媒体时钟，去除 140ms CSS 过渡；停止、切词及结束清除采样计时器。仍为整词进度，无逐音时间标注，不能将其当作逐音同步高亮。
+
+慢速版验证：26 文件共 333,437 字节，逐份通过 FFmpeg 解码和时长比例检查；gingerbread house 从 1.010068 秒变为 1.322812 秒。`npm run check` 通过 55 项测试与 13 页模板编译，新增测试覆盖稀疏事件下读取媒体进度、媒体时钟停滞及取消清理。浏览器可进入播放状态；此次修改后的原生微信体验仍需复测。
+
+Unit 1 的 26 条已授权 AI 整词试听改为随小程序打包，共 260,397 字节（254 KiB），首次使用不再请求 Gitee。文件从本地 resource 仓库逐份核对大小及 SHA-1 后原样复制；种子清单登记包内路径，保留 synthetic-preview、pending、模型和许可。构建阶段验证包内文件大小和摘要。来源见 `assets/manifest.json` 与 `docs/UNIT-1-AI-AUDIO.md`。
+
+本次桌面匿名获取 word_was.mp3 返回 HTTP 200、audio/mpeg，SHA-1 与清单一致；无法仅凭截图确定当次真机失败原因。此前已记录 Gitee 登录重定向及真机内容校验失败，因此本地优先 MVP 不再依赖该下载链路提供这 26 条试听。远程测试样本及缓存机制保留，远程托管稳定性未宣称修复。
+
+播放区只保留一个主要播放动作；远程下载出错时显示浅色提示、重新加载按钮和透明背景的诊断入口。浏览器预览优先使用同一批包内音频，其余缺失整词仍使用隔离的本机系统试听。微信开发者工具和真机需重新编译验证包内 MP3、离线首次播放、切后台及快速连点。
+
+验证：`npm run check` 通过，54 项测试及 13 页 WCC/WCSC 编译成功。新增回归验证 26 条整词的包内路径、离线资源解析、字节数及 SHA-1。浏览器实测 was 页面点击进入播放状态，结束后按钮恢复；原生微信播放及排版尚未在本轮验证。
+
 ## 当前结论（2026-09-11）
 
 代码和本地验证已完成，**开发者工具已通过下载、缓存播放及重新编译后缓存复用；真机离线验收仍待完成**。Gitee 曾间歇性返回登录页，不能由本轮成功推断长期稳定。
@@ -75,3 +101,9 @@
 - https://developers.weixin.qq.com/miniprogram/dev/api/network/download/wx.downloadFile.html
 - https://developers.weixin.qq.com/miniprogram/dev/api/file/FileSystemManager.getFileInfo.html
 - https://github.com/wechat-miniprogram/api-typings/blob/master/types/wx/lib.wx.api.d.ts （核对实际参数类型）
+
+## 2026-09-12 Emma 与逐词时间表
+
+当前全六单元 145 词通过 resource:// 分发，resource 已推送 `6392fd6` 与 `669f159`。136 条使用 Emma v1，9 条读法修正使用 v2-aligned，旧版本保留，缓存按新路径和摘要更新。前文 Piper 慢速与无时间表为历史阶段。
+
+详情与复习按 currentTime 和音频摘要绑定的时间表推进音标；重音、静音不参与均匀字符分配。时间表为机器估计、待人工核对，77 个内部边界使用模型时长插值。检查记录见 `../artifacts/audio-sync-audit-2026-09-12/README.md`。

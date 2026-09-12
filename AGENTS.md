@@ -4,6 +4,7 @@
 先读 README.md、PRODUCT.md、DESIGN.md、DATA.md、IMPLEMENTATION.md、docs/CONTENT-STATUS.md。根据当前需求自行规划，不把历史对话的建议都当成已承诺功能。
 
 ## 必须保持
+- 整词音频按 `resource` 独立仓库 → `resource://` 清单 → ResourceService 下载缓存 → AudioService 播放交付。不得以本地试听库或随包音频代替远程交付。已选标准见 `docs/VOICE-STANDARD.md`：Kokoro bf_emma 英式女声、speed=0.8。新音色须先核实分发条件并试听确认；Apple Flo 只作历史参考，不进入分发仓库。
 - 微信原生小程序，MVP 本地优先；新增依赖应有实际需求。
 - 内容只编辑 seed-data，再运行 npm run build:data。不要编辑生成文件。
 - 页面不得硬编码教材、年级、单元或音素词表。新增教材通过 curriculum/index.json 注册。

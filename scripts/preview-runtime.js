@@ -94,7 +94,7 @@
     if (!bundle.sources[currentPath + '.js']) currentPath = 'pages/home/index';
     delete cache[currentPath + '.js']; requireModule(currentPath + '.js'); current = instance(definition);
     if (current.onLoad) current.onLoad(Object.fromEntries(url.searchParams)); if (current.onShow) current.onShow();
-    document.getElementById('app-style').textContent = css(bundle.styles['app.wxss'] + '\n' + (bundle.styles[currentPath + '.wxss'] || '')) + '\n' + css(bundle.styles['components/audio-button/index.wxss']).replace(/button/g, '.audio-host button').replace(/\.hint/g, '.audio-host .hint');
+    document.getElementById('app-style').textContent = css(bundle.styles['app.wxss'] + '\n' + (bundle.styles[currentPath + '.wxss'] || '')) + '\n' + css(bundle.styles['components/audio-button/index.wxss']).replace(/\.hint/g, '.audio-host .hint');
     render(); window.scrollTo(0, 0);
   }
   window.addEventListener('hashchange', navigate);

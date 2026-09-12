@@ -1,0 +1,27 @@
+const {test}=require('node:test');
+const assert=require('node:assert/strict');
+const fs=require('node:fs'),os=require('node:os'),path=require('node:path'),crypto=require('node:crypto');
+const {createResourcePreview}=require('../scripts/resource-audio-preview.cjs');
+test('browser preview uses the resource manifest and refuses missing or changed resource bytes',t=>{
+ const dir=fs.mkdtempSync(path.join(os.tmpdir(),'emma-preview-'));
+ t.after(()=>fs.rmSync(dir,{recursive:true,force:true}));
+ const bytes=Buffer.from('test-media-bytes');
+ const asset={id:'word_moon',kind:'word',src:'resource://audio/moon.mp3',status:'synthetic-preview',reviewStatus:'pending',extension:'mp3',bytes:bytes.length,sha1:crypto.createHash('sha1').update(bytes).digest('hex'),generator:{voice:'bf_emma'}};
+ const data={audio:[asset,{id:'phoneme_u',kind:'phoneme',status:'missing',src:null}]};
+ fs.mkdirSync(path.join(dir,'audio'));fs.writeFileSync(path.join(dir,'audio/moon.mp3'),bytes);
+ const local=createResourcePreview(data,{directory:dir,baseUrl:'https://media.example.com'});
+ assert.equal(local.data.audio[0].src,'/resource-audio/word_moon.mp3');
+ assert.deepEqual(local.readAudio('word_moon'),bytes);
+ assert.equal(local.data.audio[0].status,'synthetic-preview');
+ assert.equal(local.data.audio[0].generator.voice,'bf_emma');
+ assert.deepEqual(local.data.audio[1],data.audio[1]);
+ assert.equal(data.audio[0].src,'resource://audio/moon.mp3');
+ fs.writeFileSync(path.join(dir,'audio/moon.mp3'),'corrupt');
+ assert.throws(()=>local.readAudio('word_moon'),/integrity/i);
+ assert.throws(()=>local.readAudio('unknown'),/not found/i);
+ fs.unlinkSync(path.join(dir,'audio/moon.mp3'));
+ assert.throws(()=>local.readAudio('word_moon'));
+ const remote=createResourcePreview(data,{baseUrl:'https://media.example.com'});
+ assert.equal(remote.data.audio[0].src,'https://media.example.com/audio/moon.mp3');
+ assert.throws(()=>remote.readAudio('word_moon'),/local resource/i);
+});

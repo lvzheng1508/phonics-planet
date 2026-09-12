@@ -1,0 +1,158 @@
+{
+  "purpose": "whole-word voice selection; not yet selected for bulk generation",
+  "status": "synthetic-preview",
+  "reviewStatus": "pending",
+  "listeningReview": "not-performed",
+  "engine": "kokoro-onnx 0.6.1",
+  "model": "Kokoro-82M v1.0, float32 ONNX",
+  "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+  "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+  "modelLicense": "Apache-2.0",
+  "runtimeLicense": "MIT",
+  "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+  "voiceSource": "https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md",
+  "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+  "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+  "licenseNote": "Model/runtime licenses are recorded separately from the generated audio; not Apple system speech. Upstream explicitly supports production/commercial deployments. No claim that these audio outputs were independently licensed by a third party.",
+  "accent": "en-GB",
+  "phonemizerLanguage": "en-gb",
+  "input": "Word text plus a period; never IPA as text",
+  "speedNote": "Engine speed ratios are not words per minute and do not equal Flo 115 WPM.",
+  "processing": "PCM16 WAV and 96kbps mono MP3; no post-generation time stretching",
+  "samples": [
+    {
+      "label": "A",
+      "word": "was",
+      "voice": "bf_emma",
+      "speed": 0.8,
+      "duration": 1.0026666666666666,
+      "wav": "short-A.wav",
+      "wavSha256": "03a121d74cab65b457245fe4c56f681b9b73228469d8b70aaaaa94d3f56b8a3b",
+      "file": "short-A.mp3",
+      "bytes": 13005,
+      "sha1": "f0d8fb8b5a7d4dd2a329d4ab2b878cf335498f03"
+    },
+    {
+      "label": "A",
+      "word": "village",
+      "voice": "bf_emma",
+      "speed": 0.8,
+      "duration": 1.1946666666666668,
+      "wav": "medium-A.wav",
+      "wavSha256": "8b5c9c22a966f906efd8e0b32a302cf18782d36e078bfef3024bfd655edf429c",
+      "file": "medium-A.mp3",
+      "bytes": 15309,
+      "sha1": "4e424aa1701d088ddf401e0c71330ddf768d3139"
+    },
+    {
+      "label": "A",
+      "word": "gingerbread house",
+      "voice": "bf_emma",
+      "speed": 0.8,
+      "duration": 1.9533333333333334,
+      "wav": "long-A.wav",
+      "wavSha256": "443dd998d2f2dc50ea74ef88cec2c34bd4f1f19370169886fd41e92287815f38",
+      "file": "long-A.mp3",
+      "bytes": 24525,
+      "sha1": "66fa205cb6f42c16cc7841aa7f1e51c7cf2812f4"
+    },
+    {
+      "label": "B",
+      "word": "was",
+      "voice": "bf_isabella",
+      "speed": 0.8,
+      "duration": 1.5226666666666666,
+      "wav": "short-B.wav",
+      "wavSha256": "e70b54307555d321eb5458aaf7c6eb6806b51a2f48cfb019770319e1e70b97d9",
+      "file": "short-B.mp3",
+      "bytes": 19341,
+      "sha1": "10981a9beb6745ae8a99b253642001bb0f616073"
+    },
+    {
+      "label": "B",
+      "word": "village",
+      "voice": "bf_isabella",
+      "speed": 0.8,
+      "duration": 1.6406666666666667,
+      "wav": "medium-B.wav",
+      "wavSha256": "c08bf49b5a0c08e246ae84884c4e530381c81a384648a41041140aeb14d1751d",
+      "file": "medium-B.mp3",
+      "bytes": 20781,
+      "sha1": "68c9da76f83c8c917a1236e072983ac67206a122"
+    },
+    {
+      "label": "B",
+      "word": "gingerbread house",
+      "voice": "bf_isabella",
+      "speed": 0.8,
+      "duration": 2.0353333333333334,
+      "wav": "long-B.wav",
+      "wavSha256": "e4c1f6a39366533fdcfb57b909f3ba0ba5d508baf3a366e0a1f83fb9dcfe4ed6",
+      "file": "long-B.mp3",
+      "bytes": 25389,
+      "sha1": "f7e76befdc72c071f3f2d5fabbcdb45ea5b56a89"
+    },
+    {
+      "label": "C",
+      "word": "was",
+      "voice": "bf_emma",
+      "speed": 0.7,
+      "duration": 1.0246666666666666,
+      "wav": "short-C.wav",
+      "wavSha256": "995784627e500df4d36302a51efd6dcb0663a13af7e1960ec97a5cc141d887ab",
+      "file": "short-C.mp3",
+      "bytes": 13293,
+      "sha1": "9db5b612a69d4753df74182ab2a2b631a30d9233"
+    },
+    {
+      "label": "C",
+      "word": "village",
+      "voice": "bf_emma",
+      "speed": 0.7,
+      "duration": 1.1892916666666666,
+      "wav": "medium-C.wav",
+      "wavSha256": "8f45c0641718be99ee544c5a93ffd3222a9ff07976f17d88d8f9f7b37f5c0830",
+      "file": "medium-C.mp3",
+      "bytes": 15309,
+      "sha1": "561bba3cd6da2d5eeeb3efd73fb09e9bc99b6082"
+    },
+    {
+      "label": "C",
+      "word": "gingerbread house",
+      "voice": "bf_emma",
+      "speed": 0.7,
+      "duration": 2.2093333333333334,
+      "wav": "long-C.wav",
+      "wavSha256": "53a9e9916660de97b8e2fe516c4c3b4b65730d24e605de0a29e8a100905d0033",
+      "file": "long-C.mp3",
+      "bytes": 27693,
+      "sha1": "5cacfac1f9e004cbd6f9acf714d8fc089716f358"
+    }
+  ],
+  "comparisons": [
+    {
+      "label": "A",
+      "voice": "bf_emma",
+      "speed": 0.8,
+      "file": "style-A.mp3",
+      "bytes": 74925,
+      "sha1": "be357883944db603a863b05d4286c9c0ee4e8770"
+    },
+    {
+      "label": "B",
+      "voice": "bf_isabella",
+      "speed": 0.8,
+      "file": "style-B.mp3",
+      "bytes": 87309,
+      "sha1": "ca03c31e9770e891b365e273da5a09b52f141c62"
+    },
+    {
+      "label": "C",
+      "voice": "bf_emma",
+      "speed": 0.7,
+      "file": "style-C.mp3",
+      "bytes": 78093,
+      "sha1": "41b3f2e7588e5f9e3cd4792229d64f3ab1273788"
+    }
+  ]
+}

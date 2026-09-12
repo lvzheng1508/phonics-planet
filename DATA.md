@@ -22,7 +22,7 @@ unit 含 id/name/entries[]；entry 含 wordId/meaning。注册到 curriculum/ind
 id、name、type、wordIds[]、schemaVersion。收藏使用 phonics-planet:collections:v1；所有访问经 StorageService。未来新增自定义词复用 Word 模型，单独本地存储后由 ContentService 合并。
 
 ## AudioAsset
-id、kind、accent、src（null 或路径/HTTPS URL）、status=missing/pending/verified、source、license、reviewer。仅 verified 且元数据齐全可播放。音频审核与语言 enrichment 审核独立。
+id、kind、accent、src（null 或路径/HTTPS URL）、status=missing/pending/verified/synthetic-preview、source、license、reviewer。正式教学音频仅 verified 且元数据齐全可播放。用户另行授权的整词 synthetic-preview / pending 可在开发配置 allowSyntheticWordAudio 下播放，必须保留来源、模型、许可及“AI 合成试听 · 待发音核对”标记；不适用于音素。音频审核与语言 enrichment 审核独立。
 
 ## 审核
 pending 表示待核对，verified 需要来源及审核记录。不能因为结构校验通过就改成已审核。开发版由 config.showDraftPronunciations 控制显示 word-pronunciations.json 的待核对 IPA，并在详情/复习中标注；正式发布需关闭该开关且完成审核。音标显示、拼读对齐、录音审核分别管理，不能因缺录音隐藏已有音标。
@@ -30,3 +30,7 @@ pending 表示待核对，verified 需要来源及审核记录。不能因为结
 word-pronunciations.json 保存145条候选，wordId关联Word，displayTokens完整还原IPA。现代弱元音 /i/ 不属于传统44独立条目，其token保留原符号，phonemeId为空，不强行映射到 /ɪ/ 或 /iː/。read保留多读法候选，教材语境仍待核实。
 
 播放状态新增 currentTime/duration/progress，来自真实媒体时钟。现阶段渐变仅表示整词播放进度；精确音素同步必须使用单独审核的时间边界。系统试听资产只在浏览器预览内存中注入，status=preview、license=local-preview-only，正式数据与小程序禁止播放该状态。
+
+## 整词跟读时间表
+
+`seed-data/audio-timings.json` 以 wordId/audioId 关联，必须同时匹配 audioSha1 与当前 IPA。tokens 与显示音标顺序一致，包含 start/end 秒值；重音与空格为零时长。status=aligned 只表示机器时间表可用，reviewStatus 仍 pending、reviewer=null。method 区分声学定位及低置信度边界的模型时长插值，不能当作教学审核。内容或音频变化须重新生成时间表；运行时不匹配则回退整词进度。

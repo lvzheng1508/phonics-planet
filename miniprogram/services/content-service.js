@@ -36,9 +36,17 @@ function createContentService(source, user) {
       const phonemes = (ready ? pronunciation.phonemes : draft ? draft.phonemes : []).map(api.phoneme).filter(Boolean);
       const segments = ready ? pronunciation.segments.map((s, i) => ({ ...s, key: String(i), symbols: s.phonemeIds.map(api.phoneme).filter(Boolean).map(p => '/' + p.symbol + '/').join(' '), start: pronunciation.segments.slice(0, i).reduce((n, part) => n + part.phonemeIds.length, 0) })) : [];
       const audioId = pronunciation ? pronunciation.audioId : null;
+      const audioAsset = api.audio(audioId);
+      const ipaTokens = (draft && draft.displayTokens || tokenizeIpa(displayIpa, source.phonemes)).map((t, i) => ({ ...t, key: String(i) }));
+      const timing = (source.audioTimings || []).find(t => t.wordId === id && t.audioId === audioId);
+      const audioTimingReady = !!(timing && audioAsset && timing.status === 'aligned' && timing.audioSha1 === audioAsset.sha1 && timing.ipa === displayIpa
+        && Number.isFinite(audioAsset.duration) && Array.isArray(timing.tokens) && timing.tokens.length === ipaTokens.length && timing.tokens.every((t, i) => t && t.text === ipaTokens[i].text
+          && Number.isFinite(t.start) && Number.isFinite(t.end) && t.start >= 0 && t.end >= t.start && t.end <= audioAsset.duration + 0.001
+          && (!i || t.start >= timing.tokens[i-1].end)));
+      if (audioTimingReady) ipaTokens.forEach((t, i) => { t.timing = {start: timing.tokens[i].start, end: timing.tokens[i].end}; });
       return { ...word, contextMeaning: entry ? entry.meaning : '', pronunciationReady: ready,
         ipa: displayIpa, hasIpa: !!displayIpa, pronunciationPending: !!draft && !ready,
-        ipaTokens: (draft && draft.displayTokens || tokenizeIpa(displayIpa, source.phonemes)).map((t, i) => ({ ...t, key: String(i) })),
+        ipaTokens, audioTimingReady,
         pronunciationVariants: draft && draft.variants || [],
         phonemes, segments, syllables: ready ? pronunciation.syllables : [], audioId,
         audioPreview: !!(api.audio(audioId) && api.audio(audioId).status === 'preview'),

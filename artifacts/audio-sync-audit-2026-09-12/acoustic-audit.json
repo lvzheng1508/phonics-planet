@@ -1,0 +1,6512 @@
+[
+  {
+    "wordId": "word_was",
+    "text": "was",
+    "audioSha1": "f0d8fb8b5a7d4dd2a329d4ab2b878cf335498f03",
+    "duration": 1.0026875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "h",
+        "start": 0.08,
+        "confidence": 0.8048
+      },
+      {
+        "symbol": "iː",
+        "start": 0.1,
+        "confidence": 0.776
+      },
+      {
+        "symbol": "w",
+        "start": 0.18,
+        "confidence": 0.8481
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.24,
+        "confidence": 0.9045
+      },
+      {
+        "symbol": "z",
+        "start": 0.52,
+        "confidence": 0.9794
+      }
+    ]
+  },
+  {
+    "wordId": "word_climb",
+    "text": "climb",
+    "audioSha1": "6bf81a47a774cb4c0989856bc2c013a4cc587bd6",
+    "duration": 1.135375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ð",
+        "start": 0.06,
+        "confidence": 0.7987
+      },
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.741
+      },
+      {
+        "symbol": "k",
+        "start": 0.18,
+        "confidence": 0.9926
+      },
+      {
+        "symbol": "l",
+        "start": 0.26,
+        "confidence": 0.8972
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.34,
+        "confidence": 0.9177
+      },
+      {
+        "symbol": "m",
+        "start": 0.64,
+        "confidence": 0.991
+      },
+      {
+        "symbol": "z",
+        "start": 0.74,
+        "confidence": 0.9208
+      }
+    ]
+  },
+  {
+    "wordId": "word_kilometre",
+    "text": "kilometre",
+    "audioSha1": "997e853d78653a29734013be292e7de3e7c679fc",
+    "duration": 1.4766875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɪ",
+        "start": 0.06,
+        "confidence": 0.2271
+      },
+      {
+        "symbol": "k",
+        "start": 0.16,
+        "confidence": 0.9618
+      },
+      {
+        "symbol": "eː",
+        "start": 0.24,
+        "confidence": 0.2853
+      },
+      {
+        "symbol": "l",
+        "start": 0.36,
+        "confidence": 0.9755
+      },
+      {
+        "symbol": "ə",
+        "start": 0.4,
+        "confidence": 0.4053
+      },
+      {
+        "symbol": "m",
+        "start": 0.54,
+        "confidence": 0.99
+      },
+      {
+        "symbol": "iː",
+        "start": 0.58,
+        "confidence": 0.7348
+      },
+      {
+        "symbol": "t",
+        "start": 0.74,
+        "confidence": 0.9362
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.82,
+        "confidence": 0.5922
+      },
+      {
+        "symbol": "h",
+        "start": 0.98,
+        "confidence": 0.9488
+      }
+    ]
+  },
+  {
+    "wordId": "word_gingerbread_house",
+    "text": "gingerbread house",
+    "audioSha1": "66fa205cb6f42c16cc7841aa7f1e51c7cf2812f4",
+    "duration": 1.953375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɪ",
+        "start": 0.06,
+        "confidence": 0.9411
+      },
+      {
+        "symbol": "t",
+        "start": 0.14,
+        "confidence": 0.7577
+      },
+      {
+        "symbol": "dʒ",
+        "start": 0.2,
+        "confidence": 0.7776
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.26,
+        "confidence": 0.9558
+      },
+      {
+        "symbol": "n",
+        "start": 0.36,
+        "confidence": 0.952
+      },
+      {
+        "symbol": "dʒ",
+        "start": 0.48,
+        "confidence": 0.8878
+      },
+      {
+        "symbol": "ɚ",
+        "start": 0.54,
+        "confidence": 0.6945
+      },
+      {
+        "symbol": "b",
+        "start": 0.68,
+        "confidence": 0.7485
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.72,
+        "confidence": 0.9812
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.78,
+        "confidence": 0.9262
+      },
+      {
+        "symbol": "d",
+        "start": 0.94,
+        "confidence": 0.9872
+      },
+      {
+        "symbol": "h",
+        "start": 1.02,
+        "confidence": 0.9779
+      },
+      {
+        "symbol": "aʊ",
+        "start": 1.12,
+        "confidence": 0.7958
+      },
+      {
+        "symbol": "s",
+        "start": 1.4,
+        "confidence": 0.9942
+      },
+      {
+        "symbol": "ə",
+        "start": 1.54,
+        "confidence": 0.67
+      }
+    ]
+  },
+  {
+    "wordId": "word_go",
+    "text": "go",
+    "audioSha1": "c5bc436352a0ac4ad8ecffb1d6c7a0c2dab096e8",
+    "duration": 0.96,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.06,
+        "confidence": 0.8804
+      },
+      {
+        "symbol": "ɨ",
+        "start": 0.1,
+        "confidence": 0.3575
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.2,
+        "confidence": 0.9562
+      },
+      {
+        "symbol": "a",
+        "start": 0.26,
+        "confidence": 0.3177
+      }
+    ]
+  },
+  {
+    "wordId": "word_send",
+    "text": "send",
+    "audioSha1": "1b0ca14a1397e268741feb896174735247ae99bf",
+    "duration": 1.088,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.1,
+        "confidence": 0.595
+      },
+      {
+        "symbol": "s",
+        "start": 0.2,
+        "confidence": 0.9915
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.3,
+        "confidence": 0.949
+      },
+      {
+        "symbol": "n",
+        "start": 0.48,
+        "confidence": 0.9951
+      },
+      {
+        "symbol": "d",
+        "start": 0.6,
+        "confidence": 0.9876
+      }
+    ]
+  },
+  {
+    "wordId": "word_thousand",
+    "text": "thousand",
+    "audioSha1": "275f660aff7b398b8fa74a185b4796b6c4d96347",
+    "duration": 1.37,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.08,
+        "confidence": 0.687
+      },
+      {
+        "symbol": "θ",
+        "start": 0.18,
+        "confidence": 0.9154
+      },
+      {
+        "symbol": "aʊ",
+        "start": 0.26,
+        "confidence": 0.8271
+      },
+      {
+        "symbol": "z",
+        "start": 0.54,
+        "confidence": 0.9708
+      },
+      {
+        "symbol": "ə",
+        "start": 0.62,
+        "confidence": 0.9306
+      },
+      {
+        "symbol": "n",
+        "start": 0.72,
+        "confidence": 0.5669
+      },
+      {
+        "symbol": "d",
+        "start": 0.84,
+        "confidence": 0.9906
+      },
+      {
+        "symbol": "h",
+        "start": 0.9,
+        "confidence": 0.8068
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.94,
+        "confidence": 0.282
+      }
+    ]
+  },
+  {
+    "wordId": "word_clay",
+    "text": "clay",
+    "audioSha1": "25a93549aee99edf1119b17d624d2ebbfd22046c",
+    "duration": 1.173375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.06,
+        "confidence": 0.2447
+      },
+      {
+        "symbol": "ə",
+        "start": 0.1,
+        "confidence": 0.5603
+      },
+      {
+        "symbol": "k",
+        "start": 0.2,
+        "confidence": 0.9844
+      },
+      {
+        "symbol": "l",
+        "start": 0.3,
+        "confidence": 0.9922
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.36,
+        "confidence": 0.4967
+      }
+    ]
+  },
+  {
+    "wordId": "word_see",
+    "text": "see",
+    "audioSha1": "260afff7a4f6920f3a29ad6a2d947913b61a6ae1",
+    "duration": 0.862,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "a",
+        "start": 0.1,
+        "confidence": 0.7784
+      },
+      {
+        "symbol": "s",
+        "start": 0.22,
+        "confidence": 0.985
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.32,
+        "confidence": 0.1309
+      }
+    ]
+  },
+  {
+    "wordId": "word_village",
+    "text": "village",
+    "audioSha1": "4e424aa1701d088ddf401e0c71330ddf768d3139",
+    "duration": 1.1946875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "v",
+        "start": 0.2,
+        "confidence": 0.9913
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.26,
+        "confidence": 0.9331
+      },
+      {
+        "symbol": "l",
+        "start": 0.36,
+        "confidence": 0.9878
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.4,
+        "confidence": 0.7432
+      },
+      {
+        "symbol": "dʒ",
+        "start": 0.62,
+        "confidence": 0.888
+      }
+    ]
+  },
+  {
+    "wordId": "word_eat",
+    "text": "eat",
+    "audioSha1": "831b399a7ed01a3ab8ece94630bde78b1b9fc871",
+    "duration": 0.917375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.4326
+      },
+      {
+        "symbol": "l",
+        "start": 0.16,
+        "confidence": 0.9773
+      },
+      {
+        "symbol": "iː",
+        "start": 0.2,
+        "confidence": 0.2415
+      },
+      {
+        "symbol": "t",
+        "start": 0.48,
+        "confidence": 0.8393
+      }
+    ]
+  },
+  {
+    "wordId": "word_dry",
+    "text": "dry",
+    "audioSha1": "ea2019c2f115e548706183610a370c64786caeae",
+    "duration": 1.0686875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ð",
+        "start": 0.04,
+        "confidence": 0.7731
+      },
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.9014
+      },
+      {
+        "symbol": "d",
+        "start": 0.18,
+        "confidence": 0.9813
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.26,
+        "confidence": 0.9476
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.34,
+        "confidence": 0.6768
+      }
+    ]
+  },
+  {
+    "wordId": "word_take",
+    "text": "take",
+    "audioSha1": "c3c6ba1928e17366f54c7b76047fb23b5dfaee65",
+    "duration": 1.024,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.06,
+        "confidence": 0.3599
+      },
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.4717
+      },
+      {
+        "symbol": "t",
+        "start": 0.18,
+        "confidence": 0.9651
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.28,
+        "confidence": 0.3329
+      },
+      {
+        "symbol": "k",
+        "start": 0.54,
+        "confidence": 0.9221
+      }
+    ]
+  },
+  {
+    "wordId": "word_view",
+    "text": "view",
+    "audioSha1": "f902bf3237c564e0a49f67303408e77e30327eaf",
+    "duration": 1.0106875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ʌ",
+        "start": 0.1,
+        "confidence": 0.2822
+      },
+      {
+        "symbol": "v",
+        "start": 0.2,
+        "confidence": 0.9874
+      },
+      {
+        "symbol": "j",
+        "start": 0.24,
+        "confidence": 0.7703
+      }
+    ]
+  },
+  {
+    "wordId": "word_inspiring",
+    "text": "inspiring",
+    "audioSha1": "ab3155d6941a2b63fa3f5735248960cd0bf57006",
+    "duration": 1.6033125,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɪ",
+        "start": 0.06,
+        "confidence": 0.8733
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.16,
+        "confidence": 0.9615
+      },
+      {
+        "symbol": "n",
+        "start": 0.24,
+        "confidence": 0.996
+      },
+      {
+        "symbol": "s",
+        "start": 0.34,
+        "confidence": 0.9934
+      },
+      {
+        "symbol": "p",
+        "start": 0.46,
+        "confidence": 0.9428
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.54,
+        "confidence": 0.7307
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.84,
+        "confidence": 0.9763
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.9,
+        "confidence": 0.9194
+      },
+      {
+        "symbol": "ŋ",
+        "start": 1.02,
+        "confidence": 0.9688
+      },
+      {
+        "symbol": "h",
+        "start": 1.1,
+        "confidence": 0.8542
+      },
+      {
+        "symbol": "ɪ",
+        "start": 1.18,
+        "confidence": 0.3672
+      }
+    ]
+  },
+  {
+    "wordId": "word_bamboo",
+    "text": "bamboo",
+    "audioSha1": "2c90034186cfc7e5a8491f052da68b2b9b9659cd",
+    "duration": 1.365375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "a",
+        "start": 0.1,
+        "confidence": 0.4317
+      },
+      {
+        "symbol": "b",
+        "start": 0.18,
+        "confidence": 0.9718
+      },
+      {
+        "symbol": "a",
+        "start": 0.24,
+        "confidence": 0.9307
+      },
+      {
+        "symbol": "n",
+        "start": 0.38,
+        "confidence": 0.5684
+      },
+      {
+        "symbol": "b",
+        "start": 0.48,
+        "confidence": 0.9665
+      },
+      {
+        "symbol": "ø",
+        "start": 0.54,
+        "confidence": 0.2282
+      },
+      {
+        "symbol": "s",
+        "start": 0.86,
+        "confidence": 0.4374
+      }
+    ]
+  },
+  {
+    "wordId": "word_pumpkin",
+    "text": "pumpkin",
+    "audioSha1": "4991950fcab264c326506e0c949886dc8d2bad5f",
+    "duration": 1.2206875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "p",
+        "start": 0.16,
+        "confidence": 0.9834
+      },
+      {
+        "symbol": "a",
+        "start": 0.22,
+        "confidence": 0.8123
+      },
+      {
+        "symbol": "m",
+        "start": 0.32,
+        "confidence": 0.9899
+      },
+      {
+        "symbol": "t",
+        "start": 0.4,
+        "confidence": 0.8074
+      },
+      {
+        "symbol": "k",
+        "start": 0.48,
+        "confidence": 0.9851
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.54,
+        "confidence": 0.7822
+      },
+      {
+        "symbol": "n",
+        "start": 0.68,
+        "confidence": 0.9518
+      },
+      {
+        "symbol": "ə",
+        "start": 0.78,
+        "confidence": 0.7463
+      }
+    ]
+  },
+  {
+    "wordId": "word_restaurant",
+    "text": "restaurant",
+    "audioSha1": "7f7e18d07514bbbd32bc87f3eb0928568b3344cd",
+    "duration": 1.3813125,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.06,
+        "confidence": 0.5114
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.18,
+        "confidence": 0.9649
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.24,
+        "confidence": 0.9329
+      },
+      {
+        "symbol": "s",
+        "start": 0.4,
+        "confidence": 0.995
+      },
+      {
+        "symbol": "t",
+        "start": 0.52,
+        "confidence": 0.9739
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.58,
+        "confidence": 0.9435
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.62,
+        "confidence": 0.6684
+      },
+      {
+        "symbol": "n",
+        "start": 0.76,
+        "confidence": 0.9892
+      },
+      {
+        "symbol": "t",
+        "start": 0.88,
+        "confidence": 0.9197
+      },
+      {
+        "symbol": "ə",
+        "start": 0.96,
+        "confidence": 0.3219
+      }
+    ]
+  },
+  {
+    "wordId": "word_airport",
+    "text": "airport",
+    "audioSha1": "727e5da575f1c9594c98d7a3f307ab394511cd05",
+    "duration": 1.154,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ð",
+        "start": 0.16,
+        "confidence": 0.377
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.2,
+        "confidence": 0.776
+      },
+      {
+        "symbol": "ə",
+        "start": 0.34,
+        "confidence": 0.4523
+      },
+      {
+        "symbol": "p",
+        "start": 0.44,
+        "confidence": 0.9805
+      },
+      {
+        "symbol": "oː",
+        "start": 0.52,
+        "confidence": 0.4401
+      },
+      {
+        "symbol": "t",
+        "start": 0.78,
+        "confidence": 0.9094
+      }
+    ]
+  },
+  {
+    "wordId": "word_new_zealand",
+    "text": "New Zealand",
+    "audioSha1": "42e0c6e82ad5b3f6e202683df837fd9b69902a87",
+    "duration": 1.572,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "n",
+        "start": 0.18,
+        "confidence": 0.9871
+      },
+      {
+        "symbol": "uː",
+        "start": 0.26,
+        "confidence": 0.9131
+      },
+      {
+        "symbol": "z",
+        "start": 0.48,
+        "confidence": 0.9713
+      },
+      {
+        "symbol": "iː",
+        "start": 0.58,
+        "confidence": 0.8518
+      },
+      {
+        "symbol": "l",
+        "start": 0.74,
+        "confidence": 0.9933
+      },
+      {
+        "symbol": "ə",
+        "start": 0.78,
+        "confidence": 0.9498
+      },
+      {
+        "symbol": "n",
+        "start": 0.9,
+        "confidence": 0.9976
+      },
+      {
+        "symbol": "d",
+        "start": 1.0,
+        "confidence": 0.9672
+      },
+      {
+        "symbol": "ɚ",
+        "start": 1.1,
+        "confidence": 0.6934
+      }
+    ]
+  },
+  {
+    "wordId": "word_hong_kong_zhuhai_macao_bridge",
+    "text": "Hong Kong-Zhuhai-Macao Bridge",
+    "audioSha1": "16e585f8f3cfe684573823a2ad2bf797659510cd",
+    "duration": 2.6346875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "h",
+        "start": 0.12,
+        "confidence": 0.9668
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.18,
+        "confidence": 0.6959
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.3,
+        "confidence": 0.9429
+      },
+      {
+        "symbol": "k",
+        "start": 0.42,
+        "confidence": 0.9754
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.52,
+        "confidence": 0.7824
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.66,
+        "confidence": 0.9313
+      },
+      {
+        "symbol": "dʒ",
+        "start": 0.84,
+        "confidence": 0.8494
+      },
+      {
+        "symbol": "uː",
+        "start": 0.9,
+        "confidence": 0.3325
+      },
+      {
+        "symbol": "h",
+        "start": 1.0,
+        "confidence": 0.9932
+      },
+      {
+        "symbol": "aɪ",
+        "start": 1.08,
+        "confidence": 0.8539
+      },
+      {
+        "symbol": "m",
+        "start": 1.3,
+        "confidence": 0.9964
+      },
+      {
+        "symbol": "ɛ",
+        "start": 1.34,
+        "confidence": 0.3883
+      },
+      {
+        "symbol": "k",
+        "start": 1.44,
+        "confidence": 0.9865
+      },
+      {
+        "symbol": "aʊ",
+        "start": 1.54,
+        "confidence": 0.8066
+      },
+      {
+        "symbol": "b",
+        "start": 1.8,
+        "confidence": 0.9667
+      },
+      {
+        "symbol": "ɹ",
+        "start": 1.86,
+        "confidence": 0.9315
+      },
+      {
+        "symbol": "ɪ",
+        "start": 1.9,
+        "confidence": 0.8494
+      },
+      {
+        "symbol": "dʒ",
+        "start": 2.08,
+        "confidence": 0.911
+      },
+      {
+        "symbol": "ɨ",
+        "start": 2.18,
+        "confidence": 0.2871
+      },
+      {
+        "symbol": "ɾ",
+        "start": 2.3,
+        "confidence": 0.2935
+      }
+    ]
+  },
+  {
+    "wordId": "word_paris",
+    "text": "Paris",
+    "audioSha1": "1e455b67cedfb4f68722a1afed0ac969216178fa",
+    "duration": 1.4786875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɪ",
+        "start": 0.08,
+        "confidence": 0.2459
+      },
+      {
+        "symbol": "n",
+        "start": 0.12,
+        "confidence": 0.8753
+      },
+      {
+        "symbol": "p",
+        "start": 0.18,
+        "confidence": 0.982
+      },
+      {
+        "symbol": "æ",
+        "start": 0.26,
+        "confidence": 0.8605
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.42,
+        "confidence": 0.9869
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.46,
+        "confidence": 0.7994
+      },
+      {
+        "symbol": "s",
+        "start": 0.64,
+        "confidence": 0.9855
+      }
+    ]
+  },
+  {
+    "wordId": "word_eiffel_tower",
+    "text": "Eiffel Tower",
+    "audioSha1": "b02eb6e3c9b7d6b2adb30fccff23912b8e6b61a1",
+    "duration": 1.751375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "z",
+        "start": 0.12,
+        "confidence": 0.9659
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.2,
+        "confidence": 0.7684
+      },
+      {
+        "symbol": "f",
+        "start": 0.44,
+        "confidence": 0.985
+      },
+      {
+        "symbol": "ə",
+        "start": 0.5,
+        "confidence": 0.2276
+      },
+      {
+        "symbol": "l",
+        "start": 0.58,
+        "confidence": 0.9444
+      },
+      {
+        "symbol": "t",
+        "start": 0.68,
+        "confidence": 0.9724
+      },
+      {
+        "symbol": "aʊ",
+        "start": 0.8,
+        "confidence": 0.7674
+      },
+      {
+        "symbol": "ə",
+        "start": 1.08,
+        "confidence": 0.7288
+      },
+      {
+        "symbol": "r",
+        "start": 1.26,
+        "confidence": 0.5455
+      },
+      {
+        "symbol": "ə",
+        "start": 1.32,
+        "confidence": 0.4003
+      }
+    ]
+  },
+  {
+    "wordId": "word_terracotta_warriors",
+    "text": "Terracotta Warriors",
+    "audioSha1": "cbf9deb214ef2a66711fa87b5c4bb5dacde0a8d8",
+    "duration": 2.0826875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɪ",
+        "start": 0.06,
+        "confidence": 0.4243
+      },
+      {
+        "symbol": "t",
+        "start": 0.14,
+        "confidence": 0.9443
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.24,
+        "confidence": 0.9167
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.38,
+        "confidence": 0.9777
+      },
+      {
+        "symbol": "ə",
+        "start": 0.42,
+        "confidence": 0.4648
+      },
+      {
+        "symbol": "k",
+        "start": 0.56,
+        "confidence": 0.9852
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.64,
+        "confidence": 0.5721
+      },
+      {
+        "symbol": "t",
+        "start": 0.76,
+        "confidence": 0.4494
+      },
+      {
+        "symbol": "ə",
+        "start": 0.8,
+        "confidence": 0.5929
+      },
+      {
+        "symbol": "w",
+        "start": 0.96,
+        "confidence": 0.9654
+      },
+      {
+        "symbol": "ɔː",
+        "start": 1.04,
+        "confidence": 0.2054
+      },
+      {
+        "symbol": "ɹ",
+        "start": 1.2,
+        "confidence": 0.9806
+      },
+      {
+        "symbol": "i",
+        "start": 1.26,
+        "confidence": 0.6387
+      },
+      {
+        "symbol": "ɚ",
+        "start": 1.36,
+        "confidence": 0.6214
+      },
+      {
+        "symbol": "z",
+        "start": 1.56,
+        "confidence": 0.9474
+      }
+    ]
+  },
+  {
+    "wordId": "word_jinggangshan_revolution_museum",
+    "text": "Jinggangshan Revolution Museum",
+    "audioSha1": "a1d4aa1907a11e571ef1cc3cd4bf693dd933c4ab",
+    "duration": 2.786,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.04,
+        "confidence": 0.7285
+      },
+      {
+        "symbol": "dʒ",
+        "start": 0.14,
+        "confidence": 0.9453
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.22,
+        "confidence": 0.9265
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.32,
+        "confidence": 0.8686
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.38,
+        "confidence": 0.9749
+      },
+      {
+        "symbol": "æ",
+        "start": 0.44,
+        "confidence": 0.7904
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.56,
+        "confidence": 0.9587
+      },
+      {
+        "symbol": "ʃ",
+        "start": 0.66,
+        "confidence": 0.9759
+      },
+      {
+        "symbol": "æ",
+        "start": 0.76,
+        "confidence": 0.8183
+      },
+      {
+        "symbol": "n",
+        "start": 0.94,
+        "confidence": 0.9976
+      },
+      {
+        "symbol": "ɹ",
+        "start": 1.1,
+        "confidence": 0.9855
+      },
+      {
+        "symbol": "ɛ",
+        "start": 1.14,
+        "confidence": 0.9774
+      },
+      {
+        "symbol": "v",
+        "start": 1.24,
+        "confidence": 0.9956
+      },
+      {
+        "symbol": "ə",
+        "start": 1.28,
+        "confidence": 0.7381
+      },
+      {
+        "symbol": "l",
+        "start": 1.38,
+        "confidence": 0.8604
+      },
+      {
+        "symbol": "uː",
+        "start": 1.44,
+        "confidence": 0.9333
+      },
+      {
+        "symbol": "ʃ",
+        "start": 1.58,
+        "confidence": 0.9597
+      },
+      {
+        "symbol": "ə",
+        "start": 1.68,
+        "confidence": 0.9819
+      },
+      {
+        "symbol": "n",
+        "start": 1.76,
+        "confidence": 0.9937
+      },
+      {
+        "symbol": "m",
+        "start": 1.86,
+        "confidence": 0.989
+      },
+      {
+        "symbol": "j",
+        "start": 1.88,
+        "confidence": 0.8615
+      },
+      {
+        "symbol": "uː",
+        "start": 1.9,
+        "confidence": 0.6361
+      },
+      {
+        "symbol": "z",
+        "start": 2.04,
+        "confidence": 0.9867
+      },
+      {
+        "symbol": "ɪ",
+        "start": 2.12,
+        "confidence": 0.428
+      },
+      {
+        "symbol": "ə",
+        "start": 2.26,
+        "confidence": 0.8054
+      },
+      {
+        "symbol": "m",
+        "start": 2.4,
+        "confidence": 0.9961
+      }
+    ]
+  },
+  {
+    "wordId": "word_the_red_army",
+    "text": "the Red Army",
+    "audioSha1": "b71b5f532a3fe7c9ed8febdf822df5f15efe60f1",
+    "duration": 1.6346875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɪ",
+        "start": 0.04,
+        "confidence": 0.8736
+      },
+      {
+        "symbol": "z",
+        "start": 0.1,
+        "confidence": 0.9264
+      },
+      {
+        "symbol": "ð",
+        "start": 0.16,
+        "confidence": 0.9922
+      },
+      {
+        "symbol": "ə",
+        "start": 0.18,
+        "confidence": 0.962
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.32,
+        "confidence": 0.9814
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.38,
+        "confidence": 0.9376
+      },
+      {
+        "symbol": "d",
+        "start": 0.52,
+        "confidence": 0.9947
+      },
+      {
+        "symbol": "ɑːɹ",
+        "start": 0.66,
+        "confidence": 0.5857
+      },
+      {
+        "symbol": "m",
+        "start": 0.9,
+        "confidence": 0.9973
+      },
+      {
+        "symbol": "i",
+        "start": 0.96,
+        "confidence": 0.954
+      },
+      {
+        "symbol": "h",
+        "start": 1.14,
+        "confidence": 0.973
+      },
+      {
+        "symbol": "iː",
+        "start": 1.22,
+        "confidence": 0.509
+      }
+    ]
+  },
+  {
+    "wordId": "word_dress",
+    "text": "dress",
+    "audioSha1": "2f0d9f7f26aa312f1902b28f2c8e9e7dae52b4dc",
+    "duration": 1.216,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "eɪ",
+        "start": 0.1,
+        "confidence": 0.2354
+      },
+      {
+        "symbol": "dʒ",
+        "start": 0.2,
+        "confidence": 0.6942
+      },
+      {
+        "symbol": "ə",
+        "start": 0.24,
+        "confidence": 0.1706
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.3,
+        "confidence": 0.961
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.36,
+        "confidence": 0.7782
+      },
+      {
+        "symbol": "s",
+        "start": 0.56,
+        "confidence": 0.9834
+      }
+    ]
+  },
+  {
+    "wordId": "word_paste",
+    "text": "paste",
+    "audioSha1": "0a5cb9607c58fbf6a5309e3da346ded121584828",
+    "duration": 1.1946875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "æ",
+        "start": 0.06,
+        "confidence": 0.4207
+      },
+      {
+        "symbol": "n",
+        "start": 0.1,
+        "confidence": 0.9694
+      },
+      {
+        "symbol": "d",
+        "start": 0.12,
+        "confidence": 0.5031
+      },
+      {
+        "symbol": "p",
+        "start": 0.16,
+        "confidence": 0.9847
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.26,
+        "confidence": 0.8906
+      },
+      {
+        "symbol": "s",
+        "start": 0.56,
+        "confidence": 0.9867
+      },
+      {
+        "symbol": "t",
+        "start": 0.68,
+        "confidence": 0.9659
+      }
+    ]
+  },
+  {
+    "wordId": "word_gala",
+    "text": "gala",
+    "audioSha1": "52512a960bb14eedcecfa0653b21488cd1fbd201",
+    "duration": 1.216,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "l",
+        "start": 0.08,
+        "confidence": 0.5794
+      },
+      {
+        "symbol": "ɨ",
+        "start": 0.12,
+        "confidence": 0.3192
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.2,
+        "confidence": 0.9863
+      },
+      {
+        "symbol": "ɑː",
+        "start": 0.28,
+        "confidence": 0.502
+      },
+      {
+        "symbol": "l",
+        "start": 0.54,
+        "confidence": 0.9902
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.58,
+        "confidence": 0.5438
+      },
+      {
+        "symbol": "θ",
+        "start": 0.74,
+        "confidence": 0.5067
+      }
+    ]
+  },
+  {
+    "wordId": "word_count_down",
+    "text": "count down",
+    "audioSha1": "19f47cddc3494edebcdeea427f966e4488505b9d",
+    "duration": 1.5506875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.06,
+        "confidence": 0.3718
+      },
+      {
+        "symbol": "k",
+        "start": 0.14,
+        "confidence": 0.988
+      },
+      {
+        "symbol": "aʊ",
+        "start": 0.24,
+        "confidence": 0.8435
+      },
+      {
+        "symbol": "n",
+        "start": 0.38,
+        "confidence": 0.9061
+      },
+      {
+        "symbol": "t",
+        "start": 0.46,
+        "confidence": 0.9664
+      },
+      {
+        "symbol": "d",
+        "start": 0.58,
+        "confidence": 0.9909
+      },
+      {
+        "symbol": "aʊ",
+        "start": 0.64,
+        "confidence": 0.73
+      },
+      {
+        "symbol": "n",
+        "start": 0.96,
+        "confidence": 0.9975
+      },
+      {
+        "symbol": "ð",
+        "start": 1.08,
+        "confidence": 0.9623
+      },
+      {
+        "symbol": "ə",
+        "start": 1.12,
+        "confidence": 0.8748
+      }
+    ]
+  },
+  {
+    "wordId": "word_marathon",
+    "text": "marathon",
+    "audioSha1": "f349433415b58386c00a597cd16b54b900127fe7",
+    "duration": 1.6,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "iː",
+        "start": 0.1,
+        "confidence": 0.7192
+      },
+      {
+        "symbol": "m",
+        "start": 0.22,
+        "confidence": 0.9956
+      },
+      {
+        "symbol": "æ",
+        "start": 0.28,
+        "confidence": 0.6676
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.42,
+        "confidence": 0.9083
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.46,
+        "confidence": 0.4604
+      },
+      {
+        "symbol": "θ",
+        "start": 0.58,
+        "confidence": 0.9571
+      },
+      {
+        "symbol": "ə",
+        "start": 0.66,
+        "confidence": 0.7438
+      },
+      {
+        "symbol": "n",
+        "start": 0.8,
+        "confidence": 0.9945
+      },
+      {
+        "symbol": "z",
+        "start": 0.92,
+        "confidence": 0.6737
+      }
+    ]
+  },
+  {
+    "wordId": "word_as",
+    "text": "as",
+    "audioSha1": "82152f828dd9abd075a294aec5afea0cf2a86bb4",
+    "duration": 0.925375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "a",
+        "start": 0.08,
+        "confidence": 0.2609
+      },
+      {
+        "symbol": "l",
+        "start": 0.16,
+        "confidence": 0.7085
+      },
+      {
+        "symbol": "a",
+        "start": 0.2,
+        "confidence": 0.848
+      },
+      {
+        "symbol": "z",
+        "start": 0.36,
+        "confidence": 0.8808
+      }
+    ]
+  },
+  {
+    "wordId": "word_race",
+    "text": "race",
+    "audioSha1": "dd65f4e13e1ce37f6d6d470b1fccd36827d1d892",
+    "duration": 1.554,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɹ",
+        "start": 0.2,
+        "confidence": 0.9727
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.28,
+        "confidence": 0.9056
+      },
+      {
+        "symbol": "s",
+        "start": 0.58,
+        "confidence": 0.9795
+      }
+    ]
+  },
+  {
+    "wordId": "word_run",
+    "text": "run",
+    "audioSha1": "ad84ac883a3ded89b4c591e2433469fc19ec815a",
+    "duration": 1.173375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "v",
+        "start": 0.08,
+        "confidence": 0.6597
+      },
+      {
+        "symbol": "iː",
+        "start": 0.12,
+        "confidence": 0.5671
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.22,
+        "confidence": 0.833
+      },
+      {
+        "symbol": "a",
+        "start": 0.3,
+        "confidence": 0.3718
+      },
+      {
+        "symbol": "n",
+        "start": 0.48,
+        "confidence": 0.9898
+      },
+      {
+        "symbol": "z",
+        "start": 0.6,
+        "confidence": 0.7673
+      }
+    ]
+  },
+  {
+    "wordId": "word_cheer",
+    "text": "cheer",
+    "audioSha1": "bf9a1134eb9e2a4bc19654f0d6489d651c0626cd",
+    "duration": 0.986,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.06,
+        "confidence": 0.8523
+      },
+      {
+        "symbol": "a",
+        "start": 0.1,
+        "confidence": 0.5394
+      },
+      {
+        "symbol": "tʃ",
+        "start": 0.24,
+        "confidence": 0.4907
+      },
+      {
+        "symbol": "i",
+        "start": 0.34,
+        "confidence": 0.4378
+      }
+    ]
+  },
+  {
+    "wordId": "word_book_fair",
+    "text": "book fair",
+    "audioSha1": "a44f21319ed514246b83996fc4a1a02977bb0951",
+    "duration": 1.209375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɪ",
+        "start": 0.06,
+        "confidence": 0.244
+      },
+      {
+        "symbol": "b",
+        "start": 0.16,
+        "confidence": 0.9781
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.2,
+        "confidence": 0.3348
+      },
+      {
+        "symbol": "k",
+        "start": 0.32,
+        "confidence": 0.9641
+      },
+      {
+        "symbol": "s",
+        "start": 0.44,
+        "confidence": 0.9742
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.54,
+        "confidence": 0.754
+      }
+    ]
+  },
+  {
+    "wordId": "word_read",
+    "text": "read",
+    "audioSha1": "7129013c0e69f68c033d462003152789f356980a",
+    "duration": 1.447375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "m",
+        "start": 0.12,
+        "confidence": 0.5863
+      },
+      {
+        "symbol": "v",
+        "start": 0.22,
+        "confidence": 0.3799
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.24,
+        "confidence": 0.7717
+      },
+      {
+        "symbol": "iː",
+        "start": 0.3,
+        "confidence": 0.4104
+      },
+      {
+        "symbol": "d",
+        "start": 0.62,
+        "confidence": 0.993
+      }
+    ]
+  },
+  {
+    "wordId": "word_writer",
+    "text": "writer",
+    "audioSha1": "5f830c9aeb5585be6f8822ec5ca05d529deaaa48",
+    "duration": 1.112625,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɹ",
+        "start": 0.2,
+        "confidence": 0.9683
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.28,
+        "confidence": 0.8773
+      },
+      {
+        "symbol": "ɾ",
+        "start": 0.52,
+        "confidence": 0.5296
+      },
+      {
+        "symbol": "ɚ",
+        "start": 0.62,
+        "confidence": 0.7198
+      }
+    ]
+  },
+  {
+    "wordId": "word_make",
+    "text": "make",
+    "audioSha1": "e1a8eb299f9e8b0e3864e2855a52715d64b5efbd",
+    "duration": 1.173375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ð",
+        "start": 0.1,
+        "confidence": 0.4525
+      },
+      {
+        "symbol": "ə",
+        "start": 0.14,
+        "confidence": 0.7523
+      },
+      {
+        "symbol": "m",
+        "start": 0.24,
+        "confidence": 0.9949
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.3,
+        "confidence": 0.5319
+      },
+      {
+        "symbol": "k",
+        "start": 0.6,
+        "confidence": 0.9354
+      }
+    ]
+  },
+  {
+    "wordId": "word_sing",
+    "text": "sing",
+    "audioSha1": "9f62c80051fb1eff6da3cfddd4a10a2c12ee646f",
+    "duration": 0.909375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "a",
+        "start": 0.1,
+        "confidence": 0.5469
+      },
+      {
+        "symbol": "s",
+        "start": 0.2,
+        "confidence": 0.9827
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.3,
+        "confidence": 0.8749
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.48,
+        "confidence": 0.9217
+      }
+    ]
+  },
+  {
+    "wordId": "word_wear",
+    "text": "wear",
+    "audioSha1": "5c8faee62f9268138df4fe7292c1cd8fefa59cce",
+    "duration": 1.152,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "w",
+        "start": 0.2,
+        "confidence": 0.8551
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.28,
+        "confidence": 0.8334
+      },
+      {
+        "symbol": "ð",
+        "start": 0.64,
+        "confidence": 0.5984
+      }
+    ]
+  },
+  {
+    "wordId": "word_yesterday",
+    "text": "yesterday",
+    "audioSha1": "7c96fe0eba1a85ec4c5f138776914017ec7120fa",
+    "duration": 1.414,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "j",
+        "start": 0.18,
+        "confidence": 0.7698
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.26,
+        "confidence": 0.8707
+      },
+      {
+        "symbol": "s",
+        "start": 0.4,
+        "confidence": 0.9964
+      },
+      {
+        "symbol": "t",
+        "start": 0.52,
+        "confidence": 0.993
+      },
+      {
+        "symbol": "ɚ",
+        "start": 0.56,
+        "confidence": 0.7837
+      },
+      {
+        "symbol": "d",
+        "start": 0.66,
+        "confidence": 0.9928
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.72,
+        "confidence": 0.9043
+      }
+    ]
+  },
+  {
+    "wordId": "word_notice",
+    "text": "notice",
+    "audioSha1": "399cefe0cf0c4c19fe666a72ea7b28231e409d0b",
+    "duration": 1.5786875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "n",
+        "start": 0.24,
+        "confidence": 0.987
+      },
+      {
+        "symbol": "aʊ",
+        "start": 0.3,
+        "confidence": 0.3408
+      },
+      {
+        "symbol": "t",
+        "start": 0.5,
+        "confidence": 0.7095
+      },
+      {
+        "symbol": "eː",
+        "start": 0.58,
+        "confidence": 0.403
+      },
+      {
+        "symbol": "s",
+        "start": 0.78,
+        "confidence": 0.9777
+      },
+      {
+        "symbol": "ə",
+        "start": 0.84,
+        "confidence": 0.3497
+      },
+      {
+        "symbol": "d",
+        "start": 0.92,
+        "confidence": 0.2314
+      }
+    ]
+  },
+  {
+    "wordId": "word_wake",
+    "text": "wake",
+    "audioSha1": "823bb2df97ecf150213e8ac81e6a6091373c1d8a",
+    "duration": 0.96,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ð",
+        "start": 0.08,
+        "confidence": 0.8438
+      },
+      {
+        "symbol": "ə",
+        "start": 0.12,
+        "confidence": 0.5845
+      },
+      {
+        "symbol": "w",
+        "start": 0.2,
+        "confidence": 0.6716
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.26,
+        "confidence": 0.1668
+      },
+      {
+        "symbol": "k",
+        "start": 0.54,
+        "confidence": 0.8582
+      }
+    ]
+  },
+  {
+    "wordId": "word_later",
+    "text": "later",
+    "audioSha1": "5fc626307be95231581db38ef66288064985bfd2",
+    "duration": 1.154,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.12,
+        "confidence": 0.4476
+      },
+      {
+        "symbol": "l",
+        "start": 0.26,
+        "confidence": 0.9918
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.32,
+        "confidence": 0.8391
+      },
+      {
+        "symbol": "ɾ",
+        "start": 0.54,
+        "confidence": 0.5528
+      },
+      {
+        "symbol": "ɚ",
+        "start": 0.64,
+        "confidence": 0.7706
+      }
+    ]
+  },
+  {
+    "wordId": "word_judge",
+    "text": "judge",
+    "audioSha1": "145c2685a02fdcef40453f91ee8140cdfad037bb",
+    "duration": 1.173375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɛ",
+        "start": 0.1,
+        "confidence": 0.3358
+      },
+      {
+        "symbol": "d",
+        "start": 0.22,
+        "confidence": 0.5823
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.34,
+        "confidence": 0.2571
+      },
+      {
+        "symbol": "d",
+        "start": 0.58,
+        "confidence": 0.7039
+      }
+    ]
+  },
+  {
+    "wordId": "word_win",
+    "text": "win",
+    "audioSha1": "1272bbf016b5a6170dda6136ab80149efe1097bd",
+    "duration": 1.045375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "w",
+        "start": 0.08,
+        "confidence": 0.364
+      },
+      {
+        "symbol": "iː",
+        "start": 0.1,
+        "confidence": 0.276
+      },
+      {
+        "symbol": "w",
+        "start": 0.2,
+        "confidence": 0.6858
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.26,
+        "confidence": 0.8774
+      },
+      {
+        "symbol": "n",
+        "start": 0.44,
+        "confidence": 0.9911
+      },
+      {
+        "symbol": "z",
+        "start": 0.56,
+        "confidence": 0.7692
+      }
+    ]
+  },
+  {
+    "wordId": "word_begin",
+    "text": "begin",
+    "audioSha1": "fd7ca87da71b9a443cac54239f32b17ccd3641ee",
+    "duration": 1.301375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ʌ",
+        "start": 0.1,
+        "confidence": 0.3279
+      },
+      {
+        "symbol": "b",
+        "start": 0.18,
+        "confidence": 0.9697
+      },
+      {
+        "symbol": "ɨ",
+        "start": 0.22,
+        "confidence": 0.1692
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.34,
+        "confidence": 0.9783
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.42,
+        "confidence": 0.2442
+      },
+      {
+        "symbol": "n",
+        "start": 0.6,
+        "confidence": 0.9912
+      }
+    ]
+  },
+  {
+    "wordId": "word_winner",
+    "text": "winner",
+    "audioSha1": "9ea4d49805d4f9bb05d2bab7da3224c647e35656",
+    "duration": 1.088,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "l",
+        "start": 0.1,
+        "confidence": 0.572
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.28,
+        "confidence": 0.2761
+      },
+      {
+        "symbol": "n",
+        "start": 0.38,
+        "confidence": 0.5083
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.44,
+        "confidence": 0.5037
+      },
+      {
+        "symbol": "ð",
+        "start": 0.6,
+        "confidence": 0.5691
+      }
+    ]
+  },
+  {
+    "wordId": "word_ever",
+    "text": "ever",
+    "audioSha1": "78ee3843265cbd64b62cce36881b9da91ff0d512",
+    "duration": 0.981375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "l",
+        "start": 0.18,
+        "confidence": 0.625
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.24,
+        "confidence": 0.4257
+      },
+      {
+        "symbol": "v",
+        "start": 0.38,
+        "confidence": 0.9927
+      },
+      {
+        "symbol": "ə",
+        "start": 0.44,
+        "confidence": 0.6001
+      }
+    ]
+  },
+  {
+    "wordId": "word_exciting",
+    "text": "exciting",
+    "audioSha1": "668b9e061876ed7e53007ba1c3fe209a5a4981ba",
+    "duration": 1.455375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɪ",
+        "start": 0.04,
+        "confidence": 0.8968
+      },
+      {
+        "symbol": "v",
+        "start": 0.1,
+        "confidence": 0.8984
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.14,
+        "confidence": 0.9195
+      },
+      {
+        "symbol": "k",
+        "start": 0.22,
+        "confidence": 0.9761
+      },
+      {
+        "symbol": "s",
+        "start": 0.3,
+        "confidence": 0.9943
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.46,
+        "confidence": 0.9045
+      },
+      {
+        "symbol": "ɾ",
+        "start": 0.66,
+        "confidence": 0.9273
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.76,
+        "confidence": 0.8899
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.9,
+        "confidence": 0.7353
+      }
+    ]
+  },
+  {
+    "wordId": "word_cold",
+    "text": "cold",
+    "audioSha1": "abad4019840072a6a02cb42e16c7bfe4d0fc6bfc",
+    "duration": 1.2586875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "eː",
+        "start": 0.08,
+        "confidence": 0.2607
+      },
+      {
+        "symbol": "k",
+        "start": 0.18,
+        "confidence": 0.9813
+      },
+      {
+        "symbol": "a",
+        "start": 0.28,
+        "confidence": 0.4585
+      },
+      {
+        "symbol": "ʊ",
+        "start": 0.44,
+        "confidence": 0.2759
+      },
+      {
+        "symbol": "l",
+        "start": 0.6,
+        "confidence": 0.6551
+      },
+      {
+        "symbol": "d",
+        "start": 0.72,
+        "confidence": 0.982
+      }
+    ]
+  },
+  {
+    "wordId": "word_ill",
+    "text": "ill",
+    "audioSha1": "b539bde57f5c752acbb2fd320f86a6ef41124790",
+    "duration": 0.8746875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɛ",
+        "start": 0.08,
+        "confidence": 0.3435
+      },
+      {
+        "symbol": "z",
+        "start": 0.16,
+        "confidence": 0.317
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.22,
+        "confidence": 0.6172
+      },
+      {
+        "symbol": "l",
+        "start": 0.42,
+        "confidence": 0.9093
+      }
+    ]
+  },
+  {
+    "wordId": "word_head",
+    "text": "head",
+    "audioSha1": "3b69b70b20298b80405fbe8abade235ea454dd64",
+    "duration": 0.9386875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "æ",
+        "start": 0.06,
+        "confidence": 0.526
+      },
+      {
+        "symbol": "n",
+        "start": 0.1,
+        "confidence": 0.972
+      },
+      {
+        "symbol": "d",
+        "start": 0.12,
+        "confidence": 0.6646
+      },
+      {
+        "symbol": "h",
+        "start": 0.18,
+        "confidence": 0.9753
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.26,
+        "confidence": 0.9585
+      },
+      {
+        "symbol": "d",
+        "start": 0.5,
+        "confidence": 0.9912
+      }
+    ]
+  },
+  {
+    "wordId": "word_runny_nose",
+    "text": "runny nose",
+    "audioSha1": "80ff02d72848dceef4405d226c9c302375b24a5a",
+    "duration": 1.613375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "r",
+        "start": 0.2,
+        "confidence": 0.4003
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.26,
+        "confidence": 0.6293
+      },
+      {
+        "symbol": "n",
+        "start": 0.38,
+        "confidence": 0.9942
+      },
+      {
+        "symbol": "iː",
+        "start": 0.42,
+        "confidence": 0.2603
+      },
+      {
+        "symbol": "n",
+        "start": 0.62,
+        "confidence": 0.997
+      },
+      {
+        "symbol": "aʊ",
+        "start": 0.68,
+        "confidence": 0.5132
+      },
+      {
+        "symbol": "s",
+        "start": 1.08,
+        "confidence": 0.7735
+      },
+      {
+        "symbol": "ə",
+        "start": 1.2,
+        "confidence": 0.3052
+      }
+    ]
+  },
+  {
+    "wordId": "word_soon",
+    "text": "soon",
+    "audioSha1": "665ba57101eadc62caec8deb544c9c7ab913794f",
+    "duration": 0.983375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "a",
+        "start": 0.1,
+        "confidence": 0.6982
+      },
+      {
+        "symbol": "s",
+        "start": 0.2,
+        "confidence": 0.9773
+      },
+      {
+        "symbol": "ø",
+        "start": 0.3,
+        "confidence": 0.3443
+      },
+      {
+        "symbol": "n",
+        "start": 0.56,
+        "confidence": 0.9935
+      }
+    ]
+  },
+  {
+    "wordId": "word_fever",
+    "text": "fever",
+    "audioSha1": "105c711c200c7e89f48e71ab10273217550345ce",
+    "duration": 1.0273125,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɛ",
+        "start": 0.1,
+        "confidence": 0.7142
+      },
+      {
+        "symbol": "θ",
+        "start": 0.22,
+        "confidence": 0.5058
+      },
+      {
+        "symbol": "iː",
+        "start": 0.32,
+        "confidence": 0.8455
+      },
+      {
+        "symbol": "v",
+        "start": 0.52,
+        "confidence": 0.9899
+      },
+      {
+        "symbol": "ə",
+        "start": 0.58,
+        "confidence": 0.7051
+      }
+    ]
+  },
+  {
+    "wordId": "word_cough",
+    "text": "cough",
+    "audioSha1": "2d0a98d4d68f9ee6d1d33f30b23d137f86857b07",
+    "duration": 0.96,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "eː",
+        "start": 0.1,
+        "confidence": 0.2607
+      },
+      {
+        "symbol": "k",
+        "start": 0.2,
+        "confidence": 0.9635
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.3,
+        "confidence": 0.6726
+      },
+      {
+        "symbol": "θ",
+        "start": 0.52,
+        "confidence": 0.49
+      }
+    ]
+  },
+  {
+    "wordId": "word_discuss",
+    "text": "discuss",
+    "audioSha1": "bf661f3646d01acc0183e94a29a897be6210ca95",
+    "duration": 1.3866875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "aɪ",
+        "start": 0.08,
+        "confidence": 0.476
+      },
+      {
+        "symbol": "d",
+        "start": 0.18,
+        "confidence": 0.984
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.22,
+        "confidence": 0.7417
+      },
+      {
+        "symbol": "s",
+        "start": 0.32,
+        "confidence": 0.9872
+      },
+      {
+        "symbol": "k",
+        "start": 0.46,
+        "confidence": 0.8584
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.52,
+        "confidence": 0.3919
+      },
+      {
+        "symbol": "s",
+        "start": 0.78,
+        "confidence": 0.9812
+      }
+    ]
+  },
+  {
+    "wordId": "word_diet",
+    "text": "diet",
+    "audioSha1": "b550adf8df471ac8da1d62aecea0a9f39e4dcd43",
+    "duration": 1.301375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.18,
+        "confidence": 0.9894
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.26,
+        "confidence": 0.8599
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.52,
+        "confidence": 0.3106
+      },
+      {
+        "symbol": "t",
+        "start": 0.7,
+        "confidence": 0.9356
+      }
+    ]
+  },
+  {
+    "wordId": "word_stay_up",
+    "text": "stay up",
+    "audioSha1": "ed9c8f9a20614741a2283f6a5c6e0e4062b1600f",
+    "duration": 1.175375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "n",
+        "start": 0.1,
+        "confidence": 0.276
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.14,
+        "confidence": 0.3826
+      },
+      {
+        "symbol": "s",
+        "start": 0.22,
+        "confidence": 0.9893
+      },
+      {
+        "symbol": "t",
+        "start": 0.3,
+        "confidence": 0.9726
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.36,
+        "confidence": 0.6877
+      },
+      {
+        "symbol": "a",
+        "start": 0.58,
+        "confidence": 0.3708
+      },
+      {
+        "symbol": "p",
+        "start": 0.8,
+        "confidence": 0.8954
+      }
+    ]
+  },
+  {
+    "wordId": "word_cry",
+    "text": "cry",
+    "audioSha1": "18bbfb15c6d3ed2d928d868667f4dd46d4ded95c",
+    "duration": 1.0686875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.1,
+        "confidence": 0.5949
+      },
+      {
+        "symbol": "k",
+        "start": 0.2,
+        "confidence": 0.9856
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.28,
+        "confidence": 0.9714
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.36,
+        "confidence": 0.6968
+      }
+    ]
+  },
+  {
+    "wordId": "word_another",
+    "text": "another",
+    "audioSha1": "6a95c2cd2d95a7abfab7b69eac693be19fe54fdf",
+    "duration": 1.2586875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ʌ",
+        "start": 0.08,
+        "confidence": 0.33
+      },
+      {
+        "symbol": "v",
+        "start": 0.16,
+        "confidence": 0.8612
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.18,
+        "confidence": 0.401
+      },
+      {
+        "symbol": "n",
+        "start": 0.34,
+        "confidence": 0.9913
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.38,
+        "confidence": 0.6595
+      },
+      {
+        "symbol": "ð",
+        "start": 0.5,
+        "confidence": 0.9741
+      },
+      {
+        "symbol": "ø",
+        "start": 0.56,
+        "confidence": 0.1737
+      }
+    ]
+  },
+  {
+    "wordId": "word_call",
+    "text": "call",
+    "audioSha1": "935bc66ee9154a6f9863a086c63f9cf1aee10391",
+    "duration": 0.982,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɛ",
+        "start": 0.08,
+        "confidence": 0.8664
+      },
+      {
+        "symbol": "k",
+        "start": 0.18,
+        "confidence": 0.9783
+      },
+      {
+        "symbol": "oː",
+        "start": 0.28,
+        "confidence": 0.4951
+      },
+      {
+        "symbol": "l",
+        "start": 0.56,
+        "confidence": 0.8191
+      }
+    ]
+  },
+  {
+    "wordId": "word_email",
+    "text": "email",
+    "audioSha1": "67a2f271b805302cd7d66c4c193adfe29220c7e2",
+    "duration": 1.28,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.06,
+        "confidence": 0.929
+      },
+      {
+        "symbol": "iː",
+        "start": 0.08,
+        "confidence": 0.2336
+      },
+      {
+        "symbol": "ð",
+        "start": 0.16,
+        "confidence": 0.2415
+      },
+      {
+        "symbol": "iː",
+        "start": 0.22,
+        "confidence": 0.8503
+      },
+      {
+        "symbol": "m",
+        "start": 0.4,
+        "confidence": 0.9954
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.46,
+        "confidence": 0.7089
+      },
+      {
+        "symbol": "l",
+        "start": 0.7,
+        "confidence": 0.8765
+      },
+      {
+        "symbol": "z",
+        "start": 0.8,
+        "confidence": 0.7079
+      }
+    ]
+  },
+  {
+    "wordId": "word_unhappy",
+    "text": "unhappy",
+    "audioSha1": "f7edec3b9d7077a0b4b9f8b61eb9f5c861d842d4",
+    "duration": 1.472,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ʌ",
+        "start": 0.08,
+        "confidence": 0.3889
+      },
+      {
+        "symbol": "r",
+        "start": 0.14,
+        "confidence": 0.8678
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.18,
+        "confidence": 0.5696
+      },
+      {
+        "symbol": "n",
+        "start": 0.26,
+        "confidence": 0.985
+      },
+      {
+        "symbol": "h",
+        "start": 0.38,
+        "confidence": 0.9839
+      },
+      {
+        "symbol": "a",
+        "start": 0.44,
+        "confidence": 0.66
+      },
+      {
+        "symbol": "p",
+        "start": 0.62,
+        "confidence": 0.9368
+      },
+      {
+        "symbol": "ɨ",
+        "start": 0.68,
+        "confidence": 0.2893
+      }
+    ]
+  },
+  {
+    "wordId": "word_glass",
+    "text": "glass",
+    "audioSha1": "2c2bb8beef15ff6641c41d8f6e640312ecbc5d54",
+    "duration": 1.013375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "eː",
+        "start": 0.1,
+        "confidence": 0.1655
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.2,
+        "confidence": 0.9529
+      },
+      {
+        "symbol": "l",
+        "start": 0.26,
+        "confidence": 0.9003
+      },
+      {
+        "symbol": "a",
+        "start": 0.3,
+        "confidence": 0.6876
+      },
+      {
+        "symbol": "n",
+        "start": 0.34,
+        "confidence": 0.4211
+      },
+      {
+        "symbol": "a",
+        "start": 0.4,
+        "confidence": 0.3138
+      },
+      {
+        "symbol": "s",
+        "start": 0.62,
+        "confidence": 0.9614
+      }
+    ]
+  },
+  {
+    "wordId": "word_may",
+    "text": "may",
+    "audioSha1": "557c05841cd56aa8075eb627e80b5a62e4a0a1a1",
+    "duration": 1.109375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "z",
+        "start": 0.1,
+        "confidence": 0.7494
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.14,
+        "confidence": 0.4293
+      },
+      {
+        "symbol": "m",
+        "start": 0.24,
+        "confidence": 0.9762
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.3,
+        "confidence": 0.2169
+      },
+      {
+        "symbol": "ɬ",
+        "start": 0.6,
+        "confidence": 0.305
+      }
+    ]
+  },
+  {
+    "wordId": "word_add",
+    "text": "add",
+    "audioSha1": "3f2a743613efbe30427d6083645605dc3f27391b",
+    "duration": 0.908,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "l",
+        "start": 0.18,
+        "confidence": 0.9425
+      },
+      {
+        "symbol": "a",
+        "start": 0.22,
+        "confidence": 0.7218
+      },
+      {
+        "symbol": "d",
+        "start": 0.5,
+        "confidence": 0.9872
+      }
+    ]
+  },
+  {
+    "wordId": "word_video",
+    "text": "video",
+    "audioSha1": "49b0e5e41c4a992259772e3b3f55fc5c30bf1543",
+    "duration": 1.216,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "v",
+        "start": 0.2,
+        "confidence": 0.9917
+      },
+      {
+        "symbol": "i",
+        "start": 0.26,
+        "confidence": 0.3813
+      },
+      {
+        "symbol": "d",
+        "start": 0.36,
+        "confidence": 0.9895
+      },
+      {
+        "symbol": "i",
+        "start": 0.42,
+        "confidence": 0.9533
+      },
+      {
+        "symbol": "aʊ",
+        "start": 0.54,
+        "confidence": 0.2351
+      }
+    ]
+  },
+  {
+    "wordId": "word_better",
+    "text": "better",
+    "audioSha1": "01de41f8461706bd5a4139a9c339dba067fa915a",
+    "duration": 1.1306875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "y",
+        "start": 0.1,
+        "confidence": 0.2485
+      },
+      {
+        "symbol": "b",
+        "start": 0.18,
+        "confidence": 0.9761
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.24,
+        "confidence": 0.8901
+      },
+      {
+        "symbol": "t",
+        "start": 0.44,
+        "confidence": 0.9607
+      },
+      {
+        "symbol": "ə",
+        "start": 0.52,
+        "confidence": 0.6419
+      }
+    ]
+  },
+  {
+    "wordId": "word_money",
+    "text": "money",
+    "audioSha1": "bdf09c6c812e975ca0bb80b3def5ff0388919480",
+    "duration": 1.426,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.12,
+        "confidence": 0.2892
+      },
+      {
+        "symbol": "ə",
+        "start": 0.14,
+        "confidence": 0.4187
+      },
+      {
+        "symbol": "m",
+        "start": 0.26,
+        "confidence": 0.9889
+      },
+      {
+        "symbol": "a",
+        "start": 0.3,
+        "confidence": 0.6317
+      },
+      {
+        "symbol": "n",
+        "start": 0.44,
+        "confidence": 0.9909
+      },
+      {
+        "symbol": "əɪ",
+        "start": 0.48,
+        "confidence": 0.1872
+      }
+    ]
+  },
+  {
+    "wordId": "word_pocket_money",
+    "text": "pocket money",
+    "audioSha1": "9cac089e351c096156da6c476454bae642791d64",
+    "duration": 1.592,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "p",
+        "start": 0.14,
+        "confidence": 0.986
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.22,
+        "confidence": 0.3884
+      },
+      {
+        "symbol": "k",
+        "start": 0.36,
+        "confidence": 0.971
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.42,
+        "confidence": 0.8922
+      },
+      {
+        "symbol": "t",
+        "start": 0.52,
+        "confidence": 0.5406
+      },
+      {
+        "symbol": "m",
+        "start": 0.64,
+        "confidence": 0.9985
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.68,
+        "confidence": 0.8199
+      },
+      {
+        "symbol": "n",
+        "start": 0.82,
+        "confidence": 0.9975
+      },
+      {
+        "symbol": "i",
+        "start": 0.88,
+        "confidence": 0.9172
+      }
+    ]
+  },
+  {
+    "wordId": "word_schoolbag",
+    "text": "schoolbag",
+    "audioSha1": "71063c916f5eb40d34a775afa4d6e91815fbdded",
+    "duration": 1.236625,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.08,
+        "confidence": 0.7777
+      },
+      {
+        "symbol": "s",
+        "start": 0.18,
+        "confidence": 0.9933
+      },
+      {
+        "symbol": "k",
+        "start": 0.28,
+        "confidence": 0.9646
+      },
+      {
+        "symbol": "uː",
+        "start": 0.34,
+        "confidence": 0.9231
+      },
+      {
+        "symbol": "l",
+        "start": 0.5,
+        "confidence": 0.9802
+      },
+      {
+        "symbol": "b",
+        "start": 0.58,
+        "confidence": 0.9677
+      },
+      {
+        "symbol": "æ",
+        "start": 0.66,
+        "confidence": 0.8552
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.88,
+        "confidence": 0.9743
+      }
+    ]
+  },
+  {
+    "wordId": "word_goods",
+    "text": "goods",
+    "audioSha1": "736acad7fe58884b743e96174924fc9e37bd79bb",
+    "duration": 1.216,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɡ",
+        "start": 0.06,
+        "confidence": 0.6393
+      },
+      {
+        "symbol": "a",
+        "start": 0.1,
+        "confidence": 0.3344
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.2,
+        "confidence": 0.9855
+      },
+      {
+        "symbol": "ø",
+        "start": 0.26,
+        "confidence": 0.1559
+      },
+      {
+        "symbol": "d",
+        "start": 0.56,
+        "confidence": 0.9783
+      }
+    ]
+  },
+  {
+    "wordId": "word_drink",
+    "text": "drink",
+    "audioSha1": "68bedc5454aee26283a53d8afad78bc1017a8a1e",
+    "duration": 1.301375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.04,
+        "confidence": 0.9804
+      },
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.5226
+      },
+      {
+        "symbol": "d",
+        "start": 0.18,
+        "confidence": 0.847
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.28,
+        "confidence": 0.7155
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.34,
+        "confidence": 0.8758
+      },
+      {
+        "symbol": "ŋ",
+        "start": 0.46,
+        "confidence": 0.7554
+      },
+      {
+        "symbol": "k",
+        "start": 0.6,
+        "confidence": 0.9861
+      },
+      {
+        "symbol": "ə",
+        "start": 0.66,
+        "confidence": 0.4864
+      }
+    ]
+  },
+  {
+    "wordId": "word_service",
+    "text": "service",
+    "audioSha1": "5234fc76dba92e8beed2bef4773003d1de60326e",
+    "duration": 1.4506875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "æ",
+        "start": 0.1,
+        "confidence": 0.8602
+      },
+      {
+        "symbol": "n",
+        "start": 0.16,
+        "confidence": 0.6591
+      },
+      {
+        "symbol": "d",
+        "start": 0.18,
+        "confidence": 0.5954
+      },
+      {
+        "symbol": "s",
+        "start": 0.24,
+        "confidence": 0.9866
+      },
+      {
+        "symbol": "ɜː",
+        "start": 0.34,
+        "confidence": 0.5633
+      },
+      {
+        "symbol": "v",
+        "start": 0.54,
+        "confidence": 0.9844
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.6,
+        "confidence": 0.9043
+      },
+      {
+        "symbol": "s",
+        "start": 0.76,
+        "confidence": 0.9858
+      }
+    ]
+  },
+  {
+    "wordId": "word_haircut",
+    "text": "haircut",
+    "audioSha1": "c527cf8252017f96d37fb257b7016e49ace2bebc",
+    "duration": 1.131375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "n",
+        "start": 0.06,
+        "confidence": 0.395
+      },
+      {
+        "symbol": "iː",
+        "start": 0.1,
+        "confidence": 0.4894
+      },
+      {
+        "symbol": "h",
+        "start": 0.2,
+        "confidence": 0.7193
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.26,
+        "confidence": 0.8051
+      },
+      {
+        "symbol": "d",
+        "start": 0.36,
+        "confidence": 0.4892
+      },
+      {
+        "symbol": "ə",
+        "start": 0.38,
+        "confidence": 0.7357
+      },
+      {
+        "symbol": "k",
+        "start": 0.48,
+        "confidence": 0.9835
+      },
+      {
+        "symbol": "ɑː",
+        "start": 0.56,
+        "confidence": 0.3717
+      },
+      {
+        "symbol": "t",
+        "start": 0.78,
+        "confidence": 0.7886
+      }
+    ]
+  },
+  {
+    "wordId": "word_microscope",
+    "text": "microscope",
+    "audioSha1": "db78fb7a18e62c22ef13febd8c51d3b03724936b",
+    "duration": 1.5393125,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "iː",
+        "start": 0.08,
+        "confidence": 0.2575
+      },
+      {
+        "symbol": "m",
+        "start": 0.2,
+        "confidence": 0.9962
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.28,
+        "confidence": 0.8361
+      },
+      {
+        "symbol": "k",
+        "start": 0.46,
+        "confidence": 0.9762
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.52,
+        "confidence": 0.9876
+      },
+      {
+        "symbol": "ə",
+        "start": 0.56,
+        "confidence": 0.3022
+      },
+      {
+        "symbol": "s",
+        "start": 0.66,
+        "confidence": 0.9898
+      },
+      {
+        "symbol": "k",
+        "start": 0.76,
+        "confidence": 0.8722
+      },
+      {
+        "symbol": "oʊ",
+        "start": 0.84,
+        "confidence": 0.7342
+      },
+      {
+        "symbol": "p",
+        "start": 1.08,
+        "confidence": 0.9792
+      }
+    ]
+  },
+  {
+    "wordId": "word_lucky",
+    "text": "lucky",
+    "audioSha1": "2aef636ce3aa4db09415a5d988f3d3422fdb3a87",
+    "duration": 1.216,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.12,
+        "confidence": 0.4038
+      },
+      {
+        "symbol": "l",
+        "start": 0.26,
+        "confidence": 0.9842
+      },
+      {
+        "symbol": "a",
+        "start": 0.3,
+        "confidence": 0.5682
+      },
+      {
+        "symbol": "k",
+        "start": 0.46,
+        "confidence": 0.9657
+      },
+      {
+        "symbol": "i",
+        "start": 0.54,
+        "confidence": 0.298
+      }
+    ]
+  },
+  {
+    "wordId": "word_save_up",
+    "text": "save up",
+    "audioSha1": "25cb18d9ec1ca6a20d92f556eee8f9c0adb61fc4",
+    "duration": 1.2193125,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "æ",
+        "start": 0.06,
+        "confidence": 0.3775
+      },
+      {
+        "symbol": "n",
+        "start": 0.1,
+        "confidence": 0.9696
+      },
+      {
+        "symbol": "d",
+        "start": 0.12,
+        "confidence": 0.8648
+      },
+      {
+        "symbol": "s",
+        "start": 0.2,
+        "confidence": 0.9885
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.28,
+        "confidence": 0.9106
+      },
+      {
+        "symbol": "v",
+        "start": 0.5,
+        "confidence": 0.9965
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.58,
+        "confidence": 0.6441
+      },
+      {
+        "symbol": "p",
+        "start": 0.8,
+        "confidence": 0.9695
+      }
+    ]
+  },
+  {
+    "wordId": "word_sale",
+    "text": "sale",
+    "audioSha1": "da7e6c613ddd29d97e95c2cb8baf113c14f65291",
+    "duration": 1.0046875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.1,
+        "confidence": 0.3992
+      },
+      {
+        "symbol": "s",
+        "start": 0.2,
+        "confidence": 0.9857
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.3,
+        "confidence": 0.7243
+      },
+      {
+        "symbol": "l",
+        "start": 0.62,
+        "confidence": 0.949
+      }
+    ]
+  },
+  {
+    "wordId": "word_ticket",
+    "text": "ticket",
+    "audioSha1": "8e052071d3c669b0c4b6b9a16476a8134849b231",
+    "duration": 1.082,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɑː",
+        "start": 0.1,
+        "confidence": 0.3804
+      },
+      {
+        "symbol": "l",
+        "start": 0.16,
+        "confidence": 0.6933
+      },
+      {
+        "symbol": "t",
+        "start": 0.22,
+        "confidence": 0.7141
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.28,
+        "confidence": 0.5264
+      },
+      {
+        "symbol": "k",
+        "start": 0.4,
+        "confidence": 0.9666
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.48,
+        "confidence": 0.8789
+      },
+      {
+        "symbol": "t",
+        "start": 0.7,
+        "confidence": 0.8857
+      }
+    ]
+  },
+  {
+    "wordId": "word_manage",
+    "text": "manage",
+    "audioSha1": "33c99e293466a28a19d7ff52dc7baac07687613b",
+    "duration": 1.344,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ð",
+        "start": 0.12,
+        "confidence": 0.7366
+      },
+      {
+        "symbol": "ə",
+        "start": 0.14,
+        "confidence": 0.7875
+      },
+      {
+        "symbol": "m",
+        "start": 0.24,
+        "confidence": 0.9975
+      },
+      {
+        "symbol": "æ",
+        "start": 0.3,
+        "confidence": 0.9331
+      },
+      {
+        "symbol": "n",
+        "start": 0.46,
+        "confidence": 0.9951
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.52,
+        "confidence": 0.8389
+      },
+      {
+        "symbol": "dʒ",
+        "start": 0.7,
+        "confidence": 0.9178
+      }
+    ]
+  },
+  {
+    "wordId": "word_difficult",
+    "text": "difficult",
+    "audioSha1": "e224af6e7635fdfc64a05acb794298921fa3495d",
+    "duration": 1.316,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.18,
+        "confidence": 0.9903
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.24,
+        "confidence": 0.9623
+      },
+      {
+        "symbol": "f",
+        "start": 0.34,
+        "confidence": 0.9339
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.4,
+        "confidence": 0.8059
+      },
+      {
+        "symbol": "k",
+        "start": 0.5,
+        "confidence": 0.99
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.58,
+        "confidence": 0.2428
+      },
+      {
+        "symbol": "l",
+        "start": 0.74,
+        "confidence": 0.8819
+      },
+      {
+        "symbol": "t",
+        "start": 0.88,
+        "confidence": 0.9571
+      }
+    ]
+  },
+  {
+    "wordId": "word_sell",
+    "text": "sell",
+    "audioSha1": "46c5250fc2b6225e807ade320ddef9375bc759af",
+    "duration": 0.8866875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "aɪ",
+        "start": 0.08,
+        "confidence": 0.3185
+      },
+      {
+        "symbol": "s",
+        "start": 0.2,
+        "confidence": 0.9825
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.3,
+        "confidence": 0.8567
+      },
+      {
+        "symbol": "l",
+        "start": 0.52,
+        "confidence": 0.8539
+      }
+    ]
+  },
+  {
+    "wordId": "word_half",
+    "text": "half",
+    "audioSha1": "192e3ef4435d8ac4321cbd08ea19434694a536fb",
+    "duration": 1.245375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "r",
+        "start": 0.1,
+        "confidence": 0.4408
+      },
+      {
+        "symbol": "i",
+        "start": 0.12,
+        "confidence": 0.5259
+      },
+      {
+        "symbol": "h",
+        "start": 0.2,
+        "confidence": 0.4105
+      },
+      {
+        "symbol": "ɑ",
+        "start": 0.3,
+        "confidence": 0.5785
+      },
+      {
+        "symbol": "s",
+        "start": 0.6,
+        "confidence": 0.8664
+      }
+    ]
+  },
+  {
+    "wordId": "word_for_example",
+    "text": "for example",
+    "audioSha1": "a11e3b10a57aef05d6a56aac7a717d71368efe54",
+    "duration": 1.6033125,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "aɪ",
+        "start": 0.06,
+        "confidence": 0.118
+      },
+      {
+        "symbol": "f",
+        "start": 0.16,
+        "confidence": 0.992
+      },
+      {
+        "symbol": "ɜː",
+        "start": 0.2,
+        "confidence": 0.2994
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.26,
+        "confidence": 0.8815
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.32,
+        "confidence": 0.8314
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.42,
+        "confidence": 0.9823
+      },
+      {
+        "symbol": "z",
+        "start": 0.5,
+        "confidence": 0.9709
+      },
+      {
+        "symbol": "ɑː",
+        "start": 0.58,
+        "confidence": 0.3525
+      },
+      {
+        "symbol": "m",
+        "start": 0.74,
+        "confidence": 0.9326
+      },
+      {
+        "symbol": "p",
+        "start": 0.84,
+        "confidence": 0.9584
+      },
+      {
+        "symbol": "əl",
+        "start": 0.9,
+        "confidence": 0.479
+      },
+      {
+        "symbol": "l",
+        "start": 1.0,
+        "confidence": 0.7547
+      },
+      {
+        "symbol": "h",
+        "start": 1.1,
+        "confidence": 0.2375
+      },
+      {
+        "symbol": "ə",
+        "start": 1.16,
+        "confidence": 0.4642
+      }
+    ]
+  },
+  {
+    "wordId": "word_planet",
+    "text": "planet",
+    "audioSha1": "bc9c8e2c0f88ae99bb867d07902b761986996c20",
+    "duration": 1.344,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.6072
+      },
+      {
+        "symbol": "p",
+        "start": 0.18,
+        "confidence": 0.9876
+      },
+      {
+        "symbol": "l",
+        "start": 0.26,
+        "confidence": 0.9939
+      },
+      {
+        "symbol": "æ",
+        "start": 0.3,
+        "confidence": 0.8577
+      },
+      {
+        "symbol": "n",
+        "start": 0.46,
+        "confidence": 0.9939
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.52,
+        "confidence": 0.9074
+      },
+      {
+        "symbol": "t",
+        "start": 0.7,
+        "confidence": 0.9358
+      }
+    ]
+  },
+  {
+    "wordId": "word_earth",
+    "text": "earth",
+    "audioSha1": "58f0d88617de9281d63ba8d56cbc4f0279679f57",
+    "duration": 0.96,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "a",
+        "start": 0.08,
+        "confidence": 0.5727
+      },
+      {
+        "symbol": "d",
+        "start": 0.18,
+        "confidence": 0.9813
+      },
+      {
+        "symbol": "ɑ",
+        "start": 0.24,
+        "confidence": 0.5925
+      },
+      {
+        "symbol": "s",
+        "start": 0.52,
+        "confidence": 0.9331
+      }
+    ]
+  },
+  {
+    "wordId": "word_sky",
+    "text": "sky",
+    "audioSha1": "21f06eada8e8a96bd2f7baa66520bcb7f4d120ed",
+    "duration": 0.993375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.5309
+      },
+      {
+        "symbol": "s",
+        "start": 0.2,
+        "confidence": 0.9782
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.3,
+        "confidence": 0.8672
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.38,
+        "confidence": 0.5788
+      }
+    ]
+  },
+  {
+    "wordId": "word_daytime",
+    "text": "daytime",
+    "audioSha1": "4d9b477b0688811eb3c93a1c2b9a4c463330e978",
+    "duration": 1.38,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.5055
+      },
+      {
+        "symbol": "d",
+        "start": 0.16,
+        "confidence": 0.986
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.22,
+        "confidence": 0.5823
+      },
+      {
+        "symbol": "t",
+        "start": 0.44,
+        "confidence": 0.9717
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.56,
+        "confidence": 0.8612
+      },
+      {
+        "symbol": "m",
+        "start": 0.82,
+        "confidence": 0.9454
+      },
+      {
+        "symbol": "v",
+        "start": 0.9,
+        "confidence": 0.9599
+      },
+      {
+        "symbol": "ə",
+        "start": 0.96,
+        "confidence": 0.6716
+      }
+    ]
+  },
+  {
+    "wordId": "word_cloud",
+    "text": "cloud",
+    "audioSha1": "8d92c6f337cec98b98eaa5f2fe4cf1b0616b4771",
+    "duration": 1.145375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.1,
+        "confidence": 0.165
+      },
+      {
+        "symbol": "k",
+        "start": 0.2,
+        "confidence": 0.9915
+      },
+      {
+        "symbol": "l",
+        "start": 0.3,
+        "confidence": 0.9972
+      },
+      {
+        "symbol": "aʊ",
+        "start": 0.36,
+        "confidence": 0.8311
+      },
+      {
+        "symbol": "d",
+        "start": 0.72,
+        "confidence": 0.9918
+      }
+    ]
+  },
+  {
+    "wordId": "word_moon",
+    "text": "moon",
+    "audioSha1": "b8f9361ae201bc2681ba5054a8686bef58c01e34",
+    "duration": 1.5226875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "z",
+        "start": 0.12,
+        "confidence": 0.9488
+      },
+      {
+        "symbol": "m",
+        "start": 0.22,
+        "confidence": 0.8904
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.26,
+        "confidence": 0.2392
+      },
+      {
+        "symbol": "y",
+        "start": 0.48,
+        "confidence": 0.127
+      },
+      {
+        "symbol": "n",
+        "start": 0.58,
+        "confidence": 0.9864
+      },
+      {
+        "symbol": "ə",
+        "start": 0.62,
+        "confidence": 0.3103
+      },
+      {
+        "symbol": "x",
+        "start": 0.7,
+        "confidence": 0.2472
+      }
+    ]
+  },
+  {
+    "wordId": "word_star",
+    "text": "star",
+    "audioSha1": "ab82c6bf82371fb664004a01c38fac62f6e02cb1",
+    "duration": 0.905375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɪ",
+        "start": 0.1,
+        "confidence": 0.3803
+      },
+      {
+        "symbol": "s",
+        "start": 0.18,
+        "confidence": 0.7635
+      },
+      {
+        "symbol": "t",
+        "start": 0.28,
+        "confidence": 0.844
+      },
+      {
+        "symbol": "ɑː",
+        "start": 0.34,
+        "confidence": 0.5026
+      }
+    ]
+  },
+  {
+    "wordId": "word_space",
+    "text": "space",
+    "audioSha1": "053dfce1124592bc43bd5de565caf6e215683ad5",
+    "duration": 1.101375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "oʊ",
+        "start": 0.1,
+        "confidence": 0.1785
+      },
+      {
+        "symbol": "l",
+        "start": 0.16,
+        "confidence": 0.5685
+      },
+      {
+        "symbol": "s",
+        "start": 0.24,
+        "confidence": 0.9568
+      },
+      {
+        "symbol": "b",
+        "start": 0.34,
+        "confidence": 0.6456
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.4,
+        "confidence": 0.9271
+      },
+      {
+        "symbol": "s",
+        "start": 0.7,
+        "confidence": 0.9423
+      }
+    ]
+  },
+  {
+    "wordId": "word_outer_space",
+    "text": "outer space",
+    "audioSha1": "fb2ed95fa7398bc5049e762d2830f45a1c9a03f9",
+    "duration": 1.7626875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.06,
+        "confidence": 0.4897
+      },
+      {
+        "symbol": "aʊ",
+        "start": 0.2,
+        "confidence": 0.8431
+      },
+      {
+        "symbol": "ɾ",
+        "start": 0.42,
+        "confidence": 0.7025
+      },
+      {
+        "symbol": "ɚ",
+        "start": 0.5,
+        "confidence": 0.8016
+      },
+      {
+        "symbol": "s",
+        "start": 0.64,
+        "confidence": 0.9947
+      },
+      {
+        "symbol": "p",
+        "start": 0.76,
+        "confidence": 0.9455
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.82,
+        "confidence": 0.918
+      },
+      {
+        "symbol": "s",
+        "start": 1.14,
+        "confidence": 0.99
+      },
+      {
+        "symbol": "ɪ",
+        "start": 1.3,
+        "confidence": 0.5902
+      }
+    ]
+  },
+  {
+    "wordId": "word_space_station",
+    "text": "space station",
+    "audioSha1": "cd2439d1c961d231daf4d2a0544841b16cc24234",
+    "duration": 1.805375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.08,
+        "confidence": 0.8983
+      },
+      {
+        "symbol": "s",
+        "start": 0.18,
+        "confidence": 0.9951
+      },
+      {
+        "symbol": "p",
+        "start": 0.26,
+        "confidence": 0.9819
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.32,
+        "confidence": 0.9514
+      },
+      {
+        "symbol": "s",
+        "start": 0.52,
+        "confidence": 0.9913
+      },
+      {
+        "symbol": "s",
+        "start": 0.64,
+        "confidence": 0.9954
+      },
+      {
+        "symbol": "t",
+        "start": 0.72,
+        "confidence": 0.9861
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.78,
+        "confidence": 0.9565
+      },
+      {
+        "symbol": "ʃ",
+        "start": 1.02,
+        "confidence": 0.9656
+      },
+      {
+        "symbol": "ə",
+        "start": 1.12,
+        "confidence": 0.9768
+      },
+      {
+        "symbol": "n",
+        "start": 1.24,
+        "confidence": 0.9166
+      }
+    ]
+  },
+  {
+    "wordId": "word_ocean",
+    "text": "ocean",
+    "audioSha1": "8bebdfb7a12cfa69c79596a6d901ac08492a26e4",
+    "duration": 1.135375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "a",
+        "start": 0.06,
+        "confidence": 0.4682
+      },
+      {
+        "symbol": "aʊ",
+        "start": 0.2,
+        "confidence": 0.4372
+      },
+      {
+        "symbol": "ʃ",
+        "start": 0.42,
+        "confidence": 0.9147
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.52,
+        "confidence": 0.2736
+      },
+      {
+        "symbol": "n",
+        "start": 0.66,
+        "confidence": 0.9919
+      },
+      {
+        "symbol": "d",
+        "start": 0.74,
+        "confidence": 0.9399
+      }
+    ]
+  },
+  {
+    "wordId": "word_marble",
+    "text": "marble",
+    "audioSha1": "0da98c6b7b3f3577bb5c95ecdb4c22d9205d0844",
+    "duration": 1.301375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.1,
+        "confidence": 0.1991
+      },
+      {
+        "symbol": "iː",
+        "start": 0.14,
+        "confidence": 0.7203
+      },
+      {
+        "symbol": "m",
+        "start": 0.24,
+        "confidence": 0.9938
+      },
+      {
+        "symbol": "ɑː",
+        "start": 0.28,
+        "confidence": 0.6818
+      },
+      {
+        "symbol": "b",
+        "start": 0.54,
+        "confidence": 0.9546
+      },
+      {
+        "symbol": "ə",
+        "start": 0.6,
+        "confidence": 0.3036
+      },
+      {
+        "symbol": "l",
+        "start": 0.7,
+        "confidence": 0.938
+      },
+      {
+        "symbol": "d",
+        "start": 0.78,
+        "confidence": 0.705
+      }
+    ]
+  },
+  {
+    "wordId": "word_satellite",
+    "text": "satellite",
+    "audioSha1": "df2d9031c47bc7dec5d95167a0dc76803af17d49",
+    "duration": 1.414,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.06,
+        "confidence": 0.2778
+      },
+      {
+        "symbol": "n",
+        "start": 0.1,
+        "confidence": 0.9389
+      },
+      {
+        "symbol": "d",
+        "start": 0.12,
+        "confidence": 0.8616
+      },
+      {
+        "symbol": "s",
+        "start": 0.2,
+        "confidence": 0.9791
+      },
+      {
+        "symbol": "æ",
+        "start": 0.28,
+        "confidence": 0.8798
+      },
+      {
+        "symbol": "ɾ",
+        "start": 0.42,
+        "confidence": 0.5667
+      },
+      {
+        "symbol": "ɐ",
+        "start": 0.48,
+        "confidence": 0.4868
+      },
+      {
+        "symbol": "l",
+        "start": 0.58,
+        "confidence": 0.9958
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.64,
+        "confidence": 0.9061
+      },
+      {
+        "symbol": "t",
+        "start": 0.9,
+        "confidence": 0.6252
+      },
+      {
+        "symbol": "ᵻ",
+        "start": 1.0,
+        "confidence": 0.3058
+      }
+    ]
+  },
+  {
+    "wordId": "word_soil",
+    "text": "soil",
+    "audioSha1": "e68538cd76c4adcf53a084348e74a7d03412c24e",
+    "duration": 1.003375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɛ",
+        "start": 0.08,
+        "confidence": 0.3012
+      },
+      {
+        "symbol": "s",
+        "start": 0.2,
+        "confidence": 0.9853
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.3,
+        "confidence": 0.466
+      },
+      {
+        "symbol": "r",
+        "start": 0.46,
+        "confidence": 0.518
+      },
+      {
+        "symbol": "eː",
+        "start": 0.5,
+        "confidence": 0.2741
+      },
+      {
+        "symbol": "l",
+        "start": 0.64,
+        "confidence": 0.9108
+      }
+    ]
+  },
+  {
+    "wordId": "word_alien",
+    "text": "alien",
+    "audioSha1": "3d6415d4f27d7b76fd7a1afb9f0bdae5bd3782d7",
+    "duration": 1.536,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ʌ",
+        "start": 0.06,
+        "confidence": 0.6563
+      },
+      {
+        "symbol": "ð",
+        "start": 0.14,
+        "confidence": 0.8249
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.2,
+        "confidence": 0.21
+      },
+      {
+        "symbol": "l",
+        "start": 0.4,
+        "confidence": 0.9909
+      },
+      {
+        "symbol": "iː",
+        "start": 0.44,
+        "confidence": 0.2452
+      },
+      {
+        "symbol": "ə",
+        "start": 0.56,
+        "confidence": 0.3997
+      },
+      {
+        "symbol": "n",
+        "start": 0.68,
+        "confidence": 0.9952
+      },
+      {
+        "symbol": "t",
+        "start": 0.78,
+        "confidence": 0.6267
+      },
+      {
+        "symbol": "ə",
+        "start": 0.84,
+        "confidence": 0.4151
+      }
+    ]
+  },
+  {
+    "wordId": "word_sunrise",
+    "text": "sunrise",
+    "audioSha1": "f08781adbd52b53145c5f8794325256d334204f6",
+    "duration": 1.38,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.06,
+        "confidence": 0.6077
+      },
+      {
+        "symbol": "s",
+        "start": 0.18,
+        "confidence": 0.9859
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.26,
+        "confidence": 0.9097
+      },
+      {
+        "symbol": "n",
+        "start": 0.38,
+        "confidence": 0.9936
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.48,
+        "confidence": 0.9002
+      },
+      {
+        "symbol": "ɚ",
+        "start": 0.52,
+        "confidence": 0.3848
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.58,
+        "confidence": 0.9763
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.66,
+        "confidence": 0.9144
+      },
+      {
+        "symbol": "z",
+        "start": 0.92,
+        "confidence": 0.931
+      },
+      {
+        "symbol": "ɪ",
+        "start": 1.0,
+        "confidence": 0.352
+      }
+    ]
+  },
+  {
+    "wordId": "word_rover",
+    "text": "rover",
+    "audioSha1": "d1ab57a39a74c8f44af868a904a15221b97ee04d",
+    "duration": 1.09,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɹ",
+        "start": 0.2,
+        "confidence": 0.8846
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.28,
+        "confidence": 0.499
+      },
+      {
+        "symbol": "v",
+        "start": 0.56,
+        "confidence": 0.982
+      },
+      {
+        "symbol": "ə",
+        "start": 0.64,
+        "confidence": 0.2851
+      }
+    ]
+  },
+  {
+    "wordId": "word_into",
+    "text": "into",
+    "audioSha1": "cdebaef9735dd647cb60c33158850870268b25af",
+    "duration": 1.058,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ʌ",
+        "start": 0.1,
+        "confidence": 0.7025
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.18,
+        "confidence": 0.9748
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.22,
+        "confidence": 0.2752
+      },
+      {
+        "symbol": "n",
+        "start": 0.32,
+        "confidence": 0.9675
+      },
+      {
+        "symbol": "t",
+        "start": 0.44,
+        "confidence": 0.9435
+      },
+      {
+        "symbol": "ʉ",
+        "start": 0.54,
+        "confidence": 0.3184
+      }
+    ]
+  },
+  {
+    "wordId": "word_telescope",
+    "text": "telescope",
+    "audioSha1": "eedb84773b78a5799f5594ab7dbc3f466f56daac",
+    "duration": 1.371375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "iː",
+        "start": 0.08,
+        "confidence": 0.6315
+      },
+      {
+        "symbol": "t",
+        "start": 0.18,
+        "confidence": 0.9428
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.26,
+        "confidence": 0.8923
+      },
+      {
+        "symbol": "l",
+        "start": 0.4,
+        "confidence": 0.989
+      },
+      {
+        "symbol": "ə",
+        "start": 0.44,
+        "confidence": 0.3022
+      },
+      {
+        "symbol": "s",
+        "start": 0.56,
+        "confidence": 0.9933
+      },
+      {
+        "symbol": "k",
+        "start": 0.7,
+        "confidence": 0.9226
+      },
+      {
+        "symbol": "oʊ",
+        "start": 0.76,
+        "confidence": 0.7789
+      },
+      {
+        "symbol": "p",
+        "start": 1.0,
+        "confidence": 0.9791
+      }
+    ]
+  },
+  {
+    "wordId": "word_astronaut",
+    "text": "astronaut",
+    "audioSha1": "4ad110fc1ab271f4be4b516a65e71a75dabc48bb",
+    "duration": 1.4453125,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.06,
+        "confidence": 0.5994
+      },
+      {
+        "symbol": "æ",
+        "start": 0.2,
+        "confidence": 0.4732
+      },
+      {
+        "symbol": "s",
+        "start": 0.36,
+        "confidence": 0.9935
+      },
+      {
+        "symbol": "t",
+        "start": 0.46,
+        "confidence": 0.5953
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.52,
+        "confidence": 0.8589
+      },
+      {
+        "symbol": "ə",
+        "start": 0.54,
+        "confidence": 0.8098
+      },
+      {
+        "symbol": "n",
+        "start": 0.66,
+        "confidence": 0.7232
+      },
+      {
+        "symbol": "oː",
+        "start": 0.74,
+        "confidence": 0.6207
+      },
+      {
+        "symbol": "d",
+        "start": 1.02,
+        "confidence": 0.8704
+      }
+    ]
+  },
+  {
+    "wordId": "word_month",
+    "text": "month",
+    "audioSha1": "903ccd121c182fc3a3f8e060010141afc80bf220",
+    "duration": 1.342,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "z",
+        "start": 0.1,
+        "confidence": 0.5723
+      },
+      {
+        "symbol": "y",
+        "start": 0.14,
+        "confidence": 0.6609
+      },
+      {
+        "symbol": "m",
+        "start": 0.24,
+        "confidence": 0.9919
+      },
+      {
+        "symbol": "a",
+        "start": 0.28,
+        "confidence": 0.827
+      },
+      {
+        "symbol": "n",
+        "start": 0.44,
+        "confidence": 0.9743
+      },
+      {
+        "symbol": "s",
+        "start": 0.56,
+        "confidence": 0.9464
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.64,
+        "confidence": 0.5681
+      }
+    ]
+  },
+  {
+    "wordId": "word_spaceship",
+    "text": "spaceship",
+    "audioSha1": "9f8da511bdc6a7e66c15e11aa1ad35c11ad368ee",
+    "duration": 1.258,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.08,
+        "confidence": 0.7796
+      },
+      {
+        "symbol": "s",
+        "start": 0.18,
+        "confidence": 0.9855
+      },
+      {
+        "symbol": "p",
+        "start": 0.26,
+        "confidence": 0.882
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.32,
+        "confidence": 0.9393
+      },
+      {
+        "symbol": "s",
+        "start": 0.52,
+        "confidence": 0.9876
+      },
+      {
+        "symbol": "ʃ",
+        "start": 0.62,
+        "confidence": 0.9612
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.72,
+        "confidence": 0.842
+      },
+      {
+        "symbol": "p",
+        "start": 0.92,
+        "confidence": 0.7955
+      }
+    ]
+  },
+  {
+    "wordId": "word_cloth",
+    "text": "cloth",
+    "audioSha1": "23a871248e8c1ab1c1f3b502931446c71c4335a9",
+    "duration": 1.152,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɛ",
+        "start": 0.08,
+        "confidence": 0.4878
+      },
+      {
+        "symbol": "k",
+        "start": 0.2,
+        "confidence": 0.966
+      },
+      {
+        "symbol": "l",
+        "start": 0.28,
+        "confidence": 0.7758
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.36,
+        "confidence": 0.4921
+      },
+      {
+        "symbol": "θ",
+        "start": 0.58,
+        "confidence": 0.7055
+      }
+    ]
+  },
+  {
+    "wordId": "word_toothpaste",
+    "text": "toothpaste",
+    "audioSha1": "430644fbd66cc89c1f7dfe77573a5affac35d5f4",
+    "duration": 1.3586875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ʌ",
+        "start": 0.08,
+        "confidence": 0.2283
+      },
+      {
+        "symbol": "t",
+        "start": 0.18,
+        "confidence": 0.9728
+      },
+      {
+        "symbol": "uː",
+        "start": 0.26,
+        "confidence": 0.9218
+      },
+      {
+        "symbol": "θ",
+        "start": 0.42,
+        "confidence": 0.9057
+      },
+      {
+        "symbol": "p",
+        "start": 0.5,
+        "confidence": 0.9881
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.6,
+        "confidence": 0.8629
+      },
+      {
+        "symbol": "s",
+        "start": 0.86,
+        "confidence": 0.9907
+      },
+      {
+        "symbol": "t",
+        "start": 0.98,
+        "confidence": 0.9693
+      }
+    ]
+  },
+  {
+    "wordId": "word_taikonaut",
+    "text": "taikonaut",
+    "audioSha1": "0aa87edb62b9826e70c1309c9c86a97adcb4a29f",
+    "duration": 1.562,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.4177
+      },
+      {
+        "symbol": "t",
+        "start": 0.14,
+        "confidence": 0.9701
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.24,
+        "confidence": 0.796
+      },
+      {
+        "symbol": "k",
+        "start": 0.48,
+        "confidence": 0.9792
+      },
+      {
+        "symbol": "oː",
+        "start": 0.54,
+        "confidence": 0.2138
+      },
+      {
+        "symbol": "n",
+        "start": 0.72,
+        "confidence": 0.9971
+      },
+      {
+        "symbol": "oː",
+        "start": 0.8,
+        "confidence": 0.7247
+      },
+      {
+        "symbol": "t",
+        "start": 1.08,
+        "confidence": 0.9172
+      },
+      {
+        "symbol": "ə",
+        "start": 1.16,
+        "confidence": 0.419
+      }
+    ]
+  },
+  {
+    "wordId": "word_question",
+    "text": "question",
+    "audioSha1": "b154c2c1ea83b25222ff85f5ede8656751ff149f",
+    "duration": 1.5786875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.08,
+        "confidence": 0.7522
+      },
+      {
+        "symbol": "k",
+        "start": 0.16,
+        "confidence": 0.9928
+      },
+      {
+        "symbol": "w",
+        "start": 0.22,
+        "confidence": 0.9333
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.28,
+        "confidence": 0.9747
+      },
+      {
+        "symbol": "s",
+        "start": 0.42,
+        "confidence": 0.9949
+      },
+      {
+        "symbol": "tʃ",
+        "start": 0.54,
+        "confidence": 0.7865
+      },
+      {
+        "symbol": "ə",
+        "start": 0.64,
+        "confidence": 0.9635
+      },
+      {
+        "symbol": "n",
+        "start": 0.76,
+        "confidence": 0.9668
+      },
+      {
+        "symbol": "ɚ",
+        "start": 0.84,
+        "confidence": 0.3563
+      }
+    ]
+  },
+  {
+    "wordId": "word_time",
+    "text": "time",
+    "audioSha1": "054bb961c7ae99308d0bff4dfa57a70b88502f3e",
+    "duration": 1.1946875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.04,
+        "confidence": 0.907
+      },
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.4446
+      },
+      {
+        "symbol": "t",
+        "start": 0.16,
+        "confidence": 0.976
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.28,
+        "confidence": 0.8197
+      },
+      {
+        "symbol": "m",
+        "start": 0.58,
+        "confidence": 0.972
+      }
+    ]
+  },
+  {
+    "wordId": "word_sunset",
+    "text": "sunset",
+    "audioSha1": "1c8f8cc637c92aca264da83d89dccb7bdb3d7dee",
+    "duration": 1.1966875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.147
+      },
+      {
+        "symbol": "s",
+        "start": 0.2,
+        "confidence": 0.9871
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.28,
+        "confidence": 0.9075
+      },
+      {
+        "symbol": "n",
+        "start": 0.4,
+        "confidence": 0.9802
+      },
+      {
+        "symbol": "s",
+        "start": 0.52,
+        "confidence": 0.9846
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.62,
+        "confidence": 0.9179
+      },
+      {
+        "symbol": "t",
+        "start": 0.82,
+        "confidence": 0.5406
+      }
+    ]
+  },
+  {
+    "wordId": "word_mars",
+    "text": "Mars",
+    "audioSha1": "bdb51435a196e0a8ca09bb13e0cbdffb19701238",
+    "duration": 1.237375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "i",
+        "start": 0.1,
+        "confidence": 0.773
+      },
+      {
+        "symbol": "m",
+        "start": 0.22,
+        "confidence": 0.9955
+      },
+      {
+        "symbol": "a",
+        "start": 0.28,
+        "confidence": 0.4501
+      },
+      {
+        "symbol": "z",
+        "start": 0.64,
+        "confidence": 0.8002
+      }
+    ]
+  },
+  {
+    "wordId": "word_power",
+    "text": "power",
+    "audioSha1": "7e410b82954e4d9910fcdb725bf22f2438ba379e",
+    "duration": 1.026,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.06,
+        "confidence": 0.8977
+      },
+      {
+        "symbol": "ø",
+        "start": 0.08,
+        "confidence": 0.2506
+      },
+      {
+        "symbol": "p",
+        "start": 0.16,
+        "confidence": 0.9829
+      },
+      {
+        "symbol": "ɑː",
+        "start": 0.26,
+        "confidence": 0.351
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.52,
+        "confidence": 0.3757
+      },
+      {
+        "symbol": "ð",
+        "start": 0.68,
+        "confidence": 0.8451
+      }
+    ]
+  },
+  {
+    "wordId": "word_electricity",
+    "text": "electricity",
+    "audioSha1": "051a5d235b12c60934dc7afb10ffa4e857a8574f",
+    "duration": 1.646,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ʌ",
+        "start": 0.06,
+        "confidence": 0.9846
+      },
+      {
+        "symbol": "v",
+        "start": 0.14,
+        "confidence": 0.9909
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.18,
+        "confidence": 0.7429
+      },
+      {
+        "symbol": "l",
+        "start": 0.3,
+        "confidence": 0.9869
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.34,
+        "confidence": 0.9202
+      },
+      {
+        "symbol": "k",
+        "start": 0.44,
+        "confidence": 0.9848
+      },
+      {
+        "symbol": "t",
+        "start": 0.54,
+        "confidence": 0.9804
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.58,
+        "confidence": 0.5419
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.64,
+        "confidence": 0.9461
+      },
+      {
+        "symbol": "s",
+        "start": 0.74,
+        "confidence": 0.9936
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.84,
+        "confidence": 0.4417
+      },
+      {
+        "symbol": "ɾ",
+        "start": 0.94,
+        "confidence": 0.731
+      },
+      {
+        "symbol": "i",
+        "start": 1.02,
+        "confidence": 0.9868
+      }
+    ]
+  },
+  {
+    "wordId": "word_solar",
+    "text": "solar",
+    "audioSha1": "20c5bb1b4b5aa73ea453750712d8d4ae32ea2392",
+    "duration": 1.058,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "i",
+        "start": 0.08,
+        "confidence": 0.5565
+      },
+      {
+        "symbol": "s",
+        "start": 0.18,
+        "confidence": 0.9516
+      },
+      {
+        "symbol": "a",
+        "start": 0.28,
+        "confidence": 0.3188
+      },
+      {
+        "symbol": "uː",
+        "start": 0.44,
+        "confidence": 0.3388
+      },
+      {
+        "symbol": "l",
+        "start": 0.54,
+        "confidence": 0.8814
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.58,
+        "confidence": 0.4357
+      }
+    ]
+  },
+  {
+    "wordId": "word_type",
+    "text": "type",
+    "audioSha1": "4cc37bd404590f25191f05cc7a7f7151f75cb9e1",
+    "duration": 0.96,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ð",
+        "start": 0.06,
+        "confidence": 0.7655
+      },
+      {
+        "symbol": "ə",
+        "start": 0.1,
+        "confidence": 0.8184
+      },
+      {
+        "symbol": "t",
+        "start": 0.18,
+        "confidence": 0.9727
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.28,
+        "confidence": 0.8591
+      },
+      {
+        "symbol": "p",
+        "start": 0.56,
+        "confidence": 0.9772
+      }
+    ]
+  },
+  {
+    "wordId": "word_energy",
+    "text": "energy",
+    "audioSha1": "16f823fb21fcca44e2e0e8af8c00d1039c3a08bd",
+    "duration": 1.301375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.08,
+        "confidence": 0.5616
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.22,
+        "confidence": 0.8982
+      },
+      {
+        "symbol": "n",
+        "start": 0.32,
+        "confidence": 0.9962
+      },
+      {
+        "symbol": "ɚ",
+        "start": 0.36,
+        "confidence": 0.708
+      },
+      {
+        "symbol": "dʒ",
+        "start": 0.5,
+        "confidence": 0.9614
+      },
+      {
+        "symbol": "i",
+        "start": 0.6,
+        "confidence": 0.9562
+      }
+    ]
+  },
+  {
+    "wordId": "word_light",
+    "text": "light",
+    "audioSha1": "348de84e9dffbe4298d24f9d33f77000a8c2b3b5",
+    "duration": 1.0273125,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "l",
+        "start": 0.24,
+        "confidence": 0.9934
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.3,
+        "confidence": 0.8923
+      },
+      {
+        "symbol": "t",
+        "start": 0.62,
+        "confidence": 0.9542
+      }
+    ]
+  },
+  {
+    "wordId": "word_source",
+    "text": "source",
+    "audioSha1": "f496975234f082789f724122df77c1b93a41c788",
+    "duration": 1.0346875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "a",
+        "start": 0.1,
+        "confidence": 0.593
+      },
+      {
+        "symbol": "s",
+        "start": 0.24,
+        "confidence": 0.816
+      },
+      {
+        "symbol": "oː",
+        "start": 0.34,
+        "confidence": 0.484
+      },
+      {
+        "symbol": "s",
+        "start": 0.64,
+        "confidence": 0.9499
+      }
+    ]
+  },
+  {
+    "wordId": "word_heat",
+    "text": "heat",
+    "audioSha1": "a17cd221aee94cea73389b210d0b3b823f36e95c",
+    "duration": 0.9386875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.08,
+        "confidence": 0.2467
+      },
+      {
+        "symbol": "h",
+        "start": 0.18,
+        "confidence": 0.9811
+      },
+      {
+        "symbol": "iː",
+        "start": 0.26,
+        "confidence": 0.9483
+      },
+      {
+        "symbol": "t",
+        "start": 0.5,
+        "confidence": 0.9201
+      }
+    ]
+  },
+  {
+    "wordId": "word_cool",
+    "text": "cool",
+    "audioSha1": "a0eb439a8850eb94f34f28be083caf09131210a5",
+    "duration": 1.342,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɛ",
+        "start": 0.08,
+        "confidence": 0.4664
+      },
+      {
+        "symbol": "k",
+        "start": 0.18,
+        "confidence": 0.972
+      },
+      {
+        "symbol": "uɨ",
+        "start": 0.26,
+        "confidence": 0.1948
+      },
+      {
+        "symbol": "j",
+        "start": 0.38,
+        "confidence": 0.4875
+      },
+      {
+        "symbol": "l",
+        "start": 0.5,
+        "confidence": 0.9469
+      },
+      {
+        "symbol": "l",
+        "start": 0.62,
+        "confidence": 0.6314
+      }
+    ]
+  },
+  {
+    "wordId": "word_resource",
+    "text": "resource",
+    "audioSha1": "dafb8654de012691d5ba92a43a6cb3310d73209f",
+    "duration": 1.472,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɪ",
+        "start": 0.08,
+        "confidence": 0.246
+      },
+      {
+        "symbol": "n",
+        "start": 0.14,
+        "confidence": 0.6047
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.18,
+        "confidence": 0.9836
+      },
+      {
+        "symbol": "ᵻ",
+        "start": 0.22,
+        "confidence": 0.4964
+      },
+      {
+        "symbol": "z",
+        "start": 0.34,
+        "confidence": 0.9818
+      },
+      {
+        "symbol": "oʊ",
+        "start": 0.44,
+        "confidence": 0.2571
+      },
+      {
+        "symbol": "s",
+        "start": 0.78,
+        "confidence": 0.9874
+      }
+    ]
+  },
+  {
+    "wordId": "word_run_out",
+    "text": "run out",
+    "audioSha1": "e3de74ec31f4648405dccab104d3b5f9aa03dbb3",
+    "duration": 1.274625,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɹ",
+        "start": 0.18,
+        "confidence": 0.9669
+      },
+      {
+        "symbol": "ʌ",
+        "start": 0.26,
+        "confidence": 0.8912
+      },
+      {
+        "symbol": "n",
+        "start": 0.4,
+        "confidence": 0.9967
+      },
+      {
+        "symbol": "aʊ",
+        "start": 0.54,
+        "confidence": 0.8674
+      },
+      {
+        "symbol": "t",
+        "start": 0.8,
+        "confidence": 0.9547
+      }
+    ]
+  },
+  {
+    "wordId": "word_few",
+    "text": "few",
+    "audioSha1": "4522e33939b9fb9b800c32f512858c6b510ca850",
+    "duration": 0.9046875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "a",
+        "start": 0.1,
+        "confidence": 0.5339
+      },
+      {
+        "symbol": "θ",
+        "start": 0.2,
+        "confidence": 0.4138
+      },
+      {
+        "symbol": "i",
+        "start": 0.28,
+        "confidence": 0.6372
+      },
+      {
+        "symbol": "ø",
+        "start": 0.4,
+        "confidence": 0.163
+      }
+    ]
+  },
+  {
+    "wordId": "word_change",
+    "text": "change",
+    "audioSha1": "d13e5381521418a441b5af0a35733096e931fea4",
+    "duration": 1.154,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ʌ",
+        "start": 0.08,
+        "confidence": 0.5062
+      },
+      {
+        "symbol": "tʃ",
+        "start": 0.2,
+        "confidence": 0.6578
+      },
+      {
+        "symbol": "eɪ",
+        "start": 0.32,
+        "confidence": 0.924
+      },
+      {
+        "symbol": "n",
+        "start": 0.58,
+        "confidence": 0.9614
+      },
+      {
+        "symbol": "dʒ",
+        "start": 0.7,
+        "confidence": 0.7893
+      }
+    ]
+  },
+  {
+    "wordId": "word_quick",
+    "text": "quick",
+    "audioSha1": "220e23124cd49d96a4a62d2705c3957c96762972",
+    "duration": 0.896,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.6732
+      },
+      {
+        "symbol": "k",
+        "start": 0.18,
+        "confidence": 0.9857
+      },
+      {
+        "symbol": "w",
+        "start": 0.24,
+        "confidence": 0.9561
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.28,
+        "confidence": 0.8944
+      },
+      {
+        "symbol": "k",
+        "start": 0.5,
+        "confidence": 0.9728
+      }
+    ]
+  },
+  {
+    "wordId": "word_shower",
+    "text": "shower",
+    "audioSha1": "0ed5549068294d02754dedf1a7f85158181031f5",
+    "duration": 1.0146875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "l",
+        "start": 0.08,
+        "confidence": 0.3806
+      },
+      {
+        "symbol": "i",
+        "start": 0.12,
+        "confidence": 0.2159
+      },
+      {
+        "symbol": "s.",
+        "start": 0.24,
+        "confidence": 0.5912
+      },
+      {
+        "symbol": "ɑu5",
+        "start": 0.34,
+        "confidence": 0.1403
+      },
+      {
+        "symbol": "w",
+        "start": 0.54,
+        "confidence": 0.7515
+      },
+      {
+        "symbol": "ə1",
+        "start": 0.58,
+        "confidence": 0.1749
+      }
+    ]
+  },
+  {
+    "wordId": "word_unplug",
+    "text": "unplug",
+    "audioSha1": "29c1fdf70beb28b907ae4d79b76386f4d1714f05",
+    "duration": 1.36,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "r",
+        "start": 0.12,
+        "confidence": 0.7795
+      },
+      {
+        "symbol": "a",
+        "start": 0.18,
+        "confidence": 0.949
+      },
+      {
+        "symbol": "n",
+        "start": 0.28,
+        "confidence": 0.9955
+      },
+      {
+        "symbol": "p",
+        "start": 0.4,
+        "confidence": 0.9819
+      },
+      {
+        "symbol": "l",
+        "start": 0.5,
+        "confidence": 0.9916
+      },
+      {
+        "symbol": "ɑː",
+        "start": 0.54,
+        "confidence": 0.4588
+      },
+      {
+        "symbol": "ɡ",
+        "start": 0.8,
+        "confidence": 0.9854
+      },
+      {
+        "symbol": "r",
+        "start": 0.88,
+        "confidence": 0.8192
+      },
+      {
+        "symbol": "ɨ",
+        "start": 0.92,
+        "confidence": 0.337
+      }
+    ]
+  },
+  {
+    "wordId": "word_difference",
+    "text": "difference",
+    "audioSha1": "a51c54f54eac0adea16c14e7561f79e6cdfd6acd",
+    "duration": 1.472,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "l",
+        "start": 0.06,
+        "confidence": 0.8206
+      },
+      {
+        "symbol": "uː",
+        "start": 0.08,
+        "confidence": 0.4333
+      },
+      {
+        "symbol": "d",
+        "start": 0.18,
+        "confidence": 0.9815
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.24,
+        "confidence": 0.8921
+      },
+      {
+        "symbol": "f",
+        "start": 0.36,
+        "confidence": 0.9905
+      },
+      {
+        "symbol": "ɚ",
+        "start": 0.42,
+        "confidence": 0.6921
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.48,
+        "confidence": 0.9034
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.52,
+        "confidence": 0.8803
+      },
+      {
+        "symbol": "n",
+        "start": 0.62,
+        "confidence": 0.9962
+      },
+      {
+        "symbol": "s",
+        "start": 0.72,
+        "confidence": 0.8186
+      },
+      {
+        "symbol": "ə",
+        "start": 0.8,
+        "confidence": 0.7961
+      }
+    ]
+  },
+  {
+    "wordId": "word_reduce",
+    "text": "reduce",
+    "audioSha1": "896c7c349cb963e7b5b3ef16ae02ab83110cd01a",
+    "duration": 1.306,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.3116
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.18,
+        "confidence": 0.8764
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.22,
+        "confidence": 0.7082
+      },
+      {
+        "symbol": "d",
+        "start": 0.34,
+        "confidence": 0.9618
+      },
+      {
+        "symbol": "iː",
+        "start": 0.4,
+        "confidence": 0.297
+      },
+      {
+        "symbol": "uː",
+        "start": 0.52,
+        "confidence": 0.2878
+      },
+      {
+        "symbol": "s",
+        "start": 0.74,
+        "confidence": 0.986
+      },
+      {
+        "symbol": "ə",
+        "start": 0.86,
+        "confidence": 0.635
+      }
+    ]
+  },
+  {
+    "wordId": "word_air_conditioner",
+    "text": "air conditioner",
+    "audioSha1": "f65676e2e73ff3f07b719e7a9b58ed34e0306bf9",
+    "duration": 1.8366875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɛ",
+        "start": 0.2,
+        "confidence": 0.8288
+      },
+      {
+        "symbol": "k",
+        "start": 0.54,
+        "confidence": 0.9908
+      },
+      {
+        "symbol": "ə",
+        "start": 0.6,
+        "confidence": 0.8765
+      },
+      {
+        "symbol": "n",
+        "start": 0.7,
+        "confidence": 0.993
+      },
+      {
+        "symbol": "d",
+        "start": 0.78,
+        "confidence": 0.9929
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.84,
+        "confidence": 0.9481
+      },
+      {
+        "symbol": "ʃ",
+        "start": 0.96,
+        "confidence": 0.9523
+      },
+      {
+        "symbol": "ə",
+        "start": 1.06,
+        "confidence": 0.9434
+      },
+      {
+        "symbol": "n",
+        "start": 1.14,
+        "confidence": 0.8475
+      },
+      {
+        "symbol": "ə",
+        "start": 1.2,
+        "confidence": 0.8072
+      },
+      {
+        "symbol": "r",
+        "start": 1.36,
+        "confidence": 0.9246
+      }
+    ]
+  },
+  {
+    "wordId": "word_drive",
+    "text": "drive",
+    "audioSha1": "f8a41b11c9df8f00fbf8230bd9f26c846ef78ffb",
+    "duration": 1.097375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ə",
+        "start": 0.08,
+        "confidence": 0.4665
+      },
+      {
+        "symbol": "d",
+        "start": 0.18,
+        "confidence": 0.9796
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.26,
+        "confidence": 0.9779
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.34,
+        "confidence": 0.7769
+      },
+      {
+        "symbol": "v",
+        "start": 0.72,
+        "confidence": 0.8345
+      }
+    ]
+  },
+  {
+    "wordId": "word_reuse",
+    "text": "reuse",
+    "audioSha1": "89f4054c174728e11c0ee30e9e3c2be2da3fcc4a",
+    "duration": 1.885375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ʌ",
+        "start": 0.08,
+        "confidence": 0.6182
+      },
+      {
+        "symbol": "v",
+        "start": 0.16,
+        "confidence": 0.9883
+      },
+      {
+        "symbol": "ɹ",
+        "start": 0.22,
+        "confidence": 0.972
+      },
+      {
+        "symbol": "iː",
+        "start": 0.26,
+        "confidence": 0.4305
+      },
+      {
+        "symbol": "j",
+        "start": 0.44,
+        "confidence": 0.9104
+      },
+      {
+        "symbol": "uː",
+        "start": 0.52,
+        "confidence": 0.906
+      },
+      {
+        "symbol": "z",
+        "start": 0.84,
+        "confidence": 0.9522
+      }
+    ]
+  },
+  {
+    "wordId": "word_own",
+    "text": "own",
+    "audioSha1": "00636d4648307047e22b330bca4aa1a3e68c92c1",
+    "duration": 0.993375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "a",
+        "start": 0.1,
+        "confidence": 0.4169
+      },
+      {
+        "symbol": "ð",
+        "start": 0.18,
+        "confidence": 0.8477
+      },
+      {
+        "symbol": "a",
+        "start": 0.24,
+        "confidence": 0.443
+      },
+      {
+        "symbol": "ø",
+        "start": 0.38,
+        "confidence": 0.2849
+      },
+      {
+        "symbol": "n",
+        "start": 0.5,
+        "confidence": 0.9761
+      },
+      {
+        "symbol": "d",
+        "start": 0.6,
+        "confidence": 0.7359
+      }
+    ]
+  },
+  {
+    "wordId": "word_market",
+    "text": "market",
+    "audioSha1": "dd2f6a95462b3bdab0e1f3f21ca0476333cc7489",
+    "duration": 1.164,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "l",
+        "start": 0.08,
+        "confidence": 0.6247
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.12,
+        "confidence": 0.3496
+      },
+      {
+        "symbol": "m",
+        "start": 0.22,
+        "confidence": 0.9971
+      },
+      {
+        "symbol": "ɑː",
+        "start": 0.28,
+        "confidence": 0.7031
+      },
+      {
+        "symbol": "k",
+        "start": 0.5,
+        "confidence": 0.9828
+      },
+      {
+        "symbol": "ɪ",
+        "start": 0.58,
+        "confidence": 0.8229
+      },
+      {
+        "symbol": "t",
+        "start": 0.8,
+        "confidence": 0.9204
+      }
+    ]
+  },
+  {
+    "wordId": "word_top",
+    "text": "top",
+    "audioSha1": "cf033fa3ee43bec1a23504c350e0334cd393f9ee",
+    "duration": 1.096,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "l",
+        "start": 0.06,
+        "confidence": 0.3997
+      },
+      {
+        "symbol": "eː",
+        "start": 0.08,
+        "confidence": 0.5672
+      },
+      {
+        "symbol": "t",
+        "start": 0.18,
+        "confidence": 0.9792
+      },
+      {
+        "symbol": "ɔ",
+        "start": 0.28,
+        "confidence": 0.4615
+      },
+      {
+        "symbol": "p",
+        "start": 0.5,
+        "confidence": 0.6678
+      }
+    ]
+  },
+  {
+    "wordId": "word_bottle",
+    "text": "bottle",
+    "audioSha1": "f5859088c6f62ebe5172bc401fc61e05f8575f4d",
+    "duration": 1.1946875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "y",
+        "start": 0.08,
+        "confidence": 0.7632
+      },
+      {
+        "symbol": "b",
+        "start": 0.18,
+        "confidence": 0.9493
+      },
+      {
+        "symbol": "a",
+        "start": 0.22,
+        "confidence": 0.4934
+      },
+      {
+        "symbol": "ʁ",
+        "start": 0.3,
+        "confidence": 0.8484
+      },
+      {
+        "symbol": "t",
+        "start": 0.38,
+        "confidence": 0.9782
+      },
+      {
+        "symbol": "ɛ",
+        "start": 0.46,
+        "confidence": 0.2764
+      },
+      {
+        "symbol": "l",
+        "start": 0.62,
+        "confidence": 0.674
+      }
+    ]
+  },
+  {
+    "wordId": "word_dirty",
+    "text": "dirty",
+    "audioSha1": "e50ac2be4e7fb8c00fbd3dc861e38c4f49809abc",
+    "duration": 1.3226875,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "d",
+        "start": 0.18,
+        "confidence": 0.9903
+      },
+      {
+        "symbol": "ɜː",
+        "start": 0.26,
+        "confidence": 0.4016
+      },
+      {
+        "symbol": "ɾ",
+        "start": 0.5,
+        "confidence": 0.5651
+      },
+      {
+        "symbol": "i",
+        "start": 0.6,
+        "confidence": 0.9597
+      }
+    ]
+  },
+  {
+    "wordId": "word_side",
+    "text": "side",
+    "audioSha1": "cd0d60a8260340c543e1f1bc70ed2ae6df18aad7",
+    "duration": 1.109375,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.1,
+        "confidence": 0.5077
+      },
+      {
+        "symbol": "s",
+        "start": 0.2,
+        "confidence": 0.9839
+      },
+      {
+        "symbol": "aɪ",
+        "start": 0.3,
+        "confidence": 0.7854
+      },
+      {
+        "symbol": "d",
+        "start": 0.62,
+        "confidence": 0.9873
+      }
+    ]
+  },
+  {
+    "wordId": "word_useful",
+    "text": "useful",
+    "audioSha1": "d228f93be1f7b5213299aeff9039cf91c9f9e93b",
+    "duration": 1.154,
+    "recognizer": "facebook/wav2vec2-lv-60-espeak-cv-ft",
+    "revision": "ae45363bf3413b374fecd9dc8bc1df0e24c3b7f4",
+    "reviewStatus": "pending",
+    "greedyRuns": [
+      {
+        "symbol": "ɐ",
+        "start": 0.08,
+        "confidence": 0.8532
+      },
+      {
+        "symbol": "j",
+        "start": 0.2,
+        "confidence": 0.9558
+      },
+      {
+        "symbol": "uː",
+        "start": 0.26,
+        "confidence": 0.9107
+      },
+      {
+        "symbol": "s",
+        "start": 0.44,
+        "confidence": 0.9889
+      },
+      {
+        "symbol": "f",
+        "start": 0.56,
+        "confidence": 0.8798
+      },
+      {
+        "symbol": "əl",
+        "start": 0.6,
+        "confidence": 0.4939
+      }
+    ]
+  }
+]

@@ -15,10 +15,10 @@ function createAudioService(createContext, resolve, timeoutMs = 20000, options =
     const assets = ids.map(resolve);
     if (assets.some(x => !(options.isPlayable || (asset => isPlayableAsset(asset, options.allowPreview === true, options.allowSyntheticWords === true)))(x))) throw Error('发音正在准备中');
     return new Promise((resolvePlay, reject) => {
-      let ctx, timer, lease, index = -1, done = false, generation = 0;
+      let ctx, timer, progressTimer, lease, index = -1, done = false, generation = 0;
       function release() { if (lease) { lease.release(); lease = null; } }
       const session = { owner, finish(result, error) {
-        if (done) return; done = true; generation++; clearTimeout(timer); cleanup(ctx); release();
+        if (done) return; done = true; generation++; clearTimeout(timer); clearInterval(progressTimer); cleanup(ctx); release();
         if (error) log.record('audio.error', {owner,audioId:ids[index],error});
         if (active === session) { active = null; publish({ status: error ? 'error' : 'idle', owner: '', index: -1, audioId: '', progress: 0, currentTime: 0, duration: 0, message: error ? error.message : '' }); }
         if (error) reject(error); else resolvePlay(result);
@@ -27,7 +27,7 @@ function createAudioService(createContext, resolve, timeoutMs = 20000, options =
       async function next() {
         if (done) return;
         generation++; const step = generation;
-        clearTimeout(timer); cleanup(ctx); release(); ctx = null; index++;
+        clearTimeout(timer); clearInterval(progressTimer); cleanup(ctx); release(); ctx = null; index++;
         if (index >= assets.length) return session.finish(true);
         const state = { owner, index, audioId: ids[index], progress: 0, currentTime: 0, duration: 0 };
         publish({ ...state, status: 'loading' });
@@ -42,14 +42,25 @@ function createAudioService(createContext, resolve, timeoutMs = 20000, options =
           ctx = createContext();
           ctx.onEnded(() => { if (!done && generation === step) { log.record('audio.ended', {audioId:ids[index]}); next(); } });
           ctx.onError(error => { if (!done && generation === step) { log.record('audio.nativeError', {audioId:ids[index],error}); session.finish(false, Error('暂时无法播放，请重试')); } });
-          if (ctx.onPlay) ctx.onPlay(() => { if (!done && generation === step) publish({ ...state, status: 'playing' }); });
           const clip = ctx;
-          if (ctx.onTimeUpdate) ctx.onTimeUpdate(() => {
+          let lastTime = -1, lastDuration = -1;
+          function updateProgress() {
             if (done || generation !== step) return;
             const duration = Number(clip.duration), time = Number(clip.currentTime);
             if (!Number.isFinite(duration) || duration <= 0 || !Number.isFinite(time)) return;
+            if (time === lastTime && duration === lastDuration) return;
+            lastTime = time; lastDuration = duration;
             publish({ ...state, status: 'playing', currentTime: Math.max(0, time), duration, progress: Math.max(0, Math.min(1, time / duration)) });
+          }
+          if (ctx.onPlay) ctx.onPlay(() => {
+            if (done || generation !== step) return;
+            publish({ ...state, status: 'playing' });
+            updateProgress();
+            clearInterval(progressTimer);
+            // Read the media clock; never advance progress from elapsed wall time.
+            progressTimer = setInterval(updateProgress, 50);
           });
+          if (ctx.onTimeUpdate) ctx.onTimeUpdate(updateProgress);
           ctx.src = src; ctx.play();
         } catch (error) { if (!done && generation === step) session.finish(false, Error(error.message || '暂时无法播放，请重试')); }
       }

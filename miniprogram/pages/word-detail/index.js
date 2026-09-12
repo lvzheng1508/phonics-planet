@@ -15,8 +15,8 @@ Page({
    if (!this.data.item) return;
    this.setData({ favorite: storage.favorites().includes(this.data.item.id) });
    this.off = audio.subscribe(state => {
-     const playing = state.owner === 'word-whole' && state.status === 'playing';
-     this.setData({ playing, ipaTokens: progressTokens(this.data.item.ipaTokens, playing ? state.progress : 0), activeIndex: state.owner === 'word-sequence' ? state.index : -1 });
+     const playing = state.owner === 'word-whole' && state.audioId === this.data.item.audioId && state.status === 'playing';
+     this.setData({ playing, ipaTokens: progressTokens(this.data.item.ipaTokens, playing ? state.progress : 0, playing ? state.currentTime : 0), activeIndex: state.owner === 'word-sequence' ? state.index : -1 });
    });
  },
  phoneme(e) { const {id,note} = e.currentTarget.dataset; if (id) wx.navigateTo({ url: route('phoneme-detail', { id }) }); else if (note) this.setData({selectedNote:note}); },

@@ -56,7 +56,14 @@ for(const a of audio) {
   if(a.status==='synthetic-preview') {
     assert.equal(a.kind,'word'); assert.equal(a.reviewStatus,'pending'); assert.equal(a.reviewer,null);
     assert.ok(a.source && a.license && a.licenseUrl && a.generator && a.generator.modelSha256 && a.text);
-    validateResource(a);
+    if(a.src && a.src.startsWith('resource://')) validateResource(a);
+    else {
+      assert.ok(a.src && a.src.startsWith('/assets/audio/') && !a.src.includes('..'));
+      assert.ok(isResourceDescriptor(a), 'Bundled audio requires integrity metadata: '+a.id);
+      const bytes=fs.readFileSync(path.join(root,'miniprogram',a.src));
+      assert.equal(bytes.length,a.bytes,a.id);
+      assert.equal(require('node:crypto').createHash('sha1').update(bytes).digest('hex'),a.sha1,a.id);
+    }
   }
   if(a.status==='verified') {
     assert.ok(a.src && a.source && a.license && a.reviewer);
@@ -75,3 +82,31 @@ for (const sample of resourceSamples) {
   assert.ok(!aids.has(sample.id), 'Technical samples must not enter teaching audio manifest');
 }
 console.log('Data OK: 44 phonemes, 6 PEP units, 146 entries, 145 unique PEP words.');
+
+const timings = read('audio-timings.json');
+assert.equal(new Set(timings.map(t => t.audioId)).size, timings.length, 'Duplicate timing binding');
+for (const t of timings) {
+  const asset = audio.find(a => a.id === t.audioId);
+  const pronunciation = pronunciations.find(p => p.wordId === t.wordId);
+  assert.ok(asset && pronunciation, t.wordId);
+  assert.equal(t.audioSha1, asset.sha1, 'Stale audio alignment: ' + t.wordId);
+  assert.equal(t.ipa, pronunciation.ipa, 'Stale IPA alignment: ' + t.wordId);
+  assert.equal(t.status, 'aligned'); assert.equal(t.reviewStatus, 'pending'); assert.equal(t.reviewer, null);
+  assert.deepEqual(t.tokens.map(x => x.text), pronunciation.displayTokens.map(x => x.text));
+  for (const [i, token] of t.tokens.entries()) {
+    assert.ok(Number.isFinite(token.start) && Number.isFinite(token.end));
+    assert.ok(token.start >= 0 && token.end >= token.start && token.end <= asset.duration + .001, t.wordId);
+    if (i) assert.ok(token.start >= t.tokens[i - 1].end, 'Overlapping audio timings: ' + t.wordId);
+    if (['ˈ', 'ˌ', ' '].includes(token.text)) assert.equal(token.start, token.end);
+    else assert.ok(token.end > token.start, 'Missing spoken token timing: ' + t.wordId);
+  }
+}
+for (const o of read('pronunciation-overrides.json')) {
+  const p = pronunciations.find(p => p.wordId === o.wordId);
+  const a = audio.find(a => a.wordId === o.wordId);
+  assert.equal(o.reviewStatus, 'pending'); assert.equal(o.ipa, p.ipa);
+  assert.equal(a.generator.phonemeInput, o.phonemeInput);
+  assert.equal(a.generator.inputIpa, o.ipa);
+  assert.ok(a.src.startsWith('resource://' + o.resourceDirectory + '/'));
+}
+console.log('Audio timing references: ' + timings.length + ' hash/IPA bindings checked.');

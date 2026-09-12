@@ -1,0 +1,6212 @@
+[
+  {
+    "wordId": "word_was",
+    "audioId": "word_was",
+    "audioSha1": "f0d8fb8b5a7d4dd2a329d4ab2b878cf335498f03",
+    "ipa": "wɒz",
+    "duration": 1.0026666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "w",
+        "start": 0.04,
+        "end": 0.24
+      },
+      {
+        "text": "ɒ",
+        "start": 0.24,
+        "end": 0.52
+      },
+      {
+        "text": "z",
+        "start": 0.52,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "wordId": "word_climb",
+    "audioId": "word_climb",
+    "audioSha1": "6bf81a47a774cb4c0989856bc2c013a4cc587bd6",
+    "ipa": "klaɪm",
+    "duration": 1.1353333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "k",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "l",
+        "start": 0.26,
+        "end": 0.34
+      },
+      {
+        "text": "aɪ",
+        "start": 0.34,
+        "end": 0.64
+      },
+      {
+        "text": "m",
+        "start": 0.64,
+        "end": 0.89
+      }
+    ]
+  },
+  {
+    "wordId": "word_kilometre",
+    "audioId": "word_kilometre",
+    "audioSha1": "997e853d78653a29734013be292e7de3e7c679fc",
+    "ipa": "ˈkɪləˌmiːtə",
+    "duration": 1.4766666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "k",
+        "start": 0.03,
+        "end": 0.1537
+      },
+      {
+        "text": "ɪ",
+        "start": 0.1537,
+        "end": 0.36
+      },
+      {
+        "text": "l",
+        "start": 0.36,
+        "end": 0.4
+      },
+      {
+        "text": "ə",
+        "start": 0.4,
+        "end": 0.54
+      },
+      {
+        "text": "ˌ",
+        "start": 0.54,
+        "end": 0.54
+      },
+      {
+        "text": "m",
+        "start": 0.54,
+        "end": 0.58
+      },
+      {
+        "text": "iː",
+        "start": 0.58,
+        "end": 0.74
+      },
+      {
+        "text": "t",
+        "start": 0.74,
+        "end": 0.8625
+      },
+      {
+        "text": "ə",
+        "start": 0.8625,
+        "end": 1.23
+      }
+    ]
+  },
+  {
+    "wordId": "word_gingerbread_house",
+    "audioId": "word_gingerbread_house",
+    "audioSha1": "66fa205cb6f42c16cc7841aa7f1e51c7cf2812f4",
+    "ipa": "ˈdʒɪndʒəbred ˌhaʊs",
+    "duration": 1.9533333333333334,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.01,
+        "end": 0.01
+      },
+      {
+        "text": "dʒ",
+        "start": 0.01,
+        "end": 0.26
+      },
+      {
+        "text": "ɪ",
+        "start": 0.26,
+        "end": 0.36
+      },
+      {
+        "text": "n",
+        "start": 0.36,
+        "end": 0.48
+      },
+      {
+        "text": "dʒ",
+        "start": 0.48,
+        "end": 0.54
+      },
+      {
+        "text": "ə",
+        "start": 0.54,
+        "end": 0.68
+      },
+      {
+        "text": "b",
+        "start": 0.68,
+        "end": 0.72
+      },
+      {
+        "text": "r",
+        "start": 0.72,
+        "end": 0.78
+      },
+      {
+        "text": "e",
+        "start": 0.78,
+        "end": 0.94
+      },
+      {
+        "text": "d",
+        "start": 0.94,
+        "end": 1.02
+      },
+      {
+        "text": " ",
+        "start": 1.02,
+        "end": 1.02
+      },
+      {
+        "text": "ˌ",
+        "start": 1.02,
+        "end": 1.02
+      },
+      {
+        "text": "h",
+        "start": 1.02,
+        "end": 1.12
+      },
+      {
+        "text": "aʊ",
+        "start": 1.12,
+        "end": 1.4
+      },
+      {
+        "text": "s",
+        "start": 1.4,
+        "end": 1.71
+      }
+    ]
+  },
+  {
+    "wordId": "word_go",
+    "audioId": "word_go",
+    "audioSha1": "c5bc436352a0ac4ad8ecffb1d6c7a0c2dab096e8",
+    "ipa": "ɡəʊ",
+    "duration": 0.96,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ɡ",
+        "start": 0.05,
+        "end": 0.1322
+      },
+      {
+        "text": "əʊ",
+        "start": 0.1322,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "wordId": "word_send",
+    "audioId": "word_send",
+    "audioSha1": "1b0ca14a1397e268741feb896174735247ae99bf",
+    "ipa": "send",
+    "duration": 1.088,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "s",
+        "start": 0.05,
+        "end": 0.3
+      },
+      {
+        "text": "e",
+        "start": 0.3,
+        "end": 0.48
+      },
+      {
+        "text": "n",
+        "start": 0.48,
+        "end": 0.6
+      },
+      {
+        "text": "d",
+        "start": 0.6,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "wordId": "word_thousand",
+    "audioId": "word_thousand",
+    "audioSha1": "275f660aff7b398b8fa74a185b4796b6c4d96347",
+    "ipa": "ˈθaʊzənd",
+    "duration": 1.37,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "θ",
+        "start": 0.05,
+        "end": 0.26
+      },
+      {
+        "text": "aʊ",
+        "start": 0.26,
+        "end": 0.54
+      },
+      {
+        "text": "z",
+        "start": 0.54,
+        "end": 0.62
+      },
+      {
+        "text": "ə",
+        "start": 0.62,
+        "end": 0.72
+      },
+      {
+        "text": "n",
+        "start": 0.72,
+        "end": 0.84
+      },
+      {
+        "text": "d",
+        "start": 0.84,
+        "end": 1.13
+      }
+    ]
+  },
+  {
+    "wordId": "word_clay",
+    "audioId": "word_clay",
+    "audioSha1": "25a93549aee99edf1119b17d624d2ebbfd22046c",
+    "ipa": "kleɪ",
+    "duration": 1.1733333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "k",
+        "start": 0.03,
+        "end": 0.3
+      },
+      {
+        "text": "l",
+        "start": 0.3,
+        "end": 0.36
+      },
+      {
+        "text": "eɪ",
+        "start": 0.36,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "wordId": "word_see",
+    "audioId": "word_see",
+    "audioSha1": "260afff7a4f6920f3a29ad6a2d947913b61a6ae1",
+    "ipa": "siː",
+    "duration": 0.862,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "s",
+        "start": 0.04,
+        "end": 0.1689
+      },
+      {
+        "text": "iː",
+        "start": 0.1689,
+        "end": 0.62
+      }
+    ]
+  },
+  {
+    "wordId": "word_village",
+    "audioId": "word_village",
+    "audioSha1": "4e424aa1701d088ddf401e0c71330ddf768d3139",
+    "ipa": "ˈvɪlɪdʒ",
+    "duration": 1.1946666666666668,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "v",
+        "start": 0.05,
+        "end": 0.26
+      },
+      {
+        "text": "ɪ",
+        "start": 0.26,
+        "end": 0.36
+      },
+      {
+        "text": "l",
+        "start": 0.36,
+        "end": 0.4
+      },
+      {
+        "text": "ɪ",
+        "start": 0.4,
+        "end": 0.62
+      },
+      {
+        "text": "dʒ",
+        "start": 0.62,
+        "end": 0.8
+      }
+    ]
+  },
+  {
+    "wordId": "word_eat",
+    "audioId": "word_eat",
+    "audioSha1": "831b399a7ed01a3ab8ece94630bde78b1b9fc871",
+    "ipa": "iːt",
+    "duration": 0.9173333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "iː",
+        "start": 0.03,
+        "end": 0.48
+      },
+      {
+        "text": "t",
+        "start": 0.48,
+        "end": 0.66
+      }
+    ]
+  },
+  {
+    "wordId": "word_dry",
+    "audioId": "word_dry",
+    "audioSha1": "ea2019c2f115e548706183610a370c64786caeae",
+    "ipa": "draɪ",
+    "duration": 1.0686666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "d",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "r",
+        "start": 0.26,
+        "end": 0.34
+      },
+      {
+        "text": "aɪ",
+        "start": 0.34,
+        "end": 0.82
+      }
+    ]
+  },
+  {
+    "wordId": "word_take",
+    "audioId": "word_take",
+    "audioSha1": "c3c6ba1928e17366f54c7b76047fb23b5dfaee65",
+    "ipa": "teɪk",
+    "duration": 1.024,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "t",
+        "start": 0.03,
+        "end": 0.28
+      },
+      {
+        "text": "eɪ",
+        "start": 0.28,
+        "end": 0.54
+      },
+      {
+        "text": "k",
+        "start": 0.54,
+        "end": 0.71
+      }
+    ]
+  },
+  {
+    "wordId": "word_view",
+    "audioId": "word_view",
+    "audioSha1": "f902bf3237c564e0a49f67303408e77e30327eaf",
+    "ipa": "vjuː",
+    "duration": 1.0106666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "v",
+        "start": 0.03,
+        "end": 0.24
+      },
+      {
+        "text": "j",
+        "start": 0.24,
+        "end": 0.34
+      },
+      {
+        "text": "uː",
+        "start": 0.34,
+        "end": 0.77
+      }
+    ]
+  },
+  {
+    "wordId": "word_inspiring",
+    "audioId": "word_inspiring",
+    "audioSha1": "ab3155d6941a2b63fa3f5735248960cd0bf57006",
+    "ipa": "ɪnˈspaɪərɪŋ",
+    "duration": 1.6032916666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ɪ",
+        "start": 0.03,
+        "end": 0.24
+      },
+      {
+        "text": "n",
+        "start": 0.24,
+        "end": 0.34
+      },
+      {
+        "text": "ˈ",
+        "start": 0.34,
+        "end": 0.34
+      },
+      {
+        "text": "s",
+        "start": 0.34,
+        "end": 0.46
+      },
+      {
+        "text": "p",
+        "start": 0.46,
+        "end": 0.54
+      },
+      {
+        "text": "aɪ",
+        "start": 0.54,
+        "end": 0.7708
+      },
+      {
+        "text": "ə",
+        "start": 0.7708,
+        "end": 0.84
+      },
+      {
+        "text": "r",
+        "start": 0.84,
+        "end": 0.9
+      },
+      {
+        "text": "ɪ",
+        "start": 0.9,
+        "end": 1.02
+      },
+      {
+        "text": "ŋ",
+        "start": 1.02,
+        "end": 1.36
+      }
+    ]
+  },
+  {
+    "wordId": "word_bamboo",
+    "audioId": "word_bamboo",
+    "audioSha1": "2c90034186cfc7e5a8491f052da68b2b9b9659cd",
+    "ipa": "bæmˈbuː",
+    "duration": 1.3653333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "b",
+        "start": 0.03,
+        "end": 0.24
+      },
+      {
+        "text": "æ",
+        "start": 0.24,
+        "end": 0.38
+      },
+      {
+        "text": "m",
+        "start": 0.38,
+        "end": 0.48
+      },
+      {
+        "text": "ˈ",
+        "start": 0.48,
+        "end": 0.48
+      },
+      {
+        "text": "b",
+        "start": 0.48,
+        "end": 0.54
+      },
+      {
+        "text": "uː",
+        "start": 0.54,
+        "end": 0.98
+      }
+    ]
+  },
+  {
+    "wordId": "word_pumpkin",
+    "audioId": "word_pumpkin",
+    "audioSha1": "4991950fcab264c326506e0c949886dc8d2bad5f",
+    "ipa": "ˈpʌmpkɪn",
+    "duration": 1.2206666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "p",
+        "start": 0.03,
+        "end": 0.1543
+      },
+      {
+        "text": "ʌ",
+        "start": 0.1543,
+        "end": 0.32
+      },
+      {
+        "text": "m",
+        "start": 0.32,
+        "end": 0.3886
+      },
+      {
+        "text": "p",
+        "start": 0.3886,
+        "end": 0.48
+      },
+      {
+        "text": "k",
+        "start": 0.48,
+        "end": 0.54
+      },
+      {
+        "text": "ɪ",
+        "start": 0.54,
+        "end": 0.68
+      },
+      {
+        "text": "n",
+        "start": 0.68,
+        "end": 0.98
+      }
+    ]
+  },
+  {
+    "wordId": "word_restaurant",
+    "audioId": "word_restaurant",
+    "audioSha1": "7f7e18d07514bbbd32bc87f3eb0928568b3344cd",
+    "ipa": "ˈrestrɒnt",
+    "duration": 1.3812916666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "r",
+        "start": 0.03,
+        "end": 0.24
+      },
+      {
+        "text": "e",
+        "start": 0.24,
+        "end": 0.4
+      },
+      {
+        "text": "s",
+        "start": 0.4,
+        "end": 0.52
+      },
+      {
+        "text": "t",
+        "start": 0.52,
+        "end": 0.58
+      },
+      {
+        "text": "r",
+        "start": 0.58,
+        "end": 0.62
+      },
+      {
+        "text": "ɒ",
+        "start": 0.62,
+        "end": 0.76
+      },
+      {
+        "text": "n",
+        "start": 0.76,
+        "end": 0.88
+      },
+      {
+        "text": "t",
+        "start": 0.88,
+        "end": 1.14
+      }
+    ]
+  },
+  {
+    "wordId": "word_airport",
+    "audioId": "word_airport",
+    "audioSha1": "727e5da575f1c9594c98d7a3f307ab394511cd05",
+    "ipa": "ˈeəpɔːt",
+    "duration": 1.154,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "eə",
+        "start": 0.05,
+        "end": 0.44
+      },
+      {
+        "text": "p",
+        "start": 0.44,
+        "end": 0.5614
+      },
+      {
+        "text": "ɔː",
+        "start": 0.5614,
+        "end": 0.78
+      },
+      {
+        "text": "t",
+        "start": 0.78,
+        "end": 0.91
+      }
+    ]
+  },
+  {
+    "wordId": "word_new_zealand",
+    "audioId": "word_new_zealand",
+    "audioSha1": "42e0c6e82ad5b3f6e202683df837fd9b69902a87",
+    "ipa": "ˌnjuː ˈziːlənd",
+    "duration": 1.572,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˌ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "n",
+        "start": 0.03,
+        "end": 0.24
+      },
+      {
+        "text": "j",
+        "start": 0.24,
+        "end": 0.288
+      },
+      {
+        "text": "uː",
+        "start": 0.288,
+        "end": 0.48
+      },
+      {
+        "text": " ",
+        "start": 0.48,
+        "end": 0.48
+      },
+      {
+        "text": "ˈ",
+        "start": 0.48,
+        "end": 0.48
+      },
+      {
+        "text": "z",
+        "start": 0.48,
+        "end": 0.58
+      },
+      {
+        "text": "iː",
+        "start": 0.58,
+        "end": 0.74
+      },
+      {
+        "text": "l",
+        "start": 0.74,
+        "end": 0.78
+      },
+      {
+        "text": "ə",
+        "start": 0.78,
+        "end": 0.9
+      },
+      {
+        "text": "n",
+        "start": 0.9,
+        "end": 1.0
+      },
+      {
+        "text": "d",
+        "start": 1.0,
+        "end": 1.33
+      }
+    ]
+  },
+  {
+    "wordId": "word_hong_kong_zhuhai_macao_bridge",
+    "audioId": "word_hong_kong_zhuhai_macao_bridge",
+    "audioSha1": "16e585f8f3cfe684573823a2ad2bf797659510cd",
+    "ipa": "ˌhɒŋ ˈkɒŋ ˌdʒuːˈhaɪ məˈkaʊ brɪdʒ",
+    "duration": 2.6346666666666665,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˌ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "h",
+        "start": 0.03,
+        "end": 0.18
+      },
+      {
+        "text": "ɒ",
+        "start": 0.18,
+        "end": 0.3
+      },
+      {
+        "text": "ŋ",
+        "start": 0.3,
+        "end": 0.42
+      },
+      {
+        "text": " ",
+        "start": 0.42,
+        "end": 0.42
+      },
+      {
+        "text": "ˈ",
+        "start": 0.42,
+        "end": 0.42
+      },
+      {
+        "text": "k",
+        "start": 0.42,
+        "end": 0.52
+      },
+      {
+        "text": "ɒ",
+        "start": 0.52,
+        "end": 0.66
+      },
+      {
+        "text": "ŋ",
+        "start": 0.66,
+        "end": 0.84
+      },
+      {
+        "text": " ",
+        "start": 0.84,
+        "end": 0.84
+      },
+      {
+        "text": "ˌ",
+        "start": 0.84,
+        "end": 0.84
+      },
+      {
+        "text": "dʒ",
+        "start": 0.84,
+        "end": 0.9
+      },
+      {
+        "text": "uː",
+        "start": 0.9,
+        "end": 1.0
+      },
+      {
+        "text": "ˈ",
+        "start": 1.0,
+        "end": 1.0
+      },
+      {
+        "text": "h",
+        "start": 1.0,
+        "end": 1.08
+      },
+      {
+        "text": "aɪ",
+        "start": 1.08,
+        "end": 1.3
+      },
+      {
+        "text": " ",
+        "start": 1.3,
+        "end": 1.3
+      },
+      {
+        "text": "m",
+        "start": 1.3,
+        "end": 1.34
+      },
+      {
+        "text": "ə",
+        "start": 1.34,
+        "end": 1.44
+      },
+      {
+        "text": "ˈ",
+        "start": 1.44,
+        "end": 1.44
+      },
+      {
+        "text": "k",
+        "start": 1.44,
+        "end": 1.54
+      },
+      {
+        "text": "aʊ",
+        "start": 1.54,
+        "end": 1.8
+      },
+      {
+        "text": " ",
+        "start": 1.8,
+        "end": 1.8
+      },
+      {
+        "text": "b",
+        "start": 1.8,
+        "end": 1.86
+      },
+      {
+        "text": "r",
+        "start": 1.86,
+        "end": 1.9
+      },
+      {
+        "text": "ɪ",
+        "start": 1.9,
+        "end": 2.08
+      },
+      {
+        "text": "dʒ",
+        "start": 2.08,
+        "end": 2.39
+      }
+    ]
+  },
+  {
+    "wordId": "word_paris",
+    "audioId": "word_paris",
+    "audioSha1": "1e455b67cedfb4f68722a1afed0ac969216178fa",
+    "ipa": "ˈpærɪs",
+    "duration": 1.4786666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.04,
+        "end": 0.04
+      },
+      {
+        "text": "p",
+        "start": 0.04,
+        "end": 0.26
+      },
+      {
+        "text": "æ",
+        "start": 0.26,
+        "end": 0.42
+      },
+      {
+        "text": "r",
+        "start": 0.42,
+        "end": 0.46
+      },
+      {
+        "text": "ɪ",
+        "start": 0.46,
+        "end": 0.64
+      },
+      {
+        "text": "s",
+        "start": 0.64,
+        "end": 1.23
+      }
+    ]
+  },
+  {
+    "wordId": "word_eiffel_tower",
+    "audioId": "word_eiffel_tower",
+    "audioSha1": "b02eb6e3c9b7d6b2adb30fccff23912b8e6b61a1",
+    "ipa": "ˌaɪfəl ˈtaʊə",
+    "duration": 1.7513333333333334,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˌ",
+        "start": 0.04,
+        "end": 0.04
+      },
+      {
+        "text": "aɪ",
+        "start": 0.04,
+        "end": 0.44
+      },
+      {
+        "text": "f",
+        "start": 0.44,
+        "end": 0.5
+      },
+      {
+        "text": "ə",
+        "start": 0.5,
+        "end": 0.58
+      },
+      {
+        "text": "l",
+        "start": 0.58,
+        "end": 0.68
+      },
+      {
+        "text": " ",
+        "start": 0.68,
+        "end": 0.68
+      },
+      {
+        "text": "ˈ",
+        "start": 0.68,
+        "end": 0.68
+      },
+      {
+        "text": "t",
+        "start": 0.68,
+        "end": 0.8
+      },
+      {
+        "text": "aʊ",
+        "start": 0.8,
+        "end": 1.08
+      },
+      {
+        "text": "ə",
+        "start": 1.08,
+        "end": 1.51
+      }
+    ]
+  },
+  {
+    "wordId": "word_terracotta_warriors",
+    "audioId": "word_terracotta_warriors",
+    "audioSha1": "cbf9deb214ef2a66711fa87b5c4bb5dacde0a8d8",
+    "ipa": "ˌterəˈkɒtə ˈwɒriəz",
+    "duration": 2.082666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˌ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "t",
+        "start": 0.03,
+        "end": 0.24
+      },
+      {
+        "text": "e",
+        "start": 0.24,
+        "end": 0.38
+      },
+      {
+        "text": "r",
+        "start": 0.38,
+        "end": 0.42
+      },
+      {
+        "text": "ə",
+        "start": 0.42,
+        "end": 0.56
+      },
+      {
+        "text": "ˈ",
+        "start": 0.56,
+        "end": 0.56
+      },
+      {
+        "text": "k",
+        "start": 0.56,
+        "end": 0.64
+      },
+      {
+        "text": "ɒ",
+        "start": 0.64,
+        "end": 0.76
+      },
+      {
+        "text": "t",
+        "start": 0.76,
+        "end": 0.8
+      },
+      {
+        "text": "ə",
+        "start": 0.8,
+        "end": 0.96
+      },
+      {
+        "text": " ",
+        "start": 0.96,
+        "end": 0.96
+      },
+      {
+        "text": "ˈ",
+        "start": 0.96,
+        "end": 0.96
+      },
+      {
+        "text": "w",
+        "start": 0.96,
+        "end": 1.04
+      },
+      {
+        "text": "ɒ",
+        "start": 1.04,
+        "end": 1.2
+      },
+      {
+        "text": "r",
+        "start": 1.2,
+        "end": 1.26
+      },
+      {
+        "text": "i",
+        "start": 1.26,
+        "end": 1.36
+      },
+      {
+        "text": "ə",
+        "start": 1.36,
+        "end": 1.56
+      },
+      {
+        "text": "z",
+        "start": 1.56,
+        "end": 1.84
+      }
+    ]
+  },
+  {
+    "wordId": "word_jinggangshan_revolution_museum",
+    "audioId": "word_jinggangshan_revolution_museum",
+    "audioSha1": "a1d4aa1907a11e571ef1cc3cd4bf693dd933c4ab",
+    "ipa": "ˌdʒɪŋɡæŋˈʃæn ˌrevəˈluːʃən mjuːˈziːəm",
+    "duration": 2.7853333333333334,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˌ",
+        "start": 0.01,
+        "end": 0.01
+      },
+      {
+        "text": "dʒ",
+        "start": 0.01,
+        "end": 0.22
+      },
+      {
+        "text": "ɪ",
+        "start": 0.22,
+        "end": 0.32
+      },
+      {
+        "text": "ŋ",
+        "start": 0.32,
+        "end": 0.38
+      },
+      {
+        "text": "ɡ",
+        "start": 0.38,
+        "end": 0.44
+      },
+      {
+        "text": "æ",
+        "start": 0.44,
+        "end": 0.56
+      },
+      {
+        "text": "ŋ",
+        "start": 0.56,
+        "end": 0.66
+      },
+      {
+        "text": "ˈ",
+        "start": 0.66,
+        "end": 0.66
+      },
+      {
+        "text": "ʃ",
+        "start": 0.66,
+        "end": 0.76
+      },
+      {
+        "text": "æ",
+        "start": 0.76,
+        "end": 0.94
+      },
+      {
+        "text": "n",
+        "start": 0.94,
+        "end": 1.1
+      },
+      {
+        "text": " ",
+        "start": 1.1,
+        "end": 1.1
+      },
+      {
+        "text": "ˌ",
+        "start": 1.1,
+        "end": 1.1
+      },
+      {
+        "text": "r",
+        "start": 1.1,
+        "end": 1.14
+      },
+      {
+        "text": "e",
+        "start": 1.14,
+        "end": 1.24
+      },
+      {
+        "text": "v",
+        "start": 1.24,
+        "end": 1.28
+      },
+      {
+        "text": "ə",
+        "start": 1.28,
+        "end": 1.38
+      },
+      {
+        "text": "ˈ",
+        "start": 1.38,
+        "end": 1.38
+      },
+      {
+        "text": "l",
+        "start": 1.38,
+        "end": 1.44
+      },
+      {
+        "text": "uː",
+        "start": 1.44,
+        "end": 1.58
+      },
+      {
+        "text": "ʃ",
+        "start": 1.58,
+        "end": 1.68
+      },
+      {
+        "text": "ə",
+        "start": 1.68,
+        "end": 1.76
+      },
+      {
+        "text": "n",
+        "start": 1.76,
+        "end": 1.86
+      },
+      {
+        "text": " ",
+        "start": 1.86,
+        "end": 1.86
+      },
+      {
+        "text": "m",
+        "start": 1.86,
+        "end": 1.8867
+      },
+      {
+        "text": "j",
+        "start": 1.8867,
+        "end": 1.9
+      },
+      {
+        "text": "uː",
+        "start": 1.9,
+        "end": 2.04
+      },
+      {
+        "text": "ˈ",
+        "start": 2.04,
+        "end": 2.04
+      },
+      {
+        "text": "z",
+        "start": 2.04,
+        "end": 2.12
+      },
+      {
+        "text": "iː",
+        "start": 2.12,
+        "end": 2.26
+      },
+      {
+        "text": "ə",
+        "start": 2.26,
+        "end": 2.4
+      },
+      {
+        "text": "m",
+        "start": 2.4,
+        "end": 2.54
+      }
+    ]
+  },
+  {
+    "wordId": "word_the_red_army",
+    "audioId": "word_the_red_army",
+    "audioSha1": "b71b5f532a3fe7c9ed8febdf822df5f15efe60f1",
+    "ipa": "ðə ˌred ˈɑːmi",
+    "duration": 1.6346666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ð",
+        "start": 0.03,
+        "end": 0.18
+      },
+      {
+        "text": "ə",
+        "start": 0.18,
+        "end": 0.32
+      },
+      {
+        "text": " ",
+        "start": 0.32,
+        "end": 0.32
+      },
+      {
+        "text": "ˌ",
+        "start": 0.32,
+        "end": 0.32
+      },
+      {
+        "text": "r",
+        "start": 0.32,
+        "end": 0.38
+      },
+      {
+        "text": "e",
+        "start": 0.38,
+        "end": 0.52
+      },
+      {
+        "text": "d",
+        "start": 0.52,
+        "end": 0.6467
+      },
+      {
+        "text": " ",
+        "start": 0.6467,
+        "end": 0.6467
+      },
+      {
+        "text": "ˈ",
+        "start": 0.6467,
+        "end": 0.6467
+      },
+      {
+        "text": "ɑː",
+        "start": 0.6467,
+        "end": 0.9
+      },
+      {
+        "text": "m",
+        "start": 0.9,
+        "end": 0.96
+      },
+      {
+        "text": "i",
+        "start": 0.96,
+        "end": 1.39
+      }
+    ]
+  },
+  {
+    "wordId": "word_dress",
+    "audioId": "word_dress",
+    "audioSha1": "2f0d9f7f26aa312f1902b28f2c8e9e7dae52b4dc",
+    "ipa": "dres",
+    "duration": 1.216,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "d",
+        "start": 0.05,
+        "end": 0.3
+      },
+      {
+        "text": "r",
+        "start": 0.3,
+        "end": 0.36
+      },
+      {
+        "text": "e",
+        "start": 0.36,
+        "end": 0.56
+      },
+      {
+        "text": "s",
+        "start": 0.56,
+        "end": 0.79
+      }
+    ]
+  },
+  {
+    "wordId": "word_paste",
+    "audioId": "word_paste",
+    "audioSha1": "0a5cb9607c58fbf6a5309e3da346ded121584828",
+    "ipa": "peɪst",
+    "duration": 1.1946666666666668,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "p",
+        "start": 0.04,
+        "end": 0.26
+      },
+      {
+        "text": "eɪ",
+        "start": 0.26,
+        "end": 0.56
+      },
+      {
+        "text": "s",
+        "start": 0.56,
+        "end": 0.68
+      },
+      {
+        "text": "t",
+        "start": 0.68,
+        "end": 0.82
+      }
+    ]
+  },
+  {
+    "wordId": "word_gala",
+    "audioId": "word_gala",
+    "audioSha1": "52512a960bb14eedcecfa0653b21488cd1fbd201",
+    "ipa": "ˈɡɑːlə",
+    "duration": 1.216,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "ɡ",
+        "start": 0.05,
+        "end": 0.28
+      },
+      {
+        "text": "ɑː",
+        "start": 0.28,
+        "end": 0.54
+      },
+      {
+        "text": "l",
+        "start": 0.54,
+        "end": 0.58
+      },
+      {
+        "text": "ə",
+        "start": 0.58,
+        "end": 0.83
+      }
+    ]
+  },
+  {
+    "wordId": "word_count_down",
+    "audioId": "word_count_down",
+    "audioSha1": "19f47cddc3494edebcdeea427f966e4488505b9d",
+    "ipa": "ˌkaʊnt ˈdaʊn",
+    "duration": 1.5506666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˌ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "k",
+        "start": 0.03,
+        "end": 0.24
+      },
+      {
+        "text": "aʊ",
+        "start": 0.24,
+        "end": 0.38
+      },
+      {
+        "text": "n",
+        "start": 0.38,
+        "end": 0.46
+      },
+      {
+        "text": "t",
+        "start": 0.46,
+        "end": 0.58
+      },
+      {
+        "text": " ",
+        "start": 0.58,
+        "end": 0.58
+      },
+      {
+        "text": "ˈ",
+        "start": 0.58,
+        "end": 0.58
+      },
+      {
+        "text": "d",
+        "start": 0.58,
+        "end": 0.64
+      },
+      {
+        "text": "aʊ",
+        "start": 0.64,
+        "end": 0.96
+      },
+      {
+        "text": "n",
+        "start": 0.96,
+        "end": 1.31
+      }
+    ]
+  },
+  {
+    "wordId": "word_marathon",
+    "audioId": "word_marathon",
+    "audioSha1": "f349433415b58386c00a597cd16b54b900127fe7",
+    "ipa": "ˈmærəθən",
+    "duration": 1.6,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.04,
+        "end": 0.04
+      },
+      {
+        "text": "m",
+        "start": 0.04,
+        "end": 0.28
+      },
+      {
+        "text": "æ",
+        "start": 0.28,
+        "end": 0.42
+      },
+      {
+        "text": "r",
+        "start": 0.42,
+        "end": 0.46
+      },
+      {
+        "text": "ə",
+        "start": 0.46,
+        "end": 0.58
+      },
+      {
+        "text": "θ",
+        "start": 0.58,
+        "end": 0.66
+      },
+      {
+        "text": "ə",
+        "start": 0.66,
+        "end": 0.8
+      },
+      {
+        "text": "n",
+        "start": 0.8,
+        "end": 1.05
+      }
+    ]
+  },
+  {
+    "wordId": "word_as",
+    "audioId": "word_as",
+    "audioSha1": "82152f828dd9abd075a294aec5afea0cf2a86bb4",
+    "ipa": "æz",
+    "duration": 0.9253333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "æ",
+        "start": 0.03,
+        "end": 0.36
+      },
+      {
+        "text": "z",
+        "start": 0.36,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "wordId": "word_race",
+    "audioId": "word_race",
+    "audioSha1": "dd65f4e13e1ce37f6d6d470b1fccd36827d1d892",
+    "ipa": "reɪs",
+    "duration": 1.554,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "r",
+        "start": 0.03,
+        "end": 0.28
+      },
+      {
+        "text": "eɪ",
+        "start": 0.28,
+        "end": 0.58
+      },
+      {
+        "text": "s",
+        "start": 0.58,
+        "end": 1.31
+      }
+    ]
+  },
+  {
+    "wordId": "word_run",
+    "audioId": "word_run",
+    "audioSha1": "ad84ac883a3ded89b4c591e2433469fc19ec815a",
+    "ipa": "rʌn",
+    "duration": 1.1733333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "r",
+        "start": 0.05,
+        "end": 0.3
+      },
+      {
+        "text": "ʌ",
+        "start": 0.3,
+        "end": 0.48
+      },
+      {
+        "text": "n",
+        "start": 0.48,
+        "end": 0.75
+      }
+    ]
+  },
+  {
+    "wordId": "word_cheer",
+    "audioId": "word_cheer",
+    "audioSha1": "bf9a1134eb9e2a4bc19654f0d6489d651c0626cd",
+    "ipa": "tʃɪə",
+    "duration": 0.984625,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "tʃ",
+        "start": 0.04,
+        "end": 0.2027
+      },
+      {
+        "text": "ɪə",
+        "start": 0.2027,
+        "end": 0.74
+      }
+    ]
+  },
+  {
+    "wordId": "word_book_fair",
+    "audioId": "word_book_fair",
+    "audioSha1": "a44f21319ed514246b83996fc4a1a02977bb0951",
+    "ipa": "ˈbʊk feə",
+    "duration": 1.2093333333333334,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "b",
+        "start": 0.03,
+        "end": 0.2
+      },
+      {
+        "text": "ʊ",
+        "start": 0.2,
+        "end": 0.32
+      },
+      {
+        "text": "k",
+        "start": 0.32,
+        "end": 0.4478
+      },
+      {
+        "text": " ",
+        "start": 0.4478,
+        "end": 0.4478
+      },
+      {
+        "text": "f",
+        "start": 0.4478,
+        "end": 0.5117
+      },
+      {
+        "text": "eə",
+        "start": 0.5117,
+        "end": 0.96
+      }
+    ]
+  },
+  {
+    "wordId": "word_read",
+    "audioId": "word_read",
+    "audioSha1": "7129013c0e69f68c033d462003152789f356980a",
+    "ipa": "riːd",
+    "duration": 1.4473333333333334,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "r",
+        "start": 0.05,
+        "end": 0.3
+      },
+      {
+        "text": "iː",
+        "start": 0.3,
+        "end": 0.62
+      },
+      {
+        "text": "d",
+        "start": 0.62,
+        "end": 1.2
+      }
+    ]
+  },
+  {
+    "wordId": "word_writer",
+    "audioId": "word_writer",
+    "audioSha1": "5f830c9aeb5585be6f8822ec5ca05d529deaaa48",
+    "ipa": "ˈraɪtə",
+    "duration": 1.112625,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "r",
+        "start": 0.03,
+        "end": 0.28
+      },
+      {
+        "text": "aɪ",
+        "start": 0.28,
+        "end": 0.52
+      },
+      {
+        "text": "t",
+        "start": 0.52,
+        "end": 0.62
+      },
+      {
+        "text": "ə",
+        "start": 0.62,
+        "end": 0.87
+      }
+    ]
+  },
+  {
+    "wordId": "word_make",
+    "audioId": "word_make",
+    "audioSha1": "e1a8eb299f9e8b0e3864e2855a52715d64b5efbd",
+    "ipa": "meɪk",
+    "duration": 1.1733333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "m",
+        "start": 0.03,
+        "end": 0.3
+      },
+      {
+        "text": "eɪ",
+        "start": 0.3,
+        "end": 0.6
+      },
+      {
+        "text": "k",
+        "start": 0.6,
+        "end": 0.79
+      }
+    ]
+  },
+  {
+    "wordId": "word_sing",
+    "audioId": "word_sing",
+    "audioSha1": "9f62c80051fb1eff6da3cfddd4a10a2c12ee646f",
+    "ipa": "sɪŋ",
+    "duration": 0.9093333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "s",
+        "start": 0.04,
+        "end": 0.3
+      },
+      {
+        "text": "ɪ",
+        "start": 0.3,
+        "end": 0.48
+      },
+      {
+        "text": "ŋ",
+        "start": 0.48,
+        "end": 0.66
+      }
+    ]
+  },
+  {
+    "wordId": "word_wear",
+    "audioId": "word_wear",
+    "audioSha1": "5c8faee62f9268138df4fe7292c1cd8fefa59cce",
+    "ipa": "weə",
+    "duration": 1.152,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "w",
+        "start": 0.05,
+        "end": 0.1229
+      },
+      {
+        "text": "eə",
+        "start": 0.1229,
+        "end": 0.73
+      }
+    ]
+  },
+  {
+    "wordId": "word_yesterday",
+    "audioId": "word_yesterday",
+    "audioSha1": "7c96fe0eba1a85ec4c5f138776914017ec7120fa",
+    "ipa": "ˈjestədeɪ",
+    "duration": 1.414,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "j",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "e",
+        "start": 0.26,
+        "end": 0.4
+      },
+      {
+        "text": "s",
+        "start": 0.4,
+        "end": 0.52
+      },
+      {
+        "text": "t",
+        "start": 0.52,
+        "end": 0.56
+      },
+      {
+        "text": "ə",
+        "start": 0.56,
+        "end": 0.66
+      },
+      {
+        "text": "d",
+        "start": 0.66,
+        "end": 0.72
+      },
+      {
+        "text": "eɪ",
+        "start": 0.72,
+        "end": 1.17
+      }
+    ]
+  },
+  {
+    "wordId": "word_notice",
+    "audioId": "word_notice",
+    "audioSha1": "399cefe0cf0c4c19fe666a72ea7b28231e409d0b",
+    "ipa": "ˈnəʊtɪs",
+    "duration": 1.5786666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "n",
+        "start": 0.03,
+        "end": 0.1385
+      },
+      {
+        "text": "əʊ",
+        "start": 0.1385,
+        "end": 0.5
+      },
+      {
+        "text": "t",
+        "start": 0.5,
+        "end": 0.6527
+      },
+      {
+        "text": "ɪ",
+        "start": 0.6527,
+        "end": 0.78
+      },
+      {
+        "text": "s",
+        "start": 0.78,
+        "end": 1.03
+      }
+    ]
+  },
+  {
+    "wordId": "word_wake",
+    "audioId": "word_wake",
+    "audioSha1": "823bb2df97ecf150213e8ac81e6a6091373c1d8a",
+    "ipa": "weɪk",
+    "duration": 0.96,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "w",
+        "start": 0.02,
+        "end": 0.1314
+      },
+      {
+        "text": "eɪ",
+        "start": 0.1314,
+        "end": 0.54
+      },
+      {
+        "text": "k",
+        "start": 0.54,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "wordId": "word_later",
+    "audioId": "word_later",
+    "audioSha1": "5fc626307be95231581db38ef66288064985bfd2",
+    "ipa": "ˈleɪtə",
+    "duration": 1.154,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "l",
+        "start": 0.05,
+        "end": 0.32
+      },
+      {
+        "text": "eɪ",
+        "start": 0.32,
+        "end": 0.54
+      },
+      {
+        "text": "t",
+        "start": 0.54,
+        "end": 0.64
+      },
+      {
+        "text": "ə",
+        "start": 0.64,
+        "end": 0.9
+      }
+    ]
+  },
+  {
+    "wordId": "word_judge",
+    "audioId": "word_judge",
+    "audioSha1": "145c2685a02fdcef40453f91ee8140cdfad037bb",
+    "ipa": "dʒʌdʒ",
+    "duration": 1.1733333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "dʒ",
+        "start": 0.05,
+        "end": 0.262
+      },
+      {
+        "text": "ʌ",
+        "start": 0.262,
+        "end": 0.58
+      },
+      {
+        "text": "dʒ",
+        "start": 0.58,
+        "end": 0.81
+      }
+    ]
+  },
+  {
+    "wordId": "word_win",
+    "audioId": "word_win",
+    "audioSha1": "1272bbf016b5a6170dda6136ab80149efe1097bd",
+    "ipa": "wɪn",
+    "duration": 1.0453333333333332,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "w",
+        "start": 0.05,
+        "end": 0.26
+      },
+      {
+        "text": "ɪ",
+        "start": 0.26,
+        "end": 0.44
+      },
+      {
+        "text": "n",
+        "start": 0.44,
+        "end": 0.7
+      }
+    ]
+  },
+  {
+    "wordId": "word_begin",
+    "audioId": "word_begin",
+    "audioSha1": "fd7ca87da71b9a443cac54239f32b17ccd3641ee",
+    "ipa": "bɪˈɡɪn",
+    "duration": 1.3013333333333332,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "b",
+        "start": 0.05,
+        "end": 0.1743
+      },
+      {
+        "text": "ɪ",
+        "start": 0.1743,
+        "end": 0.34
+      },
+      {
+        "text": "ˈ",
+        "start": 0.34,
+        "end": 0.34
+      },
+      {
+        "text": "ɡ",
+        "start": 0.34,
+        "end": 0.4109
+      },
+      {
+        "text": "ɪ",
+        "start": 0.4109,
+        "end": 0.6
+      },
+      {
+        "text": "n",
+        "start": 0.6,
+        "end": 0.85
+      }
+    ]
+  },
+  {
+    "wordId": "word_winner",
+    "audioId": "word_winner",
+    "audioSha1": "9ea4d49805d4f9bb05d2bab7da3224c647e35656",
+    "ipa": "ˈwɪnə",
+    "duration": 1.088,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "w",
+        "start": 0.05,
+        "end": 0.1813
+      },
+      {
+        "text": "ɪ",
+        "start": 0.1813,
+        "end": 0.4
+      },
+      {
+        "text": "n",
+        "start": 0.4,
+        "end": 0.44
+      },
+      {
+        "text": "ə",
+        "start": 0.44,
+        "end": 0.72
+      }
+    ]
+  },
+  {
+    "wordId": "word_ever",
+    "audioId": "word_ever",
+    "audioSha1": "78ee3843265cbd64b62cce36881b9da91ff0d512",
+    "ipa": "ˈevə",
+    "duration": 0.9813333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "e",
+        "start": 0.05,
+        "end": 0.38
+      },
+      {
+        "text": "v",
+        "start": 0.38,
+        "end": 0.44
+      },
+      {
+        "text": "ə",
+        "start": 0.44,
+        "end": 0.67
+      }
+    ]
+  },
+  {
+    "wordId": "word_exciting",
+    "audioId": "word_exciting",
+    "audioSha1": "668b9e061876ed7e53007ba1c3fe209a5a4981ba",
+    "ipa": "ɪkˈsaɪtɪŋ",
+    "duration": 1.4553333333333334,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ɪ",
+        "start": 0.02,
+        "end": 0.22
+      },
+      {
+        "text": "k",
+        "start": 0.22,
+        "end": 0.3
+      },
+      {
+        "text": "ˈ",
+        "start": 0.3,
+        "end": 0.3
+      },
+      {
+        "text": "s",
+        "start": 0.3,
+        "end": 0.46
+      },
+      {
+        "text": "aɪ",
+        "start": 0.46,
+        "end": 0.66
+      },
+      {
+        "text": "t",
+        "start": 0.66,
+        "end": 0.76
+      },
+      {
+        "text": "ɪ",
+        "start": 0.76,
+        "end": 0.9
+      },
+      {
+        "text": "ŋ",
+        "start": 0.9,
+        "end": 1.21
+      }
+    ]
+  },
+  {
+    "wordId": "word_cold",
+    "audioId": "word_cold",
+    "audioSha1": "abad4019840072a6a02cb42e16c7bfe4d0fc6bfc",
+    "ipa": "kəʊld",
+    "duration": 1.2586666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "k",
+        "start": 0.05,
+        "end": 0.1471
+      },
+      {
+        "text": "əʊ",
+        "start": 0.1471,
+        "end": 0.6
+      },
+      {
+        "text": "l",
+        "start": 0.6,
+        "end": 0.72
+      },
+      {
+        "text": "d",
+        "start": 0.72,
+        "end": 0.85
+      }
+    ]
+  },
+  {
+    "wordId": "word_ill",
+    "audioId": "word_ill",
+    "audioSha1": "b539bde57f5c752acbb2fd320f86a6ef41124790",
+    "ipa": "ɪl",
+    "duration": 0.8746666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ɪ",
+        "start": 0.03,
+        "end": 0.42
+      },
+      {
+        "text": "l",
+        "start": 0.42,
+        "end": 0.61
+      }
+    ]
+  },
+  {
+    "wordId": "word_head",
+    "audioId": "word_head",
+    "audioSha1": "3b69b70b20298b80405fbe8abade235ea454dd64",
+    "ipa": "hed",
+    "duration": 0.9386666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "h",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "e",
+        "start": 0.26,
+        "end": 0.5
+      },
+      {
+        "text": "d",
+        "start": 0.5,
+        "end": 0.64
+      }
+    ]
+  },
+  {
+    "wordId": "word_runny_nose",
+    "audioId": "word_runny_nose",
+    "audioSha1": "80ff02d72848dceef4405d226c9c302375b24a5a",
+    "ipa": "ˌrʌni ˈnəʊz",
+    "duration": 1.6133333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˌ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "r",
+        "start": 0.03,
+        "end": 0.1613
+      },
+      {
+        "text": "ʌ",
+        "start": 0.1613,
+        "end": 0.38
+      },
+      {
+        "text": "n",
+        "start": 0.38,
+        "end": 0.42
+      },
+      {
+        "text": "i",
+        "start": 0.42,
+        "end": 0.62
+      },
+      {
+        "text": " ",
+        "start": 0.62,
+        "end": 0.62
+      },
+      {
+        "text": "ˈ",
+        "start": 0.62,
+        "end": 0.62
+      },
+      {
+        "text": "n",
+        "start": 0.62,
+        "end": 0.6876
+      },
+      {
+        "text": "əʊ",
+        "start": 0.6876,
+        "end": 1.0033
+      },
+      {
+        "text": "z",
+        "start": 1.0033,
+        "end": 1.37
+      }
+    ]
+  },
+  {
+    "wordId": "word_soon",
+    "audioId": "word_soon",
+    "audioSha1": "665ba57101eadc62caec8deb544c9c7ab913794f",
+    "ipa": "suːn",
+    "duration": 0.9833333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "s",
+        "start": 0.05,
+        "end": 0.1593
+      },
+      {
+        "text": "uː",
+        "start": 0.1593,
+        "end": 0.56
+      },
+      {
+        "text": "n",
+        "start": 0.56,
+        "end": 0.74
+      }
+    ]
+  },
+  {
+    "wordId": "word_fever",
+    "audioId": "word_fever",
+    "audioSha1": "105c711c200c7e89f48e71ab10273217550345ce",
+    "ipa": "ˈfiːvə",
+    "duration": 1.0272916666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "f",
+        "start": 0.05,
+        "end": 0.32
+      },
+      {
+        "text": "iː",
+        "start": 0.32,
+        "end": 0.52
+      },
+      {
+        "text": "v",
+        "start": 0.52,
+        "end": 0.58
+      },
+      {
+        "text": "ə",
+        "start": 0.58,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "wordId": "word_cough",
+    "audioId": "word_cough",
+    "audioSha1": "2d0a98d4d68f9ee6d1d33f30b23d137f86857b07",
+    "ipa": "kɒf",
+    "duration": 0.96,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "k",
+        "start": 0.05,
+        "end": 0.3
+      },
+      {
+        "text": "ɒ",
+        "start": 0.3,
+        "end": 0.5
+      },
+      {
+        "text": "f",
+        "start": 0.5,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "wordId": "word_discuss",
+    "audioId": "word_discuss",
+    "audioSha1": "bf661f3646d01acc0183e94a29a897be6210ca95",
+    "ipa": "dɪˈskʌs",
+    "duration": 1.3866666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "d",
+        "start": 0.03,
+        "end": 0.22
+      },
+      {
+        "text": "ɪ",
+        "start": 0.22,
+        "end": 0.32
+      },
+      {
+        "text": "ˈ",
+        "start": 0.32,
+        "end": 0.32
+      },
+      {
+        "text": "s",
+        "start": 0.32,
+        "end": 0.46
+      },
+      {
+        "text": "k",
+        "start": 0.46,
+        "end": 0.52
+      },
+      {
+        "text": "ʌ",
+        "start": 0.52,
+        "end": 0.78
+      },
+      {
+        "text": "s",
+        "start": 0.78,
+        "end": 0.94
+      }
+    ]
+  },
+  {
+    "wordId": "word_diet",
+    "audioId": "word_diet",
+    "audioSha1": "b550adf8df471ac8da1d62aecea0a9f39e4dcd43",
+    "ipa": "ˈdaɪət",
+    "duration": 1.3013333333333332,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "d",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "aɪ",
+        "start": 0.26,
+        "end": 0.52
+      },
+      {
+        "text": "ə",
+        "start": 0.52,
+        "end": 0.7
+      },
+      {
+        "text": "t",
+        "start": 0.7,
+        "end": 0.85
+      }
+    ]
+  },
+  {
+    "wordId": "word_stay_up",
+    "audioId": "word_stay_up",
+    "audioSha1": "ed9c8f9a20614741a2283f6a5c6e0e4062b1600f",
+    "ipa": "ˌsteɪ ˈʌp",
+    "duration": 1.1753333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˌ",
+        "start": 0.04,
+        "end": 0.04
+      },
+      {
+        "text": "s",
+        "start": 0.04,
+        "end": 0.3
+      },
+      {
+        "text": "t",
+        "start": 0.3,
+        "end": 0.36
+      },
+      {
+        "text": "eɪ",
+        "start": 0.36,
+        "end": 0.6044
+      },
+      {
+        "text": " ",
+        "start": 0.6044,
+        "end": 0.6044
+      },
+      {
+        "text": "ˈ",
+        "start": 0.6044,
+        "end": 0.6044
+      },
+      {
+        "text": "ʌ",
+        "start": 0.6044,
+        "end": 0.8
+      },
+      {
+        "text": "p",
+        "start": 0.8,
+        "end": 0.93
+      }
+    ]
+  },
+  {
+    "wordId": "word_cry",
+    "audioId": "word_cry",
+    "audioSha1": "18bbfb15c6d3ed2d928d868667f4dd46d4ded95c",
+    "ipa": "kraɪ",
+    "duration": 1.0686666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "k",
+        "start": 0.05,
+        "end": 0.28
+      },
+      {
+        "text": "r",
+        "start": 0.28,
+        "end": 0.36
+      },
+      {
+        "text": "aɪ",
+        "start": 0.36,
+        "end": 0.82
+      }
+    ]
+  },
+  {
+    "wordId": "word_another",
+    "audioId": "word_another",
+    "audioSha1": "6a95c2cd2d95a7abfab7b69eac693be19fe54fdf",
+    "ipa": "əˈnʌðə",
+    "duration": 1.2586666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ə",
+        "start": 0.05,
+        "end": 0.34
+      },
+      {
+        "text": "ˈ",
+        "start": 0.34,
+        "end": 0.34
+      },
+      {
+        "text": "n",
+        "start": 0.34,
+        "end": 0.3933
+      },
+      {
+        "text": "ʌ",
+        "start": 0.3933,
+        "end": 0.5
+      },
+      {
+        "text": "ð",
+        "start": 0.5,
+        "end": 0.5825
+      },
+      {
+        "text": "ə",
+        "start": 0.5825,
+        "end": 0.83
+      }
+    ]
+  },
+  {
+    "wordId": "word_call",
+    "audioId": "word_call",
+    "audioSha1": "935bc66ee9154a6f9863a086c63f9cf1aee10391",
+    "ipa": "kɔːl",
+    "duration": 0.982,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "k",
+        "start": 0.04,
+        "end": 0.28
+      },
+      {
+        "text": "ɔː",
+        "start": 0.28,
+        "end": 0.56
+      },
+      {
+        "text": "l",
+        "start": 0.56,
+        "end": 0.74
+      }
+    ]
+  },
+  {
+    "wordId": "word_email",
+    "audioId": "word_email",
+    "audioSha1": "67a2f271b805302cd7d66c4c193adfe29220c7e2",
+    "ipa": "ˈiːmeɪl",
+    "duration": 1.28,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.04,
+        "end": 0.04
+      },
+      {
+        "text": "iː",
+        "start": 0.04,
+        "end": 0.4
+      },
+      {
+        "text": "m",
+        "start": 0.4,
+        "end": 0.46
+      },
+      {
+        "text": "eɪ",
+        "start": 0.46,
+        "end": 0.7
+      },
+      {
+        "text": "l",
+        "start": 0.7,
+        "end": 0.93
+      }
+    ]
+  },
+  {
+    "wordId": "word_unhappy",
+    "audioId": "word_unhappy",
+    "audioSha1": "f7edec3b9d7077a0b4b9f8b61eb9f5c861d842d4",
+    "ipa": "ʌnˈhæpi",
+    "duration": 1.472,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ʌ",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "n",
+        "start": 0.26,
+        "end": 0.38
+      },
+      {
+        "text": "ˈ",
+        "start": 0.38,
+        "end": 0.38
+      },
+      {
+        "text": "h",
+        "start": 0.38,
+        "end": 0.44
+      },
+      {
+        "text": "æ",
+        "start": 0.44,
+        "end": 0.62
+      },
+      {
+        "text": "p",
+        "start": 0.62,
+        "end": 0.715
+      },
+      {
+        "text": "i",
+        "start": 0.715,
+        "end": 1.0
+      }
+    ]
+  },
+  {
+    "wordId": "word_glass",
+    "audioId": "word_glass",
+    "audioSha1": "2c2bb8beef15ff6641c41d8f6e640312ecbc5d54",
+    "ipa": "ɡlɑːs",
+    "duration": 1.0133333333333334,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ɡ",
+        "start": 0.05,
+        "end": 0.26
+      },
+      {
+        "text": "l",
+        "start": 0.26,
+        "end": 0.38
+      },
+      {
+        "text": "ɑː",
+        "start": 0.38,
+        "end": 0.62
+      },
+      {
+        "text": "s",
+        "start": 0.62,
+        "end": 0.77
+      }
+    ]
+  },
+  {
+    "wordId": "word_may",
+    "audioId": "word_may",
+    "audioSha1": "557c05841cd56aa8075eb627e80b5a62e4a0a1a1",
+    "ipa": "meɪ",
+    "duration": 1.1093333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "m",
+        "start": 0.05,
+        "end": 0.1308
+      },
+      {
+        "text": "eɪ",
+        "start": 0.1308,
+        "end": 0.75
+      }
+    ]
+  },
+  {
+    "wordId": "word_add",
+    "audioId": "word_add",
+    "audioSha1": "3f2a743613efbe30427d6083645605dc3f27391b",
+    "ipa": "æd",
+    "duration": 0.908,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "æ",
+        "start": 0.04,
+        "end": 0.5
+      },
+      {
+        "text": "d",
+        "start": 0.5,
+        "end": 0.66
+      }
+    ]
+  },
+  {
+    "wordId": "word_video",
+    "audioId": "word_video",
+    "audioSha1": "49b0e5e41c4a992259772e3b3f55fc5c30bf1543",
+    "ipa": "ˈvɪdiəʊ",
+    "duration": 1.216,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "v",
+        "start": 0.05,
+        "end": 0.26
+      },
+      {
+        "text": "ɪ",
+        "start": 0.26,
+        "end": 0.36
+      },
+      {
+        "text": "d",
+        "start": 0.36,
+        "end": 0.42
+      },
+      {
+        "text": "i",
+        "start": 0.42,
+        "end": 0.4981
+      },
+      {
+        "text": "əʊ",
+        "start": 0.4981,
+        "end": 0.83
+      }
+    ]
+  },
+  {
+    "wordId": "word_better",
+    "audioId": "word_better",
+    "audioSha1": "01de41f8461706bd5a4139a9c339dba067fa915a",
+    "ipa": "ˈbetə",
+    "duration": 1.1306666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.04,
+        "end": 0.04
+      },
+      {
+        "text": "b",
+        "start": 0.04,
+        "end": 0.24
+      },
+      {
+        "text": "e",
+        "start": 0.24,
+        "end": 0.44
+      },
+      {
+        "text": "t",
+        "start": 0.44,
+        "end": 0.52
+      },
+      {
+        "text": "ə",
+        "start": 0.52,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "wordId": "word_money",
+    "audioId": "word_money",
+    "audioSha1": "bdf09c6c812e975ca0bb80b3def5ff0388919480",
+    "ipa": "ˈmʌni",
+    "duration": 1.426,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "m",
+        "start": 0.05,
+        "end": 0.18
+      },
+      {
+        "text": "ʌ",
+        "start": 0.18,
+        "end": 0.44
+      },
+      {
+        "text": "n",
+        "start": 0.44,
+        "end": 0.6162
+      },
+      {
+        "text": "i",
+        "start": 0.6162,
+        "end": 1.18
+      }
+    ]
+  },
+  {
+    "wordId": "word_pocket_money",
+    "audioId": "word_pocket_money",
+    "audioSha1": "9cac089e351c096156da6c476454bae642791d64",
+    "ipa": "ˈpɒkɪt ˌmʌni",
+    "duration": 1.592,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "p",
+        "start": 0.03,
+        "end": 0.22
+      },
+      {
+        "text": "ɒ",
+        "start": 0.22,
+        "end": 0.36
+      },
+      {
+        "text": "k",
+        "start": 0.36,
+        "end": 0.42
+      },
+      {
+        "text": "ɪ",
+        "start": 0.42,
+        "end": 0.52
+      },
+      {
+        "text": "t",
+        "start": 0.52,
+        "end": 0.64
+      },
+      {
+        "text": " ",
+        "start": 0.64,
+        "end": 0.64
+      },
+      {
+        "text": "ˌ",
+        "start": 0.64,
+        "end": 0.64
+      },
+      {
+        "text": "m",
+        "start": 0.64,
+        "end": 0.68
+      },
+      {
+        "text": "ʌ",
+        "start": 0.68,
+        "end": 0.82
+      },
+      {
+        "text": "n",
+        "start": 0.82,
+        "end": 0.88
+      },
+      {
+        "text": "i",
+        "start": 0.88,
+        "end": 1.35
+      }
+    ]
+  },
+  {
+    "wordId": "word_schoolbag",
+    "audioId": "word_schoolbag",
+    "audioSha1": "71063c916f5eb40d34a775afa4d6e91815fbdded",
+    "ipa": "ˈskuːlbæɡ",
+    "duration": 1.236625,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "s",
+        "start": 0.03,
+        "end": 0.28
+      },
+      {
+        "text": "k",
+        "start": 0.28,
+        "end": 0.34
+      },
+      {
+        "text": "uː",
+        "start": 0.34,
+        "end": 0.5
+      },
+      {
+        "text": "l",
+        "start": 0.5,
+        "end": 0.58
+      },
+      {
+        "text": "b",
+        "start": 0.58,
+        "end": 0.66
+      },
+      {
+        "text": "æ",
+        "start": 0.66,
+        "end": 0.88
+      },
+      {
+        "text": "ɡ",
+        "start": 0.88,
+        "end": 0.99
+      }
+    ]
+  },
+  {
+    "wordId": "word_goods",
+    "audioId": "word_goods",
+    "audioSha1": "736acad7fe58884b743e96174924fc9e37bd79bb",
+    "ipa": "ɡʊdz",
+    "duration": 1.216,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ɡ",
+        "start": 0.05,
+        "end": 0.1677
+      },
+      {
+        "text": "ʊ",
+        "start": 0.1677,
+        "end": 0.56
+      },
+      {
+        "text": "d",
+        "start": 0.56,
+        "end": 0.62
+      },
+      {
+        "text": "z",
+        "start": 0.62,
+        "end": 0.81
+      }
+    ]
+  },
+  {
+    "wordId": "word_drink",
+    "audioId": "word_drink",
+    "audioSha1": "68bedc5454aee26283a53d8afad78bc1017a8a1e",
+    "ipa": "drɪŋk",
+    "duration": 1.3013333333333332,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "d",
+        "start": 0.04,
+        "end": 0.28
+      },
+      {
+        "text": "r",
+        "start": 0.28,
+        "end": 0.34
+      },
+      {
+        "text": "ɪ",
+        "start": 0.34,
+        "end": 0.46
+      },
+      {
+        "text": "ŋ",
+        "start": 0.46,
+        "end": 0.6
+      },
+      {
+        "text": "k",
+        "start": 0.6,
+        "end": 0.85
+      }
+    ]
+  },
+  {
+    "wordId": "word_service",
+    "audioId": "word_service",
+    "audioSha1": "5234fc76dba92e8beed2bef4773003d1de60326e",
+    "ipa": "ˈsɜːvɪs",
+    "duration": 1.4506666666666668,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "s",
+        "start": 0.05,
+        "end": 0.34
+      },
+      {
+        "text": "ɜː",
+        "start": 0.34,
+        "end": 0.54
+      },
+      {
+        "text": "v",
+        "start": 0.54,
+        "end": 0.6
+      },
+      {
+        "text": "ɪ",
+        "start": 0.6,
+        "end": 0.76
+      },
+      {
+        "text": "s",
+        "start": 0.76,
+        "end": 0.95
+      }
+    ]
+  },
+  {
+    "wordId": "word_haircut",
+    "audioId": "word_haircut",
+    "audioSha1": "c527cf8252017f96d37fb257b7016e49ace2bebc",
+    "ipa": "ˈheəkʌt",
+    "duration": 1.1313333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "h",
+        "start": 0.03,
+        "end": 0.1338
+      },
+      {
+        "text": "eə",
+        "start": 0.1338,
+        "end": 0.48
+      },
+      {
+        "text": "k",
+        "start": 0.48,
+        "end": 0.6436
+      },
+      {
+        "text": "ʌ",
+        "start": 0.6436,
+        "end": 0.78
+      },
+      {
+        "text": "t",
+        "start": 0.78,
+        "end": 0.89
+      }
+    ]
+  },
+  {
+    "wordId": "word_microscope",
+    "audioId": "word_microscope",
+    "audioSha1": "db78fb7a18e62c22ef13febd8c51d3b03724936b",
+    "ipa": "ˈmaɪkrəskəʊp",
+    "duration": 1.5392916666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.02,
+        "end": 0.02
+      },
+      {
+        "text": "m",
+        "start": 0.02,
+        "end": 0.28
+      },
+      {
+        "text": "aɪ",
+        "start": 0.28,
+        "end": 0.46
+      },
+      {
+        "text": "k",
+        "start": 0.46,
+        "end": 0.52
+      },
+      {
+        "text": "r",
+        "start": 0.52,
+        "end": 0.56
+      },
+      {
+        "text": "ə",
+        "start": 0.56,
+        "end": 0.66
+      },
+      {
+        "text": "s",
+        "start": 0.66,
+        "end": 0.76
+      },
+      {
+        "text": "k",
+        "start": 0.76,
+        "end": 0.84
+      },
+      {
+        "text": "əʊ",
+        "start": 0.84,
+        "end": 1.08
+      },
+      {
+        "text": "p",
+        "start": 1.08,
+        "end": 1.29
+      }
+    ]
+  },
+  {
+    "wordId": "word_lucky",
+    "audioId": "word_lucky",
+    "audioSha1": "2aef636ce3aa4db09415a5d988f3d3422fdb3a87",
+    "ipa": "ˈlʌki",
+    "duration": 1.216,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "l",
+        "start": 0.05,
+        "end": 0.173
+      },
+      {
+        "text": "ʌ",
+        "start": 0.173,
+        "end": 0.46
+      },
+      {
+        "text": "k",
+        "start": 0.46,
+        "end": 0.54
+      },
+      {
+        "text": "i",
+        "start": 0.54,
+        "end": 0.82
+      }
+    ]
+  },
+  {
+    "wordId": "word_save_up",
+    "audioId": "word_save_up",
+    "audioSha1": "25cb18d9ec1ca6a20d92f556eee8f9c0adb61fc4",
+    "ipa": "ˌseɪv ˈʌp",
+    "duration": 1.2192916666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˌ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "s",
+        "start": 0.03,
+        "end": 0.28
+      },
+      {
+        "text": "eɪ",
+        "start": 0.28,
+        "end": 0.5
+      },
+      {
+        "text": "v",
+        "start": 0.5,
+        "end": 0.58
+      },
+      {
+        "text": " ",
+        "start": 0.58,
+        "end": 0.58
+      },
+      {
+        "text": "ˈ",
+        "start": 0.58,
+        "end": 0.58
+      },
+      {
+        "text": "ʌ",
+        "start": 0.58,
+        "end": 0.8
+      },
+      {
+        "text": "p",
+        "start": 0.8,
+        "end": 0.97
+      }
+    ]
+  },
+  {
+    "wordId": "word_sale",
+    "audioId": "word_sale",
+    "audioSha1": "da7e6c613ddd29d97e95c2cb8baf113c14f65291",
+    "ipa": "seɪl",
+    "duration": 1.0046666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "s",
+        "start": 0.05,
+        "end": 0.3
+      },
+      {
+        "text": "eɪ",
+        "start": 0.3,
+        "end": 0.62
+      },
+      {
+        "text": "l",
+        "start": 0.62,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "wordId": "word_ticket",
+    "audioId": "word_ticket",
+    "audioSha1": "8e052071d3c669b0c4b6b9a16476a8134849b231",
+    "ipa": "ˈtɪkɪt",
+    "duration": 1.0813333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "t",
+        "start": 0.05,
+        "end": 0.28
+      },
+      {
+        "text": "ɪ",
+        "start": 0.28,
+        "end": 0.4
+      },
+      {
+        "text": "k",
+        "start": 0.4,
+        "end": 0.48
+      },
+      {
+        "text": "ɪ",
+        "start": 0.48,
+        "end": 0.7
+      },
+      {
+        "text": "t",
+        "start": 0.7,
+        "end": 0.84
+      }
+    ]
+  },
+  {
+    "wordId": "word_manage",
+    "audioId": "word_manage",
+    "audioSha1": "33c99e293466a28a19d7ff52dc7baac07687613b",
+    "ipa": "ˈmænɪdʒ",
+    "duration": 1.344,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "m",
+        "start": 0.05,
+        "end": 0.3
+      },
+      {
+        "text": "æ",
+        "start": 0.3,
+        "end": 0.46
+      },
+      {
+        "text": "n",
+        "start": 0.46,
+        "end": 0.52
+      },
+      {
+        "text": "ɪ",
+        "start": 0.52,
+        "end": 0.7
+      },
+      {
+        "text": "dʒ",
+        "start": 0.7,
+        "end": 0.9
+      }
+    ]
+  },
+  {
+    "wordId": "word_difficult",
+    "audioId": "word_difficult",
+    "audioSha1": "e224af6e7635fdfc64a05acb794298921fa3495d",
+    "ipa": "ˈdɪfɪkəlt",
+    "duration": 1.316,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.04,
+        "end": 0.04
+      },
+      {
+        "text": "d",
+        "start": 0.04,
+        "end": 0.24
+      },
+      {
+        "text": "ɪ",
+        "start": 0.24,
+        "end": 0.34
+      },
+      {
+        "text": "f",
+        "start": 0.34,
+        "end": 0.4
+      },
+      {
+        "text": "ɪ",
+        "start": 0.4,
+        "end": 0.5
+      },
+      {
+        "text": "k",
+        "start": 0.5,
+        "end": 0.6067
+      },
+      {
+        "text": "ə",
+        "start": 0.6067,
+        "end": 0.74
+      },
+      {
+        "text": "l",
+        "start": 0.74,
+        "end": 0.88
+      },
+      {
+        "text": "t",
+        "start": 0.88,
+        "end": 1.07
+      }
+    ]
+  },
+  {
+    "wordId": "word_sell",
+    "audioId": "word_sell",
+    "audioSha1": "46c5250fc2b6225e807ade320ddef9375bc759af",
+    "ipa": "sel",
+    "duration": 0.8866666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "s",
+        "start": 0.04,
+        "end": 0.3
+      },
+      {
+        "text": "e",
+        "start": 0.3,
+        "end": 0.52
+      },
+      {
+        "text": "l",
+        "start": 0.52,
+        "end": 0.64
+      }
+    ]
+  },
+  {
+    "wordId": "word_half",
+    "audioId": "word_half",
+    "audioSha1": "192e3ef4435d8ac4321cbd08ea19434694a536fb",
+    "ipa": "hɑːf",
+    "duration": 1.2453333333333334,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "h",
+        "start": 0.04,
+        "end": 0.3
+      },
+      {
+        "text": "ɑː",
+        "start": 0.3,
+        "end": 0.7136
+      },
+      {
+        "text": "f",
+        "start": 0.7136,
+        "end": 1.0
+      }
+    ]
+  },
+  {
+    "wordId": "word_for_example",
+    "audioId": "word_for_example",
+    "audioSha1": "a11e3b10a57aef05d6a56aac7a717d71368efe54",
+    "ipa": "fər ɪɡˈzɑːmpəl",
+    "duration": 1.6032916666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "f",
+        "start": 0.03,
+        "end": 0.145
+      },
+      {
+        "text": "ə",
+        "start": 0.145,
+        "end": 0.26
+      },
+      {
+        "text": "r",
+        "start": 0.26,
+        "end": 0.3514
+      },
+      {
+        "text": " ",
+        "start": 0.3514,
+        "end": 0.3514
+      },
+      {
+        "text": "ɪ",
+        "start": 0.3514,
+        "end": 0.42
+      },
+      {
+        "text": "ɡ",
+        "start": 0.42,
+        "end": 0.5
+      },
+      {
+        "text": "ˈ",
+        "start": 0.5,
+        "end": 0.5
+      },
+      {
+        "text": "z",
+        "start": 0.5,
+        "end": 0.58
+      },
+      {
+        "text": "ɑː",
+        "start": 0.58,
+        "end": 0.74
+      },
+      {
+        "text": "m",
+        "start": 0.74,
+        "end": 0.84
+      },
+      {
+        "text": "p",
+        "start": 0.84,
+        "end": 0.9
+      },
+      {
+        "text": "ə",
+        "start": 0.9,
+        "end": 1.0
+      },
+      {
+        "text": "l",
+        "start": 1.0,
+        "end": 1.36
+      }
+    ]
+  },
+  {
+    "wordId": "word_planet",
+    "audioId": "word_planet",
+    "audioSha1": "bc9c8e2c0f88ae99bb867d07902b761986996c20",
+    "ipa": "ˈplænɪt",
+    "duration": 1.344,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "p",
+        "start": 0.05,
+        "end": 0.26
+      },
+      {
+        "text": "l",
+        "start": 0.26,
+        "end": 0.3
+      },
+      {
+        "text": "æ",
+        "start": 0.3,
+        "end": 0.46
+      },
+      {
+        "text": "n",
+        "start": 0.46,
+        "end": 0.52
+      },
+      {
+        "text": "ɪ",
+        "start": 0.52,
+        "end": 0.7
+      },
+      {
+        "text": "t",
+        "start": 0.7,
+        "end": 0.9
+      }
+    ]
+  },
+  {
+    "wordId": "word_earth",
+    "audioId": "word_earth",
+    "audioSha1": "58f0d88617de9281d63ba8d56cbc4f0279679f57",
+    "ipa": "ɜːθ",
+    "duration": 0.96,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ɜː",
+        "start": 0.03,
+        "end": 0.4448
+      },
+      {
+        "text": "θ",
+        "start": 0.4448,
+        "end": 0.7
+      }
+    ]
+  },
+  {
+    "wordId": "word_sky",
+    "audioId": "word_sky",
+    "audioSha1": "21f06eada8e8a96bd2f7baa66520bcb7f4d120ed",
+    "ipa": "skaɪ",
+    "duration": 0.9933333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "s",
+        "start": 0.04,
+        "end": 0.2343
+      },
+      {
+        "text": "k",
+        "start": 0.2343,
+        "end": 0.38
+      },
+      {
+        "text": "aɪ",
+        "start": 0.38,
+        "end": 0.75
+      }
+    ]
+  },
+  {
+    "wordId": "word_daytime",
+    "audioId": "word_daytime",
+    "audioSha1": "4d9b477b0688811eb3c93a1c2b9a4c463330e978",
+    "ipa": "ˈdeɪtaɪm",
+    "duration": 1.38,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "d",
+        "start": 0.03,
+        "end": 0.22
+      },
+      {
+        "text": "eɪ",
+        "start": 0.22,
+        "end": 0.44
+      },
+      {
+        "text": "t",
+        "start": 0.44,
+        "end": 0.56
+      },
+      {
+        "text": "aɪ",
+        "start": 0.56,
+        "end": 0.82
+      },
+      {
+        "text": "m",
+        "start": 0.82,
+        "end": 1.14
+      }
+    ]
+  },
+  {
+    "wordId": "word_cloud",
+    "audioId": "word_cloud",
+    "audioSha1": "8d92c6f337cec98b98eaa5f2fe4cf1b0616b4771",
+    "ipa": "klaʊd",
+    "duration": 1.1453333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "k",
+        "start": 0.05,
+        "end": 0.3
+      },
+      {
+        "text": "l",
+        "start": 0.3,
+        "end": 0.36
+      },
+      {
+        "text": "aʊ",
+        "start": 0.36,
+        "end": 0.72
+      },
+      {
+        "text": "d",
+        "start": 0.72,
+        "end": 0.9
+      }
+    ]
+  },
+  {
+    "wordId": "word_moon",
+    "audioId": "word_moon",
+    "audioSha1": "b8f9361ae201bc2681ba5054a8686bef58c01e34",
+    "ipa": "muːn",
+    "duration": 1.5226666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "m",
+        "start": 0.05,
+        "end": 0.156
+      },
+      {
+        "text": "uː",
+        "start": 0.156,
+        "end": 0.58
+      },
+      {
+        "text": "n",
+        "start": 0.58,
+        "end": 1.28
+      }
+    ]
+  },
+  {
+    "wordId": "word_star",
+    "audioId": "word_star",
+    "audioSha1": "ab82c6bf82371fb664004a01c38fac62f6e02cb1",
+    "ipa": "stɑː",
+    "duration": 0.9053333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "s",
+        "start": 0.04,
+        "end": 0.28
+      },
+      {
+        "text": "t",
+        "start": 0.28,
+        "end": 0.34
+      },
+      {
+        "text": "ɑː",
+        "start": 0.34,
+        "end": 0.66
+      }
+    ]
+  },
+  {
+    "wordId": "word_space",
+    "audioId": "word_space",
+    "audioSha1": "053dfce1124592bc43bd5de565caf6e215683ad5",
+    "ipa": "speɪs",
+    "duration": 1.1013333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "s",
+        "start": 0.05,
+        "end": 0.34
+      },
+      {
+        "text": "p",
+        "start": 0.34,
+        "end": 0.4
+      },
+      {
+        "text": "eɪ",
+        "start": 0.4,
+        "end": 0.7
+      },
+      {
+        "text": "s",
+        "start": 0.7,
+        "end": 0.85
+      }
+    ]
+  },
+  {
+    "wordId": "word_outer_space",
+    "audioId": "word_outer_space",
+    "audioSha1": "fb2ed95fa7398bc5049e762d2830f45a1c9a03f9",
+    "ipa": "ˌaʊtə ˈspeɪs",
+    "duration": 1.7626666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˌ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "aʊ",
+        "start": 0.03,
+        "end": 0.42
+      },
+      {
+        "text": "t",
+        "start": 0.42,
+        "end": 0.5
+      },
+      {
+        "text": "ə",
+        "start": 0.5,
+        "end": 0.64
+      },
+      {
+        "text": " ",
+        "start": 0.64,
+        "end": 0.64
+      },
+      {
+        "text": "ˈ",
+        "start": 0.64,
+        "end": 0.64
+      },
+      {
+        "text": "s",
+        "start": 0.64,
+        "end": 0.76
+      },
+      {
+        "text": "p",
+        "start": 0.76,
+        "end": 0.82
+      },
+      {
+        "text": "eɪ",
+        "start": 0.82,
+        "end": 1.14
+      },
+      {
+        "text": "s",
+        "start": 1.14,
+        "end": 1.52
+      }
+    ]
+  },
+  {
+    "wordId": "word_space_station",
+    "audioId": "word_space_station",
+    "audioSha1": "cd2439d1c961d231daf4d2a0544841b16cc24234",
+    "ipa": "ˈspeɪs ˌsteɪʃən",
+    "duration": 1.8053333333333332,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "s",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "p",
+        "start": 0.26,
+        "end": 0.32
+      },
+      {
+        "text": "eɪ",
+        "start": 0.32,
+        "end": 0.52
+      },
+      {
+        "text": "s",
+        "start": 0.52,
+        "end": 0.64
+      },
+      {
+        "text": " ",
+        "start": 0.64,
+        "end": 0.64
+      },
+      {
+        "text": "ˌ",
+        "start": 0.64,
+        "end": 0.64
+      },
+      {
+        "text": "s",
+        "start": 0.64,
+        "end": 0.72
+      },
+      {
+        "text": "t",
+        "start": 0.72,
+        "end": 0.78
+      },
+      {
+        "text": "eɪ",
+        "start": 0.78,
+        "end": 1.02
+      },
+      {
+        "text": "ʃ",
+        "start": 1.02,
+        "end": 1.12
+      },
+      {
+        "text": "ə",
+        "start": 1.12,
+        "end": 1.24
+      },
+      {
+        "text": "n",
+        "start": 1.24,
+        "end": 1.56
+      }
+    ]
+  },
+  {
+    "wordId": "word_ocean",
+    "audioId": "word_ocean",
+    "audioSha1": "8bebdfb7a12cfa69c79596a6d901ac08492a26e4",
+    "ipa": "ˈəʊʃən",
+    "duration": 1.1353333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "əʊ",
+        "start": 0.03,
+        "end": 0.42
+      },
+      {
+        "text": "ʃ",
+        "start": 0.42,
+        "end": 0.5533
+      },
+      {
+        "text": "ə",
+        "start": 0.5533,
+        "end": 0.66
+      },
+      {
+        "text": "n",
+        "start": 0.66,
+        "end": 0.89
+      }
+    ]
+  },
+  {
+    "wordId": "word_marble",
+    "audioId": "word_marble",
+    "audioSha1": "0da98c6b7b3f3577bb5c95ecdb4c22d9205d0844",
+    "ipa": "ˈmɑːbəl",
+    "duration": 1.3013333333333332,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "m",
+        "start": 0.05,
+        "end": 0.28
+      },
+      {
+        "text": "ɑː",
+        "start": 0.28,
+        "end": 0.54
+      },
+      {
+        "text": "b",
+        "start": 0.54,
+        "end": 0.6
+      },
+      {
+        "text": "ə",
+        "start": 0.6,
+        "end": 0.7
+      },
+      {
+        "text": "l",
+        "start": 0.7,
+        "end": 0.89
+      }
+    ]
+  },
+  {
+    "wordId": "word_satellite",
+    "audioId": "word_satellite",
+    "audioSha1": "df2d9031c47bc7dec5d95167a0dc76803af17d49",
+    "ipa": "ˈsætəlaɪt",
+    "duration": 1.414,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "s",
+        "start": 0.05,
+        "end": 0.28
+      },
+      {
+        "text": "æ",
+        "start": 0.28,
+        "end": 0.42
+      },
+      {
+        "text": "t",
+        "start": 0.42,
+        "end": 0.48
+      },
+      {
+        "text": "ə",
+        "start": 0.48,
+        "end": 0.58
+      },
+      {
+        "text": "l",
+        "start": 0.58,
+        "end": 0.64
+      },
+      {
+        "text": "aɪ",
+        "start": 0.64,
+        "end": 0.9
+      },
+      {
+        "text": "t",
+        "start": 0.9,
+        "end": 1.17
+      }
+    ]
+  },
+  {
+    "wordId": "word_soil",
+    "audioId": "word_soil",
+    "audioSha1": "e68538cd76c4adcf53a084348e74a7d03412c24e",
+    "ipa": "sɔɪl",
+    "duration": 1.0033333333333334,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "s",
+        "start": 0.05,
+        "end": 0.1541
+      },
+      {
+        "text": "ɔɪ",
+        "start": 0.1541,
+        "end": 0.64
+      },
+      {
+        "text": "l",
+        "start": 0.64,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "wordId": "word_alien",
+    "audioId": "word_alien",
+    "audioSha1": "3d6415d4f27d7b76fd7a1afb9f0bdae5bd3782d7",
+    "ipa": "ˈeɪliən",
+    "duration": 1.536,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "eɪ",
+        "start": 0.03,
+        "end": 0.4
+      },
+      {
+        "text": "l",
+        "start": 0.4,
+        "end": 0.44
+      },
+      {
+        "text": "i",
+        "start": 0.44,
+        "end": 0.56
+      },
+      {
+        "text": "ə",
+        "start": 0.56,
+        "end": 0.68
+      },
+      {
+        "text": "n",
+        "start": 0.68,
+        "end": 1.01
+      }
+    ]
+  },
+  {
+    "wordId": "word_sunrise",
+    "audioId": "word_sunrise",
+    "audioSha1": "f08781adbd52b53145c5f8794325256d334204f6",
+    "ipa": "ˈsʌnraɪz",
+    "duration": 1.38,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "s",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "ʌ",
+        "start": 0.26,
+        "end": 0.38
+      },
+      {
+        "text": "n",
+        "start": 0.38,
+        "end": 0.58
+      },
+      {
+        "text": "r",
+        "start": 0.58,
+        "end": 0.66
+      },
+      {
+        "text": "aɪ",
+        "start": 0.66,
+        "end": 0.92
+      },
+      {
+        "text": "z",
+        "start": 0.92,
+        "end": 1.14
+      }
+    ]
+  },
+  {
+    "wordId": "word_rover",
+    "audioId": "word_rover",
+    "audioSha1": "d1ab57a39a74c8f44af868a904a15221b97ee04d",
+    "ipa": "ˈrəʊvə",
+    "duration": 1.09,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "r",
+        "start": 0.03,
+        "end": 0.136
+      },
+      {
+        "text": "əʊ",
+        "start": 0.136,
+        "end": 0.56
+      },
+      {
+        "text": "v",
+        "start": 0.56,
+        "end": 0.64
+      },
+      {
+        "text": "ə",
+        "start": 0.64,
+        "end": 0.85
+      }
+    ]
+  },
+  {
+    "wordId": "word_into",
+    "audioId": "word_into",
+    "audioSha1": "cdebaef9735dd647cb60c33158850870268b25af",
+    "ipa": "ˈɪntuː",
+    "duration": 1.0573333333333332,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "ɪ",
+        "start": 0.05,
+        "end": 0.32
+      },
+      {
+        "text": "n",
+        "start": 0.32,
+        "end": 0.44
+      },
+      {
+        "text": "t",
+        "start": 0.44,
+        "end": 0.552
+      },
+      {
+        "text": "uː",
+        "start": 0.552,
+        "end": 0.81
+      }
+    ]
+  },
+  {
+    "wordId": "word_telescope",
+    "audioId": "word_telescope",
+    "audioSha1": "eedb84773b78a5799f5594ab7dbc3f466f56daac",
+    "ipa": "ˈtelɪskəʊp",
+    "duration": 1.3713333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.04,
+        "end": 0.04
+      },
+      {
+        "text": "t",
+        "start": 0.04,
+        "end": 0.26
+      },
+      {
+        "text": "e",
+        "start": 0.26,
+        "end": 0.4
+      },
+      {
+        "text": "l",
+        "start": 0.4,
+        "end": 0.44
+      },
+      {
+        "text": "ɪ",
+        "start": 0.44,
+        "end": 0.56
+      },
+      {
+        "text": "s",
+        "start": 0.56,
+        "end": 0.7
+      },
+      {
+        "text": "k",
+        "start": 0.7,
+        "end": 0.76
+      },
+      {
+        "text": "əʊ",
+        "start": 0.76,
+        "end": 1.0
+      },
+      {
+        "text": "p",
+        "start": 1.0,
+        "end": 1.13
+      }
+    ]
+  },
+  {
+    "wordId": "word_astronaut",
+    "audioId": "word_astronaut",
+    "audioSha1": "4ad110fc1ab271f4be4b516a65e71a75dabc48bb",
+    "ipa": "ˈæstrənɔːt",
+    "duration": 1.4452916666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.04,
+        "end": 0.04
+      },
+      {
+        "text": "æ",
+        "start": 0.04,
+        "end": 0.36
+      },
+      {
+        "text": "s",
+        "start": 0.36,
+        "end": 0.46
+      },
+      {
+        "text": "t",
+        "start": 0.46,
+        "end": 0.52
+      },
+      {
+        "text": "r",
+        "start": 0.52,
+        "end": 0.576
+      },
+      {
+        "text": "ə",
+        "start": 0.576,
+        "end": 0.66
+      },
+      {
+        "text": "n",
+        "start": 0.66,
+        "end": 0.7194
+      },
+      {
+        "text": "ɔː",
+        "start": 0.7194,
+        "end": 0.9568
+      },
+      {
+        "text": "t",
+        "start": 0.9568,
+        "end": 1.2
+      }
+    ]
+  },
+  {
+    "wordId": "word_month",
+    "audioId": "word_month",
+    "audioSha1": "903ccd121c182fc3a3f8e060010141afc80bf220",
+    "ipa": "mʌnθ",
+    "duration": 1.342,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "m",
+        "start": 0.04,
+        "end": 0.16
+      },
+      {
+        "text": "ʌ",
+        "start": 0.16,
+        "end": 0.44
+      },
+      {
+        "text": "n",
+        "start": 0.44,
+        "end": 0.66
+      },
+      {
+        "text": "θ",
+        "start": 0.66,
+        "end": 1.1
+      }
+    ]
+  },
+  {
+    "wordId": "word_spaceship",
+    "audioId": "word_spaceship",
+    "audioSha1": "9f8da511bdc6a7e66c15e11aa1ad35c11ad368ee",
+    "ipa": "ˈspeɪsʃɪp",
+    "duration": 1.2579583333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "s",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "p",
+        "start": 0.26,
+        "end": 0.32
+      },
+      {
+        "text": "eɪ",
+        "start": 0.32,
+        "end": 0.52
+      },
+      {
+        "text": "s",
+        "start": 0.52,
+        "end": 0.62
+      },
+      {
+        "text": "ʃ",
+        "start": 0.62,
+        "end": 0.72
+      },
+      {
+        "text": "ɪ",
+        "start": 0.72,
+        "end": 0.92
+      },
+      {
+        "text": "p",
+        "start": 0.92,
+        "end": 1.01
+      }
+    ]
+  },
+  {
+    "wordId": "word_cloth",
+    "audioId": "word_cloth",
+    "audioSha1": "23a871248e8c1ab1c1f3b502931446c71c4335a9",
+    "ipa": "klɒθ",
+    "duration": 1.152,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "k",
+        "start": 0.03,
+        "end": 0.28
+      },
+      {
+        "text": "l",
+        "start": 0.28,
+        "end": 0.36
+      },
+      {
+        "text": "ɒ",
+        "start": 0.36,
+        "end": 0.58
+      },
+      {
+        "text": "θ",
+        "start": 0.58,
+        "end": 0.77
+      }
+    ]
+  },
+  {
+    "wordId": "word_toothpaste",
+    "audioId": "word_toothpaste",
+    "audioSha1": "430644fbd66cc89c1f7dfe77573a5affac35d5f4",
+    "ipa": "ˈtuːθpeɪst",
+    "duration": 1.3586666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.04,
+        "end": 0.04
+      },
+      {
+        "text": "t",
+        "start": 0.04,
+        "end": 0.26
+      },
+      {
+        "text": "uː",
+        "start": 0.26,
+        "end": 0.42
+      },
+      {
+        "text": "θ",
+        "start": 0.42,
+        "end": 0.5
+      },
+      {
+        "text": "p",
+        "start": 0.5,
+        "end": 0.6
+      },
+      {
+        "text": "eɪ",
+        "start": 0.6,
+        "end": 0.86
+      },
+      {
+        "text": "s",
+        "start": 0.86,
+        "end": 0.98
+      },
+      {
+        "text": "t",
+        "start": 0.98,
+        "end": 1.11
+      }
+    ]
+  },
+  {
+    "wordId": "word_taikonaut",
+    "audioId": "word_taikonaut",
+    "audioSha1": "0aa87edb62b9826e70c1309c9c86a97adcb4a29f",
+    "ipa": "ˈtaɪkəʊˌnɔːt",
+    "duration": 1.562,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "t",
+        "start": 0.03,
+        "end": 0.24
+      },
+      {
+        "text": "aɪ",
+        "start": 0.24,
+        "end": 0.48
+      },
+      {
+        "text": "k",
+        "start": 0.48,
+        "end": 0.56
+      },
+      {
+        "text": "əʊ",
+        "start": 0.56,
+        "end": 0.72
+      },
+      {
+        "text": "ˌ",
+        "start": 0.72,
+        "end": 0.72
+      },
+      {
+        "text": "n",
+        "start": 0.72,
+        "end": 0.792
+      },
+      {
+        "text": "ɔː",
+        "start": 0.792,
+        "end": 1.08
+      },
+      {
+        "text": "t",
+        "start": 1.08,
+        "end": 1.32
+      }
+    ]
+  },
+  {
+    "wordId": "word_question",
+    "audioId": "word_question",
+    "audioSha1": "b154c2c1ea83b25222ff85f5ede8656751ff149f",
+    "ipa": "ˈkwestʃən",
+    "duration": 1.5786666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.04,
+        "end": 0.04
+      },
+      {
+        "text": "k",
+        "start": 0.04,
+        "end": 0.22
+      },
+      {
+        "text": "w",
+        "start": 0.22,
+        "end": 0.28
+      },
+      {
+        "text": "e",
+        "start": 0.28,
+        "end": 0.42
+      },
+      {
+        "text": "s",
+        "start": 0.42,
+        "end": 0.54
+      },
+      {
+        "text": "tʃ",
+        "start": 0.54,
+        "end": 0.64
+      },
+      {
+        "text": "ə",
+        "start": 0.64,
+        "end": 0.76
+      },
+      {
+        "text": "n",
+        "start": 0.76,
+        "end": 1.04
+      }
+    ]
+  },
+  {
+    "wordId": "word_time",
+    "audioId": "word_time",
+    "audioSha1": "054bb961c7ae99308d0bff4dfa57a70b88502f3e",
+    "ipa": "taɪm",
+    "duration": 1.1946666666666668,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "t",
+        "start": 0.03,
+        "end": 0.28
+      },
+      {
+        "text": "aɪ",
+        "start": 0.28,
+        "end": 0.58
+      },
+      {
+        "text": "m",
+        "start": 0.58,
+        "end": 0.81
+      }
+    ]
+  },
+  {
+    "wordId": "word_sunset",
+    "audioId": "word_sunset",
+    "audioSha1": "1c8f8cc637c92aca264da83d89dccb7bdb3d7dee",
+    "ipa": "ˈsʌnset",
+    "duration": 1.1966666666666668,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "s",
+        "start": 0.03,
+        "end": 0.28
+      },
+      {
+        "text": "ʌ",
+        "start": 0.28,
+        "end": 0.4
+      },
+      {
+        "text": "n",
+        "start": 0.4,
+        "end": 0.52
+      },
+      {
+        "text": "s",
+        "start": 0.52,
+        "end": 0.62
+      },
+      {
+        "text": "e",
+        "start": 0.62,
+        "end": 0.82
+      },
+      {
+        "text": "t",
+        "start": 0.82,
+        "end": 0.95
+      }
+    ]
+  },
+  {
+    "wordId": "word_mars",
+    "audioId": "word_mars",
+    "audioSha1": "bdb51435a196e0a8ca09bb13e0cbdffb19701238",
+    "ipa": "mɑːz",
+    "duration": 1.2373333333333334,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "m",
+        "start": 0.03,
+        "end": 0.28
+      },
+      {
+        "text": "ɑː",
+        "start": 0.28,
+        "end": 0.64
+      },
+      {
+        "text": "z",
+        "start": 0.64,
+        "end": 0.82
+      }
+    ]
+  },
+  {
+    "wordId": "word_power",
+    "audioId": "word_power",
+    "audioSha1": "7e410b82954e4d9910fcdb725bf22f2438ba379e",
+    "ipa": "ˈpaʊə",
+    "duration": 1.026,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.04,
+        "end": 0.04
+      },
+      {
+        "text": "p",
+        "start": 0.04,
+        "end": 0.26
+      },
+      {
+        "text": "aʊ",
+        "start": 0.26,
+        "end": 0.5551
+      },
+      {
+        "text": "ə",
+        "start": 0.5551,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "wordId": "word_electricity",
+    "audioId": "word_electricity",
+    "audioSha1": "051a5d235b12c60934dc7afb10ffa4e857a8574f",
+    "ipa": "ɪˌlekˈtrɪsəti",
+    "duration": 1.6459583333333334,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ɪ",
+        "start": 0.03,
+        "end": 0.3
+      },
+      {
+        "text": "ˌ",
+        "start": 0.3,
+        "end": 0.3
+      },
+      {
+        "text": "l",
+        "start": 0.3,
+        "end": 0.34
+      },
+      {
+        "text": "e",
+        "start": 0.34,
+        "end": 0.44
+      },
+      {
+        "text": "k",
+        "start": 0.44,
+        "end": 0.54
+      },
+      {
+        "text": "ˈ",
+        "start": 0.54,
+        "end": 0.54
+      },
+      {
+        "text": "t",
+        "start": 0.54,
+        "end": 0.58
+      },
+      {
+        "text": "r",
+        "start": 0.58,
+        "end": 0.64
+      },
+      {
+        "text": "ɪ",
+        "start": 0.64,
+        "end": 0.74
+      },
+      {
+        "text": "s",
+        "start": 0.74,
+        "end": 0.84
+      },
+      {
+        "text": "ə",
+        "start": 0.84,
+        "end": 0.94
+      },
+      {
+        "text": "t",
+        "start": 0.94,
+        "end": 1.02
+      },
+      {
+        "text": "i",
+        "start": 1.02,
+        "end": 1.4
+      }
+    ]
+  },
+  {
+    "wordId": "word_solar",
+    "audioId": "word_solar",
+    "audioSha1": "20c5bb1b4b5aa73ea453750712d8d4ae32ea2392",
+    "ipa": "ˈsəʊlə",
+    "duration": 1.0573333333333332,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "s",
+        "start": 0.03,
+        "end": 0.1393
+      },
+      {
+        "text": "əʊ",
+        "start": 0.1393,
+        "end": 0.54
+      },
+      {
+        "text": "l",
+        "start": 0.54,
+        "end": 0.6208
+      },
+      {
+        "text": "ə",
+        "start": 0.6208,
+        "end": 0.81
+      }
+    ]
+  },
+  {
+    "wordId": "word_type",
+    "audioId": "word_type",
+    "audioSha1": "4cc37bd404590f25191f05cc7a7f7151f75cb9e1",
+    "ipa": "taɪp",
+    "duration": 0.96,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "t",
+        "start": 0.03,
+        "end": 0.28
+      },
+      {
+        "text": "aɪ",
+        "start": 0.28,
+        "end": 0.56
+      },
+      {
+        "text": "p",
+        "start": 0.56,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "wordId": "word_energy",
+    "audioId": "word_energy",
+    "audioSha1": "16f823fb21fcca44e2e0e8af8c00d1039c3a08bd",
+    "ipa": "ˈenədʒi",
+    "duration": 1.3013333333333332,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "e",
+        "start": 0.05,
+        "end": 0.32
+      },
+      {
+        "text": "n",
+        "start": 0.32,
+        "end": 0.36
+      },
+      {
+        "text": "ə",
+        "start": 0.36,
+        "end": 0.5
+      },
+      {
+        "text": "dʒ",
+        "start": 0.5,
+        "end": 0.6
+      },
+      {
+        "text": "i",
+        "start": 0.6,
+        "end": 0.87
+      }
+    ]
+  },
+  {
+    "wordId": "word_light",
+    "audioId": "word_light",
+    "audioSha1": "348de84e9dffbe4298d24f9d33f77000a8c2b3b5",
+    "ipa": "laɪt",
+    "duration": 1.0272916666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "l",
+        "start": 0.03,
+        "end": 0.3
+      },
+      {
+        "text": "aɪ",
+        "start": 0.3,
+        "end": 0.62
+      },
+      {
+        "text": "t",
+        "start": 0.62,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "wordId": "word_source",
+    "audioId": "word_source",
+    "audioSha1": "f496975234f082789f724122df77c1b93a41c788",
+    "ipa": "sɔːs",
+    "duration": 1.0346666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "s",
+        "start": 0.05,
+        "end": 0.1606
+      },
+      {
+        "text": "ɔː",
+        "start": 0.1606,
+        "end": 0.64
+      },
+      {
+        "text": "s",
+        "start": 0.64,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "wordId": "word_heat",
+    "audioId": "word_heat",
+    "audioSha1": "a17cd221aee94cea73389b210d0b3b823f36e95c",
+    "ipa": "hiːt",
+    "duration": 0.9386666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "h",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "iː",
+        "start": 0.26,
+        "end": 0.5
+      },
+      {
+        "text": "t",
+        "start": 0.5,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "wordId": "word_cool",
+    "audioId": "word_cool",
+    "audioSha1": "a0eb439a8850eb94f34f28be083caf09131210a5",
+    "ipa": "kuːl",
+    "duration": 1.342,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "k",
+        "start": 0.04,
+        "end": 0.1263
+      },
+      {
+        "text": "uː",
+        "start": 0.1263,
+        "end": 0.5
+      },
+      {
+        "text": "l",
+        "start": 0.5,
+        "end": 1.1
+      }
+    ]
+  },
+  {
+    "wordId": "word_resource",
+    "audioId": "word_resource",
+    "audioSha1": "dafb8654de012691d5ba92a43a6cb3310d73209f",
+    "ipa": "rɪˈzɔːs",
+    "duration": 1.472,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "r",
+        "start": 0.03,
+        "end": 0.22
+      },
+      {
+        "text": "ɪ",
+        "start": 0.22,
+        "end": 0.34
+      },
+      {
+        "text": "ˈ",
+        "start": 0.34,
+        "end": 0.34
+      },
+      {
+        "text": "z",
+        "start": 0.34,
+        "end": 0.4176
+      },
+      {
+        "text": "ɔː",
+        "start": 0.4176,
+        "end": 0.78
+      },
+      {
+        "text": "s",
+        "start": 0.78,
+        "end": 0.95
+      }
+    ]
+  },
+  {
+    "wordId": "word_run_out",
+    "audioId": "word_run_out",
+    "audioSha1": "e3de74ec31f4648405dccab104d3b5f9aa03dbb3",
+    "ipa": "ˌrʌn ˈaʊt",
+    "duration": 1.274625,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˌ",
+        "start": 0.02,
+        "end": 0.02
+      },
+      {
+        "text": "r",
+        "start": 0.02,
+        "end": 0.26
+      },
+      {
+        "text": "ʌ",
+        "start": 0.26,
+        "end": 0.4
+      },
+      {
+        "text": "n",
+        "start": 0.4,
+        "end": 0.54
+      },
+      {
+        "text": " ",
+        "start": 0.54,
+        "end": 0.54
+      },
+      {
+        "text": "ˈ",
+        "start": 0.54,
+        "end": 0.54
+      },
+      {
+        "text": "aʊ",
+        "start": 0.54,
+        "end": 0.8
+      },
+      {
+        "text": "t",
+        "start": 0.8,
+        "end": 1.03
+      }
+    ]
+  },
+  {
+    "wordId": "word_few",
+    "audioId": "word_few",
+    "audioSha1": "4522e33939b9fb9b800c32f512858c6b510ca850",
+    "ipa": "fjuː",
+    "duration": 0.9046666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "f",
+        "start": 0.04,
+        "end": 0.1379
+      },
+      {
+        "text": "j",
+        "start": 0.1379,
+        "end": 0.2358
+      },
+      {
+        "text": "uː",
+        "start": 0.2358,
+        "end": 0.66
+      }
+    ]
+  },
+  {
+    "wordId": "word_change",
+    "audioId": "word_change",
+    "audioSha1": "d13e5381521418a441b5af0a35733096e931fea4",
+    "ipa": "tʃeɪndʒ",
+    "duration": 1.154,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "tʃ",
+        "start": 0.03,
+        "end": 0.32
+      },
+      {
+        "text": "eɪ",
+        "start": 0.32,
+        "end": 0.58
+      },
+      {
+        "text": "n",
+        "start": 0.58,
+        "end": 0.7
+      },
+      {
+        "text": "dʒ",
+        "start": 0.7,
+        "end": 0.91
+      }
+    ]
+  },
+  {
+    "wordId": "word_quick",
+    "audioId": "word_quick",
+    "audioSha1": "220e23124cd49d96a4a62d2705c3957c96762972",
+    "ipa": "kwɪk",
+    "duration": 0.896,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "k",
+        "start": 0.03,
+        "end": 0.24
+      },
+      {
+        "text": "w",
+        "start": 0.24,
+        "end": 0.28
+      },
+      {
+        "text": "ɪ",
+        "start": 0.28,
+        "end": 0.5
+      },
+      {
+        "text": "k",
+        "start": 0.5,
+        "end": 0.64
+      }
+    ]
+  },
+  {
+    "wordId": "word_shower",
+    "audioId": "word_shower",
+    "audioSha1": "0ed5549068294d02754dedf1a7f85158181031f5",
+    "ipa": "ˈʃaʊə",
+    "duration": 1.0146666666666666,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "ʃ",
+        "start": 0.05,
+        "end": 0.1407
+      },
+      {
+        "text": "aʊ",
+        "start": 0.1407,
+        "end": 0.5338
+      },
+      {
+        "text": "ə",
+        "start": 0.5338,
+        "end": 0.77
+      }
+    ]
+  },
+  {
+    "wordId": "word_unplug",
+    "audioId": "word_unplug",
+    "audioSha1": "29c1fdf70beb28b907ae4d79b76386f4d1714f05",
+    "ipa": "ʌnˈplʌɡ",
+    "duration": 1.3599583333333334,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ʌ",
+        "start": 0.05,
+        "end": 0.28
+      },
+      {
+        "text": "n",
+        "start": 0.28,
+        "end": 0.4
+      },
+      {
+        "text": "ˈ",
+        "start": 0.4,
+        "end": 0.4
+      },
+      {
+        "text": "p",
+        "start": 0.4,
+        "end": 0.5
+      },
+      {
+        "text": "l",
+        "start": 0.5,
+        "end": 0.5692
+      },
+      {
+        "text": "ʌ",
+        "start": 0.5692,
+        "end": 0.8
+      },
+      {
+        "text": "ɡ",
+        "start": 0.8,
+        "end": 1.12
+      }
+    ]
+  },
+  {
+    "wordId": "word_difference",
+    "audioId": "word_difference",
+    "audioSha1": "a51c54f54eac0adea16c14e7561f79e6cdfd6acd",
+    "ipa": "ˈdɪfərəns",
+    "duration": 1.472,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "d",
+        "start": 0.03,
+        "end": 0.24
+      },
+      {
+        "text": "ɪ",
+        "start": 0.24,
+        "end": 0.36
+      },
+      {
+        "text": "f",
+        "start": 0.36,
+        "end": 0.42
+      },
+      {
+        "text": "ə",
+        "start": 0.42,
+        "end": 0.48
+      },
+      {
+        "text": "r",
+        "start": 0.48,
+        "end": 0.55
+      },
+      {
+        "text": "ə",
+        "start": 0.55,
+        "end": 0.62
+      },
+      {
+        "text": "n",
+        "start": 0.62,
+        "end": 0.72
+      },
+      {
+        "text": "s",
+        "start": 0.72,
+        "end": 0.96
+      }
+    ]
+  },
+  {
+    "wordId": "word_reduce",
+    "audioId": "word_reduce",
+    "audioSha1": "896c7c349cb963e7b5b3ef16ae02ab83110cd01a",
+    "ipa": "rɪˈdjuːs",
+    "duration": 1.306,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "r",
+        "start": 0.05,
+        "end": 0.1743
+      },
+      {
+        "text": "ɪ",
+        "start": 0.1743,
+        "end": 0.34
+      },
+      {
+        "text": "ˈ",
+        "start": 0.34,
+        "end": 0.34
+      },
+      {
+        "text": "d",
+        "start": 0.34,
+        "end": 0.43
+      },
+      {
+        "text": "j",
+        "start": 0.43,
+        "end": 0.52
+      },
+      {
+        "text": "uː",
+        "start": 0.52,
+        "end": 0.74
+      },
+      {
+        "text": "s",
+        "start": 0.74,
+        "end": 1.06
+      }
+    ]
+  },
+  {
+    "wordId": "word_air_conditioner",
+    "audioId": "word_air_conditioner",
+    "audioSha1": "f65676e2e73ff3f07b719e7a9b58ed34e0306bf9",
+    "ipa": "ˈeə kənˌdɪʃənə",
+    "duration": 1.8366666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "eə",
+        "start": 0.03,
+        "end": 0.54
+      },
+      {
+        "text": " ",
+        "start": 0.54,
+        "end": 0.54
+      },
+      {
+        "text": "k",
+        "start": 0.54,
+        "end": 0.6
+      },
+      {
+        "text": "ə",
+        "start": 0.6,
+        "end": 0.7
+      },
+      {
+        "text": "n",
+        "start": 0.7,
+        "end": 0.78
+      },
+      {
+        "text": "ˌ",
+        "start": 0.78,
+        "end": 0.78
+      },
+      {
+        "text": "d",
+        "start": 0.78,
+        "end": 0.84
+      },
+      {
+        "text": "ɪ",
+        "start": 0.84,
+        "end": 0.96
+      },
+      {
+        "text": "ʃ",
+        "start": 0.96,
+        "end": 1.06
+      },
+      {
+        "text": "ə",
+        "start": 1.06,
+        "end": 1.14
+      },
+      {
+        "text": "n",
+        "start": 1.14,
+        "end": 1.2
+      },
+      {
+        "text": "ə",
+        "start": 1.2,
+        "end": 1.59
+      }
+    ]
+  },
+  {
+    "wordId": "word_drive",
+    "audioId": "word_drive",
+    "audioSha1": "f8a41b11c9df8f00fbf8230bd9f26c846ef78ffb",
+    "ipa": "draɪv",
+    "duration": 1.0973333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "d",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "r",
+        "start": 0.26,
+        "end": 0.34
+      },
+      {
+        "text": "aɪ",
+        "start": 0.34,
+        "end": 0.72
+      },
+      {
+        "text": "v",
+        "start": 0.72,
+        "end": 0.85
+      }
+    ]
+  },
+  {
+    "wordId": "word_reuse",
+    "audioId": "word_reuse",
+    "audioSha1": "89f4054c174728e11c0ee30e9e3c2be2da3fcc4a",
+    "ipa": "ˌriːˈjuːz",
+    "duration": 1.8853333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˌ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "r",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "iː",
+        "start": 0.26,
+        "end": 0.44
+      },
+      {
+        "text": "ˈ",
+        "start": 0.44,
+        "end": 0.44
+      },
+      {
+        "text": "j",
+        "start": 0.44,
+        "end": 0.52
+      },
+      {
+        "text": "uː",
+        "start": 0.52,
+        "end": 0.84
+      },
+      {
+        "text": "z",
+        "start": 0.84,
+        "end": 1.64
+      }
+    ]
+  },
+  {
+    "wordId": "word_own",
+    "audioId": "word_own",
+    "audioSha1": "00636d4648307047e22b330bca4aa1a3e68c92c1",
+    "ipa": "əʊn",
+    "duration": 0.9933333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "əʊ",
+        "start": 0.05,
+        "end": 0.5
+      },
+      {
+        "text": "n",
+        "start": 0.5,
+        "end": 0.75
+      }
+    ]
+  },
+  {
+    "wordId": "word_market",
+    "audioId": "word_market",
+    "audioSha1": "dd2f6a95462b3bdab0e1f3f21ca0476333cc7489",
+    "ipa": "ˈmɑːkɪt",
+    "duration": 1.164,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "m",
+        "start": 0.03,
+        "end": 0.28
+      },
+      {
+        "text": "ɑː",
+        "start": 0.28,
+        "end": 0.5
+      },
+      {
+        "text": "k",
+        "start": 0.5,
+        "end": 0.58
+      },
+      {
+        "text": "ɪ",
+        "start": 0.58,
+        "end": 0.8
+      },
+      {
+        "text": "t",
+        "start": 0.8,
+        "end": 0.92
+      }
+    ]
+  },
+  {
+    "wordId": "word_top",
+    "audioId": "word_top",
+    "audioSha1": "cf033fa3ee43bec1a23504c350e0334cd393f9ee",
+    "ipa": "tɒp",
+    "duration": 1.096,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "t",
+        "start": 0.03,
+        "end": 0.28
+      },
+      {
+        "text": "ɒ",
+        "start": 0.28,
+        "end": 0.5
+      },
+      {
+        "text": "p",
+        "start": 0.5,
+        "end": 0.85
+      }
+    ]
+  },
+  {
+    "wordId": "word_bottle",
+    "audioId": "word_bottle",
+    "audioSha1": "f5859088c6f62ebe5172bc401fc61e05f8575f4d",
+    "ipa": "ˈbɒtəl",
+    "duration": 1.1946666666666668,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.05,
+        "end": 0.05
+      },
+      {
+        "text": "b",
+        "start": 0.05,
+        "end": 0.22
+      },
+      {
+        "text": "ɒ",
+        "start": 0.22,
+        "end": 0.38
+      },
+      {
+        "text": "t",
+        "start": 0.38,
+        "end": 0.4867
+      },
+      {
+        "text": "ə",
+        "start": 0.4867,
+        "end": 0.62
+      },
+      {
+        "text": "l",
+        "start": 0.62,
+        "end": 0.82
+      }
+    ]
+  },
+  {
+    "wordId": "word_dirty",
+    "audioId": "word_dirty",
+    "audioSha1": "e50ac2be4e7fb8c00fbd3dc861e38c4f49809abc",
+    "ipa": "ˈdɜːti",
+    "duration": 1.3226666666666667,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "d",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "ɜː",
+        "start": 0.26,
+        "end": 0.5
+      },
+      {
+        "text": "t",
+        "start": 0.5,
+        "end": 0.6
+      },
+      {
+        "text": "i",
+        "start": 0.6,
+        "end": 0.88
+      }
+    ]
+  },
+  {
+    "wordId": "word_side",
+    "audioId": "word_side",
+    "audioSha1": "cd0d60a8260340c543e1f1bc70ed2ae6df18aad7",
+    "ipa": "saɪd",
+    "duration": 1.1093333333333333,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-waveform-boundaries",
+    "tokens": [
+      {
+        "text": "s",
+        "start": 0.05,
+        "end": 0.3
+      },
+      {
+        "text": "aɪ",
+        "start": 0.3,
+        "end": 0.62
+      },
+      {
+        "text": "d",
+        "start": 0.62,
+        "end": 0.75
+      }
+    ]
+  },
+  {
+    "wordId": "word_useful",
+    "audioId": "word_useful",
+    "audioSha1": "d228f93be1f7b5213299aeff9039cf91c9f9e93b",
+    "ipa": "ˈjuːsfəl",
+    "duration": 1.154,
+    "status": "aligned",
+    "reviewStatus": "pending",
+    "reviewer": null,
+    "method": "ctc-anchors-with-generator-interpolation",
+    "tokens": [
+      {
+        "text": "ˈ",
+        "start": 0.03,
+        "end": 0.03
+      },
+      {
+        "text": "j",
+        "start": 0.03,
+        "end": 0.26
+      },
+      {
+        "text": "uː",
+        "start": 0.26,
+        "end": 0.44
+      },
+      {
+        "text": "s",
+        "start": 0.44,
+        "end": 0.56
+      },
+      {
+        "text": "f",
+        "start": 0.56,
+        "end": 0.6286
+      },
+      {
+        "text": "ə",
+        "start": 0.6286,
+        "end": 0.72
+      },
+      {
+        "text": "l",
+        "start": 0.72,
+        "end": 0.91
+      }
+    ]
+  }
+]

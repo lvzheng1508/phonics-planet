@@ -1,6 +1,21 @@
 const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const {createAudioService}=require('../miniprogram/services/audio-service');
+test('progress samples the real media clock between sparse native events and stops with the clip',async t=>{
+ t.mock.timers.enable({apis:['setInterval']});
+ let clip,reads=0;
+ const service=createAudioService(()=>clip={time:0,get currentTime(){reads++;return this.time;},duration:2,
+   onPlay(fn){this.started=fn;},onTimeUpdate(){},onEnded(){},onError(){},play(){},stop(){},destroy(){}},
+   ()=>({kind:'word',status:'verified',src:'/sound.mp3',source:'fixture',license:'CC0',reviewer:'test'}));
+ const result=service.play(['word'],{owner:'word'});
+ clip.started();clip.time=.6;t.mock.timers.tick(60);
+ assert.equal(service.state().progress,.3);
+ // A stalled media clock must not produce a fabricated time-based sweep.
+ t.mock.timers.tick(300);assert.equal(service.state().progress,.3);
+ service.stop();await result;const stoppedReads=reads;
+ t.mock.timers.tick(300);assert.equal(reads,stoppedReads);
+ assert.equal(service.state().progress,0);
+});
 test('playback progress follows media clock and ignores cancelled clip updates',async()=>{
  const contexts=[];
  const create=()=>{const c={currentTime:0,duration:2,onTimeUpdate(fn){this.tick=fn;},onPlay(fn){this.started=fn;},onEnded(fn){this.ended=fn;},onError(){},play(){},stop(){},destroy(){}};contexts.push(c);return c;};

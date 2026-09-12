@@ -10,11 +10,11 @@
     <view class="message">{{message}}</view>
   </view>
   <view class="card" wx:for="{{items}}" wx:key="id">
-    <view wx:if="{{item.selected}}" class="message">本次失败音频 · 已定位</view>
+    <view wx:if="{{item.selected}}" class="message">所选音频 · 已定位</view>
     <view class="card-title">{{item.label}}</view>
     <view class="muted">{{item.bytes}} 字节 · {{item.author}} · {{item.license}}</view>
     <view class="muted">{{item.note}}</view>
-    <button class="secondary" disabled="{{busy}}" data-id="{{item.id}}" bindtap="download">下载 / 检查缓存</button>
+    <button class="secondary" disabled="{{busy}}" data-id="{{item.id}}" bindtap="download">{{item.bundled ? '检查包内音频' : '下载 / 检查缓存'}}</button>
     <button class="primary" data-id="{{item.id}}" bindtap="play">技术试听</button>
     <button class="secondary" data-source="{{item.source}}" bindtap="copySource">复制录音来源</button>
     <button class="secondary" data-source="{{item.licenseUrl}}" bindtap="copySource">复制许可链接</button>

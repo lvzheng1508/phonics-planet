@@ -1,0 +1,22 @@
+{
+  "id": "flo-en-gb-115-v1",
+  "confirmedAt": "2026-09-12",
+  "selection": "User selected audition B: Flo British English female voice",
+  "engine": "macOS say",
+  "voice": "Flo (英语（英国）)",
+  "accent": "en-GB",
+  "rateWpm": 115,
+  "textSuffix": ".",
+  "sampleRate": 22050,
+  "channels": 1,
+  "mp3Bitrate": "96k",
+  "tempoProcessing": "none",
+  "kind": "word",
+  "reviewStatus": "pending",
+  "license": "local-preview-only",
+  "licenseUrl": "https://www.apple.com/legal/sla/docs/macOSSequoia.pdf",
+  "licenseSection": "2F Voices; Live Captions",
+  "distributionAllowed": false,
+  "outputDirectory": "assets/local-audio/flo-en-gb-115-v1",
+  "referenceDirectory": "artifacts/voice-audition-2026-09-12"
+}

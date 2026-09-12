@@ -12,7 +12,7 @@
     <block wx:else><view class="subtitle" wx:for="{{item.meanings}}" wx:key="*this">{{item}}</view></block>
     <audio-button ids="{{audioIds}}" label="{{item.audioPreview ? '听英式试听音' : '听整个单词'}}" owner="word-whole"/>
     <view wx:if="{{item.audioPreview}}" class="preview-label">系统合成试听 · 渐变表示整词播放进度</view>
-    <view wx:if="{{item.audioSynthetic}}" class="preview-label">AI 合成试听 · 待发音核对 · 渐变表示整词播放进度</view>
+    <view wx:if="{{item.audioSynthetic}}" class="preview-label">AI 合成试听 · 待发音核对 · {{item.audioTimingReady ? '音标跟读参考' : '整词播放进度'}}</view>
     <view wx:if="{{item.pronunciationPending}}" class="preview-label">开发版音标 · 待教学核对</view>
     <view wx:for="{{item.pronunciationVariants}}" wx:key="id" class="preview-label">{{item.label}}：/{{item.ipa}}/</view>
   </view>

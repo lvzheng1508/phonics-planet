@@ -9,7 +9,7 @@
 - audio-button：统一调用服务的展示组件。
 
 ## 当前实现边界
-路由、浏览、收藏已接通；发音资源尚空，正常显示准备提示。缺 ID/缺音频/未审核数据有降级。练习和复习等后续任务由 AI 根据产品目标自行拆分，不固定假期开发排期。
+路由、浏览、收藏已接通；整词使用用户选定的 Emma 合成试听资源，经 resource:// 远程下载与缓存；音素资源尚缺，正常显示准备提示。缺 ID/缺音频/未审核数据有降级。练习和复习等后续任务由 AI 根据产品目标自行拆分，不固定假期开发排期。
 
 ## 验证
 npm run check：源数据完整性 → 构建数据 → Node 服务测试 → JS/页面文件静态校验。
@@ -17,3 +17,5 @@ npm run check：源数据完整性 → 构建数据 → Node 服务测试 → JS
 
 ## 新增内容
 修改 seed-data，运行 check；新增教材注册 index；音频资源放 miniprogram/assets/audio 或合法 HTTPS 域名，填 manifest 来源/许可/审核人。远程地址还需开发者工具配置合法域名。较多音频后评估分包/远程缓存与体积预算。
+
+音标跟读：ContentService 校验时间表的音频摘要、IPA 与非重叠区间；详情和复习将 AudioService 的 currentTime 传给 progressTokens。服务每 50ms 读取媒体时钟，在结束、停止和切词时清理采样。离线对齐方法与逐词结果见 `artifacts/audio-sync-audit-2026-09-12/README.md`，模型和 Python 不进入运行时。

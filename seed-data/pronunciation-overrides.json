@@ -1,0 +1,74 @@
+[
+  {
+    "wordId": "word_hong_kong_zhuhai_macao_bridge",
+    "ipa": "ˌhɒŋ ˈkɒŋ ˌdʒuːˈhaɪ məˈkaʊ brɪdʒ",
+    "phonemeInput": "hˌɒŋ kˈɒŋ dʒˌuːhˈaɪ məkˈaʊ bɹɪdʒ.",
+    "resourceDirectory": "audio/words/en-GB/kokoro-emma/v2-aligned",
+    "reason": "Use the displayed draft whole-word reading instead of the default phonemizer reading; pending human pronunciation review.",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_jinggangshan_revolution_museum",
+    "ipa": "ˌdʒɪŋɡæŋˈʃæn ˌrevəˈluːʃən mjuːˈziːəm",
+    "phonemeInput": "dʒˌɪŋɡæŋʃˈæn ɹˌɛvəlˈuːʃən mjuːzˈiːəm.",
+    "resourceDirectory": "audio/words/en-GB/kokoro-emma/v2-aligned",
+    "reason": "Use the displayed draft whole-word reading instead of the default phonemizer reading; pending human pronunciation review.",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_exciting",
+    "ipa": "ɪkˈsaɪtɪŋ",
+    "phonemeInput": "ɪksˈaɪtɪŋ.",
+    "resourceDirectory": "audio/words/en-GB/kokoro-emma/v2-aligned",
+    "reason": "Use the displayed draft whole-word reading instead of the default phonemizer reading; pending human pronunciation review.",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_glass",
+    "ipa": "ɡlɑːs",
+    "phonemeInput": "ɡlɑːs.",
+    "resourceDirectory": "audio/words/en-GB/kokoro-emma/v2-aligned",
+    "reason": "Use the displayed draft whole-word reading instead of the default phonemizer reading; pending human pronunciation review.",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_for_example",
+    "ipa": "fər ɪɡˈzɑːmpəl",
+    "phonemeInput": "fəɹ ɪɡzˈɑːmpəl.",
+    "resourceDirectory": "audio/words/en-GB/kokoro-emma/v2-aligned",
+    "reason": "Use the displayed draft whole-word reading instead of the default phonemizer reading; pending human pronunciation review.",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_into",
+    "ipa": "ˈɪntuː",
+    "phonemeInput": "ˈɪntuː.",
+    "resourceDirectory": "audio/words/en-GB/kokoro-emma/v2-aligned",
+    "reason": "Use the displayed draft whole-word reading instead of the default phonemizer reading; pending human pronunciation review.",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_taikonaut",
+    "ipa": "ˈtaɪkəʊˌnɔːt",
+    "phonemeInput": "tˈaɪkəʊnˌɔːt.",
+    "resourceDirectory": "audio/words/en-GB/kokoro-emma/v2-aligned",
+    "reason": "Use the displayed draft whole-word reading instead of the default phonemizer reading; pending human pronunciation review.",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_electricity",
+    "ipa": "ɪˌlekˈtrɪsəti",
+    "phonemeInput": "ɪlˌɛktɹˈɪsəti.",
+    "resourceDirectory": "audio/words/en-GB/kokoro-emma/v2-aligned",
+    "reason": "Use the displayed draft whole-word reading instead of the default phonemizer reading; pending human pronunciation review.",
+    "reviewStatus": "pending"
+  },
+  {
+    "wordId": "word_difference",
+    "ipa": "ˈdɪfərəns",
+    "phonemeInput": "dˈɪfəɹəns.",
+    "resourceDirectory": "audio/words/en-GB/kokoro-emma/v2-aligned",
+    "reason": "Use the displayed draft whole-word reading instead of the default phonemizer reading; pending human pronunciation review.",
+    "reviewStatus": "pending"
+  }
+]

@@ -54,7 +54,7 @@ navigator { color:inherit; }
 .phonetic-line { font-family:Arial,Helvetica,sans-serif; font-size:48rpx; line-height:1.8; color:#7d8e8a; margin:20rpx 0 12rpx; overflow-wrap:anywhere; }
 .ipa-token { position:relative; display:inline-block; white-space:pre; cursor:pointer; }
 .ipa-ink { position:absolute; top:0; left:0; overflow:hidden; white-space:pre; color:#16776f; pointer-events:none; }
-.is-playing .ipa-ink { transition:width 140ms linear; color:#087b70; }
+.is-playing .ipa-ink { color:#087b70; }
 .ipa-slash { color:#a0ada6; margin:0 6rpx; }
 .preview-label { font-size:24rpx; color:#657973; line-height:1.8; }
 .list-ipa { color:#16776f; font-family:Arial,Helvetica,sans-serif; font-size:29rpx; line-height:1.6; margin:5rpx 0; }

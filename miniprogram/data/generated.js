@@ -4414,2025 +4414,6553 @@ module.exports = {
     },
     {
       "id": "word_was",
+      "wordId": "word_was",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_was.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "was",
-      "sha1": "8dabcef97f787be9913c8f97e0ba8ec3be0d7185",
-      "bytes": 8195,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_was.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": "audition default"
+      },
+      "sha1": "f0d8fb8b5a7d4dd2a329d4ab2b878cf335498f03",
+      "bytes": 13005,
+      "extension": "mp3",
+      "duration": 1.0026666666666666,
+      "wavSha256": "03a121d74cab65b457245fe4c56f681b9b73228469d8b70aaaaa94d3f56b8a3b",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ],
+      "auditionReference": "artifacts/voice-audition-kokoro-2026-09-12/short-A.mp3"
     },
     {
       "id": "word_climb",
+      "wordId": "word_climb",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_climb.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "climb",
-      "sha1": "086a326e5e7323ae7be30ff1f138b6ce9a10489a",
-      "bytes": 7881,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_climb.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "6bf81a47a774cb4c0989856bc2c013a4cc587bd6",
+      "bytes": 14733,
+      "extension": "mp3",
+      "duration": 1.1353333333333333,
+      "wavSha256": "adaa4472507a75510853b6744261c5e72ba94c6d42b816a3dd3673561e37e7cf",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_kilometre",
+      "wordId": "word_kilometre",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_kilometre.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "kilometre",
-      "sha1": "618984c017570c90992a38b1162d9d428a65b6f1",
-      "bytes": 11329,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_kilometre.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "997e853d78653a29734013be292e7de3e7c679fc",
+      "bytes": 18765,
+      "extension": "mp3",
+      "duration": 1.4766666666666666,
+      "wavSha256": "8f60f26728cd53207a30f9657ff786a8b7ee6ff5356c417300d70c8d9d709716",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_gingerbread_house",
+      "wordId": "word_gingerbread_house",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_gingerbread_house.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "gingerbread house",
-      "sha1": "473eac26bd221700932ddad27ae42195d0ece670",
-      "bytes": 13210,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_gingerbread_house.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": "audition default"
+      },
+      "sha1": "66fa205cb6f42c16cc7841aa7f1e51c7cf2812f4",
+      "bytes": 24525,
+      "extension": "mp3",
+      "duration": 1.9533333333333334,
+      "wavSha256": "443dd998d2f2dc50ea74ef88cec2c34bd4f1f19370169886fd41e92287815f38",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ],
+      "auditionReference": "artifacts/voice-audition-kokoro-2026-09-12/long-A.mp3"
     },
     {
       "id": "word_go",
+      "wordId": "word_go",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_go.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "go",
-      "sha1": "055e349a4a99f374f6c66ab9e9420124ac6b8e1b",
-      "bytes": 6627,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_go.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "c5bc436352a0ac4ad8ecffb1d6c7a0c2dab096e8",
+      "bytes": 12429,
+      "extension": "mp3",
+      "duration": 0.96,
+      "wavSha256": "d62cd5e2ed12de0d4033fb40650cd73ea35a715077c1b5d16853bc8557aa8779",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_send",
+      "wordId": "word_send",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_send.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "send",
-      "sha1": "fd6d5d5dd7a168c35d547fa95ade3408872fe0b3",
-      "bytes": 8508,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_send.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "1b0ca14a1397e268741feb896174735247ae99bf",
+      "bytes": 14157,
+      "extension": "mp3",
+      "duration": 1.088,
+      "wavSha256": "4eccf68b1ab4c963267eceb5afde2d84fecbcddee9bc1ca53b7b7c78685fed1e",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_thousand",
+      "wordId": "word_thousand",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_thousand.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "thousand",
-      "sha1": "cf45b5e143f643e98d9e75450651b9f55eae8901",
-      "bytes": 10389,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_thousand.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "275f660aff7b398b8fa74a185b4796b6c4d96347",
+      "bytes": 17613,
+      "extension": "mp3",
+      "duration": 1.37,
+      "wavSha256": "d95a7b32d8847fb80e7476f06893890fb77144f20ede43561fd4e6bd23ff505f",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_clay",
+      "wordId": "word_clay",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_clay.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "clay",
-      "sha1": "d3366cd3e0b869e8fb79ade3ae8f4867d9df308b",
-      "bytes": 7568,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_clay.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "25a93549aee99edf1119b17d624d2ebbfd22046c",
+      "bytes": 15021,
+      "extension": "mp3",
+      "duration": 1.1733333333333333,
+      "wavSha256": "e6f23756a6687fa58982fba94fb031ed09e4627aebc50e6b963fab460da9ab1e",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_see",
+      "wordId": "word_see",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_see.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "see",
-      "sha1": "6967671e3895c6fdb57826ddc1e1cd6aca66f667",
-      "bytes": 6000,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_see.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "260afff7a4f6920f3a29ad6a2d947913b61a6ae1",
+      "bytes": 11277,
+      "extension": "mp3",
+      "duration": 0.862,
+      "wavSha256": "260a2f78fccf3410ba32cb8487fe1b8f01d2ce1878e401fe5a03b92fddc2a5a4",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_village",
+      "wordId": "word_village",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_village.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "village",
-      "sha1": "771b78359c3ff3712c29f75984c66663ac4cad77",
-      "bytes": 9135,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_village.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": "audition default"
+      },
+      "sha1": "4e424aa1701d088ddf401e0c71330ddf768d3139",
+      "bytes": 15309,
+      "extension": "mp3",
+      "duration": 1.1946666666666668,
+      "wavSha256": "8b5c9c22a966f906efd8e0b32a302cf18782d36e078bfef3024bfd655edf429c",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ],
+      "auditionReference": "artifacts/voice-audition-kokoro-2026-09-12/medium-A.mp3"
     },
     {
       "id": "word_eat",
+      "wordId": "word_eat",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_eat.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "eat",
-      "sha1": "3b33004616e1381a4175f018f6c4b65e13190d8d",
-      "bytes": 6941,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_eat.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "831b399a7ed01a3ab8ece94630bde78b1b9fc871",
+      "bytes": 12141,
+      "extension": "mp3",
+      "duration": 0.9173333333333333,
+      "wavSha256": "178adad924e7495c4e641a5efe536717686a3ad06d3fd1b01010d678f4e8faf5",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_dry",
+      "wordId": "word_dry",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_dry.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "dry",
-      "sha1": "977101b36048dcf53a5e6db9d31fc8cdcabeefcb",
-      "bytes": 8195,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_dry.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "ea2019c2f115e548706183610a370c64786caeae",
+      "bytes": 13869,
+      "extension": "mp3",
+      "duration": 1.0686666666666667,
+      "wavSha256": "f973444ba8371dadfd393ef7730a80915a1d51ad709dc11e1d7fd2827f8f5779",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_take",
+      "wordId": "word_take",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_take.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "take",
-      "sha1": "ab3999f42dbe759a9b946cd4f8fc301239cb956b",
-      "bytes": 6941,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_take.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "c3c6ba1928e17366f54c7b76047fb23b5dfaee65",
+      "bytes": 13293,
+      "extension": "mp3",
+      "duration": 1.024,
+      "wavSha256": "dd917e69239c9d40c7514d008ff0f4644c7b6a38d7a96c2db0f2221067fffab9",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_view",
+      "wordId": "word_view",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_view.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "view",
-      "sha1": "163a2e362baf671b760fb38339eebee3c78f805b",
-      "bytes": 6000,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_view.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "f902bf3237c564e0a49f67303408e77e30327eaf",
+      "bytes": 13293,
+      "extension": "mp3",
+      "duration": 1.0106666666666666,
+      "wavSha256": "4065ef4ba0537afaf679484e796be9ac9caad003d5076d015f59a4797c4cca66",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_inspiring",
+      "wordId": "word_inspiring",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_inspiring.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "inspiring",
-      "sha1": "8d3cedf940c522488eb75f7a2e99c3d61129b953",
-      "bytes": 11016,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_inspiring.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "ab3155d6941a2b63fa3f5735248960cd0bf57006",
+      "bytes": 20205,
+      "extension": "mp3",
+      "duration": 1.6032916666666666,
+      "wavSha256": "205b2f43b9ba1f6999b69dcb709341c771759e1ed3de65912bc4e5e95466ebd4",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_bamboo",
+      "wordId": "word_bamboo",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_bamboo.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "bamboo",
-      "sha1": "36f5bfe7414cc0c6bf4322f4f2339bf99333b574",
-      "bytes": 8822,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_bamboo.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "2c90034186cfc7e5a8491f052da68b2b9b9659cd",
+      "bytes": 17325,
+      "extension": "mp3",
+      "duration": 1.3653333333333333,
+      "wavSha256": "cb6ab8a9406287a37db7809d4aebc9b1e1e6bde23f30801e45e09e5ab0e40ec7",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_pumpkin",
+      "wordId": "word_pumpkin",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_pumpkin.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "pumpkin",
-      "sha1": "6e20eac32a6d28d44f22ab98459605a6639dcdf2",
-      "bytes": 8195,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_pumpkin.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "4991950fcab264c326506e0c949886dc8d2bad5f",
+      "bytes": 15597,
+      "extension": "mp3",
+      "duration": 1.2206666666666666,
+      "wavSha256": "90ab2877e5cdc9cfab866fedd630cf19481e9a52feeb4fcf4b95ddb979309296",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_restaurant",
+      "wordId": "word_restaurant",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_restaurant.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "restaurant",
-      "sha1": "17a79940a2d3017cc8f2f052157671a119018fd0",
-      "bytes": 11016,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_restaurant.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "7f7e18d07514bbbd32bc87f3eb0928568b3344cd",
+      "bytes": 17613,
+      "extension": "mp3",
+      "duration": 1.3812916666666666,
+      "wavSha256": "6af0e00a539143583bbbae96691e2749f901d8df33582447c27ba4d248a2aafd",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_airport",
+      "wordId": "word_airport",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_airport.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "airport",
-      "sha1": "c96f0e18bde8543b8b56c93339c61bfd90f714a1",
-      "bytes": 10389,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_airport.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "727e5da575f1c9594c98d7a3f307ab394511cd05",
+      "bytes": 15021,
+      "extension": "mp3",
+      "duration": 1.154,
+      "wavSha256": "5abb37549628ca112448a36a8678d05257650606620d58beb887dadee438285c",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_new_zealand",
+      "wordId": "word_new_zealand",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_new_zealand.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "New Zealand",
-      "sha1": "7d8150d630c1d01fefb1fb8caeca5f6e69794ae3",
-      "bytes": 11643,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_new_zealand.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "42e0c6e82ad5b3f6e202683df837fd9b69902a87",
+      "bytes": 19917,
+      "extension": "mp3",
+      "duration": 1.572,
+      "wavSha256": "a4a515215ff2075a31c3a319bbfa29c98e27c342e7e442423e124cc1635698d0",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_hong_kong_zhuhai_macao_bridge",
+      "wordId": "word_hong_kong_zhuhai_macao_bridge",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_hong_kong_zhuhai_macao_bridge.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "Hong Kong-Zhuhai-Macao Bridge",
-      "sha1": "6190e60b8e6efa3ecb9e99eee32c0dccf0edff3e",
-      "bytes": 17912,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v2-aligned/word_hong_kong_zhuhai_macao_bridge.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2,
+        "phonemeInput": "hˌɒŋ kˈɒŋ dʒˌuːhˈaɪ məkˈaʊ bɹɪdʒ.",
+        "inputIpa": "ˌhɒŋ ˈkɒŋ ˌdʒuːˈhaɪ məˈkaʊ brɪdʒ"
+      },
+      "sha1": "16e585f8f3cfe684573823a2ad2bf797659510cd",
+      "bytes": 32589,
+      "extension": "mp3",
+      "duration": 2.6346666666666665,
+      "wavSha256": "097b63c439d546d31ed53eed89e82a07ef1ee32604c941c69dddb347c9bfd4e2",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_paris",
+      "wordId": "word_paris",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_paris.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "Paris",
-      "sha1": "4d6ef41c46d6902a7afa174e73c197d03ee26aae",
-      "bytes": 9449,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_paris.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "1e455b67cedfb4f68722a1afed0ac969216178fa",
+      "bytes": 18765,
+      "extension": "mp3",
+      "duration": 1.4786666666666666,
+      "wavSha256": "79c40fd579e484ede4122764aef811fb02a72140dbb178a980338b35fe8a1810",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_eiffel_tower",
+      "wordId": "word_eiffel_tower",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_eiffel_tower.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "Eiffel Tower",
-      "sha1": "f8b7b8d8a59e272a35abbd08dd67793da1e4150f",
-      "bytes": 11016,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_eiffel_tower.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "b02eb6e3c9b7d6b2adb30fccff23912b8e6b61a1",
+      "bytes": 21933,
+      "extension": "mp3",
+      "duration": 1.7513333333333334,
+      "wavSha256": "13bb577f021679cdef14fade68c07bc2350e086a976ed1639286828da2403630",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_terracotta_warriors",
+      "wordId": "word_terracotta_warriors",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_terracotta_warriors.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "Terracotta Warriors",
-      "sha1": "5892d6bdc9fedda3d8086a5a52882cbfba3fec41",
-      "bytes": 14151,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_terracotta_warriors.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "cbf9deb214ef2a66711fa87b5c4bb5dacde0a8d8",
+      "bytes": 25965,
+      "extension": "mp3",
+      "duration": 2.082666666666667,
+      "wavSha256": "d4df33831c27d0c82fc87696e41bb40a5638de16a15ce07bcadca80153dd5a91",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_jinggangshan_revolution_museum",
+      "wordId": "word_jinggangshan_revolution_museum",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_jinggangshan_revolution_museum.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "Jinggangshan Revolution Museum",
-      "sha1": "73096b0ccd1e21cb2fe344b8b4f7b7243bb5ec2a",
-      "bytes": 18853,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v2-aligned/word_jinggangshan_revolution_museum.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2,
+        "phonemeInput": "dʒˌɪŋɡæŋʃˈæn ɹˌɛvəlˈuːʃən mjuːzˈiːəm.",
+        "inputIpa": "ˌdʒɪŋɡæŋˈʃæn ˌrevəˈluːʃən mjuːˈziːəm"
+      },
+      "sha1": "a1d4aa1907a11e571ef1cc3cd4bf693dd933c4ab",
+      "bytes": 34605,
+      "extension": "mp3",
+      "duration": 2.7853333333333334,
+      "wavSha256": "8ed5cbe2e1b8f5e4198515fea7dc4984a584e8f7a978f8f7216a5e438cf63c52",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_the_red_army",
+      "wordId": "word_the_red_army",
       "kind": "word",
       "accent": "en-GB",
-      "src": "resource://audio/words/en-GB/piper-vctk-p225/v1/word_the_red_army.mp3",
-      "status": "synthetic-preview",
-      "source": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-      "license": "CC BY 4.0",
-      "reviewer": null,
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
-      "reviewStatus": "pending",
-      "generator": {
-        "engine": "piper-tts 1.8.0",
-        "model": "en_GB-vctk-medium",
-        "speaker": "p225",
-        "speakerId": 107,
-        "lengthScale": 1.1,
-        "modelSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
-        "configSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
-        "modelLicense": "MIT",
-        "datasetLicense": "CC BY 4.0",
-        "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
-        "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
-        "reviewStatus": "pending",
-        "listeningReview": "not-performed"
-      },
       "text": "the Red Army",
-      "sha1": "bf815e84d5ddf6ead3f2aa02062e64d38d0aa783",
-      "bytes": 11016,
-      "extension": "mp3"
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_the_red_army.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "b71b5f532a3fe7c9ed8febdf822df5f15efe60f1",
+      "bytes": 20781,
+      "extension": "mp3",
+      "duration": 1.6346666666666667,
+      "wavSha256": "aa16da1196ff7a7789e4e70a8adc0c93961e7a2598579fb690ac2614884bf67d",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_1"
+        }
+      ]
     },
     {
       "id": "word_dress",
+      "wordId": "word_dress",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "dress",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_dress.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "2f0d9f7f26aa312f1902b28f2c8e9e7dae52b4dc",
+      "bytes": 15597,
+      "extension": "mp3",
+      "duration": 1.216,
+      "wavSha256": "1041cada894aaf66bdfeabef1185b0cbce346f4fa620d8b36b2f9f500d29ebda",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_paste",
+      "wordId": "word_paste",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "paste",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_paste.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "0a5cb9607c58fbf6a5309e3da346ded121584828",
+      "bytes": 15309,
+      "extension": "mp3",
+      "duration": 1.1946666666666668,
+      "wavSha256": "e5012f68878daf27f4cf210aaf860c45acdd71ecf62ff69c6c211e72778deae7",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_gala",
+      "wordId": "word_gala",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "gala",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_gala.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "52512a960bb14eedcecfa0653b21488cd1fbd201",
+      "bytes": 15597,
+      "extension": "mp3",
+      "duration": 1.216,
+      "wavSha256": "fada24c4b2cd4a62774a1b59dbd16d7dc1f4f7c1c9b3a15abc1792009f79ba21",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_count_down",
+      "wordId": "word_count_down",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "count down",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_count_down.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "19f47cddc3494edebcdeea427f966e4488505b9d",
+      "bytes": 19629,
+      "extension": "mp3",
+      "duration": 1.5506666666666666,
+      "wavSha256": "8c263ea08a2e090903e549a3493b906da8de5461654f65db8efe96961fdfeeeb",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_marathon",
+      "wordId": "word_marathon",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "marathon",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_marathon.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "f349433415b58386c00a597cd16b54b900127fe7",
+      "bytes": 20205,
+      "extension": "mp3",
+      "duration": 1.6,
+      "wavSha256": "7fa1fd4490fdebbca76b4d77964ac0fec6c9b6b3d0a5f4a312d3ecd5f7c4ad77",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_as",
+      "wordId": "word_as",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "as",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_as.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "82152f828dd9abd075a294aec5afea0cf2a86bb4",
+      "bytes": 12141,
+      "extension": "mp3",
+      "duration": 0.9253333333333333,
+      "wavSha256": "153dd1551fd79202a901c4d845867e5e5ecb5b1d0602efb9d0276f0c4d559468",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_race",
+      "wordId": "word_race",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "race",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_race.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "dd65f4e13e1ce37f6d6d470b1fccd36827d1d892",
+      "bytes": 19629,
+      "extension": "mp3",
+      "duration": 1.554,
+      "wavSha256": "bea346a2487b3e70cb35986c154ad840950f2cd875f0c636c91a13052957284e",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_run",
+      "wordId": "word_run",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "run",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_run.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "ad84ac883a3ded89b4c591e2433469fc19ec815a",
+      "bytes": 15021,
+      "extension": "mp3",
+      "duration": 1.1733333333333333,
+      "wavSha256": "b7901478bfe1b9e384ceb84d648bd7435cab22411c7085e579f14b570e5d381d",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        },
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_cheer",
+      "wordId": "word_cheer",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "cheer",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_cheer.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "bf9a1134eb9e2a4bc19654f0d6489d651c0626cd",
+      "bytes": 13005,
+      "extension": "mp3",
+      "duration": 0.984625,
+      "wavSha256": "4661e8c2bca53e25c763efb556afecd034647576b4a2302f42daff109796184a",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_book_fair",
+      "wordId": "word_book_fair",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "book fair",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_book_fair.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "a44f21319ed514246b83996fc4a1a02977bb0951",
+      "bytes": 15597,
+      "extension": "mp3",
+      "duration": 1.2093333333333334,
+      "wavSha256": "5aa1b4c928281c13b93be2f55a03300eb0b698b7914234c54aa1d982df57912c",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_read",
+      "wordId": "word_read",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "read",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_read.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "7129013c0e69f68c033d462003152789f356980a",
+      "bytes": 18477,
+      "extension": "mp3",
+      "duration": 1.4473333333333334,
+      "wavSha256": "3656b33077e36acd11eee7e24ce160844b935b711ec02d09c5a08622e0dfe31a",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_writer",
+      "wordId": "word_writer",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "writer",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_writer.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "5f830c9aeb5585be6f8822ec5ca05d529deaaa48",
+      "bytes": 14445,
+      "extension": "mp3",
+      "duration": 1.112625,
+      "wavSha256": "63d73eddb6b13bfa6f169e828c4e76ea10eb8e66f17ca4aafa1d669a354f1936",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_make",
+      "wordId": "word_make",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "make",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_make.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "e1a8eb299f9e8b0e3864e2855a52715d64b5efbd",
+      "bytes": 15021,
+      "extension": "mp3",
+      "duration": 1.1733333333333333,
+      "wavSha256": "85cb25f2a4b2bad98f8246d9b7bd5874baa3cc5ac7e15606f11e86dcb5f98aaf",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_sing",
+      "wordId": "word_sing",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "sing",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_sing.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "9f62c80051fb1eff6da3cfddd4a10a2c12ee646f",
+      "bytes": 11853,
+      "extension": "mp3",
+      "duration": 0.9093333333333333,
+      "wavSha256": "89e7c9e045f514ab09e6b964ce6ea1a6cb47f4e58ba8725b5db3ba7ca9a83e9f",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_wear",
+      "wordId": "word_wear",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "wear",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_wear.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "5c8faee62f9268138df4fe7292c1cd8fefa59cce",
+      "bytes": 14733,
+      "extension": "mp3",
+      "duration": 1.152,
+      "wavSha256": "9698b690f9c0ecbe221d7368a64267b5a78c3e2850a1c0c82ac9e638cebdae57",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_yesterday",
+      "wordId": "word_yesterday",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "yesterday",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_yesterday.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "7c96fe0eba1a85ec4c5f138776914017ec7120fa",
+      "bytes": 17901,
+      "extension": "mp3",
+      "duration": 1.414,
+      "wavSha256": "475532eee10de463434ca17949e45091713e550da2f1ac8f23301dbcbb99026a",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_notice",
+      "wordId": "word_notice",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "notice",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_notice.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "399cefe0cf0c4c19fe666a72ea7b28231e409d0b",
+      "bytes": 19917,
+      "extension": "mp3",
+      "duration": 1.5786666666666667,
+      "wavSha256": "4ef56af9521e3dcede86ee25b2692430877203d88846e5e3a27c7eff5d37a7f1",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_wake",
+      "wordId": "word_wake",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "wake",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_wake.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "823bb2df97ecf150213e8ac81e6a6091373c1d8a",
+      "bytes": 12429,
+      "extension": "mp3",
+      "duration": 0.96,
+      "wavSha256": "4559dbfcb904d01d285c774ec6f48248e31262d049d3986deaeef3e04d533b77",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_later",
+      "wordId": "word_later",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "later",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_later.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "5fc626307be95231581db38ef66288064985bfd2",
+      "bytes": 15021,
+      "extension": "mp3",
+      "duration": 1.154,
+      "wavSha256": "3e94f02a2a8bb65d03bf541ff3e9f1204fd38a93a5958a1fadc11d843b49955d",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_judge",
+      "wordId": "word_judge",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "judge",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_judge.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "145c2685a02fdcef40453f91ee8140cdfad037bb",
+      "bytes": 15021,
+      "extension": "mp3",
+      "duration": 1.1733333333333333,
+      "wavSha256": "7c9c68c35cc2aff02ddb736456cae253d44fe642918a46d3bfa38af12dc56342",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_win",
+      "wordId": "word_win",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "win",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_win.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "1272bbf016b5a6170dda6136ab80149efe1097bd",
+      "bytes": 13581,
+      "extension": "mp3",
+      "duration": 1.0453333333333332,
+      "wavSha256": "8b7106aba9e9267dc7699761dd9e4b81e66f547cb8d28291a96ae44ce8b4a11d",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_begin",
+      "wordId": "word_begin",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "begin",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_begin.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "fd7ca87da71b9a443cac54239f32b17ccd3641ee",
+      "bytes": 16749,
+      "extension": "mp3",
+      "duration": 1.3013333333333332,
+      "wavSha256": "ee664c277f77374fe1f3f297d178accb957d7bb78dd14949b0b4589066fc5e5a",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_winner",
+      "wordId": "word_winner",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "winner",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_winner.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "9ea4d49805d4f9bb05d2bab7da3224c647e35656",
+      "bytes": 14157,
+      "extension": "mp3",
+      "duration": 1.088,
+      "wavSha256": "0b1c70cf69529582688589ffd44b778cca90022ed4ffb465fa43967a48731467",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_ever",
+      "wordId": "word_ever",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "ever",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_ever.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "78ee3843265cbd64b62cce36881b9da91ff0d512",
+      "bytes": 12717,
+      "extension": "mp3",
+      "duration": 0.9813333333333333,
+      "wavSha256": "d1054a9b3ae79f3b1f763c931c94aea3e49c2eb2c4ca54201fdb936fca5b8906",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_exciting",
+      "wordId": "word_exciting",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "exciting",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v2-aligned/word_exciting.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2,
+        "phonemeInput": "ɪksˈaɪtɪŋ.",
+        "inputIpa": "ɪkˈsaɪtɪŋ"
+      },
+      "sha1": "668b9e061876ed7e53007ba1c3fe209a5a4981ba",
+      "bytes": 18477,
+      "extension": "mp3",
+      "duration": 1.4553333333333334,
+      "wavSha256": "0e78a888e42cbd865ae7f55615a1e2bcef03c45254ccba845fc8b4ec83c22ea7",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_2"
+        }
+      ]
     },
     {
       "id": "word_cold",
+      "wordId": "word_cold",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "cold",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_cold.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "abad4019840072a6a02cb42e16c7bfe4d0fc6bfc",
+      "bytes": 16173,
+      "extension": "mp3",
+      "duration": 1.2586666666666666,
+      "wavSha256": "213b31b65036417592214fda867dd777eb73b29c1ef143522545b0cc93838050",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_ill",
+      "wordId": "word_ill",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "ill",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_ill.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "b539bde57f5c752acbb2fd320f86a6ef41124790",
+      "bytes": 11565,
+      "extension": "mp3",
+      "duration": 0.8746666666666667,
+      "wavSha256": "850c9147d18b66be19cc6471ec0bdbca66d2d10fb47567da3dc3fae318c530ba",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_head",
+      "wordId": "word_head",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "head",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_head.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "3b69b70b20298b80405fbe8abade235ea454dd64",
+      "bytes": 12429,
+      "extension": "mp3",
+      "duration": 0.9386666666666666,
+      "wavSha256": "9608a086952621f6356c7c3e5b5ea4bc7fe9f4c8b06cdf5b4b9cb14b9a149222",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_runny_nose",
+      "wordId": "word_runny_nose",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "runny nose",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_runny_nose.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "80ff02d72848dceef4405d226c9c302375b24a5a",
+      "bytes": 20493,
+      "extension": "mp3",
+      "duration": 1.6133333333333333,
+      "wavSha256": "07eda03f178e168d3599351689b7bc0fcae910409eff260882aae3bad8cc0e29",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_soon",
+      "wordId": "word_soon",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "soon",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_soon.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "665ba57101eadc62caec8deb544c9c7ab913794f",
+      "bytes": 12717,
+      "extension": "mp3",
+      "duration": 0.9833333333333333,
+      "wavSha256": "84e5c261e2a23ab56c48cf6b90b00b4c1485da4f7bfbc6e6d71048d3a2bc3e31",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_fever",
+      "wordId": "word_fever",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "fever",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_fever.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "105c711c200c7e89f48e71ab10273217550345ce",
+      "bytes": 13293,
+      "extension": "mp3",
+      "duration": 1.0272916666666667,
+      "wavSha256": "f01473630df77e46ce6a445c4088a32fc4676bbaf9a3652ce6e0ef208e1e01d9",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_cough",
+      "wordId": "word_cough",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "cough",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_cough.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "2d0a98d4d68f9ee6d1d33f30b23d137f86857b07",
+      "bytes": 12429,
+      "extension": "mp3",
+      "duration": 0.96,
+      "wavSha256": "3e51165566de6c16183a23a6f372b035884fe84cf31cc4ff376d193d71d20bd3",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_discuss",
+      "wordId": "word_discuss",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "discuss",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_discuss.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "bf661f3646d01acc0183e94a29a897be6210ca95",
+      "bytes": 17613,
+      "extension": "mp3",
+      "duration": 1.3866666666666667,
+      "wavSha256": "fb6be6a9bc3d50aaa73bb6716869a7f819658010ba16d0320f151303153be743",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_diet",
+      "wordId": "word_diet",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "diet",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_diet.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "b550adf8df471ac8da1d62aecea0a9f39e4dcd43",
+      "bytes": 16749,
+      "extension": "mp3",
+      "duration": 1.3013333333333332,
+      "wavSha256": "6fd2f3e440a6a9f0e76dc162208ad867ddecec2cb2bc6a2a15df95d195a66e5a",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_stay_up",
+      "wordId": "word_stay_up",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "stay up",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_stay_up.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "ed9c8f9a20614741a2283f6a5c6e0e4062b1600f",
+      "bytes": 15021,
+      "extension": "mp3",
+      "duration": 1.1753333333333333,
+      "wavSha256": "94a9399b01b63921d18cf46b7063b1e11028c54120056c580998625f6ea2a6b0",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_cry",
+      "wordId": "word_cry",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "cry",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_cry.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "18bbfb15c6d3ed2d928d868667f4dd46d4ded95c",
+      "bytes": 13869,
+      "extension": "mp3",
+      "duration": 1.0686666666666667,
+      "wavSha256": "7072d9be466cfa3da162db0bfa96a939438a8f182073e92c9a099c41f737802c",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_another",
+      "wordId": "word_another",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "another",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_another.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "6a95c2cd2d95a7abfab7b69eac693be19fe54fdf",
+      "bytes": 16173,
+      "extension": "mp3",
+      "duration": 1.2586666666666666,
+      "wavSha256": "f4bc11e0bbac82a1ca0cf54a1b3de0756b4680d859599419384be580f8956d76",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_call",
+      "wordId": "word_call",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "call",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_call.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "935bc66ee9154a6f9863a086c63f9cf1aee10391",
+      "bytes": 12717,
+      "extension": "mp3",
+      "duration": 0.982,
+      "wavSha256": "bf85d0601dc8f2e6f776278ad3885a792f5c0330f86c3434634974aafe017830",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_email",
+      "wordId": "word_email",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "email",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_email.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "67a2f271b805302cd7d66c4c193adfe29220c7e2",
+      "bytes": 16461,
+      "extension": "mp3",
+      "duration": 1.28,
+      "wavSha256": "5adcf2b66b22aee0acbe75e51340fe26fccd35c6dc85578cfc735fdb73428863",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_unhappy",
+      "wordId": "word_unhappy",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "unhappy",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_unhappy.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "f7edec3b9d7077a0b4b9f8b61eb9f5c861d842d4",
+      "bytes": 18765,
+      "extension": "mp3",
+      "duration": 1.472,
+      "wavSha256": "61cacd5b30ae5bbe7a8cf3f64854c975950673f3ca671a7856a0251d0a62cb92",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_glass",
+      "wordId": "word_glass",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "glass",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v2-aligned/word_glass.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2,
+        "phonemeInput": "ɡlɑːs.",
+        "inputIpa": "ɡlɑːs"
+      },
+      "sha1": "2c2bb8beef15ff6641c41d8f6e640312ecbc5d54",
+      "bytes": 13293,
+      "extension": "mp3",
+      "duration": 1.0133333333333334,
+      "wavSha256": "0f1a91dfa329f6ab6d2aaac929e1bdf0f54d0bb813992e58dddfc283754c39a8",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_may",
+      "wordId": "word_may",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "may",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_may.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "557c05841cd56aa8075eb627e80b5a62e4a0a1a1",
+      "bytes": 14445,
+      "extension": "mp3",
+      "duration": 1.1093333333333333,
+      "wavSha256": "6b1ac89c54822bff8be30fb05d685215bf114178c92ad62dcc76b54cfa15d495",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_add",
+      "wordId": "word_add",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "add",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_add.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "3f2a743613efbe30427d6083645605dc3f27391b",
+      "bytes": 11853,
+      "extension": "mp3",
+      "duration": 0.908,
+      "wavSha256": "c63023b63984fbef65729aebf897f25c7a606d93d5b945170e2eee41065046cf",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_video",
+      "wordId": "word_video",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "video",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_video.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "49b0e5e41c4a992259772e3b3f55fc5c30bf1543",
+      "bytes": 15597,
+      "extension": "mp3",
+      "duration": 1.216,
+      "wavSha256": "c0e58c882b5bf19219f98c35dd9dec48e6ad3cd4f04501f86a6373dfc09cf806",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_better",
+      "wordId": "word_better",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "better",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_better.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "01de41f8461706bd5a4139a9c339dba067fa915a",
+      "bytes": 14733,
+      "extension": "mp3",
+      "duration": 1.1306666666666667,
+      "wavSha256": "2f6103fb061bcb38d936ad618164c4a8ed7a12f0b3f0d0ea798bfd4d6605313d",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_3"
+        }
+      ]
     },
     {
       "id": "word_money",
+      "wordId": "word_money",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "money",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_money.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "bdf09c6c812e975ca0bb80b3def5ff0388919480",
+      "bytes": 18189,
+      "extension": "mp3",
+      "duration": 1.426,
+      "wavSha256": "8c0bb4d128d7aa705ca3bcb19a78c50c257d3b1e066400cf656011dc7c5df28e",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_pocket_money",
+      "wordId": "word_pocket_money",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "pocket money",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_pocket_money.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "9cac089e351c096156da6c476454bae642791d64",
+      "bytes": 20205,
+      "extension": "mp3",
+      "duration": 1.592,
+      "wavSha256": "e3a07560de722efc7d557ca3742df4fd14be8865c29da70bf2d1b99e29930e28",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_schoolbag",
+      "wordId": "word_schoolbag",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "schoolbag",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_schoolbag.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "71063c916f5eb40d34a775afa4d6e91815fbdded",
+      "bytes": 15885,
+      "extension": "mp3",
+      "duration": 1.236625,
+      "wavSha256": "2051072ef9c4bff611bfc4c26abb43f64f34a4c3f1ee11eda99214e47ca6a23c",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_goods",
+      "wordId": "word_goods",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "goods",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_goods.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "736acad7fe58884b743e96174924fc9e37bd79bb",
+      "bytes": 15597,
+      "extension": "mp3",
+      "duration": 1.216,
+      "wavSha256": "bf29fea92412fbdf5c9e1862ae1eef2f8c4c742319f307505692ef9956704ffe",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_drink",
+      "wordId": "word_drink",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "drink",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_drink.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "68bedc5454aee26283a53d8afad78bc1017a8a1e",
+      "bytes": 16749,
+      "extension": "mp3",
+      "duration": 1.3013333333333332,
+      "wavSha256": "1991a282cae3d08ee735534a229562fa034700218c2641633ebbbfd0e1807315",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_service",
+      "wordId": "word_service",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "service",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_service.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "5234fc76dba92e8beed2bef4773003d1de60326e",
+      "bytes": 18477,
+      "extension": "mp3",
+      "duration": 1.4506666666666668,
+      "wavSha256": "288710388f1110c73e5c91aed775cf9d361e1afe91dd4de80b663d1de5eb92ef",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_haircut",
+      "wordId": "word_haircut",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "haircut",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_haircut.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "c527cf8252017f96d37fb257b7016e49ace2bebc",
+      "bytes": 14733,
+      "extension": "mp3",
+      "duration": 1.1313333333333333,
+      "wavSha256": "1313f2806ba8e6a3f550a612835a8cba5fa1dc70677fcf9a26684404b7566649",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_microscope",
+      "wordId": "word_microscope",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "microscope",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_microscope.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "db78fb7a18e62c22ef13febd8c51d3b03724936b",
+      "bytes": 19629,
+      "extension": "mp3",
+      "duration": 1.5392916666666667,
+      "wavSha256": "31c867a8917c06b0a3457030c0b9681c662124bb2335b685778f433b5b587839",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_lucky",
+      "wordId": "word_lucky",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "lucky",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_lucky.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "2aef636ce3aa4db09415a5d988f3d3422fdb3a87",
+      "bytes": 15597,
+      "extension": "mp3",
+      "duration": 1.216,
+      "wavSha256": "620aaafa635ddfd9484db06cc8e869f38dc42619949181ab9d37d709ad4f7b54",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_save_up",
+      "wordId": "word_save_up",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "save up",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_save_up.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "25cb18d9ec1ca6a20d92f556eee8f9c0adb61fc4",
+      "bytes": 15597,
+      "extension": "mp3",
+      "duration": 1.2192916666666667,
+      "wavSha256": "93b1d7580459b959d54af6448c929a2e636316f718ed21e0efdf360cf6c2d2fe",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_sale",
+      "wordId": "word_sale",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "sale",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_sale.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "da7e6c613ddd29d97e95c2cb8baf113c14f65291",
+      "bytes": 13005,
+      "extension": "mp3",
+      "duration": 1.0046666666666666,
+      "wavSha256": "8e7b5341f29f8466bfaf09f004fe9882e8ef223b5113a1fce4344065d7235fb7",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_ticket",
+      "wordId": "word_ticket",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "ticket",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_ticket.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "8e052071d3c669b0c4b6b9a16476a8134849b231",
+      "bytes": 14157,
+      "extension": "mp3",
+      "duration": 1.0813333333333333,
+      "wavSha256": "c69e3879ceb22919516959390298a31a125567130a1dd2154f2caaf890bd273e",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_manage",
+      "wordId": "word_manage",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "manage",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_manage.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "33c99e293466a28a19d7ff52dc7baac07687613b",
+      "bytes": 17037,
+      "extension": "mp3",
+      "duration": 1.344,
+      "wavSha256": "6fd9ab23a4f6df2a9dadb44e0f64c406bf0cd8406c991b32d937c828076d1a78",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_difficult",
+      "wordId": "word_difficult",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "difficult",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_difficult.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "e224af6e7635fdfc64a05acb794298921fa3495d",
+      "bytes": 16749,
+      "extension": "mp3",
+      "duration": 1.316,
+      "wavSha256": "ed3c65f3fb14435faec8147ce040d3fc151b1a42b57f43844cd9d8ee879bc7f7",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_sell",
+      "wordId": "word_sell",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "sell",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_sell.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "46c5250fc2b6225e807ade320ddef9375bc759af",
+      "bytes": 11565,
+      "extension": "mp3",
+      "duration": 0.8866666666666667,
+      "wavSha256": "2aca3f112b2041f0a2f3325e785485bce7344a0b88e57637d3c95e81a22a2962",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_half",
+      "wordId": "word_half",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "half",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_half.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "192e3ef4435d8ac4321cbd08ea19434694a536fb",
+      "bytes": 15885,
+      "extension": "mp3",
+      "duration": 1.2453333333333334,
+      "wavSha256": "d09be2dc7cb66c4f3aefd29226da00a0647dededbcc535c5ac76eea41ef3ebcf",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_for_example",
+      "wordId": "word_for_example",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "for example",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v2-aligned/word_for_example.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2,
+        "phonemeInput": "fəɹ ɪɡzˈɑːmpəl.",
+        "inputIpa": "fər ɪɡˈzɑːmpəl"
+      },
+      "sha1": "a11e3b10a57aef05d6a56aac7a717d71368efe54",
+      "bytes": 20205,
+      "extension": "mp3",
+      "duration": 1.6032916666666666,
+      "wavSha256": "1286a9915d0c06b85d92a3d5dea9c2c3850f624c8619e97b33a2b474dbc25c09",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_4"
+        }
+      ]
     },
     {
       "id": "word_planet",
+      "wordId": "word_planet",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "planet",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_planet.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "bc9c8e2c0f88ae99bb867d07902b761986996c20",
+      "bytes": 17037,
+      "extension": "mp3",
+      "duration": 1.344,
+      "wavSha256": "03ab12f8ac3295c6f9cd156e4495f053a9b1040afd90ec81751db31de21f1202",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_earth",
+      "wordId": "word_earth",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "earth",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_earth.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "58f0d88617de9281d63ba8d56cbc4f0279679f57",
+      "bytes": 12429,
+      "extension": "mp3",
+      "duration": 0.96,
+      "wavSha256": "60fcdac6733dc1c08267e58c56c63fae4ab8ef02b6b16ffe6b81f95b7a0d0502",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_sky",
+      "wordId": "word_sky",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "sky",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_sky.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "21f06eada8e8a96bd2f7baa66520bcb7f4d120ed",
+      "bytes": 13005,
+      "extension": "mp3",
+      "duration": 0.9933333333333333,
+      "wavSha256": "f71b1cdd6baff197b8380876eb64bed90355c81f8e057af9f846c54d51d9c96c",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_daytime",
+      "wordId": "word_daytime",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "daytime",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_daytime.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "4d9b477b0688811eb3c93a1c2b9a4c463330e978",
+      "bytes": 17613,
+      "extension": "mp3",
+      "duration": 1.38,
+      "wavSha256": "625d1cfae8473c6da4075b5b12ebe340ba07b85b5114d0db36cd17389a6a4023",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_cloud",
+      "wordId": "word_cloud",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "cloud",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_cloud.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "8d92c6f337cec98b98eaa5f2fe4cf1b0616b4771",
+      "bytes": 14733,
+      "extension": "mp3",
+      "duration": 1.1453333333333333,
+      "wavSha256": "75920a14ee70fb751bf13fde6b825718e038e0d30367b322741e41b8c2bb0670",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_moon",
+      "wordId": "word_moon",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "moon",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_moon.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "b8f9361ae201bc2681ba5054a8686bef58c01e34",
+      "bytes": 19341,
+      "extension": "mp3",
+      "duration": 1.5226666666666666,
+      "wavSha256": "fd9ecb7db7e8405fa9c9b8e37b26793d4f7b82fb34680c5a5b448d38ee104cdf",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_star",
+      "wordId": "word_star",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "star",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_star.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "ab82c6bf82371fb664004a01c38fac62f6e02cb1",
+      "bytes": 11853,
+      "extension": "mp3",
+      "duration": 0.9053333333333333,
+      "wavSha256": "c26ba3497762f7acc5ba3a6ecd4728dd35b041c79b676c1562cbd624e01b2f79",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_space",
+      "wordId": "word_space",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "space",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_space.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "053dfce1124592bc43bd5de565caf6e215683ad5",
+      "bytes": 14157,
+      "extension": "mp3",
+      "duration": 1.1013333333333333,
+      "wavSha256": "444fbcbf8bc9796b3a34088544202eaf5a5853d062915408e45bb1f3b62494b4",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_outer_space",
+      "wordId": "word_outer_space",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "outer space",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_outer_space.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "fb2ed95fa7398bc5049e762d2830f45a1c9a03f9",
+      "bytes": 22221,
+      "extension": "mp3",
+      "duration": 1.7626666666666666,
+      "wavSha256": "611937643378a11f363273875e0dcea341f488b67beca2a92be8d1e0b6190263",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_space_station",
+      "wordId": "word_space_station",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "space station",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_space_station.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "cd2439d1c961d231daf4d2a0544841b16cc24234",
+      "bytes": 22797,
+      "extension": "mp3",
+      "duration": 1.8053333333333332,
+      "wavSha256": "4282b9b906e49186f331be1c22d8b44eacb04ef314238315e5a054a4aea1592a",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_ocean",
+      "wordId": "word_ocean",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "ocean",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_ocean.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "8bebdfb7a12cfa69c79596a6d901ac08492a26e4",
+      "bytes": 14733,
+      "extension": "mp3",
+      "duration": 1.1353333333333333,
+      "wavSha256": "e8177b95ed1fc852c6a73d716a8af399d1ab2b03d3d5307edaf949cdaf2066e3",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_marble",
+      "wordId": "word_marble",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "marble",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_marble.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "0da98c6b7b3f3577bb5c95ecdb4c22d9205d0844",
+      "bytes": 16749,
+      "extension": "mp3",
+      "duration": 1.3013333333333332,
+      "wavSha256": "43d9203e7dc1826e0fd322b8a80d345d0832c3f36256fc7e5bfd09847910e8c1",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_satellite",
+      "wordId": "word_satellite",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "satellite",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_satellite.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "df2d9031c47bc7dec5d95167a0dc76803af17d49",
+      "bytes": 17901,
+      "extension": "mp3",
+      "duration": 1.414,
+      "wavSha256": "5e05ee9823f91a101fc811c0cf75ad8883113f0f21d7ce01c159ec2415bc973e",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_soil",
+      "wordId": "word_soil",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "soil",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_soil.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "e68538cd76c4adcf53a084348e74a7d03412c24e",
+      "bytes": 13005,
+      "extension": "mp3",
+      "duration": 1.0033333333333334,
+      "wavSha256": "28f6003ad2cd6c48612b45f70c2ebca37a75a04700f559ad4a318be734b88396",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_alien",
+      "wordId": "word_alien",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "alien",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_alien.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "3d6415d4f27d7b76fd7a1afb9f0bdae5bd3782d7",
+      "bytes": 19341,
+      "extension": "mp3",
+      "duration": 1.536,
+      "wavSha256": "239f96fe37906881974e7c82a81833d52dc15f4b9a706026921bfda10fd36199",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_sunrise",
+      "wordId": "word_sunrise",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "sunrise",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_sunrise.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "f08781adbd52b53145c5f8794325256d334204f6",
+      "bytes": 17613,
+      "extension": "mp3",
+      "duration": 1.38,
+      "wavSha256": "abf7a410992beab133c4f6c30da8c0f810a8147d608f55f3afb5f98d8b14b181",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_rover",
+      "wordId": "word_rover",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "rover",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_rover.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "d1ab57a39a74c8f44af868a904a15221b97ee04d",
+      "bytes": 14157,
+      "extension": "mp3",
+      "duration": 1.09,
+      "wavSha256": "39057168509a06aa6c5ef420630026fa8e1c2bca41957c468db44e15d2acb250",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_into",
+      "wordId": "word_into",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "into",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v2-aligned/word_into.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2,
+        "phonemeInput": "ˈɪntuː.",
+        "inputIpa": "ˈɪntuː"
+      },
+      "sha1": "cdebaef9735dd647cb60c33158850870268b25af",
+      "bytes": 13869,
+      "extension": "mp3",
+      "duration": 1.0573333333333332,
+      "wavSha256": "52f9fe300127103e97297a4340e902318e2d02c5a96c3f62476833da0fc97236",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_telescope",
+      "wordId": "word_telescope",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "telescope",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_telescope.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "eedb84773b78a5799f5594ab7dbc3f466f56daac",
+      "bytes": 17613,
+      "extension": "mp3",
+      "duration": 1.3713333333333333,
+      "wavSha256": "3de97bb99602e7794215659f5e7347d9ab628a7520d5ae1a953232054cb53118",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_astronaut",
+      "wordId": "word_astronaut",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "astronaut",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_astronaut.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "4ad110fc1ab271f4be4b516a65e71a75dabc48bb",
+      "bytes": 18477,
+      "extension": "mp3",
+      "duration": 1.4452916666666666,
+      "wavSha256": "e82ccdcfddf4a014fff860174d226fcead412186d123ef360132c1985cc1e2d3",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_month",
+      "wordId": "word_month",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "month",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_month.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "903ccd121c182fc3a3f8e060010141afc80bf220",
+      "bytes": 17037,
+      "extension": "mp3",
+      "duration": 1.342,
+      "wavSha256": "1d3271567faaff38bacfcfb8c728252672104c3a6c06eeaade6781b6243860cb",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_spaceship",
+      "wordId": "word_spaceship",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "spaceship",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_spaceship.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "9f8da511bdc6a7e66c15e11aa1ad35c11ad368ee",
+      "bytes": 16173,
+      "extension": "mp3",
+      "duration": 1.2579583333333333,
+      "wavSha256": "0a3aaa28b367e1e9de3cae831ee2a28a1e8c4b3f2d9bed7516537946ab6815ae",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_cloth",
+      "wordId": "word_cloth",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "cloth",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_cloth.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "23a871248e8c1ab1c1f3b502931446c71c4335a9",
+      "bytes": 14733,
+      "extension": "mp3",
+      "duration": 1.152,
+      "wavSha256": "5ca9507d769dad28a9e14647a2bde3688cc69fbe6955e315265c3abd21b6dd0a",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_toothpaste",
+      "wordId": "word_toothpaste",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "toothpaste",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_toothpaste.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "430644fbd66cc89c1f7dfe77573a5affac35d5f4",
+      "bytes": 17325,
+      "extension": "mp3",
+      "duration": 1.3586666666666667,
+      "wavSha256": "a62b789e3d34a1b6aebe3d10bfb4e0ecfa1df9be59a156a720e60540b08fbc6a",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_taikonaut",
+      "wordId": "word_taikonaut",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "taikonaut",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v2-aligned/word_taikonaut.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2,
+        "phonemeInput": "tˈaɪkəʊnˌɔːt.",
+        "inputIpa": "ˈtaɪkəʊˌnɔːt"
+      },
+      "sha1": "0aa87edb62b9826e70c1309c9c86a97adcb4a29f",
+      "bytes": 19917,
+      "extension": "mp3",
+      "duration": 1.562,
+      "wavSha256": "d1d83253523270feb6486a8d2add7c99e6c6afe947a0050a45411f24cdacc9dc",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_question",
+      "wordId": "word_question",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "question",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_question.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "b154c2c1ea83b25222ff85f5ede8656751ff149f",
+      "bytes": 19917,
+      "extension": "mp3",
+      "duration": 1.5786666666666667,
+      "wavSha256": "0f9059a165471bfd5cf7b9c1adc62e7ac13770b72a9ceaa4ea26f50dc5453576",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_time",
+      "wordId": "word_time",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "time",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_time.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "054bb961c7ae99308d0bff4dfa57a70b88502f3e",
+      "bytes": 15309,
+      "extension": "mp3",
+      "duration": 1.1946666666666668,
+      "wavSha256": "70583e5649cc3b55697561ed2b7bc4a505b15dc7721c3e1d4b14cfe3ac01e7b4",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_sunset",
+      "wordId": "word_sunset",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "sunset",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_sunset.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "1c8f8cc637c92aca264da83d89dccb7bdb3d7dee",
+      "bytes": 15309,
+      "extension": "mp3",
+      "duration": 1.1966666666666668,
+      "wavSha256": "ad4129831c4435666905a776551896c033277c1f262bd18f249030af88d30423",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_mars",
+      "wordId": "word_mars",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "Mars",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_mars.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "bdb51435a196e0a8ca09bb13e0cbdffb19701238",
+      "bytes": 15885,
+      "extension": "mp3",
+      "duration": 1.2373333333333334,
+      "wavSha256": "bab6827bd66f90468a65264b796c71e3ac101658b66fd1f586bb1d2257f9c2d0",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_5"
+        }
+      ]
     },
     {
       "id": "word_power",
+      "wordId": "word_power",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "power",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_power.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "7e410b82954e4d9910fcdb725bf22f2438ba379e",
+      "bytes": 13293,
+      "extension": "mp3",
+      "duration": 1.026,
+      "wavSha256": "c86717e664f8ee4a9d70065165cee25072ff4eaf53c15777cf738c3782426413",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_electricity",
+      "wordId": "word_electricity",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "electricity",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v2-aligned/word_electricity.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2,
+        "phonemeInput": "ɪlˌɛktɹˈɪsəti.",
+        "inputIpa": "ɪˌlekˈtrɪsəti"
+      },
+      "sha1": "051a5d235b12c60934dc7afb10ffa4e857a8574f",
+      "bytes": 20781,
+      "extension": "mp3",
+      "duration": 1.6459583333333334,
+      "wavSha256": "12e7821135ba03efdaab62c9504cbb5468f3e6a371152dc206c8b5a23e416a55",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_solar",
+      "wordId": "word_solar",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "solar",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_solar.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "20c5bb1b4b5aa73ea453750712d8d4ae32ea2392",
+      "bytes": 13869,
+      "extension": "mp3",
+      "duration": 1.0573333333333332,
+      "wavSha256": "edd6198f04d51668c9af2ff76bcdbd0d69bd2402f9be29dc13f61a1e1000d372",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_type",
+      "wordId": "word_type",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "type",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_type.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "4cc37bd404590f25191f05cc7a7f7151f75cb9e1",
+      "bytes": 12429,
+      "extension": "mp3",
+      "duration": 0.96,
+      "wavSha256": "3e6881b2574d1ef0a117c3e6dcbfb346c5fa40058fd694811120f41734c8ae37",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_energy",
+      "wordId": "word_energy",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "energy",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_energy.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "16f823fb21fcca44e2e0e8af8c00d1039c3a08bd",
+      "bytes": 16749,
+      "extension": "mp3",
+      "duration": 1.3013333333333332,
+      "wavSha256": "af38805e8cf89bc2b1c595d88961845854cef0c232e013496d7c847274c3f016",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_light",
+      "wordId": "word_light",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "light",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_light.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "348de84e9dffbe4298d24f9d33f77000a8c2b3b5",
+      "bytes": 13293,
+      "extension": "mp3",
+      "duration": 1.0272916666666667,
+      "wavSha256": "48d53fbf8b88948cf42082557b98edf89ae8f10b4579c2d8d5caf73cb769de9b",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_source",
+      "wordId": "word_source",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "source",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_source.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "f496975234f082789f724122df77c1b93a41c788",
+      "bytes": 13581,
+      "extension": "mp3",
+      "duration": 1.0346666666666666,
+      "wavSha256": "f28fafede42d6f04f577c1752b52ea46e1b891988381200cb4783d6d42df243f",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_heat",
+      "wordId": "word_heat",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "heat",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_heat.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "a17cd221aee94cea73389b210d0b3b823f36e95c",
+      "bytes": 12429,
+      "extension": "mp3",
+      "duration": 0.9386666666666666,
+      "wavSha256": "c2a00b6ceabaab88eefc9b2c75c9154d1911be4d4d099efb13c7f330ea54a99a",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_cool",
+      "wordId": "word_cool",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "cool",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_cool.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "a0eb439a8850eb94f34f28be083caf09131210a5",
+      "bytes": 17037,
+      "extension": "mp3",
+      "duration": 1.342,
+      "wavSha256": "568ed38283f302598057a4133c9d623772362bea0e51aa5d2261c14288fce2da",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_resource",
+      "wordId": "word_resource",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "resource",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_resource.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "dafb8654de012691d5ba92a43a6cb3310d73209f",
+      "bytes": 18765,
+      "extension": "mp3",
+      "duration": 1.472,
+      "wavSha256": "7a69730862442da97f474269a2fd0426777392c88d4ee51ecadad8511394403b",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_run_out",
+      "wordId": "word_run_out",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "run out",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_run_out.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "e3de74ec31f4648405dccab104d3b5f9aa03dbb3",
+      "bytes": 16461,
+      "extension": "mp3",
+      "duration": 1.274625,
+      "wavSha256": "ac40c7826a6fd48f4171925959de9a8e83e84b8d6a3554151beccf4f3ebc0fcf",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_few",
+      "wordId": "word_few",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "few",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_few.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "4522e33939b9fb9b800c32f512858c6b510ca850",
+      "bytes": 11853,
+      "extension": "mp3",
+      "duration": 0.9046666666666666,
+      "wavSha256": "873aebe2479e67098abd10aa11cad75d53fecc144c74a310cc59cd0dda7929fa",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_change",
+      "wordId": "word_change",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "change",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_change.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "d13e5381521418a441b5af0a35733096e931fea4",
+      "bytes": 15021,
+      "extension": "mp3",
+      "duration": 1.154,
+      "wavSha256": "7939aabab85bf964f848e70bc78af0b93c79d6ba7feb6e92ea2bd076b2b5364f",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_quick",
+      "wordId": "word_quick",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "quick",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_quick.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "220e23124cd49d96a4a62d2705c3957c96762972",
+      "bytes": 11853,
+      "extension": "mp3",
+      "duration": 0.896,
+      "wavSha256": "f2204e5527102372609c641d285b9ae37e75219b67fe8493e682e5aebb22c445",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_shower",
+      "wordId": "word_shower",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "shower",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_shower.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "0ed5549068294d02754dedf1a7f85158181031f5",
+      "bytes": 13293,
+      "extension": "mp3",
+      "duration": 1.0146666666666666,
+      "wavSha256": "84464e4cf11972cac167aa0613428614794b3bb6975536df8b1a38226bf5d2b9",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_unplug",
+      "wordId": "word_unplug",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "unplug",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_unplug.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "29c1fdf70beb28b907ae4d79b76386f4d1714f05",
+      "bytes": 17325,
+      "extension": "mp3",
+      "duration": 1.3599583333333334,
+      "wavSha256": "09bff5e66c6a3002962ad5d1f14ceda96cfa8d40cb35edf25863d54885775186",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_difference",
+      "wordId": "word_difference",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "difference",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v2-aligned/word_difference.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2,
+        "phonemeInput": "dˈɪfəɹəns.",
+        "inputIpa": "ˈdɪfərəns"
+      },
+      "sha1": "a51c54f54eac0adea16c14e7561f79e6cdfd6acd",
+      "bytes": 18765,
+      "extension": "mp3",
+      "duration": 1.472,
+      "wavSha256": "3a42740f4776fede4ab53c832ce421de918ac83dbf27f26b794c5b53eb8f6e59",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_reduce",
+      "wordId": "word_reduce",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "reduce",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_reduce.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "896c7c349cb963e7b5b3ef16ae02ab83110cd01a",
+      "bytes": 16749,
+      "extension": "mp3",
+      "duration": 1.306,
+      "wavSha256": "82489109f426913ad00bc5013c5617d01753d106c95733da3fd34db4f0ae2042",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_air_conditioner",
+      "wordId": "word_air_conditioner",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "air conditioner",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_air_conditioner.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "f65676e2e73ff3f07b719e7a9b58ed34e0306bf9",
+      "bytes": 23085,
+      "extension": "mp3",
+      "duration": 1.8366666666666667,
+      "wavSha256": "12cb4ee0535f0949a40e01bac0f4d58f247d3dbee1e56fa63eef0638c0ccc3d5",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_drive",
+      "wordId": "word_drive",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "drive",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_drive.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "f8a41b11c9df8f00fbf8230bd9f26c846ef78ffb",
+      "bytes": 14157,
+      "extension": "mp3",
+      "duration": 1.0973333333333333,
+      "wavSha256": "ba947664df857537c869487c37d9a8e909906580d76badb2b83b0de8d523aa42",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_reuse",
+      "wordId": "word_reuse",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "reuse",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_reuse.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "89f4054c174728e11c0ee30e9e3c2be2da3fcc4a",
+      "bytes": 23661,
+      "extension": "mp3",
+      "duration": 1.8853333333333333,
+      "wavSha256": "a3d12bd0d061badda160b97cdbb607bee1bd416b83bea608801bd1a220272a8b",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_own",
+      "wordId": "word_own",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "own",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_own.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "00636d4648307047e22b330bca4aa1a3e68c92c1",
+      "bytes": 13005,
+      "extension": "mp3",
+      "duration": 0.9933333333333333,
+      "wavSha256": "2ada7a6aa5567159bf35b34f43d31bcc98b85640e9f7fe8428143615628538e9",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_market",
+      "wordId": "word_market",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "market",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_market.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "dd2f6a95462b3bdab0e1f3f21ca0476333cc7489",
+      "bytes": 15021,
+      "extension": "mp3",
+      "duration": 1.164,
+      "wavSha256": "fd1853e28944782c3a15cfd1eacba1ad0ada0638505f908bdcbe1711a85e8726",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_top",
+      "wordId": "word_top",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "top",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_top.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "cf033fa3ee43bec1a23504c350e0334cd393f9ee",
+      "bytes": 14157,
+      "extension": "mp3",
+      "duration": 1.096,
+      "wavSha256": "863f6f0d12fa3254ff74def179a8c397f145511020a929d97ad77b13a21ee25b",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_bottle",
+      "wordId": "word_bottle",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "bottle",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_bottle.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "f5859088c6f62ebe5172bc401fc61e05f8575f4d",
+      "bytes": 15309,
+      "extension": "mp3",
+      "duration": 1.1946666666666668,
+      "wavSha256": "5efb62f23e94d518b791858a960dc4078bb225a1b48e6da055f604bf15a48afc",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_dirty",
+      "wordId": "word_dirty",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "dirty",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_dirty.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "e50ac2be4e7fb8c00fbd3dc861e38c4f49809abc",
+      "bytes": 17037,
+      "extension": "mp3",
+      "duration": 1.3226666666666667,
+      "wavSha256": "f2c6b4f7e235762e313652d5eb576f2c23cdfacb83be56795c4eedffc8ffa094",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_side",
+      "wordId": "word_side",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "side",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_side.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "cd0d60a8260340c543e1f1bc70ed2ae6df18aad7",
+      "bytes": 14445,
+      "extension": "mp3",
+      "duration": 1.1093333333333333,
+      "wavSha256": "d2c402a803961317a881d80d39ada149e3dc3c503598b2b21d3d59133128a098",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     },
     {
       "id": "word_useful",
+      "wordId": "word_useful",
       "kind": "word",
       "accent": "en-GB",
-      "src": null,
-      "status": "missing",
-      "source": null,
-      "license": null,
-      "reviewer": null
+      "text": "useful",
+      "src": "resource://audio/words/en-GB/kokoro-emma/v1/word_useful.mp3",
+      "status": "synthetic-preview",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "author": "Phonics Planet (AI synthesis); hexgrad/Kokoro-82M",
+      "license": "Project-generated audio using Apache-2.0 Kokoro model",
+      "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "distributionAllowed": true,
+      "generator": {
+        "engine": "kokoro-onnx 0.6.1",
+        "model": "Kokoro-82M v1.0, float32 ONNX",
+        "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicePackSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+        "voice": "bf_emma",
+        "speed": 0.8,
+        "phonemizerLanguage": "en-gb",
+        "textSuffix": ".",
+        "modelLicense": "Apache-2.0",
+        "runtimeLicense": "MIT",
+        "modelCard": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "modelDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx",
+        "voiceDownload": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+        "reviewStatus": "pending",
+        "listeningReview": "not-performed",
+        "cpuThreads": 2
+      },
+      "sha1": "d228f93be1f7b5213299aeff9039cf91c9f9e93b",
+      "bytes": 15021,
+      "extension": "mp3",
+      "duration": 1.154,
+      "wavSha256": "e5651e5b87444fb0f22229a50c70ed1bedf38b21d11cda1eeaf6da3de107cefc",
+      "usages": [
+        {
+          "curriculumId": "pep_2026_g6_s1",
+          "unitId": "unit_6"
+        }
+      ]
     }
   ],
   "curriculums": [
@@ -15546,6 +20074,6218 @@ module.exports = {
       ],
       "verificationNotes": [
         "AI 独立整理候选；需逐词核对词典、教材语境和最终录音后再审核。"
+      ]
+    }
+  ],
+  "audioTimings": [
+    {
+      "wordId": "word_was",
+      "audioId": "word_was",
+      "audioSha1": "f0d8fb8b5a7d4dd2a329d4ab2b878cf335498f03",
+      "ipa": "wɒz",
+      "duration": 1.0026666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "w",
+          "start": 0.04,
+          "end": 0.24
+        },
+        {
+          "text": "ɒ",
+          "start": 0.24,
+          "end": 0.52
+        },
+        {
+          "text": "z",
+          "start": 0.52,
+          "end": 0.68
+        }
+      ]
+    },
+    {
+      "wordId": "word_climb",
+      "audioId": "word_climb",
+      "audioSha1": "6bf81a47a774cb4c0989856bc2c013a4cc587bd6",
+      "ipa": "klaɪm",
+      "duration": 1.1353333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "k",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "l",
+          "start": 0.26,
+          "end": 0.34
+        },
+        {
+          "text": "aɪ",
+          "start": 0.34,
+          "end": 0.64
+        },
+        {
+          "text": "m",
+          "start": 0.64,
+          "end": 0.89
+        }
+      ]
+    },
+    {
+      "wordId": "word_kilometre",
+      "audioId": "word_kilometre",
+      "audioSha1": "997e853d78653a29734013be292e7de3e7c679fc",
+      "ipa": "ˈkɪləˌmiːtə",
+      "duration": 1.4766666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "k",
+          "start": 0.03,
+          "end": 0.1537
+        },
+        {
+          "text": "ɪ",
+          "start": 0.1537,
+          "end": 0.36
+        },
+        {
+          "text": "l",
+          "start": 0.36,
+          "end": 0.4
+        },
+        {
+          "text": "ə",
+          "start": 0.4,
+          "end": 0.54
+        },
+        {
+          "text": "ˌ",
+          "start": 0.54,
+          "end": 0.54
+        },
+        {
+          "text": "m",
+          "start": 0.54,
+          "end": 0.58
+        },
+        {
+          "text": "iː",
+          "start": 0.58,
+          "end": 0.74
+        },
+        {
+          "text": "t",
+          "start": 0.74,
+          "end": 0.8625
+        },
+        {
+          "text": "ə",
+          "start": 0.8625,
+          "end": 1.23
+        }
+      ]
+    },
+    {
+      "wordId": "word_gingerbread_house",
+      "audioId": "word_gingerbread_house",
+      "audioSha1": "66fa205cb6f42c16cc7841aa7f1e51c7cf2812f4",
+      "ipa": "ˈdʒɪndʒəbred ˌhaʊs",
+      "duration": 1.9533333333333334,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.01,
+          "end": 0.01
+        },
+        {
+          "text": "dʒ",
+          "start": 0.01,
+          "end": 0.26
+        },
+        {
+          "text": "ɪ",
+          "start": 0.26,
+          "end": 0.36
+        },
+        {
+          "text": "n",
+          "start": 0.36,
+          "end": 0.48
+        },
+        {
+          "text": "dʒ",
+          "start": 0.48,
+          "end": 0.54
+        },
+        {
+          "text": "ə",
+          "start": 0.54,
+          "end": 0.68
+        },
+        {
+          "text": "b",
+          "start": 0.68,
+          "end": 0.72
+        },
+        {
+          "text": "r",
+          "start": 0.72,
+          "end": 0.78
+        },
+        {
+          "text": "e",
+          "start": 0.78,
+          "end": 0.94
+        },
+        {
+          "text": "d",
+          "start": 0.94,
+          "end": 1.02
+        },
+        {
+          "text": " ",
+          "start": 1.02,
+          "end": 1.02
+        },
+        {
+          "text": "ˌ",
+          "start": 1.02,
+          "end": 1.02
+        },
+        {
+          "text": "h",
+          "start": 1.02,
+          "end": 1.12
+        },
+        {
+          "text": "aʊ",
+          "start": 1.12,
+          "end": 1.4
+        },
+        {
+          "text": "s",
+          "start": 1.4,
+          "end": 1.71
+        }
+      ]
+    },
+    {
+      "wordId": "word_go",
+      "audioId": "word_go",
+      "audioSha1": "c5bc436352a0ac4ad8ecffb1d6c7a0c2dab096e8",
+      "ipa": "ɡəʊ",
+      "duration": 0.96,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ɡ",
+          "start": 0.05,
+          "end": 0.1322
+        },
+        {
+          "text": "əʊ",
+          "start": 0.1322,
+          "end": 0.68
+        }
+      ]
+    },
+    {
+      "wordId": "word_send",
+      "audioId": "word_send",
+      "audioSha1": "1b0ca14a1397e268741feb896174735247ae99bf",
+      "ipa": "send",
+      "duration": 1.088,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "s",
+          "start": 0.05,
+          "end": 0.3
+        },
+        {
+          "text": "e",
+          "start": 0.3,
+          "end": 0.48
+        },
+        {
+          "text": "n",
+          "start": 0.48,
+          "end": 0.6
+        },
+        {
+          "text": "d",
+          "start": 0.6,
+          "end": 0.76
+        }
+      ]
+    },
+    {
+      "wordId": "word_thousand",
+      "audioId": "word_thousand",
+      "audioSha1": "275f660aff7b398b8fa74a185b4796b6c4d96347",
+      "ipa": "ˈθaʊzənd",
+      "duration": 1.37,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "θ",
+          "start": 0.05,
+          "end": 0.26
+        },
+        {
+          "text": "aʊ",
+          "start": 0.26,
+          "end": 0.54
+        },
+        {
+          "text": "z",
+          "start": 0.54,
+          "end": 0.62
+        },
+        {
+          "text": "ə",
+          "start": 0.62,
+          "end": 0.72
+        },
+        {
+          "text": "n",
+          "start": 0.72,
+          "end": 0.84
+        },
+        {
+          "text": "d",
+          "start": 0.84,
+          "end": 1.13
+        }
+      ]
+    },
+    {
+      "wordId": "word_clay",
+      "audioId": "word_clay",
+      "audioSha1": "25a93549aee99edf1119b17d624d2ebbfd22046c",
+      "ipa": "kleɪ",
+      "duration": 1.1733333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "k",
+          "start": 0.03,
+          "end": 0.3
+        },
+        {
+          "text": "l",
+          "start": 0.3,
+          "end": 0.36
+        },
+        {
+          "text": "eɪ",
+          "start": 0.36,
+          "end": 0.78
+        }
+      ]
+    },
+    {
+      "wordId": "word_see",
+      "audioId": "word_see",
+      "audioSha1": "260afff7a4f6920f3a29ad6a2d947913b61a6ae1",
+      "ipa": "siː",
+      "duration": 0.862,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "s",
+          "start": 0.04,
+          "end": 0.1689
+        },
+        {
+          "text": "iː",
+          "start": 0.1689,
+          "end": 0.62
+        }
+      ]
+    },
+    {
+      "wordId": "word_village",
+      "audioId": "word_village",
+      "audioSha1": "4e424aa1701d088ddf401e0c71330ddf768d3139",
+      "ipa": "ˈvɪlɪdʒ",
+      "duration": 1.1946666666666668,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "v",
+          "start": 0.05,
+          "end": 0.26
+        },
+        {
+          "text": "ɪ",
+          "start": 0.26,
+          "end": 0.36
+        },
+        {
+          "text": "l",
+          "start": 0.36,
+          "end": 0.4
+        },
+        {
+          "text": "ɪ",
+          "start": 0.4,
+          "end": 0.62
+        },
+        {
+          "text": "dʒ",
+          "start": 0.62,
+          "end": 0.8
+        }
+      ]
+    },
+    {
+      "wordId": "word_eat",
+      "audioId": "word_eat",
+      "audioSha1": "831b399a7ed01a3ab8ece94630bde78b1b9fc871",
+      "ipa": "iːt",
+      "duration": 0.9173333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "iː",
+          "start": 0.03,
+          "end": 0.48
+        },
+        {
+          "text": "t",
+          "start": 0.48,
+          "end": 0.66
+        }
+      ]
+    },
+    {
+      "wordId": "word_dry",
+      "audioId": "word_dry",
+      "audioSha1": "ea2019c2f115e548706183610a370c64786caeae",
+      "ipa": "draɪ",
+      "duration": 1.0686666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "d",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "r",
+          "start": 0.26,
+          "end": 0.34
+        },
+        {
+          "text": "aɪ",
+          "start": 0.34,
+          "end": 0.82
+        }
+      ]
+    },
+    {
+      "wordId": "word_take",
+      "audioId": "word_take",
+      "audioSha1": "c3c6ba1928e17366f54c7b76047fb23b5dfaee65",
+      "ipa": "teɪk",
+      "duration": 1.024,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "t",
+          "start": 0.03,
+          "end": 0.28
+        },
+        {
+          "text": "eɪ",
+          "start": 0.28,
+          "end": 0.54
+        },
+        {
+          "text": "k",
+          "start": 0.54,
+          "end": 0.71
+        }
+      ]
+    },
+    {
+      "wordId": "word_view",
+      "audioId": "word_view",
+      "audioSha1": "f902bf3237c564e0a49f67303408e77e30327eaf",
+      "ipa": "vjuː",
+      "duration": 1.0106666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "v",
+          "start": 0.03,
+          "end": 0.24
+        },
+        {
+          "text": "j",
+          "start": 0.24,
+          "end": 0.34
+        },
+        {
+          "text": "uː",
+          "start": 0.34,
+          "end": 0.77
+        }
+      ]
+    },
+    {
+      "wordId": "word_inspiring",
+      "audioId": "word_inspiring",
+      "audioSha1": "ab3155d6941a2b63fa3f5735248960cd0bf57006",
+      "ipa": "ɪnˈspaɪərɪŋ",
+      "duration": 1.6032916666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ɪ",
+          "start": 0.03,
+          "end": 0.24
+        },
+        {
+          "text": "n",
+          "start": 0.24,
+          "end": 0.34
+        },
+        {
+          "text": "ˈ",
+          "start": 0.34,
+          "end": 0.34
+        },
+        {
+          "text": "s",
+          "start": 0.34,
+          "end": 0.46
+        },
+        {
+          "text": "p",
+          "start": 0.46,
+          "end": 0.54
+        },
+        {
+          "text": "aɪ",
+          "start": 0.54,
+          "end": 0.7708
+        },
+        {
+          "text": "ə",
+          "start": 0.7708,
+          "end": 0.84
+        },
+        {
+          "text": "r",
+          "start": 0.84,
+          "end": 0.9
+        },
+        {
+          "text": "ɪ",
+          "start": 0.9,
+          "end": 1.02
+        },
+        {
+          "text": "ŋ",
+          "start": 1.02,
+          "end": 1.36
+        }
+      ]
+    },
+    {
+      "wordId": "word_bamboo",
+      "audioId": "word_bamboo",
+      "audioSha1": "2c90034186cfc7e5a8491f052da68b2b9b9659cd",
+      "ipa": "bæmˈbuː",
+      "duration": 1.3653333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "b",
+          "start": 0.03,
+          "end": 0.24
+        },
+        {
+          "text": "æ",
+          "start": 0.24,
+          "end": 0.38
+        },
+        {
+          "text": "m",
+          "start": 0.38,
+          "end": 0.48
+        },
+        {
+          "text": "ˈ",
+          "start": 0.48,
+          "end": 0.48
+        },
+        {
+          "text": "b",
+          "start": 0.48,
+          "end": 0.54
+        },
+        {
+          "text": "uː",
+          "start": 0.54,
+          "end": 0.98
+        }
+      ]
+    },
+    {
+      "wordId": "word_pumpkin",
+      "audioId": "word_pumpkin",
+      "audioSha1": "4991950fcab264c326506e0c949886dc8d2bad5f",
+      "ipa": "ˈpʌmpkɪn",
+      "duration": 1.2206666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "p",
+          "start": 0.03,
+          "end": 0.1543
+        },
+        {
+          "text": "ʌ",
+          "start": 0.1543,
+          "end": 0.32
+        },
+        {
+          "text": "m",
+          "start": 0.32,
+          "end": 0.3886
+        },
+        {
+          "text": "p",
+          "start": 0.3886,
+          "end": 0.48
+        },
+        {
+          "text": "k",
+          "start": 0.48,
+          "end": 0.54
+        },
+        {
+          "text": "ɪ",
+          "start": 0.54,
+          "end": 0.68
+        },
+        {
+          "text": "n",
+          "start": 0.68,
+          "end": 0.98
+        }
+      ]
+    },
+    {
+      "wordId": "word_restaurant",
+      "audioId": "word_restaurant",
+      "audioSha1": "7f7e18d07514bbbd32bc87f3eb0928568b3344cd",
+      "ipa": "ˈrestrɒnt",
+      "duration": 1.3812916666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "r",
+          "start": 0.03,
+          "end": 0.24
+        },
+        {
+          "text": "e",
+          "start": 0.24,
+          "end": 0.4
+        },
+        {
+          "text": "s",
+          "start": 0.4,
+          "end": 0.52
+        },
+        {
+          "text": "t",
+          "start": 0.52,
+          "end": 0.58
+        },
+        {
+          "text": "r",
+          "start": 0.58,
+          "end": 0.62
+        },
+        {
+          "text": "ɒ",
+          "start": 0.62,
+          "end": 0.76
+        },
+        {
+          "text": "n",
+          "start": 0.76,
+          "end": 0.88
+        },
+        {
+          "text": "t",
+          "start": 0.88,
+          "end": 1.14
+        }
+      ]
+    },
+    {
+      "wordId": "word_airport",
+      "audioId": "word_airport",
+      "audioSha1": "727e5da575f1c9594c98d7a3f307ab394511cd05",
+      "ipa": "ˈeəpɔːt",
+      "duration": 1.154,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "eə",
+          "start": 0.05,
+          "end": 0.44
+        },
+        {
+          "text": "p",
+          "start": 0.44,
+          "end": 0.5614
+        },
+        {
+          "text": "ɔː",
+          "start": 0.5614,
+          "end": 0.78
+        },
+        {
+          "text": "t",
+          "start": 0.78,
+          "end": 0.91
+        }
+      ]
+    },
+    {
+      "wordId": "word_new_zealand",
+      "audioId": "word_new_zealand",
+      "audioSha1": "42e0c6e82ad5b3f6e202683df837fd9b69902a87",
+      "ipa": "ˌnjuː ˈziːlənd",
+      "duration": 1.572,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˌ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "n",
+          "start": 0.03,
+          "end": 0.24
+        },
+        {
+          "text": "j",
+          "start": 0.24,
+          "end": 0.288
+        },
+        {
+          "text": "uː",
+          "start": 0.288,
+          "end": 0.48
+        },
+        {
+          "text": " ",
+          "start": 0.48,
+          "end": 0.48
+        },
+        {
+          "text": "ˈ",
+          "start": 0.48,
+          "end": 0.48
+        },
+        {
+          "text": "z",
+          "start": 0.48,
+          "end": 0.58
+        },
+        {
+          "text": "iː",
+          "start": 0.58,
+          "end": 0.74
+        },
+        {
+          "text": "l",
+          "start": 0.74,
+          "end": 0.78
+        },
+        {
+          "text": "ə",
+          "start": 0.78,
+          "end": 0.9
+        },
+        {
+          "text": "n",
+          "start": 0.9,
+          "end": 1
+        },
+        {
+          "text": "d",
+          "start": 1,
+          "end": 1.33
+        }
+      ]
+    },
+    {
+      "wordId": "word_hong_kong_zhuhai_macao_bridge",
+      "audioId": "word_hong_kong_zhuhai_macao_bridge",
+      "audioSha1": "16e585f8f3cfe684573823a2ad2bf797659510cd",
+      "ipa": "ˌhɒŋ ˈkɒŋ ˌdʒuːˈhaɪ məˈkaʊ brɪdʒ",
+      "duration": 2.6346666666666665,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˌ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "h",
+          "start": 0.03,
+          "end": 0.18
+        },
+        {
+          "text": "ɒ",
+          "start": 0.18,
+          "end": 0.3
+        },
+        {
+          "text": "ŋ",
+          "start": 0.3,
+          "end": 0.42
+        },
+        {
+          "text": " ",
+          "start": 0.42,
+          "end": 0.42
+        },
+        {
+          "text": "ˈ",
+          "start": 0.42,
+          "end": 0.42
+        },
+        {
+          "text": "k",
+          "start": 0.42,
+          "end": 0.52
+        },
+        {
+          "text": "ɒ",
+          "start": 0.52,
+          "end": 0.66
+        },
+        {
+          "text": "ŋ",
+          "start": 0.66,
+          "end": 0.84
+        },
+        {
+          "text": " ",
+          "start": 0.84,
+          "end": 0.84
+        },
+        {
+          "text": "ˌ",
+          "start": 0.84,
+          "end": 0.84
+        },
+        {
+          "text": "dʒ",
+          "start": 0.84,
+          "end": 0.9
+        },
+        {
+          "text": "uː",
+          "start": 0.9,
+          "end": 1
+        },
+        {
+          "text": "ˈ",
+          "start": 1,
+          "end": 1
+        },
+        {
+          "text": "h",
+          "start": 1,
+          "end": 1.08
+        },
+        {
+          "text": "aɪ",
+          "start": 1.08,
+          "end": 1.3
+        },
+        {
+          "text": " ",
+          "start": 1.3,
+          "end": 1.3
+        },
+        {
+          "text": "m",
+          "start": 1.3,
+          "end": 1.34
+        },
+        {
+          "text": "ə",
+          "start": 1.34,
+          "end": 1.44
+        },
+        {
+          "text": "ˈ",
+          "start": 1.44,
+          "end": 1.44
+        },
+        {
+          "text": "k",
+          "start": 1.44,
+          "end": 1.54
+        },
+        {
+          "text": "aʊ",
+          "start": 1.54,
+          "end": 1.8
+        },
+        {
+          "text": " ",
+          "start": 1.8,
+          "end": 1.8
+        },
+        {
+          "text": "b",
+          "start": 1.8,
+          "end": 1.86
+        },
+        {
+          "text": "r",
+          "start": 1.86,
+          "end": 1.9
+        },
+        {
+          "text": "ɪ",
+          "start": 1.9,
+          "end": 2.08
+        },
+        {
+          "text": "dʒ",
+          "start": 2.08,
+          "end": 2.39
+        }
+      ]
+    },
+    {
+      "wordId": "word_paris",
+      "audioId": "word_paris",
+      "audioSha1": "1e455b67cedfb4f68722a1afed0ac969216178fa",
+      "ipa": "ˈpærɪs",
+      "duration": 1.4786666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.04,
+          "end": 0.04
+        },
+        {
+          "text": "p",
+          "start": 0.04,
+          "end": 0.26
+        },
+        {
+          "text": "æ",
+          "start": 0.26,
+          "end": 0.42
+        },
+        {
+          "text": "r",
+          "start": 0.42,
+          "end": 0.46
+        },
+        {
+          "text": "ɪ",
+          "start": 0.46,
+          "end": 0.64
+        },
+        {
+          "text": "s",
+          "start": 0.64,
+          "end": 1.23
+        }
+      ]
+    },
+    {
+      "wordId": "word_eiffel_tower",
+      "audioId": "word_eiffel_tower",
+      "audioSha1": "b02eb6e3c9b7d6b2adb30fccff23912b8e6b61a1",
+      "ipa": "ˌaɪfəl ˈtaʊə",
+      "duration": 1.7513333333333334,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˌ",
+          "start": 0.04,
+          "end": 0.04
+        },
+        {
+          "text": "aɪ",
+          "start": 0.04,
+          "end": 0.44
+        },
+        {
+          "text": "f",
+          "start": 0.44,
+          "end": 0.5
+        },
+        {
+          "text": "ə",
+          "start": 0.5,
+          "end": 0.58
+        },
+        {
+          "text": "l",
+          "start": 0.58,
+          "end": 0.68
+        },
+        {
+          "text": " ",
+          "start": 0.68,
+          "end": 0.68
+        },
+        {
+          "text": "ˈ",
+          "start": 0.68,
+          "end": 0.68
+        },
+        {
+          "text": "t",
+          "start": 0.68,
+          "end": 0.8
+        },
+        {
+          "text": "aʊ",
+          "start": 0.8,
+          "end": 1.08
+        },
+        {
+          "text": "ə",
+          "start": 1.08,
+          "end": 1.51
+        }
+      ]
+    },
+    {
+      "wordId": "word_terracotta_warriors",
+      "audioId": "word_terracotta_warriors",
+      "audioSha1": "cbf9deb214ef2a66711fa87b5c4bb5dacde0a8d8",
+      "ipa": "ˌterəˈkɒtə ˈwɒriəz",
+      "duration": 2.082666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˌ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "t",
+          "start": 0.03,
+          "end": 0.24
+        },
+        {
+          "text": "e",
+          "start": 0.24,
+          "end": 0.38
+        },
+        {
+          "text": "r",
+          "start": 0.38,
+          "end": 0.42
+        },
+        {
+          "text": "ə",
+          "start": 0.42,
+          "end": 0.56
+        },
+        {
+          "text": "ˈ",
+          "start": 0.56,
+          "end": 0.56
+        },
+        {
+          "text": "k",
+          "start": 0.56,
+          "end": 0.64
+        },
+        {
+          "text": "ɒ",
+          "start": 0.64,
+          "end": 0.76
+        },
+        {
+          "text": "t",
+          "start": 0.76,
+          "end": 0.8
+        },
+        {
+          "text": "ə",
+          "start": 0.8,
+          "end": 0.96
+        },
+        {
+          "text": " ",
+          "start": 0.96,
+          "end": 0.96
+        },
+        {
+          "text": "ˈ",
+          "start": 0.96,
+          "end": 0.96
+        },
+        {
+          "text": "w",
+          "start": 0.96,
+          "end": 1.04
+        },
+        {
+          "text": "ɒ",
+          "start": 1.04,
+          "end": 1.2
+        },
+        {
+          "text": "r",
+          "start": 1.2,
+          "end": 1.26
+        },
+        {
+          "text": "i",
+          "start": 1.26,
+          "end": 1.36
+        },
+        {
+          "text": "ə",
+          "start": 1.36,
+          "end": 1.56
+        },
+        {
+          "text": "z",
+          "start": 1.56,
+          "end": 1.84
+        }
+      ]
+    },
+    {
+      "wordId": "word_jinggangshan_revolution_museum",
+      "audioId": "word_jinggangshan_revolution_museum",
+      "audioSha1": "a1d4aa1907a11e571ef1cc3cd4bf693dd933c4ab",
+      "ipa": "ˌdʒɪŋɡæŋˈʃæn ˌrevəˈluːʃən mjuːˈziːəm",
+      "duration": 2.7853333333333334,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˌ",
+          "start": 0.01,
+          "end": 0.01
+        },
+        {
+          "text": "dʒ",
+          "start": 0.01,
+          "end": 0.22
+        },
+        {
+          "text": "ɪ",
+          "start": 0.22,
+          "end": 0.32
+        },
+        {
+          "text": "ŋ",
+          "start": 0.32,
+          "end": 0.38
+        },
+        {
+          "text": "ɡ",
+          "start": 0.38,
+          "end": 0.44
+        },
+        {
+          "text": "æ",
+          "start": 0.44,
+          "end": 0.56
+        },
+        {
+          "text": "ŋ",
+          "start": 0.56,
+          "end": 0.66
+        },
+        {
+          "text": "ˈ",
+          "start": 0.66,
+          "end": 0.66
+        },
+        {
+          "text": "ʃ",
+          "start": 0.66,
+          "end": 0.76
+        },
+        {
+          "text": "æ",
+          "start": 0.76,
+          "end": 0.94
+        },
+        {
+          "text": "n",
+          "start": 0.94,
+          "end": 1.1
+        },
+        {
+          "text": " ",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "text": "ˌ",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "text": "r",
+          "start": 1.1,
+          "end": 1.14
+        },
+        {
+          "text": "e",
+          "start": 1.14,
+          "end": 1.24
+        },
+        {
+          "text": "v",
+          "start": 1.24,
+          "end": 1.28
+        },
+        {
+          "text": "ə",
+          "start": 1.28,
+          "end": 1.38
+        },
+        {
+          "text": "ˈ",
+          "start": 1.38,
+          "end": 1.38
+        },
+        {
+          "text": "l",
+          "start": 1.38,
+          "end": 1.44
+        },
+        {
+          "text": "uː",
+          "start": 1.44,
+          "end": 1.58
+        },
+        {
+          "text": "ʃ",
+          "start": 1.58,
+          "end": 1.68
+        },
+        {
+          "text": "ə",
+          "start": 1.68,
+          "end": 1.76
+        },
+        {
+          "text": "n",
+          "start": 1.76,
+          "end": 1.86
+        },
+        {
+          "text": " ",
+          "start": 1.86,
+          "end": 1.86
+        },
+        {
+          "text": "m",
+          "start": 1.86,
+          "end": 1.8867
+        },
+        {
+          "text": "j",
+          "start": 1.8867,
+          "end": 1.9
+        },
+        {
+          "text": "uː",
+          "start": 1.9,
+          "end": 2.04
+        },
+        {
+          "text": "ˈ",
+          "start": 2.04,
+          "end": 2.04
+        },
+        {
+          "text": "z",
+          "start": 2.04,
+          "end": 2.12
+        },
+        {
+          "text": "iː",
+          "start": 2.12,
+          "end": 2.26
+        },
+        {
+          "text": "ə",
+          "start": 2.26,
+          "end": 2.4
+        },
+        {
+          "text": "m",
+          "start": 2.4,
+          "end": 2.54
+        }
+      ]
+    },
+    {
+      "wordId": "word_the_red_army",
+      "audioId": "word_the_red_army",
+      "audioSha1": "b71b5f532a3fe7c9ed8febdf822df5f15efe60f1",
+      "ipa": "ðə ˌred ˈɑːmi",
+      "duration": 1.6346666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ð",
+          "start": 0.03,
+          "end": 0.18
+        },
+        {
+          "text": "ə",
+          "start": 0.18,
+          "end": 0.32
+        },
+        {
+          "text": " ",
+          "start": 0.32,
+          "end": 0.32
+        },
+        {
+          "text": "ˌ",
+          "start": 0.32,
+          "end": 0.32
+        },
+        {
+          "text": "r",
+          "start": 0.32,
+          "end": 0.38
+        },
+        {
+          "text": "e",
+          "start": 0.38,
+          "end": 0.52
+        },
+        {
+          "text": "d",
+          "start": 0.52,
+          "end": 0.6467
+        },
+        {
+          "text": " ",
+          "start": 0.6467,
+          "end": 0.6467
+        },
+        {
+          "text": "ˈ",
+          "start": 0.6467,
+          "end": 0.6467
+        },
+        {
+          "text": "ɑː",
+          "start": 0.6467,
+          "end": 0.9
+        },
+        {
+          "text": "m",
+          "start": 0.9,
+          "end": 0.96
+        },
+        {
+          "text": "i",
+          "start": 0.96,
+          "end": 1.39
+        }
+      ]
+    },
+    {
+      "wordId": "word_dress",
+      "audioId": "word_dress",
+      "audioSha1": "2f0d9f7f26aa312f1902b28f2c8e9e7dae52b4dc",
+      "ipa": "dres",
+      "duration": 1.216,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "d",
+          "start": 0.05,
+          "end": 0.3
+        },
+        {
+          "text": "r",
+          "start": 0.3,
+          "end": 0.36
+        },
+        {
+          "text": "e",
+          "start": 0.36,
+          "end": 0.56
+        },
+        {
+          "text": "s",
+          "start": 0.56,
+          "end": 0.79
+        }
+      ]
+    },
+    {
+      "wordId": "word_paste",
+      "audioId": "word_paste",
+      "audioSha1": "0a5cb9607c58fbf6a5309e3da346ded121584828",
+      "ipa": "peɪst",
+      "duration": 1.1946666666666668,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "p",
+          "start": 0.04,
+          "end": 0.26
+        },
+        {
+          "text": "eɪ",
+          "start": 0.26,
+          "end": 0.56
+        },
+        {
+          "text": "s",
+          "start": 0.56,
+          "end": 0.68
+        },
+        {
+          "text": "t",
+          "start": 0.68,
+          "end": 0.82
+        }
+      ]
+    },
+    {
+      "wordId": "word_gala",
+      "audioId": "word_gala",
+      "audioSha1": "52512a960bb14eedcecfa0653b21488cd1fbd201",
+      "ipa": "ˈɡɑːlə",
+      "duration": 1.216,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "ɡ",
+          "start": 0.05,
+          "end": 0.28
+        },
+        {
+          "text": "ɑː",
+          "start": 0.28,
+          "end": 0.54
+        },
+        {
+          "text": "l",
+          "start": 0.54,
+          "end": 0.58
+        },
+        {
+          "text": "ə",
+          "start": 0.58,
+          "end": 0.83
+        }
+      ]
+    },
+    {
+      "wordId": "word_count_down",
+      "audioId": "word_count_down",
+      "audioSha1": "19f47cddc3494edebcdeea427f966e4488505b9d",
+      "ipa": "ˌkaʊnt ˈdaʊn",
+      "duration": 1.5506666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˌ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "k",
+          "start": 0.03,
+          "end": 0.24
+        },
+        {
+          "text": "aʊ",
+          "start": 0.24,
+          "end": 0.38
+        },
+        {
+          "text": "n",
+          "start": 0.38,
+          "end": 0.46
+        },
+        {
+          "text": "t",
+          "start": 0.46,
+          "end": 0.58
+        },
+        {
+          "text": " ",
+          "start": 0.58,
+          "end": 0.58
+        },
+        {
+          "text": "ˈ",
+          "start": 0.58,
+          "end": 0.58
+        },
+        {
+          "text": "d",
+          "start": 0.58,
+          "end": 0.64
+        },
+        {
+          "text": "aʊ",
+          "start": 0.64,
+          "end": 0.96
+        },
+        {
+          "text": "n",
+          "start": 0.96,
+          "end": 1.31
+        }
+      ]
+    },
+    {
+      "wordId": "word_marathon",
+      "audioId": "word_marathon",
+      "audioSha1": "f349433415b58386c00a597cd16b54b900127fe7",
+      "ipa": "ˈmærəθən",
+      "duration": 1.6,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.04,
+          "end": 0.04
+        },
+        {
+          "text": "m",
+          "start": 0.04,
+          "end": 0.28
+        },
+        {
+          "text": "æ",
+          "start": 0.28,
+          "end": 0.42
+        },
+        {
+          "text": "r",
+          "start": 0.42,
+          "end": 0.46
+        },
+        {
+          "text": "ə",
+          "start": 0.46,
+          "end": 0.58
+        },
+        {
+          "text": "θ",
+          "start": 0.58,
+          "end": 0.66
+        },
+        {
+          "text": "ə",
+          "start": 0.66,
+          "end": 0.8
+        },
+        {
+          "text": "n",
+          "start": 0.8,
+          "end": 1.05
+        }
+      ]
+    },
+    {
+      "wordId": "word_as",
+      "audioId": "word_as",
+      "audioSha1": "82152f828dd9abd075a294aec5afea0cf2a86bb4",
+      "ipa": "æz",
+      "duration": 0.9253333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "æ",
+          "start": 0.03,
+          "end": 0.36
+        },
+        {
+          "text": "z",
+          "start": 0.36,
+          "end": 0.68
+        }
+      ]
+    },
+    {
+      "wordId": "word_race",
+      "audioId": "word_race",
+      "audioSha1": "dd65f4e13e1ce37f6d6d470b1fccd36827d1d892",
+      "ipa": "reɪs",
+      "duration": 1.554,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "r",
+          "start": 0.03,
+          "end": 0.28
+        },
+        {
+          "text": "eɪ",
+          "start": 0.28,
+          "end": 0.58
+        },
+        {
+          "text": "s",
+          "start": 0.58,
+          "end": 1.31
+        }
+      ]
+    },
+    {
+      "wordId": "word_run",
+      "audioId": "word_run",
+      "audioSha1": "ad84ac883a3ded89b4c591e2433469fc19ec815a",
+      "ipa": "rʌn",
+      "duration": 1.1733333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "r",
+          "start": 0.05,
+          "end": 0.3
+        },
+        {
+          "text": "ʌ",
+          "start": 0.3,
+          "end": 0.48
+        },
+        {
+          "text": "n",
+          "start": 0.48,
+          "end": 0.75
+        }
+      ]
+    },
+    {
+      "wordId": "word_cheer",
+      "audioId": "word_cheer",
+      "audioSha1": "bf9a1134eb9e2a4bc19654f0d6489d651c0626cd",
+      "ipa": "tʃɪə",
+      "duration": 0.984625,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "tʃ",
+          "start": 0.04,
+          "end": 0.2027
+        },
+        {
+          "text": "ɪə",
+          "start": 0.2027,
+          "end": 0.74
+        }
+      ]
+    },
+    {
+      "wordId": "word_book_fair",
+      "audioId": "word_book_fair",
+      "audioSha1": "a44f21319ed514246b83996fc4a1a02977bb0951",
+      "ipa": "ˈbʊk feə",
+      "duration": 1.2093333333333334,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "b",
+          "start": 0.03,
+          "end": 0.2
+        },
+        {
+          "text": "ʊ",
+          "start": 0.2,
+          "end": 0.32
+        },
+        {
+          "text": "k",
+          "start": 0.32,
+          "end": 0.4478
+        },
+        {
+          "text": " ",
+          "start": 0.4478,
+          "end": 0.4478
+        },
+        {
+          "text": "f",
+          "start": 0.4478,
+          "end": 0.5117
+        },
+        {
+          "text": "eə",
+          "start": 0.5117,
+          "end": 0.96
+        }
+      ]
+    },
+    {
+      "wordId": "word_read",
+      "audioId": "word_read",
+      "audioSha1": "7129013c0e69f68c033d462003152789f356980a",
+      "ipa": "riːd",
+      "duration": 1.4473333333333334,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "r",
+          "start": 0.05,
+          "end": 0.3
+        },
+        {
+          "text": "iː",
+          "start": 0.3,
+          "end": 0.62
+        },
+        {
+          "text": "d",
+          "start": 0.62,
+          "end": 1.2
+        }
+      ]
+    },
+    {
+      "wordId": "word_writer",
+      "audioId": "word_writer",
+      "audioSha1": "5f830c9aeb5585be6f8822ec5ca05d529deaaa48",
+      "ipa": "ˈraɪtə",
+      "duration": 1.112625,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "r",
+          "start": 0.03,
+          "end": 0.28
+        },
+        {
+          "text": "aɪ",
+          "start": 0.28,
+          "end": 0.52
+        },
+        {
+          "text": "t",
+          "start": 0.52,
+          "end": 0.62
+        },
+        {
+          "text": "ə",
+          "start": 0.62,
+          "end": 0.87
+        }
+      ]
+    },
+    {
+      "wordId": "word_make",
+      "audioId": "word_make",
+      "audioSha1": "e1a8eb299f9e8b0e3864e2855a52715d64b5efbd",
+      "ipa": "meɪk",
+      "duration": 1.1733333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "m",
+          "start": 0.03,
+          "end": 0.3
+        },
+        {
+          "text": "eɪ",
+          "start": 0.3,
+          "end": 0.6
+        },
+        {
+          "text": "k",
+          "start": 0.6,
+          "end": 0.79
+        }
+      ]
+    },
+    {
+      "wordId": "word_sing",
+      "audioId": "word_sing",
+      "audioSha1": "9f62c80051fb1eff6da3cfddd4a10a2c12ee646f",
+      "ipa": "sɪŋ",
+      "duration": 0.9093333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "s",
+          "start": 0.04,
+          "end": 0.3
+        },
+        {
+          "text": "ɪ",
+          "start": 0.3,
+          "end": 0.48
+        },
+        {
+          "text": "ŋ",
+          "start": 0.48,
+          "end": 0.66
+        }
+      ]
+    },
+    {
+      "wordId": "word_wear",
+      "audioId": "word_wear",
+      "audioSha1": "5c8faee62f9268138df4fe7292c1cd8fefa59cce",
+      "ipa": "weə",
+      "duration": 1.152,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "w",
+          "start": 0.05,
+          "end": 0.1229
+        },
+        {
+          "text": "eə",
+          "start": 0.1229,
+          "end": 0.73
+        }
+      ]
+    },
+    {
+      "wordId": "word_yesterday",
+      "audioId": "word_yesterday",
+      "audioSha1": "7c96fe0eba1a85ec4c5f138776914017ec7120fa",
+      "ipa": "ˈjestədeɪ",
+      "duration": 1.414,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "j",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "e",
+          "start": 0.26,
+          "end": 0.4
+        },
+        {
+          "text": "s",
+          "start": 0.4,
+          "end": 0.52
+        },
+        {
+          "text": "t",
+          "start": 0.52,
+          "end": 0.56
+        },
+        {
+          "text": "ə",
+          "start": 0.56,
+          "end": 0.66
+        },
+        {
+          "text": "d",
+          "start": 0.66,
+          "end": 0.72
+        },
+        {
+          "text": "eɪ",
+          "start": 0.72,
+          "end": 1.17
+        }
+      ]
+    },
+    {
+      "wordId": "word_notice",
+      "audioId": "word_notice",
+      "audioSha1": "399cefe0cf0c4c19fe666a72ea7b28231e409d0b",
+      "ipa": "ˈnəʊtɪs",
+      "duration": 1.5786666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "n",
+          "start": 0.03,
+          "end": 0.1385
+        },
+        {
+          "text": "əʊ",
+          "start": 0.1385,
+          "end": 0.5
+        },
+        {
+          "text": "t",
+          "start": 0.5,
+          "end": 0.6527
+        },
+        {
+          "text": "ɪ",
+          "start": 0.6527,
+          "end": 0.78
+        },
+        {
+          "text": "s",
+          "start": 0.78,
+          "end": 1.03
+        }
+      ]
+    },
+    {
+      "wordId": "word_wake",
+      "audioId": "word_wake",
+      "audioSha1": "823bb2df97ecf150213e8ac81e6a6091373c1d8a",
+      "ipa": "weɪk",
+      "duration": 0.96,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "w",
+          "start": 0.02,
+          "end": 0.1314
+        },
+        {
+          "text": "eɪ",
+          "start": 0.1314,
+          "end": 0.54
+        },
+        {
+          "text": "k",
+          "start": 0.54,
+          "end": 0.68
+        }
+      ]
+    },
+    {
+      "wordId": "word_later",
+      "audioId": "word_later",
+      "audioSha1": "5fc626307be95231581db38ef66288064985bfd2",
+      "ipa": "ˈleɪtə",
+      "duration": 1.154,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "l",
+          "start": 0.05,
+          "end": 0.32
+        },
+        {
+          "text": "eɪ",
+          "start": 0.32,
+          "end": 0.54
+        },
+        {
+          "text": "t",
+          "start": 0.54,
+          "end": 0.64
+        },
+        {
+          "text": "ə",
+          "start": 0.64,
+          "end": 0.9
+        }
+      ]
+    },
+    {
+      "wordId": "word_judge",
+      "audioId": "word_judge",
+      "audioSha1": "145c2685a02fdcef40453f91ee8140cdfad037bb",
+      "ipa": "dʒʌdʒ",
+      "duration": 1.1733333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "dʒ",
+          "start": 0.05,
+          "end": 0.262
+        },
+        {
+          "text": "ʌ",
+          "start": 0.262,
+          "end": 0.58
+        },
+        {
+          "text": "dʒ",
+          "start": 0.58,
+          "end": 0.81
+        }
+      ]
+    },
+    {
+      "wordId": "word_win",
+      "audioId": "word_win",
+      "audioSha1": "1272bbf016b5a6170dda6136ab80149efe1097bd",
+      "ipa": "wɪn",
+      "duration": 1.0453333333333332,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "w",
+          "start": 0.05,
+          "end": 0.26
+        },
+        {
+          "text": "ɪ",
+          "start": 0.26,
+          "end": 0.44
+        },
+        {
+          "text": "n",
+          "start": 0.44,
+          "end": 0.7
+        }
+      ]
+    },
+    {
+      "wordId": "word_begin",
+      "audioId": "word_begin",
+      "audioSha1": "fd7ca87da71b9a443cac54239f32b17ccd3641ee",
+      "ipa": "bɪˈɡɪn",
+      "duration": 1.3013333333333332,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "b",
+          "start": 0.05,
+          "end": 0.1743
+        },
+        {
+          "text": "ɪ",
+          "start": 0.1743,
+          "end": 0.34
+        },
+        {
+          "text": "ˈ",
+          "start": 0.34,
+          "end": 0.34
+        },
+        {
+          "text": "ɡ",
+          "start": 0.34,
+          "end": 0.4109
+        },
+        {
+          "text": "ɪ",
+          "start": 0.4109,
+          "end": 0.6
+        },
+        {
+          "text": "n",
+          "start": 0.6,
+          "end": 0.85
+        }
+      ]
+    },
+    {
+      "wordId": "word_winner",
+      "audioId": "word_winner",
+      "audioSha1": "9ea4d49805d4f9bb05d2bab7da3224c647e35656",
+      "ipa": "ˈwɪnə",
+      "duration": 1.088,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "w",
+          "start": 0.05,
+          "end": 0.1813
+        },
+        {
+          "text": "ɪ",
+          "start": 0.1813,
+          "end": 0.4
+        },
+        {
+          "text": "n",
+          "start": 0.4,
+          "end": 0.44
+        },
+        {
+          "text": "ə",
+          "start": 0.44,
+          "end": 0.72
+        }
+      ]
+    },
+    {
+      "wordId": "word_ever",
+      "audioId": "word_ever",
+      "audioSha1": "78ee3843265cbd64b62cce36881b9da91ff0d512",
+      "ipa": "ˈevə",
+      "duration": 0.9813333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "e",
+          "start": 0.05,
+          "end": 0.38
+        },
+        {
+          "text": "v",
+          "start": 0.38,
+          "end": 0.44
+        },
+        {
+          "text": "ə",
+          "start": 0.44,
+          "end": 0.67
+        }
+      ]
+    },
+    {
+      "wordId": "word_exciting",
+      "audioId": "word_exciting",
+      "audioSha1": "668b9e061876ed7e53007ba1c3fe209a5a4981ba",
+      "ipa": "ɪkˈsaɪtɪŋ",
+      "duration": 1.4553333333333334,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ɪ",
+          "start": 0.02,
+          "end": 0.22
+        },
+        {
+          "text": "k",
+          "start": 0.22,
+          "end": 0.3
+        },
+        {
+          "text": "ˈ",
+          "start": 0.3,
+          "end": 0.3
+        },
+        {
+          "text": "s",
+          "start": 0.3,
+          "end": 0.46
+        },
+        {
+          "text": "aɪ",
+          "start": 0.46,
+          "end": 0.66
+        },
+        {
+          "text": "t",
+          "start": 0.66,
+          "end": 0.76
+        },
+        {
+          "text": "ɪ",
+          "start": 0.76,
+          "end": 0.9
+        },
+        {
+          "text": "ŋ",
+          "start": 0.9,
+          "end": 1.21
+        }
+      ]
+    },
+    {
+      "wordId": "word_cold",
+      "audioId": "word_cold",
+      "audioSha1": "abad4019840072a6a02cb42e16c7bfe4d0fc6bfc",
+      "ipa": "kəʊld",
+      "duration": 1.2586666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "k",
+          "start": 0.05,
+          "end": 0.1471
+        },
+        {
+          "text": "əʊ",
+          "start": 0.1471,
+          "end": 0.6
+        },
+        {
+          "text": "l",
+          "start": 0.6,
+          "end": 0.72
+        },
+        {
+          "text": "d",
+          "start": 0.72,
+          "end": 0.85
+        }
+      ]
+    },
+    {
+      "wordId": "word_ill",
+      "audioId": "word_ill",
+      "audioSha1": "b539bde57f5c752acbb2fd320f86a6ef41124790",
+      "ipa": "ɪl",
+      "duration": 0.8746666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ɪ",
+          "start": 0.03,
+          "end": 0.42
+        },
+        {
+          "text": "l",
+          "start": 0.42,
+          "end": 0.61
+        }
+      ]
+    },
+    {
+      "wordId": "word_head",
+      "audioId": "word_head",
+      "audioSha1": "3b69b70b20298b80405fbe8abade235ea454dd64",
+      "ipa": "hed",
+      "duration": 0.9386666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "h",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "e",
+          "start": 0.26,
+          "end": 0.5
+        },
+        {
+          "text": "d",
+          "start": 0.5,
+          "end": 0.64
+        }
+      ]
+    },
+    {
+      "wordId": "word_runny_nose",
+      "audioId": "word_runny_nose",
+      "audioSha1": "80ff02d72848dceef4405d226c9c302375b24a5a",
+      "ipa": "ˌrʌni ˈnəʊz",
+      "duration": 1.6133333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˌ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "r",
+          "start": 0.03,
+          "end": 0.1613
+        },
+        {
+          "text": "ʌ",
+          "start": 0.1613,
+          "end": 0.38
+        },
+        {
+          "text": "n",
+          "start": 0.38,
+          "end": 0.42
+        },
+        {
+          "text": "i",
+          "start": 0.42,
+          "end": 0.62
+        },
+        {
+          "text": " ",
+          "start": 0.62,
+          "end": 0.62
+        },
+        {
+          "text": "ˈ",
+          "start": 0.62,
+          "end": 0.62
+        },
+        {
+          "text": "n",
+          "start": 0.62,
+          "end": 0.6876
+        },
+        {
+          "text": "əʊ",
+          "start": 0.6876,
+          "end": 1.0033
+        },
+        {
+          "text": "z",
+          "start": 1.0033,
+          "end": 1.37
+        }
+      ]
+    },
+    {
+      "wordId": "word_soon",
+      "audioId": "word_soon",
+      "audioSha1": "665ba57101eadc62caec8deb544c9c7ab913794f",
+      "ipa": "suːn",
+      "duration": 0.9833333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "s",
+          "start": 0.05,
+          "end": 0.1593
+        },
+        {
+          "text": "uː",
+          "start": 0.1593,
+          "end": 0.56
+        },
+        {
+          "text": "n",
+          "start": 0.56,
+          "end": 0.74
+        }
+      ]
+    },
+    {
+      "wordId": "word_fever",
+      "audioId": "word_fever",
+      "audioSha1": "105c711c200c7e89f48e71ab10273217550345ce",
+      "ipa": "ˈfiːvə",
+      "duration": 1.0272916666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "f",
+          "start": 0.05,
+          "end": 0.32
+        },
+        {
+          "text": "iː",
+          "start": 0.32,
+          "end": 0.52
+        },
+        {
+          "text": "v",
+          "start": 0.52,
+          "end": 0.58
+        },
+        {
+          "text": "ə",
+          "start": 0.58,
+          "end": 0.78
+        }
+      ]
+    },
+    {
+      "wordId": "word_cough",
+      "audioId": "word_cough",
+      "audioSha1": "2d0a98d4d68f9ee6d1d33f30b23d137f86857b07",
+      "ipa": "kɒf",
+      "duration": 0.96,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "k",
+          "start": 0.05,
+          "end": 0.3
+        },
+        {
+          "text": "ɒ",
+          "start": 0.3,
+          "end": 0.5
+        },
+        {
+          "text": "f",
+          "start": 0.5,
+          "end": 0.68
+        }
+      ]
+    },
+    {
+      "wordId": "word_discuss",
+      "audioId": "word_discuss",
+      "audioSha1": "bf661f3646d01acc0183e94a29a897be6210ca95",
+      "ipa": "dɪˈskʌs",
+      "duration": 1.3866666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "d",
+          "start": 0.03,
+          "end": 0.22
+        },
+        {
+          "text": "ɪ",
+          "start": 0.22,
+          "end": 0.32
+        },
+        {
+          "text": "ˈ",
+          "start": 0.32,
+          "end": 0.32
+        },
+        {
+          "text": "s",
+          "start": 0.32,
+          "end": 0.46
+        },
+        {
+          "text": "k",
+          "start": 0.46,
+          "end": 0.52
+        },
+        {
+          "text": "ʌ",
+          "start": 0.52,
+          "end": 0.78
+        },
+        {
+          "text": "s",
+          "start": 0.78,
+          "end": 0.94
+        }
+      ]
+    },
+    {
+      "wordId": "word_diet",
+      "audioId": "word_diet",
+      "audioSha1": "b550adf8df471ac8da1d62aecea0a9f39e4dcd43",
+      "ipa": "ˈdaɪət",
+      "duration": 1.3013333333333332,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "d",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "aɪ",
+          "start": 0.26,
+          "end": 0.52
+        },
+        {
+          "text": "ə",
+          "start": 0.52,
+          "end": 0.7
+        },
+        {
+          "text": "t",
+          "start": 0.7,
+          "end": 0.85
+        }
+      ]
+    },
+    {
+      "wordId": "word_stay_up",
+      "audioId": "word_stay_up",
+      "audioSha1": "ed9c8f9a20614741a2283f6a5c6e0e4062b1600f",
+      "ipa": "ˌsteɪ ˈʌp",
+      "duration": 1.1753333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˌ",
+          "start": 0.04,
+          "end": 0.04
+        },
+        {
+          "text": "s",
+          "start": 0.04,
+          "end": 0.3
+        },
+        {
+          "text": "t",
+          "start": 0.3,
+          "end": 0.36
+        },
+        {
+          "text": "eɪ",
+          "start": 0.36,
+          "end": 0.6044
+        },
+        {
+          "text": " ",
+          "start": 0.6044,
+          "end": 0.6044
+        },
+        {
+          "text": "ˈ",
+          "start": 0.6044,
+          "end": 0.6044
+        },
+        {
+          "text": "ʌ",
+          "start": 0.6044,
+          "end": 0.8
+        },
+        {
+          "text": "p",
+          "start": 0.8,
+          "end": 0.93
+        }
+      ]
+    },
+    {
+      "wordId": "word_cry",
+      "audioId": "word_cry",
+      "audioSha1": "18bbfb15c6d3ed2d928d868667f4dd46d4ded95c",
+      "ipa": "kraɪ",
+      "duration": 1.0686666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "k",
+          "start": 0.05,
+          "end": 0.28
+        },
+        {
+          "text": "r",
+          "start": 0.28,
+          "end": 0.36
+        },
+        {
+          "text": "aɪ",
+          "start": 0.36,
+          "end": 0.82
+        }
+      ]
+    },
+    {
+      "wordId": "word_another",
+      "audioId": "word_another",
+      "audioSha1": "6a95c2cd2d95a7abfab7b69eac693be19fe54fdf",
+      "ipa": "əˈnʌðə",
+      "duration": 1.2586666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ə",
+          "start": 0.05,
+          "end": 0.34
+        },
+        {
+          "text": "ˈ",
+          "start": 0.34,
+          "end": 0.34
+        },
+        {
+          "text": "n",
+          "start": 0.34,
+          "end": 0.3933
+        },
+        {
+          "text": "ʌ",
+          "start": 0.3933,
+          "end": 0.5
+        },
+        {
+          "text": "ð",
+          "start": 0.5,
+          "end": 0.5825
+        },
+        {
+          "text": "ə",
+          "start": 0.5825,
+          "end": 0.83
+        }
+      ]
+    },
+    {
+      "wordId": "word_call",
+      "audioId": "word_call",
+      "audioSha1": "935bc66ee9154a6f9863a086c63f9cf1aee10391",
+      "ipa": "kɔːl",
+      "duration": 0.982,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "k",
+          "start": 0.04,
+          "end": 0.28
+        },
+        {
+          "text": "ɔː",
+          "start": 0.28,
+          "end": 0.56
+        },
+        {
+          "text": "l",
+          "start": 0.56,
+          "end": 0.74
+        }
+      ]
+    },
+    {
+      "wordId": "word_email",
+      "audioId": "word_email",
+      "audioSha1": "67a2f271b805302cd7d66c4c193adfe29220c7e2",
+      "ipa": "ˈiːmeɪl",
+      "duration": 1.28,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.04,
+          "end": 0.04
+        },
+        {
+          "text": "iː",
+          "start": 0.04,
+          "end": 0.4
+        },
+        {
+          "text": "m",
+          "start": 0.4,
+          "end": 0.46
+        },
+        {
+          "text": "eɪ",
+          "start": 0.46,
+          "end": 0.7
+        },
+        {
+          "text": "l",
+          "start": 0.7,
+          "end": 0.93
+        }
+      ]
+    },
+    {
+      "wordId": "word_unhappy",
+      "audioId": "word_unhappy",
+      "audioSha1": "f7edec3b9d7077a0b4b9f8b61eb9f5c861d842d4",
+      "ipa": "ʌnˈhæpi",
+      "duration": 1.472,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ʌ",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "n",
+          "start": 0.26,
+          "end": 0.38
+        },
+        {
+          "text": "ˈ",
+          "start": 0.38,
+          "end": 0.38
+        },
+        {
+          "text": "h",
+          "start": 0.38,
+          "end": 0.44
+        },
+        {
+          "text": "æ",
+          "start": 0.44,
+          "end": 0.62
+        },
+        {
+          "text": "p",
+          "start": 0.62,
+          "end": 0.715
+        },
+        {
+          "text": "i",
+          "start": 0.715,
+          "end": 1
+        }
+      ]
+    },
+    {
+      "wordId": "word_glass",
+      "audioId": "word_glass",
+      "audioSha1": "2c2bb8beef15ff6641c41d8f6e640312ecbc5d54",
+      "ipa": "ɡlɑːs",
+      "duration": 1.0133333333333334,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ɡ",
+          "start": 0.05,
+          "end": 0.26
+        },
+        {
+          "text": "l",
+          "start": 0.26,
+          "end": 0.38
+        },
+        {
+          "text": "ɑː",
+          "start": 0.38,
+          "end": 0.62
+        },
+        {
+          "text": "s",
+          "start": 0.62,
+          "end": 0.77
+        }
+      ]
+    },
+    {
+      "wordId": "word_may",
+      "audioId": "word_may",
+      "audioSha1": "557c05841cd56aa8075eb627e80b5a62e4a0a1a1",
+      "ipa": "meɪ",
+      "duration": 1.1093333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "m",
+          "start": 0.05,
+          "end": 0.1308
+        },
+        {
+          "text": "eɪ",
+          "start": 0.1308,
+          "end": 0.75
+        }
+      ]
+    },
+    {
+      "wordId": "word_add",
+      "audioId": "word_add",
+      "audioSha1": "3f2a743613efbe30427d6083645605dc3f27391b",
+      "ipa": "æd",
+      "duration": 0.908,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "æ",
+          "start": 0.04,
+          "end": 0.5
+        },
+        {
+          "text": "d",
+          "start": 0.5,
+          "end": 0.66
+        }
+      ]
+    },
+    {
+      "wordId": "word_video",
+      "audioId": "word_video",
+      "audioSha1": "49b0e5e41c4a992259772e3b3f55fc5c30bf1543",
+      "ipa": "ˈvɪdiəʊ",
+      "duration": 1.216,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "v",
+          "start": 0.05,
+          "end": 0.26
+        },
+        {
+          "text": "ɪ",
+          "start": 0.26,
+          "end": 0.36
+        },
+        {
+          "text": "d",
+          "start": 0.36,
+          "end": 0.42
+        },
+        {
+          "text": "i",
+          "start": 0.42,
+          "end": 0.4981
+        },
+        {
+          "text": "əʊ",
+          "start": 0.4981,
+          "end": 0.83
+        }
+      ]
+    },
+    {
+      "wordId": "word_better",
+      "audioId": "word_better",
+      "audioSha1": "01de41f8461706bd5a4139a9c339dba067fa915a",
+      "ipa": "ˈbetə",
+      "duration": 1.1306666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.04,
+          "end": 0.04
+        },
+        {
+          "text": "b",
+          "start": 0.04,
+          "end": 0.24
+        },
+        {
+          "text": "e",
+          "start": 0.24,
+          "end": 0.44
+        },
+        {
+          "text": "t",
+          "start": 0.44,
+          "end": 0.52
+        },
+        {
+          "text": "ə",
+          "start": 0.52,
+          "end": 0.78
+        }
+      ]
+    },
+    {
+      "wordId": "word_money",
+      "audioId": "word_money",
+      "audioSha1": "bdf09c6c812e975ca0bb80b3def5ff0388919480",
+      "ipa": "ˈmʌni",
+      "duration": 1.426,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "m",
+          "start": 0.05,
+          "end": 0.18
+        },
+        {
+          "text": "ʌ",
+          "start": 0.18,
+          "end": 0.44
+        },
+        {
+          "text": "n",
+          "start": 0.44,
+          "end": 0.6162
+        },
+        {
+          "text": "i",
+          "start": 0.6162,
+          "end": 1.18
+        }
+      ]
+    },
+    {
+      "wordId": "word_pocket_money",
+      "audioId": "word_pocket_money",
+      "audioSha1": "9cac089e351c096156da6c476454bae642791d64",
+      "ipa": "ˈpɒkɪt ˌmʌni",
+      "duration": 1.592,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "p",
+          "start": 0.03,
+          "end": 0.22
+        },
+        {
+          "text": "ɒ",
+          "start": 0.22,
+          "end": 0.36
+        },
+        {
+          "text": "k",
+          "start": 0.36,
+          "end": 0.42
+        },
+        {
+          "text": "ɪ",
+          "start": 0.42,
+          "end": 0.52
+        },
+        {
+          "text": "t",
+          "start": 0.52,
+          "end": 0.64
+        },
+        {
+          "text": " ",
+          "start": 0.64,
+          "end": 0.64
+        },
+        {
+          "text": "ˌ",
+          "start": 0.64,
+          "end": 0.64
+        },
+        {
+          "text": "m",
+          "start": 0.64,
+          "end": 0.68
+        },
+        {
+          "text": "ʌ",
+          "start": 0.68,
+          "end": 0.82
+        },
+        {
+          "text": "n",
+          "start": 0.82,
+          "end": 0.88
+        },
+        {
+          "text": "i",
+          "start": 0.88,
+          "end": 1.35
+        }
+      ]
+    },
+    {
+      "wordId": "word_schoolbag",
+      "audioId": "word_schoolbag",
+      "audioSha1": "71063c916f5eb40d34a775afa4d6e91815fbdded",
+      "ipa": "ˈskuːlbæɡ",
+      "duration": 1.236625,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "s",
+          "start": 0.03,
+          "end": 0.28
+        },
+        {
+          "text": "k",
+          "start": 0.28,
+          "end": 0.34
+        },
+        {
+          "text": "uː",
+          "start": 0.34,
+          "end": 0.5
+        },
+        {
+          "text": "l",
+          "start": 0.5,
+          "end": 0.58
+        },
+        {
+          "text": "b",
+          "start": 0.58,
+          "end": 0.66
+        },
+        {
+          "text": "æ",
+          "start": 0.66,
+          "end": 0.88
+        },
+        {
+          "text": "ɡ",
+          "start": 0.88,
+          "end": 0.99
+        }
+      ]
+    },
+    {
+      "wordId": "word_goods",
+      "audioId": "word_goods",
+      "audioSha1": "736acad7fe58884b743e96174924fc9e37bd79bb",
+      "ipa": "ɡʊdz",
+      "duration": 1.216,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ɡ",
+          "start": 0.05,
+          "end": 0.1677
+        },
+        {
+          "text": "ʊ",
+          "start": 0.1677,
+          "end": 0.56
+        },
+        {
+          "text": "d",
+          "start": 0.56,
+          "end": 0.62
+        },
+        {
+          "text": "z",
+          "start": 0.62,
+          "end": 0.81
+        }
+      ]
+    },
+    {
+      "wordId": "word_drink",
+      "audioId": "word_drink",
+      "audioSha1": "68bedc5454aee26283a53d8afad78bc1017a8a1e",
+      "ipa": "drɪŋk",
+      "duration": 1.3013333333333332,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "d",
+          "start": 0.04,
+          "end": 0.28
+        },
+        {
+          "text": "r",
+          "start": 0.28,
+          "end": 0.34
+        },
+        {
+          "text": "ɪ",
+          "start": 0.34,
+          "end": 0.46
+        },
+        {
+          "text": "ŋ",
+          "start": 0.46,
+          "end": 0.6
+        },
+        {
+          "text": "k",
+          "start": 0.6,
+          "end": 0.85
+        }
+      ]
+    },
+    {
+      "wordId": "word_service",
+      "audioId": "word_service",
+      "audioSha1": "5234fc76dba92e8beed2bef4773003d1de60326e",
+      "ipa": "ˈsɜːvɪs",
+      "duration": 1.4506666666666668,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "s",
+          "start": 0.05,
+          "end": 0.34
+        },
+        {
+          "text": "ɜː",
+          "start": 0.34,
+          "end": 0.54
+        },
+        {
+          "text": "v",
+          "start": 0.54,
+          "end": 0.6
+        },
+        {
+          "text": "ɪ",
+          "start": 0.6,
+          "end": 0.76
+        },
+        {
+          "text": "s",
+          "start": 0.76,
+          "end": 0.95
+        }
+      ]
+    },
+    {
+      "wordId": "word_haircut",
+      "audioId": "word_haircut",
+      "audioSha1": "c527cf8252017f96d37fb257b7016e49ace2bebc",
+      "ipa": "ˈheəkʌt",
+      "duration": 1.1313333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "h",
+          "start": 0.03,
+          "end": 0.1338
+        },
+        {
+          "text": "eə",
+          "start": 0.1338,
+          "end": 0.48
+        },
+        {
+          "text": "k",
+          "start": 0.48,
+          "end": 0.6436
+        },
+        {
+          "text": "ʌ",
+          "start": 0.6436,
+          "end": 0.78
+        },
+        {
+          "text": "t",
+          "start": 0.78,
+          "end": 0.89
+        }
+      ]
+    },
+    {
+      "wordId": "word_microscope",
+      "audioId": "word_microscope",
+      "audioSha1": "db78fb7a18e62c22ef13febd8c51d3b03724936b",
+      "ipa": "ˈmaɪkrəskəʊp",
+      "duration": 1.5392916666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.02,
+          "end": 0.02
+        },
+        {
+          "text": "m",
+          "start": 0.02,
+          "end": 0.28
+        },
+        {
+          "text": "aɪ",
+          "start": 0.28,
+          "end": 0.46
+        },
+        {
+          "text": "k",
+          "start": 0.46,
+          "end": 0.52
+        },
+        {
+          "text": "r",
+          "start": 0.52,
+          "end": 0.56
+        },
+        {
+          "text": "ə",
+          "start": 0.56,
+          "end": 0.66
+        },
+        {
+          "text": "s",
+          "start": 0.66,
+          "end": 0.76
+        },
+        {
+          "text": "k",
+          "start": 0.76,
+          "end": 0.84
+        },
+        {
+          "text": "əʊ",
+          "start": 0.84,
+          "end": 1.08
+        },
+        {
+          "text": "p",
+          "start": 1.08,
+          "end": 1.29
+        }
+      ]
+    },
+    {
+      "wordId": "word_lucky",
+      "audioId": "word_lucky",
+      "audioSha1": "2aef636ce3aa4db09415a5d988f3d3422fdb3a87",
+      "ipa": "ˈlʌki",
+      "duration": 1.216,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "l",
+          "start": 0.05,
+          "end": 0.173
+        },
+        {
+          "text": "ʌ",
+          "start": 0.173,
+          "end": 0.46
+        },
+        {
+          "text": "k",
+          "start": 0.46,
+          "end": 0.54
+        },
+        {
+          "text": "i",
+          "start": 0.54,
+          "end": 0.82
+        }
+      ]
+    },
+    {
+      "wordId": "word_save_up",
+      "audioId": "word_save_up",
+      "audioSha1": "25cb18d9ec1ca6a20d92f556eee8f9c0adb61fc4",
+      "ipa": "ˌseɪv ˈʌp",
+      "duration": 1.2192916666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˌ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "s",
+          "start": 0.03,
+          "end": 0.28
+        },
+        {
+          "text": "eɪ",
+          "start": 0.28,
+          "end": 0.5
+        },
+        {
+          "text": "v",
+          "start": 0.5,
+          "end": 0.58
+        },
+        {
+          "text": " ",
+          "start": 0.58,
+          "end": 0.58
+        },
+        {
+          "text": "ˈ",
+          "start": 0.58,
+          "end": 0.58
+        },
+        {
+          "text": "ʌ",
+          "start": 0.58,
+          "end": 0.8
+        },
+        {
+          "text": "p",
+          "start": 0.8,
+          "end": 0.97
+        }
+      ]
+    },
+    {
+      "wordId": "word_sale",
+      "audioId": "word_sale",
+      "audioSha1": "da7e6c613ddd29d97e95c2cb8baf113c14f65291",
+      "ipa": "seɪl",
+      "duration": 1.0046666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "s",
+          "start": 0.05,
+          "end": 0.3
+        },
+        {
+          "text": "eɪ",
+          "start": 0.3,
+          "end": 0.62
+        },
+        {
+          "text": "l",
+          "start": 0.62,
+          "end": 0.76
+        }
+      ]
+    },
+    {
+      "wordId": "word_ticket",
+      "audioId": "word_ticket",
+      "audioSha1": "8e052071d3c669b0c4b6b9a16476a8134849b231",
+      "ipa": "ˈtɪkɪt",
+      "duration": 1.0813333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "t",
+          "start": 0.05,
+          "end": 0.28
+        },
+        {
+          "text": "ɪ",
+          "start": 0.28,
+          "end": 0.4
+        },
+        {
+          "text": "k",
+          "start": 0.4,
+          "end": 0.48
+        },
+        {
+          "text": "ɪ",
+          "start": 0.48,
+          "end": 0.7
+        },
+        {
+          "text": "t",
+          "start": 0.7,
+          "end": 0.84
+        }
+      ]
+    },
+    {
+      "wordId": "word_manage",
+      "audioId": "word_manage",
+      "audioSha1": "33c99e293466a28a19d7ff52dc7baac07687613b",
+      "ipa": "ˈmænɪdʒ",
+      "duration": 1.344,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "m",
+          "start": 0.05,
+          "end": 0.3
+        },
+        {
+          "text": "æ",
+          "start": 0.3,
+          "end": 0.46
+        },
+        {
+          "text": "n",
+          "start": 0.46,
+          "end": 0.52
+        },
+        {
+          "text": "ɪ",
+          "start": 0.52,
+          "end": 0.7
+        },
+        {
+          "text": "dʒ",
+          "start": 0.7,
+          "end": 0.9
+        }
+      ]
+    },
+    {
+      "wordId": "word_difficult",
+      "audioId": "word_difficult",
+      "audioSha1": "e224af6e7635fdfc64a05acb794298921fa3495d",
+      "ipa": "ˈdɪfɪkəlt",
+      "duration": 1.316,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.04,
+          "end": 0.04
+        },
+        {
+          "text": "d",
+          "start": 0.04,
+          "end": 0.24
+        },
+        {
+          "text": "ɪ",
+          "start": 0.24,
+          "end": 0.34
+        },
+        {
+          "text": "f",
+          "start": 0.34,
+          "end": 0.4
+        },
+        {
+          "text": "ɪ",
+          "start": 0.4,
+          "end": 0.5
+        },
+        {
+          "text": "k",
+          "start": 0.5,
+          "end": 0.6067
+        },
+        {
+          "text": "ə",
+          "start": 0.6067,
+          "end": 0.74
+        },
+        {
+          "text": "l",
+          "start": 0.74,
+          "end": 0.88
+        },
+        {
+          "text": "t",
+          "start": 0.88,
+          "end": 1.07
+        }
+      ]
+    },
+    {
+      "wordId": "word_sell",
+      "audioId": "word_sell",
+      "audioSha1": "46c5250fc2b6225e807ade320ddef9375bc759af",
+      "ipa": "sel",
+      "duration": 0.8866666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "s",
+          "start": 0.04,
+          "end": 0.3
+        },
+        {
+          "text": "e",
+          "start": 0.3,
+          "end": 0.52
+        },
+        {
+          "text": "l",
+          "start": 0.52,
+          "end": 0.64
+        }
+      ]
+    },
+    {
+      "wordId": "word_half",
+      "audioId": "word_half",
+      "audioSha1": "192e3ef4435d8ac4321cbd08ea19434694a536fb",
+      "ipa": "hɑːf",
+      "duration": 1.2453333333333334,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "h",
+          "start": 0.04,
+          "end": 0.3
+        },
+        {
+          "text": "ɑː",
+          "start": 0.3,
+          "end": 0.7136
+        },
+        {
+          "text": "f",
+          "start": 0.7136,
+          "end": 1
+        }
+      ]
+    },
+    {
+      "wordId": "word_for_example",
+      "audioId": "word_for_example",
+      "audioSha1": "a11e3b10a57aef05d6a56aac7a717d71368efe54",
+      "ipa": "fər ɪɡˈzɑːmpəl",
+      "duration": 1.6032916666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "f",
+          "start": 0.03,
+          "end": 0.145
+        },
+        {
+          "text": "ə",
+          "start": 0.145,
+          "end": 0.26
+        },
+        {
+          "text": "r",
+          "start": 0.26,
+          "end": 0.3514
+        },
+        {
+          "text": " ",
+          "start": 0.3514,
+          "end": 0.3514
+        },
+        {
+          "text": "ɪ",
+          "start": 0.3514,
+          "end": 0.42
+        },
+        {
+          "text": "ɡ",
+          "start": 0.42,
+          "end": 0.5
+        },
+        {
+          "text": "ˈ",
+          "start": 0.5,
+          "end": 0.5
+        },
+        {
+          "text": "z",
+          "start": 0.5,
+          "end": 0.58
+        },
+        {
+          "text": "ɑː",
+          "start": 0.58,
+          "end": 0.74
+        },
+        {
+          "text": "m",
+          "start": 0.74,
+          "end": 0.84
+        },
+        {
+          "text": "p",
+          "start": 0.84,
+          "end": 0.9
+        },
+        {
+          "text": "ə",
+          "start": 0.9,
+          "end": 1
+        },
+        {
+          "text": "l",
+          "start": 1,
+          "end": 1.36
+        }
+      ]
+    },
+    {
+      "wordId": "word_planet",
+      "audioId": "word_planet",
+      "audioSha1": "bc9c8e2c0f88ae99bb867d07902b761986996c20",
+      "ipa": "ˈplænɪt",
+      "duration": 1.344,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "p",
+          "start": 0.05,
+          "end": 0.26
+        },
+        {
+          "text": "l",
+          "start": 0.26,
+          "end": 0.3
+        },
+        {
+          "text": "æ",
+          "start": 0.3,
+          "end": 0.46
+        },
+        {
+          "text": "n",
+          "start": 0.46,
+          "end": 0.52
+        },
+        {
+          "text": "ɪ",
+          "start": 0.52,
+          "end": 0.7
+        },
+        {
+          "text": "t",
+          "start": 0.7,
+          "end": 0.9
+        }
+      ]
+    },
+    {
+      "wordId": "word_earth",
+      "audioId": "word_earth",
+      "audioSha1": "58f0d88617de9281d63ba8d56cbc4f0279679f57",
+      "ipa": "ɜːθ",
+      "duration": 0.96,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ɜː",
+          "start": 0.03,
+          "end": 0.4448
+        },
+        {
+          "text": "θ",
+          "start": 0.4448,
+          "end": 0.7
+        }
+      ]
+    },
+    {
+      "wordId": "word_sky",
+      "audioId": "word_sky",
+      "audioSha1": "21f06eada8e8a96bd2f7baa66520bcb7f4d120ed",
+      "ipa": "skaɪ",
+      "duration": 0.9933333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "s",
+          "start": 0.04,
+          "end": 0.2343
+        },
+        {
+          "text": "k",
+          "start": 0.2343,
+          "end": 0.38
+        },
+        {
+          "text": "aɪ",
+          "start": 0.38,
+          "end": 0.75
+        }
+      ]
+    },
+    {
+      "wordId": "word_daytime",
+      "audioId": "word_daytime",
+      "audioSha1": "4d9b477b0688811eb3c93a1c2b9a4c463330e978",
+      "ipa": "ˈdeɪtaɪm",
+      "duration": 1.38,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "d",
+          "start": 0.03,
+          "end": 0.22
+        },
+        {
+          "text": "eɪ",
+          "start": 0.22,
+          "end": 0.44
+        },
+        {
+          "text": "t",
+          "start": 0.44,
+          "end": 0.56
+        },
+        {
+          "text": "aɪ",
+          "start": 0.56,
+          "end": 0.82
+        },
+        {
+          "text": "m",
+          "start": 0.82,
+          "end": 1.14
+        }
+      ]
+    },
+    {
+      "wordId": "word_cloud",
+      "audioId": "word_cloud",
+      "audioSha1": "8d92c6f337cec98b98eaa5f2fe4cf1b0616b4771",
+      "ipa": "klaʊd",
+      "duration": 1.1453333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "k",
+          "start": 0.05,
+          "end": 0.3
+        },
+        {
+          "text": "l",
+          "start": 0.3,
+          "end": 0.36
+        },
+        {
+          "text": "aʊ",
+          "start": 0.36,
+          "end": 0.72
+        },
+        {
+          "text": "d",
+          "start": 0.72,
+          "end": 0.9
+        }
+      ]
+    },
+    {
+      "wordId": "word_moon",
+      "audioId": "word_moon",
+      "audioSha1": "b8f9361ae201bc2681ba5054a8686bef58c01e34",
+      "ipa": "muːn",
+      "duration": 1.5226666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "m",
+          "start": 0.05,
+          "end": 0.156
+        },
+        {
+          "text": "uː",
+          "start": 0.156,
+          "end": 0.58
+        },
+        {
+          "text": "n",
+          "start": 0.58,
+          "end": 1.28
+        }
+      ]
+    },
+    {
+      "wordId": "word_star",
+      "audioId": "word_star",
+      "audioSha1": "ab82c6bf82371fb664004a01c38fac62f6e02cb1",
+      "ipa": "stɑː",
+      "duration": 0.9053333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "s",
+          "start": 0.04,
+          "end": 0.28
+        },
+        {
+          "text": "t",
+          "start": 0.28,
+          "end": 0.34
+        },
+        {
+          "text": "ɑː",
+          "start": 0.34,
+          "end": 0.66
+        }
+      ]
+    },
+    {
+      "wordId": "word_space",
+      "audioId": "word_space",
+      "audioSha1": "053dfce1124592bc43bd5de565caf6e215683ad5",
+      "ipa": "speɪs",
+      "duration": 1.1013333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "s",
+          "start": 0.05,
+          "end": 0.34
+        },
+        {
+          "text": "p",
+          "start": 0.34,
+          "end": 0.4
+        },
+        {
+          "text": "eɪ",
+          "start": 0.4,
+          "end": 0.7
+        },
+        {
+          "text": "s",
+          "start": 0.7,
+          "end": 0.85
+        }
+      ]
+    },
+    {
+      "wordId": "word_outer_space",
+      "audioId": "word_outer_space",
+      "audioSha1": "fb2ed95fa7398bc5049e762d2830f45a1c9a03f9",
+      "ipa": "ˌaʊtə ˈspeɪs",
+      "duration": 1.7626666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˌ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "aʊ",
+          "start": 0.03,
+          "end": 0.42
+        },
+        {
+          "text": "t",
+          "start": 0.42,
+          "end": 0.5
+        },
+        {
+          "text": "ə",
+          "start": 0.5,
+          "end": 0.64
+        },
+        {
+          "text": " ",
+          "start": 0.64,
+          "end": 0.64
+        },
+        {
+          "text": "ˈ",
+          "start": 0.64,
+          "end": 0.64
+        },
+        {
+          "text": "s",
+          "start": 0.64,
+          "end": 0.76
+        },
+        {
+          "text": "p",
+          "start": 0.76,
+          "end": 0.82
+        },
+        {
+          "text": "eɪ",
+          "start": 0.82,
+          "end": 1.14
+        },
+        {
+          "text": "s",
+          "start": 1.14,
+          "end": 1.52
+        }
+      ]
+    },
+    {
+      "wordId": "word_space_station",
+      "audioId": "word_space_station",
+      "audioSha1": "cd2439d1c961d231daf4d2a0544841b16cc24234",
+      "ipa": "ˈspeɪs ˌsteɪʃən",
+      "duration": 1.8053333333333332,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "s",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "p",
+          "start": 0.26,
+          "end": 0.32
+        },
+        {
+          "text": "eɪ",
+          "start": 0.32,
+          "end": 0.52
+        },
+        {
+          "text": "s",
+          "start": 0.52,
+          "end": 0.64
+        },
+        {
+          "text": " ",
+          "start": 0.64,
+          "end": 0.64
+        },
+        {
+          "text": "ˌ",
+          "start": 0.64,
+          "end": 0.64
+        },
+        {
+          "text": "s",
+          "start": 0.64,
+          "end": 0.72
+        },
+        {
+          "text": "t",
+          "start": 0.72,
+          "end": 0.78
+        },
+        {
+          "text": "eɪ",
+          "start": 0.78,
+          "end": 1.02
+        },
+        {
+          "text": "ʃ",
+          "start": 1.02,
+          "end": 1.12
+        },
+        {
+          "text": "ə",
+          "start": 1.12,
+          "end": 1.24
+        },
+        {
+          "text": "n",
+          "start": 1.24,
+          "end": 1.56
+        }
+      ]
+    },
+    {
+      "wordId": "word_ocean",
+      "audioId": "word_ocean",
+      "audioSha1": "8bebdfb7a12cfa69c79596a6d901ac08492a26e4",
+      "ipa": "ˈəʊʃən",
+      "duration": 1.1353333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "əʊ",
+          "start": 0.03,
+          "end": 0.42
+        },
+        {
+          "text": "ʃ",
+          "start": 0.42,
+          "end": 0.5533
+        },
+        {
+          "text": "ə",
+          "start": 0.5533,
+          "end": 0.66
+        },
+        {
+          "text": "n",
+          "start": 0.66,
+          "end": 0.89
+        }
+      ]
+    },
+    {
+      "wordId": "word_marble",
+      "audioId": "word_marble",
+      "audioSha1": "0da98c6b7b3f3577bb5c95ecdb4c22d9205d0844",
+      "ipa": "ˈmɑːbəl",
+      "duration": 1.3013333333333332,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "m",
+          "start": 0.05,
+          "end": 0.28
+        },
+        {
+          "text": "ɑː",
+          "start": 0.28,
+          "end": 0.54
+        },
+        {
+          "text": "b",
+          "start": 0.54,
+          "end": 0.6
+        },
+        {
+          "text": "ə",
+          "start": 0.6,
+          "end": 0.7
+        },
+        {
+          "text": "l",
+          "start": 0.7,
+          "end": 0.89
+        }
+      ]
+    },
+    {
+      "wordId": "word_satellite",
+      "audioId": "word_satellite",
+      "audioSha1": "df2d9031c47bc7dec5d95167a0dc76803af17d49",
+      "ipa": "ˈsætəlaɪt",
+      "duration": 1.414,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "s",
+          "start": 0.05,
+          "end": 0.28
+        },
+        {
+          "text": "æ",
+          "start": 0.28,
+          "end": 0.42
+        },
+        {
+          "text": "t",
+          "start": 0.42,
+          "end": 0.48
+        },
+        {
+          "text": "ə",
+          "start": 0.48,
+          "end": 0.58
+        },
+        {
+          "text": "l",
+          "start": 0.58,
+          "end": 0.64
+        },
+        {
+          "text": "aɪ",
+          "start": 0.64,
+          "end": 0.9
+        },
+        {
+          "text": "t",
+          "start": 0.9,
+          "end": 1.17
+        }
+      ]
+    },
+    {
+      "wordId": "word_soil",
+      "audioId": "word_soil",
+      "audioSha1": "e68538cd76c4adcf53a084348e74a7d03412c24e",
+      "ipa": "sɔɪl",
+      "duration": 1.0033333333333334,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "s",
+          "start": 0.05,
+          "end": 0.1541
+        },
+        {
+          "text": "ɔɪ",
+          "start": 0.1541,
+          "end": 0.64
+        },
+        {
+          "text": "l",
+          "start": 0.64,
+          "end": 0.76
+        }
+      ]
+    },
+    {
+      "wordId": "word_alien",
+      "audioId": "word_alien",
+      "audioSha1": "3d6415d4f27d7b76fd7a1afb9f0bdae5bd3782d7",
+      "ipa": "ˈeɪliən",
+      "duration": 1.536,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "eɪ",
+          "start": 0.03,
+          "end": 0.4
+        },
+        {
+          "text": "l",
+          "start": 0.4,
+          "end": 0.44
+        },
+        {
+          "text": "i",
+          "start": 0.44,
+          "end": 0.56
+        },
+        {
+          "text": "ə",
+          "start": 0.56,
+          "end": 0.68
+        },
+        {
+          "text": "n",
+          "start": 0.68,
+          "end": 1.01
+        }
+      ]
+    },
+    {
+      "wordId": "word_sunrise",
+      "audioId": "word_sunrise",
+      "audioSha1": "f08781adbd52b53145c5f8794325256d334204f6",
+      "ipa": "ˈsʌnraɪz",
+      "duration": 1.38,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "s",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "ʌ",
+          "start": 0.26,
+          "end": 0.38
+        },
+        {
+          "text": "n",
+          "start": 0.38,
+          "end": 0.58
+        },
+        {
+          "text": "r",
+          "start": 0.58,
+          "end": 0.66
+        },
+        {
+          "text": "aɪ",
+          "start": 0.66,
+          "end": 0.92
+        },
+        {
+          "text": "z",
+          "start": 0.92,
+          "end": 1.14
+        }
+      ]
+    },
+    {
+      "wordId": "word_rover",
+      "audioId": "word_rover",
+      "audioSha1": "d1ab57a39a74c8f44af868a904a15221b97ee04d",
+      "ipa": "ˈrəʊvə",
+      "duration": 1.09,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "r",
+          "start": 0.03,
+          "end": 0.136
+        },
+        {
+          "text": "əʊ",
+          "start": 0.136,
+          "end": 0.56
+        },
+        {
+          "text": "v",
+          "start": 0.56,
+          "end": 0.64
+        },
+        {
+          "text": "ə",
+          "start": 0.64,
+          "end": 0.85
+        }
+      ]
+    },
+    {
+      "wordId": "word_into",
+      "audioId": "word_into",
+      "audioSha1": "cdebaef9735dd647cb60c33158850870268b25af",
+      "ipa": "ˈɪntuː",
+      "duration": 1.0573333333333332,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "ɪ",
+          "start": 0.05,
+          "end": 0.32
+        },
+        {
+          "text": "n",
+          "start": 0.32,
+          "end": 0.44
+        },
+        {
+          "text": "t",
+          "start": 0.44,
+          "end": 0.552
+        },
+        {
+          "text": "uː",
+          "start": 0.552,
+          "end": 0.81
+        }
+      ]
+    },
+    {
+      "wordId": "word_telescope",
+      "audioId": "word_telescope",
+      "audioSha1": "eedb84773b78a5799f5594ab7dbc3f466f56daac",
+      "ipa": "ˈtelɪskəʊp",
+      "duration": 1.3713333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.04,
+          "end": 0.04
+        },
+        {
+          "text": "t",
+          "start": 0.04,
+          "end": 0.26
+        },
+        {
+          "text": "e",
+          "start": 0.26,
+          "end": 0.4
+        },
+        {
+          "text": "l",
+          "start": 0.4,
+          "end": 0.44
+        },
+        {
+          "text": "ɪ",
+          "start": 0.44,
+          "end": 0.56
+        },
+        {
+          "text": "s",
+          "start": 0.56,
+          "end": 0.7
+        },
+        {
+          "text": "k",
+          "start": 0.7,
+          "end": 0.76
+        },
+        {
+          "text": "əʊ",
+          "start": 0.76,
+          "end": 1
+        },
+        {
+          "text": "p",
+          "start": 1,
+          "end": 1.13
+        }
+      ]
+    },
+    {
+      "wordId": "word_astronaut",
+      "audioId": "word_astronaut",
+      "audioSha1": "4ad110fc1ab271f4be4b516a65e71a75dabc48bb",
+      "ipa": "ˈæstrənɔːt",
+      "duration": 1.4452916666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.04,
+          "end": 0.04
+        },
+        {
+          "text": "æ",
+          "start": 0.04,
+          "end": 0.36
+        },
+        {
+          "text": "s",
+          "start": 0.36,
+          "end": 0.46
+        },
+        {
+          "text": "t",
+          "start": 0.46,
+          "end": 0.52
+        },
+        {
+          "text": "r",
+          "start": 0.52,
+          "end": 0.576
+        },
+        {
+          "text": "ə",
+          "start": 0.576,
+          "end": 0.66
+        },
+        {
+          "text": "n",
+          "start": 0.66,
+          "end": 0.7194
+        },
+        {
+          "text": "ɔː",
+          "start": 0.7194,
+          "end": 0.9568
+        },
+        {
+          "text": "t",
+          "start": 0.9568,
+          "end": 1.2
+        }
+      ]
+    },
+    {
+      "wordId": "word_month",
+      "audioId": "word_month",
+      "audioSha1": "903ccd121c182fc3a3f8e060010141afc80bf220",
+      "ipa": "mʌnθ",
+      "duration": 1.342,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "m",
+          "start": 0.04,
+          "end": 0.16
+        },
+        {
+          "text": "ʌ",
+          "start": 0.16,
+          "end": 0.44
+        },
+        {
+          "text": "n",
+          "start": 0.44,
+          "end": 0.66
+        },
+        {
+          "text": "θ",
+          "start": 0.66,
+          "end": 1.1
+        }
+      ]
+    },
+    {
+      "wordId": "word_spaceship",
+      "audioId": "word_spaceship",
+      "audioSha1": "9f8da511bdc6a7e66c15e11aa1ad35c11ad368ee",
+      "ipa": "ˈspeɪsʃɪp",
+      "duration": 1.2579583333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "s",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "p",
+          "start": 0.26,
+          "end": 0.32
+        },
+        {
+          "text": "eɪ",
+          "start": 0.32,
+          "end": 0.52
+        },
+        {
+          "text": "s",
+          "start": 0.52,
+          "end": 0.62
+        },
+        {
+          "text": "ʃ",
+          "start": 0.62,
+          "end": 0.72
+        },
+        {
+          "text": "ɪ",
+          "start": 0.72,
+          "end": 0.92
+        },
+        {
+          "text": "p",
+          "start": 0.92,
+          "end": 1.01
+        }
+      ]
+    },
+    {
+      "wordId": "word_cloth",
+      "audioId": "word_cloth",
+      "audioSha1": "23a871248e8c1ab1c1f3b502931446c71c4335a9",
+      "ipa": "klɒθ",
+      "duration": 1.152,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "k",
+          "start": 0.03,
+          "end": 0.28
+        },
+        {
+          "text": "l",
+          "start": 0.28,
+          "end": 0.36
+        },
+        {
+          "text": "ɒ",
+          "start": 0.36,
+          "end": 0.58
+        },
+        {
+          "text": "θ",
+          "start": 0.58,
+          "end": 0.77
+        }
+      ]
+    },
+    {
+      "wordId": "word_toothpaste",
+      "audioId": "word_toothpaste",
+      "audioSha1": "430644fbd66cc89c1f7dfe77573a5affac35d5f4",
+      "ipa": "ˈtuːθpeɪst",
+      "duration": 1.3586666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.04,
+          "end": 0.04
+        },
+        {
+          "text": "t",
+          "start": 0.04,
+          "end": 0.26
+        },
+        {
+          "text": "uː",
+          "start": 0.26,
+          "end": 0.42
+        },
+        {
+          "text": "θ",
+          "start": 0.42,
+          "end": 0.5
+        },
+        {
+          "text": "p",
+          "start": 0.5,
+          "end": 0.6
+        },
+        {
+          "text": "eɪ",
+          "start": 0.6,
+          "end": 0.86
+        },
+        {
+          "text": "s",
+          "start": 0.86,
+          "end": 0.98
+        },
+        {
+          "text": "t",
+          "start": 0.98,
+          "end": 1.11
+        }
+      ]
+    },
+    {
+      "wordId": "word_taikonaut",
+      "audioId": "word_taikonaut",
+      "audioSha1": "0aa87edb62b9826e70c1309c9c86a97adcb4a29f",
+      "ipa": "ˈtaɪkəʊˌnɔːt",
+      "duration": 1.562,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "t",
+          "start": 0.03,
+          "end": 0.24
+        },
+        {
+          "text": "aɪ",
+          "start": 0.24,
+          "end": 0.48
+        },
+        {
+          "text": "k",
+          "start": 0.48,
+          "end": 0.56
+        },
+        {
+          "text": "əʊ",
+          "start": 0.56,
+          "end": 0.72
+        },
+        {
+          "text": "ˌ",
+          "start": 0.72,
+          "end": 0.72
+        },
+        {
+          "text": "n",
+          "start": 0.72,
+          "end": 0.792
+        },
+        {
+          "text": "ɔː",
+          "start": 0.792,
+          "end": 1.08
+        },
+        {
+          "text": "t",
+          "start": 1.08,
+          "end": 1.32
+        }
+      ]
+    },
+    {
+      "wordId": "word_question",
+      "audioId": "word_question",
+      "audioSha1": "b154c2c1ea83b25222ff85f5ede8656751ff149f",
+      "ipa": "ˈkwestʃən",
+      "duration": 1.5786666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.04,
+          "end": 0.04
+        },
+        {
+          "text": "k",
+          "start": 0.04,
+          "end": 0.22
+        },
+        {
+          "text": "w",
+          "start": 0.22,
+          "end": 0.28
+        },
+        {
+          "text": "e",
+          "start": 0.28,
+          "end": 0.42
+        },
+        {
+          "text": "s",
+          "start": 0.42,
+          "end": 0.54
+        },
+        {
+          "text": "tʃ",
+          "start": 0.54,
+          "end": 0.64
+        },
+        {
+          "text": "ə",
+          "start": 0.64,
+          "end": 0.76
+        },
+        {
+          "text": "n",
+          "start": 0.76,
+          "end": 1.04
+        }
+      ]
+    },
+    {
+      "wordId": "word_time",
+      "audioId": "word_time",
+      "audioSha1": "054bb961c7ae99308d0bff4dfa57a70b88502f3e",
+      "ipa": "taɪm",
+      "duration": 1.1946666666666668,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "t",
+          "start": 0.03,
+          "end": 0.28
+        },
+        {
+          "text": "aɪ",
+          "start": 0.28,
+          "end": 0.58
+        },
+        {
+          "text": "m",
+          "start": 0.58,
+          "end": 0.81
+        }
+      ]
+    },
+    {
+      "wordId": "word_sunset",
+      "audioId": "word_sunset",
+      "audioSha1": "1c8f8cc637c92aca264da83d89dccb7bdb3d7dee",
+      "ipa": "ˈsʌnset",
+      "duration": 1.1966666666666668,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "s",
+          "start": 0.03,
+          "end": 0.28
+        },
+        {
+          "text": "ʌ",
+          "start": 0.28,
+          "end": 0.4
+        },
+        {
+          "text": "n",
+          "start": 0.4,
+          "end": 0.52
+        },
+        {
+          "text": "s",
+          "start": 0.52,
+          "end": 0.62
+        },
+        {
+          "text": "e",
+          "start": 0.62,
+          "end": 0.82
+        },
+        {
+          "text": "t",
+          "start": 0.82,
+          "end": 0.95
+        }
+      ]
+    },
+    {
+      "wordId": "word_mars",
+      "audioId": "word_mars",
+      "audioSha1": "bdb51435a196e0a8ca09bb13e0cbdffb19701238",
+      "ipa": "mɑːz",
+      "duration": 1.2373333333333334,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "m",
+          "start": 0.03,
+          "end": 0.28
+        },
+        {
+          "text": "ɑː",
+          "start": 0.28,
+          "end": 0.64
+        },
+        {
+          "text": "z",
+          "start": 0.64,
+          "end": 0.82
+        }
+      ]
+    },
+    {
+      "wordId": "word_power",
+      "audioId": "word_power",
+      "audioSha1": "7e410b82954e4d9910fcdb725bf22f2438ba379e",
+      "ipa": "ˈpaʊə",
+      "duration": 1.026,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.04,
+          "end": 0.04
+        },
+        {
+          "text": "p",
+          "start": 0.04,
+          "end": 0.26
+        },
+        {
+          "text": "aʊ",
+          "start": 0.26,
+          "end": 0.5551
+        },
+        {
+          "text": "ə",
+          "start": 0.5551,
+          "end": 0.78
+        }
+      ]
+    },
+    {
+      "wordId": "word_electricity",
+      "audioId": "word_electricity",
+      "audioSha1": "051a5d235b12c60934dc7afb10ffa4e857a8574f",
+      "ipa": "ɪˌlekˈtrɪsəti",
+      "duration": 1.6459583333333334,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ɪ",
+          "start": 0.03,
+          "end": 0.3
+        },
+        {
+          "text": "ˌ",
+          "start": 0.3,
+          "end": 0.3
+        },
+        {
+          "text": "l",
+          "start": 0.3,
+          "end": 0.34
+        },
+        {
+          "text": "e",
+          "start": 0.34,
+          "end": 0.44
+        },
+        {
+          "text": "k",
+          "start": 0.44,
+          "end": 0.54
+        },
+        {
+          "text": "ˈ",
+          "start": 0.54,
+          "end": 0.54
+        },
+        {
+          "text": "t",
+          "start": 0.54,
+          "end": 0.58
+        },
+        {
+          "text": "r",
+          "start": 0.58,
+          "end": 0.64
+        },
+        {
+          "text": "ɪ",
+          "start": 0.64,
+          "end": 0.74
+        },
+        {
+          "text": "s",
+          "start": 0.74,
+          "end": 0.84
+        },
+        {
+          "text": "ə",
+          "start": 0.84,
+          "end": 0.94
+        },
+        {
+          "text": "t",
+          "start": 0.94,
+          "end": 1.02
+        },
+        {
+          "text": "i",
+          "start": 1.02,
+          "end": 1.4
+        }
+      ]
+    },
+    {
+      "wordId": "word_solar",
+      "audioId": "word_solar",
+      "audioSha1": "20c5bb1b4b5aa73ea453750712d8d4ae32ea2392",
+      "ipa": "ˈsəʊlə",
+      "duration": 1.0573333333333332,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "s",
+          "start": 0.03,
+          "end": 0.1393
+        },
+        {
+          "text": "əʊ",
+          "start": 0.1393,
+          "end": 0.54
+        },
+        {
+          "text": "l",
+          "start": 0.54,
+          "end": 0.6208
+        },
+        {
+          "text": "ə",
+          "start": 0.6208,
+          "end": 0.81
+        }
+      ]
+    },
+    {
+      "wordId": "word_type",
+      "audioId": "word_type",
+      "audioSha1": "4cc37bd404590f25191f05cc7a7f7151f75cb9e1",
+      "ipa": "taɪp",
+      "duration": 0.96,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "t",
+          "start": 0.03,
+          "end": 0.28
+        },
+        {
+          "text": "aɪ",
+          "start": 0.28,
+          "end": 0.56
+        },
+        {
+          "text": "p",
+          "start": 0.56,
+          "end": 0.68
+        }
+      ]
+    },
+    {
+      "wordId": "word_energy",
+      "audioId": "word_energy",
+      "audioSha1": "16f823fb21fcca44e2e0e8af8c00d1039c3a08bd",
+      "ipa": "ˈenədʒi",
+      "duration": 1.3013333333333332,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "e",
+          "start": 0.05,
+          "end": 0.32
+        },
+        {
+          "text": "n",
+          "start": 0.32,
+          "end": 0.36
+        },
+        {
+          "text": "ə",
+          "start": 0.36,
+          "end": 0.5
+        },
+        {
+          "text": "dʒ",
+          "start": 0.5,
+          "end": 0.6
+        },
+        {
+          "text": "i",
+          "start": 0.6,
+          "end": 0.87
+        }
+      ]
+    },
+    {
+      "wordId": "word_light",
+      "audioId": "word_light",
+      "audioSha1": "348de84e9dffbe4298d24f9d33f77000a8c2b3b5",
+      "ipa": "laɪt",
+      "duration": 1.0272916666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "l",
+          "start": 0.03,
+          "end": 0.3
+        },
+        {
+          "text": "aɪ",
+          "start": 0.3,
+          "end": 0.62
+        },
+        {
+          "text": "t",
+          "start": 0.62,
+          "end": 0.78
+        }
+      ]
+    },
+    {
+      "wordId": "word_source",
+      "audioId": "word_source",
+      "audioSha1": "f496975234f082789f724122df77c1b93a41c788",
+      "ipa": "sɔːs",
+      "duration": 1.0346666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "s",
+          "start": 0.05,
+          "end": 0.1606
+        },
+        {
+          "text": "ɔː",
+          "start": 0.1606,
+          "end": 0.64
+        },
+        {
+          "text": "s",
+          "start": 0.64,
+          "end": 0.78
+        }
+      ]
+    },
+    {
+      "wordId": "word_heat",
+      "audioId": "word_heat",
+      "audioSha1": "a17cd221aee94cea73389b210d0b3b823f36e95c",
+      "ipa": "hiːt",
+      "duration": 0.9386666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "h",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "iː",
+          "start": 0.26,
+          "end": 0.5
+        },
+        {
+          "text": "t",
+          "start": 0.5,
+          "end": 0.68
+        }
+      ]
+    },
+    {
+      "wordId": "word_cool",
+      "audioId": "word_cool",
+      "audioSha1": "a0eb439a8850eb94f34f28be083caf09131210a5",
+      "ipa": "kuːl",
+      "duration": 1.342,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "k",
+          "start": 0.04,
+          "end": 0.1263
+        },
+        {
+          "text": "uː",
+          "start": 0.1263,
+          "end": 0.5
+        },
+        {
+          "text": "l",
+          "start": 0.5,
+          "end": 1.1
+        }
+      ]
+    },
+    {
+      "wordId": "word_resource",
+      "audioId": "word_resource",
+      "audioSha1": "dafb8654de012691d5ba92a43a6cb3310d73209f",
+      "ipa": "rɪˈzɔːs",
+      "duration": 1.472,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "r",
+          "start": 0.03,
+          "end": 0.22
+        },
+        {
+          "text": "ɪ",
+          "start": 0.22,
+          "end": 0.34
+        },
+        {
+          "text": "ˈ",
+          "start": 0.34,
+          "end": 0.34
+        },
+        {
+          "text": "z",
+          "start": 0.34,
+          "end": 0.4176
+        },
+        {
+          "text": "ɔː",
+          "start": 0.4176,
+          "end": 0.78
+        },
+        {
+          "text": "s",
+          "start": 0.78,
+          "end": 0.95
+        }
+      ]
+    },
+    {
+      "wordId": "word_run_out",
+      "audioId": "word_run_out",
+      "audioSha1": "e3de74ec31f4648405dccab104d3b5f9aa03dbb3",
+      "ipa": "ˌrʌn ˈaʊt",
+      "duration": 1.274625,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˌ",
+          "start": 0.02,
+          "end": 0.02
+        },
+        {
+          "text": "r",
+          "start": 0.02,
+          "end": 0.26
+        },
+        {
+          "text": "ʌ",
+          "start": 0.26,
+          "end": 0.4
+        },
+        {
+          "text": "n",
+          "start": 0.4,
+          "end": 0.54
+        },
+        {
+          "text": " ",
+          "start": 0.54,
+          "end": 0.54
+        },
+        {
+          "text": "ˈ",
+          "start": 0.54,
+          "end": 0.54
+        },
+        {
+          "text": "aʊ",
+          "start": 0.54,
+          "end": 0.8
+        },
+        {
+          "text": "t",
+          "start": 0.8,
+          "end": 1.03
+        }
+      ]
+    },
+    {
+      "wordId": "word_few",
+      "audioId": "word_few",
+      "audioSha1": "4522e33939b9fb9b800c32f512858c6b510ca850",
+      "ipa": "fjuː",
+      "duration": 0.9046666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "f",
+          "start": 0.04,
+          "end": 0.1379
+        },
+        {
+          "text": "j",
+          "start": 0.1379,
+          "end": 0.2358
+        },
+        {
+          "text": "uː",
+          "start": 0.2358,
+          "end": 0.66
+        }
+      ]
+    },
+    {
+      "wordId": "word_change",
+      "audioId": "word_change",
+      "audioSha1": "d13e5381521418a441b5af0a35733096e931fea4",
+      "ipa": "tʃeɪndʒ",
+      "duration": 1.154,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "tʃ",
+          "start": 0.03,
+          "end": 0.32
+        },
+        {
+          "text": "eɪ",
+          "start": 0.32,
+          "end": 0.58
+        },
+        {
+          "text": "n",
+          "start": 0.58,
+          "end": 0.7
+        },
+        {
+          "text": "dʒ",
+          "start": 0.7,
+          "end": 0.91
+        }
+      ]
+    },
+    {
+      "wordId": "word_quick",
+      "audioId": "word_quick",
+      "audioSha1": "220e23124cd49d96a4a62d2705c3957c96762972",
+      "ipa": "kwɪk",
+      "duration": 0.896,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "k",
+          "start": 0.03,
+          "end": 0.24
+        },
+        {
+          "text": "w",
+          "start": 0.24,
+          "end": 0.28
+        },
+        {
+          "text": "ɪ",
+          "start": 0.28,
+          "end": 0.5
+        },
+        {
+          "text": "k",
+          "start": 0.5,
+          "end": 0.64
+        }
+      ]
+    },
+    {
+      "wordId": "word_shower",
+      "audioId": "word_shower",
+      "audioSha1": "0ed5549068294d02754dedf1a7f85158181031f5",
+      "ipa": "ˈʃaʊə",
+      "duration": 1.0146666666666666,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "ʃ",
+          "start": 0.05,
+          "end": 0.1407
+        },
+        {
+          "text": "aʊ",
+          "start": 0.1407,
+          "end": 0.5338
+        },
+        {
+          "text": "ə",
+          "start": 0.5338,
+          "end": 0.77
+        }
+      ]
+    },
+    {
+      "wordId": "word_unplug",
+      "audioId": "word_unplug",
+      "audioSha1": "29c1fdf70beb28b907ae4d79b76386f4d1714f05",
+      "ipa": "ʌnˈplʌɡ",
+      "duration": 1.3599583333333334,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ʌ",
+          "start": 0.05,
+          "end": 0.28
+        },
+        {
+          "text": "n",
+          "start": 0.28,
+          "end": 0.4
+        },
+        {
+          "text": "ˈ",
+          "start": 0.4,
+          "end": 0.4
+        },
+        {
+          "text": "p",
+          "start": 0.4,
+          "end": 0.5
+        },
+        {
+          "text": "l",
+          "start": 0.5,
+          "end": 0.5692
+        },
+        {
+          "text": "ʌ",
+          "start": 0.5692,
+          "end": 0.8
+        },
+        {
+          "text": "ɡ",
+          "start": 0.8,
+          "end": 1.12
+        }
+      ]
+    },
+    {
+      "wordId": "word_difference",
+      "audioId": "word_difference",
+      "audioSha1": "a51c54f54eac0adea16c14e7561f79e6cdfd6acd",
+      "ipa": "ˈdɪfərəns",
+      "duration": 1.472,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "d",
+          "start": 0.03,
+          "end": 0.24
+        },
+        {
+          "text": "ɪ",
+          "start": 0.24,
+          "end": 0.36
+        },
+        {
+          "text": "f",
+          "start": 0.36,
+          "end": 0.42
+        },
+        {
+          "text": "ə",
+          "start": 0.42,
+          "end": 0.48
+        },
+        {
+          "text": "r",
+          "start": 0.48,
+          "end": 0.55
+        },
+        {
+          "text": "ə",
+          "start": 0.55,
+          "end": 0.62
+        },
+        {
+          "text": "n",
+          "start": 0.62,
+          "end": 0.72
+        },
+        {
+          "text": "s",
+          "start": 0.72,
+          "end": 0.96
+        }
+      ]
+    },
+    {
+      "wordId": "word_reduce",
+      "audioId": "word_reduce",
+      "audioSha1": "896c7c349cb963e7b5b3ef16ae02ab83110cd01a",
+      "ipa": "rɪˈdjuːs",
+      "duration": 1.306,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "r",
+          "start": 0.05,
+          "end": 0.1743
+        },
+        {
+          "text": "ɪ",
+          "start": 0.1743,
+          "end": 0.34
+        },
+        {
+          "text": "ˈ",
+          "start": 0.34,
+          "end": 0.34
+        },
+        {
+          "text": "d",
+          "start": 0.34,
+          "end": 0.43
+        },
+        {
+          "text": "j",
+          "start": 0.43,
+          "end": 0.52
+        },
+        {
+          "text": "uː",
+          "start": 0.52,
+          "end": 0.74
+        },
+        {
+          "text": "s",
+          "start": 0.74,
+          "end": 1.06
+        }
+      ]
+    },
+    {
+      "wordId": "word_air_conditioner",
+      "audioId": "word_air_conditioner",
+      "audioSha1": "f65676e2e73ff3f07b719e7a9b58ed34e0306bf9",
+      "ipa": "ˈeə kənˌdɪʃənə",
+      "duration": 1.8366666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "eə",
+          "start": 0.03,
+          "end": 0.54
+        },
+        {
+          "text": " ",
+          "start": 0.54,
+          "end": 0.54
+        },
+        {
+          "text": "k",
+          "start": 0.54,
+          "end": 0.6
+        },
+        {
+          "text": "ə",
+          "start": 0.6,
+          "end": 0.7
+        },
+        {
+          "text": "n",
+          "start": 0.7,
+          "end": 0.78
+        },
+        {
+          "text": "ˌ",
+          "start": 0.78,
+          "end": 0.78
+        },
+        {
+          "text": "d",
+          "start": 0.78,
+          "end": 0.84
+        },
+        {
+          "text": "ɪ",
+          "start": 0.84,
+          "end": 0.96
+        },
+        {
+          "text": "ʃ",
+          "start": 0.96,
+          "end": 1.06
+        },
+        {
+          "text": "ə",
+          "start": 1.06,
+          "end": 1.14
+        },
+        {
+          "text": "n",
+          "start": 1.14,
+          "end": 1.2
+        },
+        {
+          "text": "ə",
+          "start": 1.2,
+          "end": 1.59
+        }
+      ]
+    },
+    {
+      "wordId": "word_drive",
+      "audioId": "word_drive",
+      "audioSha1": "f8a41b11c9df8f00fbf8230bd9f26c846ef78ffb",
+      "ipa": "draɪv",
+      "duration": 1.0973333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "d",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "r",
+          "start": 0.26,
+          "end": 0.34
+        },
+        {
+          "text": "aɪ",
+          "start": 0.34,
+          "end": 0.72
+        },
+        {
+          "text": "v",
+          "start": 0.72,
+          "end": 0.85
+        }
+      ]
+    },
+    {
+      "wordId": "word_reuse",
+      "audioId": "word_reuse",
+      "audioSha1": "89f4054c174728e11c0ee30e9e3c2be2da3fcc4a",
+      "ipa": "ˌriːˈjuːz",
+      "duration": 1.8853333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˌ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "r",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "iː",
+          "start": 0.26,
+          "end": 0.44
+        },
+        {
+          "text": "ˈ",
+          "start": 0.44,
+          "end": 0.44
+        },
+        {
+          "text": "j",
+          "start": 0.44,
+          "end": 0.52
+        },
+        {
+          "text": "uː",
+          "start": 0.52,
+          "end": 0.84
+        },
+        {
+          "text": "z",
+          "start": 0.84,
+          "end": 1.64
+        }
+      ]
+    },
+    {
+      "wordId": "word_own",
+      "audioId": "word_own",
+      "audioSha1": "00636d4648307047e22b330bca4aa1a3e68c92c1",
+      "ipa": "əʊn",
+      "duration": 0.9933333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "əʊ",
+          "start": 0.05,
+          "end": 0.5
+        },
+        {
+          "text": "n",
+          "start": 0.5,
+          "end": 0.75
+        }
+      ]
+    },
+    {
+      "wordId": "word_market",
+      "audioId": "word_market",
+      "audioSha1": "dd2f6a95462b3bdab0e1f3f21ca0476333cc7489",
+      "ipa": "ˈmɑːkɪt",
+      "duration": 1.164,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "m",
+          "start": 0.03,
+          "end": 0.28
+        },
+        {
+          "text": "ɑː",
+          "start": 0.28,
+          "end": 0.5
+        },
+        {
+          "text": "k",
+          "start": 0.5,
+          "end": 0.58
+        },
+        {
+          "text": "ɪ",
+          "start": 0.58,
+          "end": 0.8
+        },
+        {
+          "text": "t",
+          "start": 0.8,
+          "end": 0.92
+        }
+      ]
+    },
+    {
+      "wordId": "word_top",
+      "audioId": "word_top",
+      "audioSha1": "cf033fa3ee43bec1a23504c350e0334cd393f9ee",
+      "ipa": "tɒp",
+      "duration": 1.096,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "t",
+          "start": 0.03,
+          "end": 0.28
+        },
+        {
+          "text": "ɒ",
+          "start": 0.28,
+          "end": 0.5
+        },
+        {
+          "text": "p",
+          "start": 0.5,
+          "end": 0.85
+        }
+      ]
+    },
+    {
+      "wordId": "word_bottle",
+      "audioId": "word_bottle",
+      "audioSha1": "f5859088c6f62ebe5172bc401fc61e05f8575f4d",
+      "ipa": "ˈbɒtəl",
+      "duration": 1.1946666666666668,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.05,
+          "end": 0.05
+        },
+        {
+          "text": "b",
+          "start": 0.05,
+          "end": 0.22
+        },
+        {
+          "text": "ɒ",
+          "start": 0.22,
+          "end": 0.38
+        },
+        {
+          "text": "t",
+          "start": 0.38,
+          "end": 0.4867
+        },
+        {
+          "text": "ə",
+          "start": 0.4867,
+          "end": 0.62
+        },
+        {
+          "text": "l",
+          "start": 0.62,
+          "end": 0.82
+        }
+      ]
+    },
+    {
+      "wordId": "word_dirty",
+      "audioId": "word_dirty",
+      "audioSha1": "e50ac2be4e7fb8c00fbd3dc861e38c4f49809abc",
+      "ipa": "ˈdɜːti",
+      "duration": 1.3226666666666667,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "d",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "ɜː",
+          "start": 0.26,
+          "end": 0.5
+        },
+        {
+          "text": "t",
+          "start": 0.5,
+          "end": 0.6
+        },
+        {
+          "text": "i",
+          "start": 0.6,
+          "end": 0.88
+        }
+      ]
+    },
+    {
+      "wordId": "word_side",
+      "audioId": "word_side",
+      "audioSha1": "cd0d60a8260340c543e1f1bc70ed2ae6df18aad7",
+      "ipa": "saɪd",
+      "duration": 1.1093333333333333,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-waveform-boundaries",
+      "tokens": [
+        {
+          "text": "s",
+          "start": 0.05,
+          "end": 0.3
+        },
+        {
+          "text": "aɪ",
+          "start": 0.3,
+          "end": 0.62
+        },
+        {
+          "text": "d",
+          "start": 0.62,
+          "end": 0.75
+        }
+      ]
+    },
+    {
+      "wordId": "word_useful",
+      "audioId": "word_useful",
+      "audioSha1": "d228f93be1f7b5213299aeff9039cf91c9f9e93b",
+      "ipa": "ˈjuːsfəl",
+      "duration": 1.154,
+      "status": "aligned",
+      "reviewStatus": "pending",
+      "reviewer": null,
+      "method": "ctc-anchors-with-generator-interpolation",
+      "tokens": [
+        {
+          "text": "ˈ",
+          "start": 0.03,
+          "end": 0.03
+        },
+        {
+          "text": "j",
+          "start": 0.03,
+          "end": 0.26
+        },
+        {
+          "text": "uː",
+          "start": 0.26,
+          "end": 0.44
+        },
+        {
+          "text": "s",
+          "start": 0.44,
+          "end": 0.56
+        },
+        {
+          "text": "f",
+          "start": 0.56,
+          "end": 0.6286
+        },
+        {
+          "text": "ə",
+          "start": 0.6286,
+          "end": 0.72
+        },
+        {
+          "text": "l",
+          "start": 0.72,
+          "end": 0.91
+        }
       ]
     }
   ],

@@ -1,2 +1,15 @@
-.audio-button__control{background:#16776f;color:#fff;border-radius:22rpx;font-size:30rpx;min-height:88rpx;margin:20rpx 0 8rpx}.audio-button__control::after{border:0}.audio-button__control.disabled{background:#e7eae4;color:#62736b}.active{background:#193c3a}.hint{color:#64796f;font-size:25rpx;text-align:center;padding:8rpx}.compact .audio-button__control{font-size:26rpx;margin:12rpx 0 0;min-width:96rpx}.compact .hint{display:none}
-.audio-button__control.downloading{background:#d7eee7;color:#16776f;animation:audio-pulse 1.3s ease-in-out infinite}@keyframes audio-pulse{0%,100%{opacity:1}50%{opacity:.65}}
+.audio-button{margin:24rpx 0 16rpx}
+.audio-button__control{display:flex;align-items:center;justify-content:center;width:100%;box-sizing:border-box;background:#16776f;color:#fff;border-radius:22rpx;font-size:30rpx;font-weight:600;line-height:1.5;min-height:96rpx;padding:22rpx 24rpx;margin:0}
+.audio-button__control::after,.audio-button__diagnostic::after{border:0}
+.audio-button__control.disabled{background:#e7eae4;color:#62736b}
+.audio-button__control.active{background:#193c3a}
+.hint{color:#64796f;font-size:26rpx;line-height:1.6;text-align:center;padding:12rpx 0 0}
+.has-error{background:#faf4ec;border:2rpx solid #eee0cf;border-radius:24rpx;padding:20rpx 20rpx 0}
+.audio-button__notice{color:#805b3d;font-size:26rpx;line-height:1.6;text-align:center;margin-bottom:16rpx}
+.audio-button__control.retry{background:#ddf0e9;color:#193c3a;min-height:88rpx;padding:18rpx 24rpx}
+.audio-button__diagnostic{display:flex;align-items:center;justify-content:center;background:transparent;color:#54716d;border:0;border-radius:0;box-shadow:none;width:100%;min-height:88rpx;line-height:1.5;font-size:26rpx;font-weight:400;padding:12rpx 0;margin:0;text-align:center}
+.compact{margin:12rpx 0 0}
+.compact .audio-button__control{font-size:26rpx;min-width:96rpx;padding:16rpx 12rpx;min-height:88rpx}
+.compact.has-error{padding:0;border:0;background:transparent}
+.compact .hint,.compact .audio-button__diagnostic{display:none}
+.audio-button__control.downloading{background:#d7eee7;color:#16776f}

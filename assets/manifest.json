@@ -17,5 +17,69 @@
     "type": "editable vector sources",
     "status": "design-ready",
     "license": "Project-authored; repository licensing not yet selected"
+  },
+  {
+    "id": "unit-1-synthetic-word-audio",
+    "path": "assets/source-audio/piper-vctk-p225/v2-slow/",
+    "source": "Existing authorized audio from local resource repository; per-file provenance, generator and SHA-1 in seed-data/audio-manifest.json",
+    "type": "AI synthesized British whole-word previews (26 MP3 files)",
+    "status": "archived",
+    "reviewStatus": "pending",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "author": "Phonics Planet (AI synthesis); Piper / rhasspy; VCTK: Yamagishi, Veaux, MacDonald",
+    "bytes": 333437,
+    "usage": "Historical Piper previews; current app uses Emma resource:// audio. Original files and prior manifest retained outside the mini program.",
+    "originalPath": "assets/source-audio/piper-vctk-p225/v1/",
+    "conversion": "FFmpeg atempo=0.75; original pitch preserved; MP3 96 kbps; per-file processing metadata in seed-data/audio-manifest.json"
+  },
+  {
+    "id": "flo-local-word-previews",
+    "path": "assets/local-audio/flo-en-gb-115-v1/",
+    "source": "macOS Flo British English system synthesis; parameters in seed-data/voice-standard.json",
+    "type": "Personal local whole-word synthesis previews",
+    "status": "preview",
+    "reviewStatus": "pending",
+    "license": "local-preview-only",
+    "licenseUrl": "https://www.apple.com/legal/sla/docs/macOSSequoia.pdf",
+    "distributionAllowed": false,
+    "manifest": "assets/local-audio/flo-en-gb-115-v1/manifest.json",
+    "usage": "Personal local audition only. Excluded from mini program and distribution resource repository.",
+    "wordCount": 145,
+    "mp3Bytes": 2833007
+  },
+  {
+    "id": "kokoro-british-word-audition-2026-09-12",
+    "path": "artifacts/voice-audition-kokoro-2026-09-12/",
+    "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "type": "Project-generated whole-word voice audition: bf_emma and bf_isabella",
+    "status": "synthetic-preview",
+    "reviewStatus": "pending",
+    "modelLicense": "Apache-2.0",
+    "runtimeLicense": "MIT",
+    "license": "Project-generated samples; model and runtime license evidence in artifact licenses directory",
+    "manifest": "artifacts/voice-audition-kokoro-2026-09-12/manifest.json",
+    "usage": "User selected A Emma on 2026-09-12; reference files retained. All curriculum words generated and copied to resource repository under the selected standard."
+  },
+  {
+    "id": "emma-resource-word-audio",
+    "path": "/Users/lvzheng/Cursor/resource/audio/words/en-GB/kokoro-emma/",
+    "originalPath": "assets/generated-audio/kokoro-emma-080-v1/wav/",
+    "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "type": "AI generated British whole-word previews",
+    "status": "synthetic-preview",
+    "reviewStatus": "pending",
+    "license": "Project-generated audio using Apache-2.0 Kokoro model",
+    "modelLicense": "Apache-2.0",
+    "runtimeLicense": "MIT",
+    "licenseUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "wordCount": 145,
+    "bytes": 2356317,
+    "manifest": "seed-data/audio-manifest.json",
+    "usage": "User selected A Emma, bf_emma speed 0.8. All six units; resource:// remote delivery; publication push and native verification are separate.",
+    "versions": {
+      "v1": 136,
+      "v2-aligned": 9
+    }
   }
 ]
