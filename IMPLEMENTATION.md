@@ -5,6 +5,7 @@
 ## 模块
 - AudioBundleService：完整音频包下载、校验、解压与持久安装；失败保留原安装，已安装文件不参与 FIFO。ResourceService 只读取本地安装和旧缓存，学习页面不再触发单词下载。
 - ContentService：读取生成数据、教材列表、单元/词/音素检索。页面只通过服务读取内容。
+- SearchService：通过 ContentService 合并全词库与教材语境，按 Word ID 去重，提供排序、纯文本匹配高亮和保守拼写建议。每次查询读取当前自定义词；页面仅为可见结果补齐 IPA 与详情路由。搜索记录由 StorageService 独立保存于 `phonics-planet:search:v1`，与收藏、复习及音频缓存分离。
 - StorageService：带版本命名空间的收藏存取，去重和损坏数据回退；存储写入失败交给页面提示。
 - AudioService：唯一 InnerAudioContext 所有者；顺序播放、快速切换取消、结束/错误/超时清理；隐藏和卸载停止。只播放审核完成的资源，不将拆音串播放描述为自然连读。
 - audio-button：统一调用服务的展示组件。

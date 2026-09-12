@@ -13,6 +13,40 @@ function harness(){
   }
   return {load,db,navigations,toasts};
 }
+test('global search separates suggestions from submission, preserves return state and forwards context',()=>{
+ const h=harness(),p=h.load('search');
+ p.input({detail:{value:'运行'}});assert.equal(p.data.submitted,false);assert.ok(p.data.results.length>0);
+ const storage=require('../miniprogram/services/storage-service');assert.deepEqual(storage.searchHistory(),[]);
+ p.submit();assert.equal(p.data.submitted,true);assert.deepEqual(storage.searchHistory(),['运行']);
+ p.openWord({currentTarget:{dataset:{id:'word_run'}}});
+ assert.match(h.navigations[0],/word-detail\/index\?id=word_run&curriculumId=pep_2026_g6_s1&unitId=unit_6/);
+ p.onShow();assert.equal(p.data.query,'运行');assert.equal(p.data.submitted,true);
+ p.clearInput();assert.equal(p.data.results.length,0);assert.equal(p.data.submitted,false);
+ p.clearHistory();assert.deepEqual(storage.searchHistory(),[]);
+});
+test('search returns six suggestions, all submitted results, typo candidates and a prefilled custom-word form',()=>{
+ const h=harness(),p=h.load('search');p.input({detail:{value:'a'}});
+ assert.equal(p.data.results.length,6);assert.ok(p.data.total>6);
+ p.submit();assert.equal(p.data.results.length,p.data.total);
+ p.input({detail:{value:'thousnad'}});assert.equal(p.data.corrections[0].word,'thousand');
+ p.chooseQuery({currentTarget:{dataset:{query:'thousand'}}});assert.equal(p.data.results[0].word,'thousand');
+ p.input({detail:{value:'star fish'}});p.addWord();
+ assert.match(h.navigations[0],/my-words\/index\?add=1&word=star%20fish/);
+ const form=h.load('my-words',{add:'1',word:'star%20fish'});assert.equal(form.data.adding,true);assert.equal(form.data.newWord,'star fish');
+});
+test('encoded custom-word routes resolve the shared Word and Chinese form meanings decode once',()=>{
+ const h=harness();const storage=require('../miniprogram/services/storage-service');
+ const word=storage.addWord('star fish','海星');
+ const page=h.load('word-detail',{id:encodeURIComponent(word.id)});
+ assert.equal(page.data.item && page.data.item.id,word.id);page.onUnload();
+ const form=h.load('my-words',{add:'1',meaning:'%E6%B5%B7%E6%98%9F'});assert.equal(form.data.newMeaning,'海星');
+ assert.equal(h.load('my-words',{add:'1',meaning:'100%'}).data.newMeaning,'100%');
+});
+test('history write failure does not block search results or word navigation',()=>{
+ const h=harness(),p=h.load('search');wx.setStorageSync=()=>{throw Error('quota');};
+ p.input({detail:{value:'was'}});p.submit();assert.equal(p.data.results[0].word,'was');
+ p.openWord({currentTarget:{dataset:{id:'word_was'}}});assert.match(h.navigations[0],/word_was/);assert.ok(h.toasts.length>0);
+});
 test('word page keeps unit meaning, records visit and handles unknown word',()=>{
   const h=harness();const p=h.load('word-detail',{id:'word_run',curriculumId:'pep_2026_g6_s1',unitId:'unit_6'});
   assert.equal(p.data.item.contextMeaning,'使运行');

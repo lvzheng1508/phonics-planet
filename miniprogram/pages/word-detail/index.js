@@ -1,11 +1,12 @@
 const content = require('../../services/content-service');
 const storage = require('../../services/storage-service');
 const audio = require('../../services/audio-service');
-const { route, toast } = require('../../utils/view');
+const { route, toast, decodeRouteValue } = require('../../utils/view');
 const { progressTokens } = require('../../utils/phonetic-view');
 Page({
  data: { item: null, favorite: false, audioIds: [], sequence: [], activeIndex: -1, related: [], ipaTokens: [], playing: false, selectedNote: '' },
  onLoad(options) {
+   options = Object.fromEntries(Object.entries(options).map(([key, value]) => [key, decodeRouteValue(value)]));
    const item = content.detail(options.id, options); if (!item) return;
    item.sounds = item.sounds.map(s => ({ ...s, url: route('phoneme-detail', { id: s.id }) }));
    this.setData({ item, ipaTokens: progressTokens(item.ipaTokens), audioIds: item.audioId ? [item.audioId] : [], sequence: item.sequence });

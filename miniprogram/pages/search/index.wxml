@@ -1,0 +1,41 @@
+<view class="page search-page">
+  <view class="eyebrow">FIND A WORD</view>
+  <view class="title">从好奇的词开始</view>
+  <view class="subtitle">全部教材与自定义词，离线也能找。</view>
+  <view class="search-bar">
+    <view class="search-icon" aria-hidden="true"></view>
+    <input class="query-input" placeholder="搜索单词或中文释义" value="{{query}}" bindinput="input" bindconfirm="submit" confirm-type="search" maxlength="80" focus="{{focused}}" aria-label="搜索单词或中文释义"/>
+    <button wx:if="{{query}}" class="clear-input" bindtap="clearInput" aria-label="清空输入">×</button>
+    <button class="submit-search" bindtap="submit">搜索</button>
+  </view>
+  <block wx:if="{{!hasQuery}}">
+    <view wx:if="{{history.length}}" class="history-section">
+      <view class="row"><view class="section compact">最近搜索</view><button class="text-action" bindtap="clearHistory">清空记录</button></view>
+      <view class="chips"><button wx:for="{{history}}" wx:key="*this" class="query-chip" data-query="{{item}}" bindtap="chooseQuery">{{item}}</button></view>
+      <view class="search-note">搜索记录只保存在这台设备上。</view>
+    </view>
+    <view class="search-guide"><view class="guide-symbol">Aa <text>/ə/</text></view><view class="card-title">记得单词，或只记得意思？</view><view class="muted">输入英文、中文或短语，都可以试着找找。</view><view wx:if="{{example}}" class="example">例如：{{example}}</view></view>
+  </block>
+  <block wx:else>
+    <view wx:if="{{total}}" class="row results-heading"><view class="card-title">{{submitted ? '搜索结果' : '猜你要找'}}</view><text class="muted">共 {{total}} 个词</text></view>
+    <view wx:if="{{hasPendingIpa}}" class="search-note ipa-note">开发版音标 · 待教学核对</view>
+    <view wx:if="{{total}}" class="result-list">
+      <view wx:for="{{results}}" wx:key="id" class="result-card">
+        <view class="result-main" role="button" aria-label="查看 {{item.word}}" data-id="{{item.id}}" bindtap="openWord">
+          <view class="flex"><view class="result-word"><text wx:for="{{item.wordParts}}" wx:for-item="part" wx:key="key" class="{{part.matched ? 'match' : ''}}">{{part.text}}</text></view>
+            <view wx:if="{{item.displayIpa}}" class="list-ipa">/{{item.displayIpa}}/</view>
+            <view class="result-meaning"><text wx:for="{{item.meaningParts}}" wx:for-item="part" wx:key="key" class="{{part.matched ? 'match' : ''}}">{{part.text}}</text></view>
+          </view><text class="result-arrow">↗</text>
+        </view>
+        <view class="sources"><text wx:if="{{item.custom}}" class="custom-source">自定义词</text><button wx:for="{{item.sources}}" wx:for-item="source" wx:key="key" class="source-link" data-id="{{item.id}}" data-key="{{source.key}}" bindtap="openSource">{{source.label}} ›</button></view>
+      </view>
+    </view>
+    <button wx:if="{{!submitted && total > results.length}}" class="secondary all-results" bindtap="submit">查看全部 {{total}} 个结果 →</button>
+    <view wx:if="{{!total}}" class="no-results">
+      <view class="empty-symbol">Aa?</view><view class="card-title">本地词库暂未收录这个词</view><view class="muted">试试其他拼写或中文释义。</view>
+      <view wx:if="{{corrections.length}}" class="corrections"><view class="card-title">你是否想找……</view><view class="chips"><button wx:for="{{corrections}}" wx:key="id" class="query-chip correction" data-query="{{item.word}}" bindtap="chooseQuery">{{item.word}} ↗</button></view></view>
+      <button class="secondary add-word" bindtap="addWord">＋ 添加自定义词</button>
+      <view class="search-note">先记下单词和释义，发音内容待补充。</view>
+    </view>
+  </block>
+</view>

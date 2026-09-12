@@ -1,5 +1,7 @@
 const KEY = 'phonics-planet:user:v2';
 const LEGACY = 'phonics-planet:collections:v1';
+const SEARCH_KEY = 'phonics-planet:search:v1';
+const {normalizeQuery} = require('../utils/search-text');
 const data = require('../data/generated');
 const strings = values => Array.isArray(values) ? [...new Set(values.filter(x => typeof x === 'string' && x))] : [];
 const object = value => value && typeof value === 'object' && !Array.isArray(value) ? value : {};
@@ -35,7 +37,18 @@ function createStorageService(api, { words = data.words, now = () => new Date() 
     return state.days[key];
   }
   function requireWord(id, state) { if (!words.concat(state.customWords).some(w => w.id === id)) throw Error('没有找到这个单词'); }
+  function searchHistory(strict = false) {
+    const value = read(SEARCH_KEY, strict);
+    return strings((Array.isArray(value) ? value : []).filter(x => typeof x === 'string' && x.length <= 80).map(normalizeQuery)).slice(0, 8);
+  }
   return {
+    searchHistory,
+    rememberSearch(value) {
+      const query = normalizeQuery(value).slice(0, 80); if (!query) return;
+      const history = searchHistory(true);
+      api.setStorageSync(SEARCH_KEY, [query].concat(history.filter(x => x !== query)).slice(0, 8));
+    },
+    clearSearchHistory() { api.setStorageSync(SEARCH_KEY, []); },
     snapshot, todayKey: () => dateKey(now()), favorites: () => snapshot().favorites,
     toggle(id) {
       if (typeof id !== 'string' || !id) throw Error('无效单词');
@@ -75,5 +88,5 @@ function createStorageService(api, { words = data.words, now = () => new Date() 
 }
 const service = () => createStorageService(wx);
 const exportsObject = { createStorageService, dateKey };
-for (const name of ['snapshot', 'todayKey', 'favorites', 'toggle', 'addWord', 'setSelection', 'recordVisit', 'review', 'recordAnswer']) exportsObject[name] = (...args) => service()[name](...args);
+for (const name of ['snapshot', 'todayKey', 'favorites', 'toggle', 'addWord', 'setSelection', 'recordVisit', 'review', 'recordAnswer', 'searchHistory', 'rememberSearch', 'clearSearchHistory']) exportsObject[name] = (...args) => service()[name](...args);
 module.exports = exportsObject;

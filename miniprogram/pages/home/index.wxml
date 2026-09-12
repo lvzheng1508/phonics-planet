@@ -1,5 +1,6 @@
 <view class="page home">
   <view class="row brand"><view><view class="eyebrow">PHONICS PLANET</view><view class="brand-name">拼读星球</view></view><navigator class="circle-link" url="/pages/my-words/index" aria-label="我的单词">☆</navigator></view>
+  <navigator class="global-search" url="/pages/search/index"><view class="search-symbol" aria-hidden="true"></view><text class="flex">搜索单词或中文释义</text><text class="search-entry-arrow">→</text></navigator>
   <view class="hero-panel"><image class="hero" src="/assets/images/planet-hero.jpg" mode="aspectFill"/><view class="hero-copy"><view class="hero-title">把声音，<view>连成你的世界。</view></view><view class="hero-note">每天一点，慢慢读懂英语。</view></view></view>
   <view class="today-card"><view class="row"><view><view class="eyebrow">TODAY'S DISCOVERY</view><view class="section compact">今天，从一个词开始</view></view><view class="sun">✦</view></view>
     <view class="stats"><view><text class="number">{{summary.visitedCount || 0}}</text><view>浏览单词</view></view><view><text class="number">{{summary.reviewedCount || 0}}</text><view>完成复习</view></view><view><text class="number">{{summary.dueCount || 0}}</text><view>待复习</view></view></view>
