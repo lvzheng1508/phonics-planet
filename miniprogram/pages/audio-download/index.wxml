@@ -6,16 +6,18 @@
     <view class="audio-symbol">{{ready ? '✓' : '↓'}}</view>
     <view class="card-title">{{heading}}</view>
     <view class="bundle-size">{{total}} 个单词 · 音频包 {{size}} MB</view>
-    <view wx:if="{{busy}}" class="progress-wrap">
+    <view wx:if="{{busy && !resetting}}" class="progress-wrap">
       <progress percent="{{progress}}" stroke-width="6" activeColor="#16776F" backgroundColor="#DDF0E9" border-radius="6" />
       <view class="hint">{{status === 'downloading' ? progress + '% · 请保持页面打开' : '下载完成，正在整理声音，请稍候…'}}</view>
     </view>
     <view wx:if="{{error}}" class="download-error">{{error}}</view>
     <button wx:if="{{ready && !busy && !error}}" class="primary" bindtap="done">完成，开始听单词</button>
     <button wx:elif="{{!busy}}" class="primary" bindtap="download" disabled="{{checking}}" loading="{{checking}}">{{checking ? '正在检查本地音频' : status === 'error' ? '重新下载' : '下载全部音频'}}</button>
-    <button wx:if="{{busy}}" class="text-action" bindtap="cancel">取消</button>
+    <button wx:if="{{!busy}}" class="secondary" bindtap="redownload" disabled="{{checking}}">清除并重新下载</button>
+    <button wx:if="{{resetting}}" disabled="true" loading="true">正在清除本地音频</button>
+    <button wx:if="{{busy && !resetting}}" class="text-action" bindtap="cancel">取消</button>
     <button wx:if="{{error}}" class="text-action" bindtap="logs">查看问题详情 ›</button>
   </view>
-  <view class="card muted">音频保存在当前设备。清除小程序数据或更换设备后，需要重新下载。音频更新时，可在这里下载新版本。</view>
+  <view class="card muted">音频保存在当前设备。清除小程序数据或更换设备后，需要重新下载。<view>“清除并重新下载”会先清除本机全部音频文件和音频缓存，再下载完整音频包；收藏和学习记录会保留。下载完成后恢复离线播放。</view></view>
   <view class="footnote">AI 合成试听 · 待发音核对<view>本音频包包含已提供的整词发音，音素录音仍待补充。</view></view>
 </view>
